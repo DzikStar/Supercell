@@ -1,0 +1,14 @@
+Modyfikatory trybów
+
+Tryb Rakietowy:
+https://raw.githubusercontent.com/overwolfmobile/brawl-stars-assets/master/assets/modificators/png/rockets%403x.png
+
+Tryb LifeLeech:
+https://raw.githubusercontent.com/overwolfmobile/brawl-stars-assets/master/assets/modificators/png/life_leech%403x.png
+
+Tryb Laserowy:
+https://raw.githubusercontent.com/overwolfmobile/brawl-stars-assets/master/assets/modificators/png/lasers%403x.png
+
+Tryb Burzy:
+https://raw.githubusercontent.com/overwolfmobile/brawl-stars-assets/82b46e2fdc0df81e15c1a4200b33ae0a76fa214b/assets/modificators/svg/chain_lightning.svg
+
