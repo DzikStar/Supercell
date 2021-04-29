@@ -1,0 +1,16 @@
+18.01.2021
+
+	Autoryzacja Discord
+	https://discord.com/api/oauth2/authorize?response_type=code&scope=identify&client_id=
+
+	Slack Brawl Stars SUPERCELL
+	https://supercellcreators.slack.com/messages/bs_announcements
+
+	Kanały Discord Supercell Creators Academy
+  <!> Do serwera SCA można dołączyć za pomocą specjalnego wygenerowanego linku przez bota z serwera
+	https://discordapp.com/channels/547793312229097478/547818575251898371
+	https://discordapp.com/channels/547793312229097478/547818345161031689
+	https://discordapp.com/channels/547793312229097478/547818606608646175
+	https://discordapp.com/channels/547793312229097478/547951486223777808
+	https://discordapp.com/channels/547793312229097478/547819828984020992
+	https://discord.com/channels/547793312229097478/547850422140796963
