@@ -1,0 +1,12 @@
+DATA:
+
+IP: 52.50.103.4 || stage.brawlstarsgame.com  
+Port: 9339
+
+
+/*
+if we want change on this server we must edit "game.brawlstarsgame.com" IP adress
+for example in app "Hosts GO" which uses VPN as a build-in servers change it
+
+You also can check port status on: https://www.yougetsignal.com/tools/open-ports/
+*/
