@@ -1,0 +1,88 @@
+Strona: store.supercell.com
+Data stanu Datamine: 29.04.2021
+Datamine wykonany przez: @DzikStar#4665
+Datamine z wersji: 1.0.0 i od 9.000 kolumny dla wersji 1.0.3
+
+
+JavaScript:
+ABOUT - 	      https://store.supercell.com/js/about.0515ca7c.js
+ACCOUNT_ERROR - https://store.supercell.com/js/accounterror.5638b4a6.js
+CHECK_OUT -     https://store.supercell.com/js/checkout.e59fb60d.js
+FAILED -        https://store.supercell.com/js/failed.c67f35b4.js
+FOUR_O_FOUR -   https://store.supercell.com/js/fourofour.8ec4b701.js
+HELP -  	      https://store.supercell.com/js/help.0257b153.js
+MAINTENANCE -   https://store.supercell.com/js/maintenance.5e4e8158.js
+PENDING -     	https://store.supercell.com/js/pending.62bc1b11.js
+SUCCESS -      	https://store.supercell.com/js/success.66c0086c.js
+USER - 	      	https://store.supercell.com/js/user.7057fa3e.js
+[!]APP -	      https://store.supercell.com/js/app.558807c9.js
+[!]CHUNK-V -	  https://store.supercell.com/js/chunk-vendors.37171748.js
+
+CSS:
+ABOUT - 	      https://store.supercell.com/css/about.722fdb3b.css
+ACCOUNT_ERROR -	https://store.supercell.com/css/accounterror.6bd3a141.css
+CHECK_OUT -    	https://store.supercell.com/css/checkout.daefcb11.css
+FAILED -      	https://store.supercell.com/css/failed.07faf33d.css
+FOUR_O_FOUR -	  https://store.supercell.com/css/fourofour.496cd53e.css
+HELP -   	      https://store.supercell.com/css/help.0714b5a6.css
+MAINTENANCE -	  https://store.supercell.com/css/maintenance.4241c7ca.css
+PENDING -     	https://store.supercell.com/css/pending.f340b419.css
+SUCCESS -	      https://store.supercell.com/css/success.9981d70a.css
+USER -  	      https://store.supercell.com/css/user.46a72d1e.css
+[!]APP -	      https://store.supercell.com/css/app.82a99711.css
+[!]CHUNK-V -	  https://store.supercell.com/css/chunk-vendors.2615853a.css
+
+
+
+OBRAZY:
+https://store.supercell.com/img/characters-running.aadd44fe.png
+https://store.supercell.com/img/perk-1.533a41c7.png
+https://store.supercell.com/img/appstore.150a9787.png
+https://store.supercell.com/img/archer-queen-gladiator.a51f314f.png
+https://store.supercell.com/img/scid-logo-black.79e0b3c0.svg
+https://store.supercell.com/img/rune-of-elixir.fef40846.jpg
+https://store.supercell.com/img/maintenance.17545462.jpg
+https://store.supercell.com/img/mobile-maintenance.807d9fdc.jpg
+https://store.supercell.com/img/party-warden.ab081c22.png
+https://store.supercell.com/img/pekka-king.ada5914c.png
+https://store.supercell.com/img/super-wall-breaker.2a4c57f1.png
+https://store.supercell.com/img/mobile-checkout-error.703f495e.jpg
+https://store.supercell.com/img/supercell-logo-white.dd1f5e86.svg
+https://store.supercell.com/img/pass.ecb1f2db.jpg
+https://store.supercell.com/img/barbarian-king-gladiator.ecb68b72.png
+https://store.supercell.com/img/store-logo-white.df8cc206.svg
+https://store.supercell.com/img/shareimage.jpg
+https://store.supercell.com/img/checkout-success.e1999447.jpg
+https://store.supercell.com/img/landing-info.a09b425a.jpg
+https://store.supercell.com/img/archer-queen-autumn.8dffba49.png
+https://store.supercell.com/img/shields.03f89a63.png
+https://store.supercell.com/img/clash-of-clans.8aac2ea2.png
+https://store.supercell.com/img/mobile-checkout-success.1c800e3b.jpg
+https://store.supercell.com/img/perk-2.06b1ae02.png
+https://store.supercell.com/img/wall-ring.1b496aee.jpg
+https://store.supercell.com/img/pirate-queen.43db94d6.png
+https://store.supercell.com/img/googleplay.64412106.png
+https://store.supercell.com/img/landing-hero-m.cc581eed.jpg
+https://store.supercell.com/img/store-logo-black.56fd5d94.svg
+https://store.supercell.com/img/supercell_id.8082fbbf.svg
+https://store.supercell.com/img/barbarian-donate.d80d4b1b.png
+https://store.supercell.com/img/checkout-error.72a9f0ee.jpg
+https://store.supercell.com/img/shield.43b7db0a.png
+https://store.supercell.com/img/clockwork-warden.b198c9b1.png
+https://store.supercell.com/img/barbarian-sword.4c96319f.png
+https://store.supercell.com/img/book-of-everything.c958f4eb.jpg
+https://store.supercell.com/img/barbarian-products.b3a38ed1.png
+https://store.supercell.com/img/bundle.020669a9.jpg
+https://store.supercell.com/img/landing-hero.5849fdca.jpg
+https://store.supercell.com/img/character-barbarian-boom.5f53707a.png
+https://store.supercell.com/img/rune-of-gold.ab283fc2.jpg
+https://store.supercell.com/img/safeguard.b695caff.png
+https://store.supercell.com/img/barbarian-confused.2283166b.png
+
+
+Dodatkowe informacje wyciągnięte z kodu źródłowego:
+	- To co teraz widzimi na stronie store.supercell nie jest finalną stroną startową, w przyszłości zobaczymy tam podział na kategorie gier.
+	- Sklep będzie aktualnie rozwijany tylko dla gier takich jak Brawl Stars, Clash Royale, Boom Beach, Hay Day. (3 nowe gry są dopiero w fazie tworzenia więc narazie nie spodziewajmy się ich w store.supercell)
+	- W sklepie store.supercell w przyszłości będzie można zakupywać przedmioty z Kodem Twórcy.
+	- Strona będzie ulegać też trybowi Przerwy Konserwacyjnej.
+	- Produkty na stronie będa na Przecenionych cenach. (najprawdopodobniej chodzi o marżę od AppStore/GooglePlay).
