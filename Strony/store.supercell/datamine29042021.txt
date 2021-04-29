@@ -5,32 +5,32 @@ Datamine z wersji: 1.0.0 i od 9.000 kolumny dla wersji 1.0.3
 
 
 JavaScript:
-ABOUT - 	      https://store.supercell.com/js/about.0515ca7c.js
+ABOUT - 	https://store.supercell.com/js/about.0515ca7c.js
 ACCOUNT_ERROR - https://store.supercell.com/js/accounterror.5638b4a6.js
 CHECK_OUT -     https://store.supercell.com/js/checkout.e59fb60d.js
 FAILED -        https://store.supercell.com/js/failed.c67f35b4.js
 FOUR_O_FOUR -   https://store.supercell.com/js/fourofour.8ec4b701.js
-HELP -  	      https://store.supercell.com/js/help.0257b153.js
+HELP -  	https://store.supercell.com/js/help.0257b153.js
 MAINTENANCE -   https://store.supercell.com/js/maintenance.5e4e8158.js
 PENDING -     	https://store.supercell.com/js/pending.62bc1b11.js
 SUCCESS -      	https://store.supercell.com/js/success.66c0086c.js
 USER - 	      	https://store.supercell.com/js/user.7057fa3e.js
-[!]APP -	      https://store.supercell.com/js/app.558807c9.js
-[!]CHUNK-V -	  https://store.supercell.com/js/chunk-vendors.37171748.js
+[!]APP -	https://store.supercell.com/js/app.558807c9.js
+[!]CHUNK-V -	https://store.supercell.com/js/chunk-vendors.37171748.js
 
 CSS:
-ABOUT - 	      https://store.supercell.com/css/about.722fdb3b.css
+ABOUT - 	https://store.supercell.com/css/about.722fdb3b.css
 ACCOUNT_ERROR -	https://store.supercell.com/css/accounterror.6bd3a141.css
 CHECK_OUT -    	https://store.supercell.com/css/checkout.daefcb11.css
 FAILED -      	https://store.supercell.com/css/failed.07faf33d.css
-FOUR_O_FOUR -	  https://store.supercell.com/css/fourofour.496cd53e.css
-HELP -   	      https://store.supercell.com/css/help.0714b5a6.css
-MAINTENANCE -	  https://store.supercell.com/css/maintenance.4241c7ca.css
+FOUR_O_FOUR -	https://store.supercell.com/css/fourofour.496cd53e.css
+HELP -   	https://store.supercell.com/css/help.0714b5a6.css
+MAINTENANCE -	https://store.supercell.com/css/maintenance.4241c7ca.css
 PENDING -     	https://store.supercell.com/css/pending.f340b419.css
-SUCCESS -	      https://store.supercell.com/css/success.9981d70a.css
-USER -  	      https://store.supercell.com/css/user.46a72d1e.css
-[!]APP -	      https://store.supercell.com/css/app.82a99711.css
-[!]CHUNK-V -	  https://store.supercell.com/css/chunk-vendors.2615853a.css
+SUCCESS -	https://store.supercell.com/css/success.9981d70a.css
+USER -  	https://store.supercell.com/css/user.46a72d1e.css
+[!]APP -	https://store.supercell.com/css/app.82a99711.css
+[!]CHUNK-V - 	https://store.supercell.com/css/chunk-vendors.2615853a.css
 
 
 
