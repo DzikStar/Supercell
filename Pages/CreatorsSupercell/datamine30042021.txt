@@ -1,0 +1,162 @@
+WebPage: creators.supercell.com
+Datamine day: 30.04.2021
+Datamine maked by: @DzikStar#4665
+
+
+JavaScript:
+ABOUT - https://creators.supercell.com/js/about.8f8dc26e.js
+AFFILIATE - https://creators.supercell.com/js/affiliate.d85b7c1c.js
+APPLICATION_STATUS - https://creators.supercell.com/js/applicationstatus.100a869d.js
+AUTHENTICATE - https://creators.supercell.com/js/authenticate.47f251a9.js
+BLOCKED - https://creators.supercell.com/js/blocked.ea34dd33.js
+BOOST_PAY_OUTS - https://creators.supercell.com/js/boostpayouts.51375c3c.js
+CALENDAR - https://creators.supercell.com/js/calendar.1dccf7f2.js
+[N]CODE_OF_CONDUCT_WELCOME - https://creators.supercell.com/js/codeofconduct~welcome.bbcae13e.js
+CODE_OF_CONDUCT - https://creators.supercell.com/js/codeofconduct.c0bc1f71.js
+WELCOME - https://creators.supercell.com/js/welcome.8dc7c889.js
+DELETE_USER - creators.supercell.com/js/deleteuser.b27da29f.js
+[N]FEED~FEED_POST - https://creators.supercell.com/js/feed~feedpost.52255a65.js
+FEED - https://creators.supercell.com/js/feed.b304b67f.js
+FEED_POST - https://creators.supercell.com/js/feedpost.4e509a57.js
+FOUR_O_FOUR - https://creators.supercell.com/js/fourofour.456f931e.js
+HELP_APPCENTER - https://creators.supercell.com/js/helpappcenter.f7910f97.js
+HELP_DISCORD - https://creators.supercell.com/js/helpdiscord.203d21af.js
+HELP_SLACK - https://creators.supercell.com/js/helpslack.2092ac79.js
+LOGIN - https://creators.supercell.com/js/login.ea9e405c.js
+LOGIN_ERROR - https://creators.supercell.com/js/loginerror.dce1bae2.js
+MAINTENANCE - https://creators.supercell.com/js/maintenanace.debe8950.js
+[N]MY_STUFF~REGISTER~USER_SETTINGS - https://creators.supercell.com/js/mystuff~register~usersettings.01fb96f6.js
+MY_STUFF - https://creators.supercell.com/js/mystuff.652e4021.js
+REGISTER - https://creators.supercell.com/js/register.1dc59cfa.js
+USER_SETTINGS - https://creators.supercell.com/js/usersettings.a9ea6fbc.js
+PAYPAL_AUTHENTICATE - https://creators.supercell.com/js/paypalauthenticate.9c4c3bb2.js
+PLATFORM_AUTHENTICATE - https://creators.supercell.com/js/platformauthenticate.a5c28932.js
+REGISTER_COMPLETE - https://creators.supercell.com/js/registercomplete.317cecfc.js
+TERMS_OF_SERVICE - https://creators.supercell.com/js/termsofservice.f0441bd4.js
+TIER_UPGRADE_REQUEST - https://creators.supercell.com/js/tierupgraderequest.4d4dcdc1.js
+USER - https://creators.supercell.com/js/user.4c9e4156.js
+
+
+CSS:
+ABOUT - https://creators.supercell.com/css/about.23a44cd7.css
+AFFILIATE - https://creators.supercell.com/css/affiliate.22ab8eae.css
+APPLICATION_STATUS - https://creators.supercell.com/css/applicationstatus.e6f4b75a.css
+AUTHENTICATE - https://creators.supercell.com/css/authenticate.ee1660a7.css
+BLOCKED - https://creators.supercell.com/css/blocked.2ced5563.css
+BOOST_PAY_OUTS - https://creators.supercell.com/css/boostpayouts.c3d7fb1b.css
+CALENDAR - https://creators.supercell.com/css/calendar.844cbca9.css
+[N]CODE_OF_CONDUCT~WELCOME - https://creators.supercell.com/css/codeofconduct~welcome.93079514.css
+CODE_OF_CONDUCT - https://creators.supercell.com/css/codeofconduct.32b8131d.css
+WELCOME - https://creators.supercell.com/css/welcome.e25c6133.css
+DELETE_USER - https://creators.supercell.com/css/deleteuser.463b06d8.css
+[N]FEED~FEED_POST - https://creators.supercell.com/css/feed~feedpost.fd9c1ca8.css
+FEED - https://creators.supercell.com/css/feed.2a1fd8a3.css
+FEED_POST - https://creators.supercell.com/css/feedpost.38f601f3.css
+FOUR_O_FOUR - https://creators.supercell.com/css/fourofour.9d42a8b3.css
+HELP_APPCENTER - https://creators.supercell.com/css/helpappcenter.fae41bb1.css
+HELP_DISCORD - https://creators.supercell.com/css/helpdiscord.1eb31d18.css
+HELP_SLACK - https://creators.supercell.com/css/helpslack.38f87a2a.css
+LOGIN - https://creators.supercell.com/css/login.2ced5563.css
+LOGIN_ERROR - https://creators.supercell.com/css/login.2ced5563.css
+MAINTENANCE - https://creators.supercell.com/css/maintenanace.2ced5563.css
+[N]MY_STUFF~REGISTER~USER_SETTINGS - https://creators.supercell.com/css/mystuff~register~usersettings.89f2f879.css
+MY_STUFF - https://creators.supercell.com/css/mystuff.ddd234cc.css
+REGISTER - https://creators.supercell.com/css/register.d309d9fc.css
+USER_SETTINGS - https://creators.supercell.com/css/usersettings.1d65d013.css
+PAYPAL_AUTHENTICATE - https://creators.supercell.com/css/paypalauthenticate.a963c6a7.css
+PLATFORM_AUTHENTICATE - https://creators.supercell.com/css/platformauthenticate.097ad4f7.css
+REGISTER_COMPLETE - https://creators.supercell.com/css/registercomplete.76b34cbf.css
+TERMS_OF_SERVICE - https://creators.supercell.com/css/termsofservice.efeb2c97.css
+TIER_UPGRADE_REQUEST - https://creators.supercell.com/css/tierupgraderequest.2ced5563.css
+USER - https://creators.supercell.com/css/user.df07434c.css
+
+
+PAGE NAV:
+ABOUT - https://creators.supercell.com/en/about
+AFFILIATE - https://creators.supercell.com/en/affiliate
+APPLICATION_STATUS - https://creators.supercell.com/en/applicationstatus
+AUTHENTICATE - https://creators.supercell.com/authenticate
+BLOCKED - https://creators.supercell.com/en/blocked
+BOOST_PAY_OUTS - https://creators.supercell.com/en/boost-payouts
+CALENDAR - https://creators.supercell.com/en/calendar
+CODE_OF_CONDUCT~WELCOME - https://creators.supercell.com/codeofconduct/welcome
+CODE_OF_CONDUCT - https://creators.supercell.com/en/code-of-conduct
+WELCOME - https://creators.supercell.com/en/welcome
+DELETE_USER - https://creators.supercell.com/en/user/delete
+FEED~FEED_POST - ???
+FEED - https://creators.supercell.com/en/feed
+FEED_POST - ???
+HELP_APPCENTER - https://creators.supercell.com/en/help/appcenter
+HELP_DISCORD - https://creators.supercell.com/en/help/discord
+HELP_SLACK - https://creators.supercell.com/en/help/slack
+LOGIN - https://creators.supercell.com/en/login
+LOGIN_ERROR - https://creators.supercell.com/en/loginerror
+MAINTENANCE - https://creators.supercell.com/en/maintenance
+MY_STUFF~REGISTER~USER_SETTINGS - ???
+MY_STUFF - https://creators.supercell.com/en/my-stuff
+REGISTER - https://creators.supercell.com/en/register
+USER_SETTINGS - https://creators.supercell.com/en/user/settings
+PAYPAL_AUTHENTICATE - https://creators.supercell.com/paypalauthenticate
+PLATFORM_AUTHENTICATE - https://creators.supercell.com/platformauthenticate
+REGISTER_COMPLETE - https://creators.supercell.com/en/register-complete
+TERMS_OF_SERVICE - https://creators.supercell.com/en/terms-of-service
+TIER_UPGRADE_REQUEST - https://creators.supercell.com/en/tier-upgrade-request
+USER - https://creators.supercell.com/en/user
+
+
+IMAGES:
+https://creators.supercell.com/img/trophy-road-notification-cards.291f28bb.png
+https://creators.supercell.com/img/tier-symbol-1.95f1f2b0.png
+https://creators.supercell.com/img/tier-symbol-3.e0b21c40.png
+https://creators.supercell.com/img/icon-info.1235d365.svg
+https://creators.supercell.com/img/icon-mobile-menu-bg.9968b1b5.svg
+https://creators.supercell.com/img/footer-appstore.62e01c5b.png
+https://creators.supercell.com/img/icon-tier5.36d84ea5.svg
+https://creators.supercell.com/img/tier-symbol-5.ff774011.png
+https://creators.supercell.com/img/feed-boom-beach-default.04a16be8.jpg
+https://creators.supercell.com/img/icon-tier2.42f77017.svg
+https://creators.supercell.com/img/feed-clash-of-clans-default.a8c4ef8e.jpg
+https://creators.supercell.com/img/tier-symbol-6.afca6e2a.png
+https://creators.supercell.com/img/footer-googleplay.87d9b793.png
+https://creators.supercell.com/img/character-poco.e8f28f44.png
+https://creators.supercell.com/img/generic-avatar.567c5f77.svg
+https://creators.supercell.com/img/icon-portal.fcf9bda1.svg
+https://creators.supercell.com/img/arrow-scroll-right-green.7a79ccf3.svg
+https://creators.supercell.com/img/feed-clash-royale-default.7b09505f.jpg
+https://creators.supercell.com/img/arrow-scroll-right.32537ed2.svg
+https://creators.supercell.com/img/tier-symbol-4.973e6d92.png
+https://creators.supercell.com/img/icon-tier6.32fb9a81.svg
+https://creators.supercell.com/img/feed-brawl-stars-default.4ed87c17.jpg
+https://creators.supercell.com/img/icon-tier3.94184715.svg
+https://creators.supercell.com/img/icon-tier1.13ac3ed9.svg
+https://creators.supercell.com/img/icon-tier4.69f7d380.svg
+https://creators.supercell.com/img/character_shelly.89656347.png
+https://creators.supercell.com/img/tier-symbol-2.1cac5905.png
+https://creators.supercell.com/img/creators-logo.08bb5918.svg
+https://creators.supercell.com/img/feed-hay-day-default.cd7ae632.jpg
+https://creators.supercell.com/img/character-bowler.1e8753b8.png
+
+LINKS:
+
+SCID Authorization - https://id.supercell.com/oauth/authorize?client_id=9ECF64A1-4E2D-457E-B588-9A6E7854B0E9&response_type=code&scope=identity.relay_email%20identity.connections
+Google Acc Authorization - https://accounts.google.com/o/oauth2/v2/auth?scope=https://www.googleapis.com/auth/youtube.readonly&access_type=offline&include_granted_scopes=true&response_type=code&client_id=328065027120-7cvve242fcseoee3gu7c87o4jcfeodl7.apps.googleusercontent.com 
+Twitch Authorization - https://id.twitch.tv/oauth2/authorize?response_type=code&scope=channel:read:subscriptions&client_id=2ledlxtwd36axajkkjjdyla6g7w3fu
+Facebook Authorization - https://www.facebook.com/v4.0/dialog/oauth?response_type=code&display=popup&scope=read_insights,pages_show_list&state=&client_id=1316177441882663
+Discord Authorization - https://discord.com/api/oauth2/authorize?response_type=code&scope=identify&client_id=631438648838979604
+Slack BS Channel - https://supercellcreators.slack.com/messages/bs_announcements
+Slack CoC Channel - https://supercellcreators.slack.com/messages/coc_announcements
+Slack CR Channel - https://supercellcreators.slack.com/messages/clashroyale-announcements
+Slack BB Channel - https://supercellcreators.slack.com/messages/boombeach
+Slack HD Channel - https://supercellcreators.slack.com/messages/hayday-announcements
+Slack HDP Channel - https://supercellcreators.slack.com/messages/pop-announcements
+Discord BS Channel - https://discordapp.com/channels/547793312229097478/547818575251898371
+Discord CoC Channel - https://discordapp.com/channels/547793312229097478/547818345161031689
+Discord CR Channel - https://discordapp.com/channels/547793312229097478/547818606608646175
+Discord HD Channel - https://discordapp.com/channels/547793312229097478/547951486223777808
+Discord HDP Channel - https://discordapp.com/channels/547793312229097478/547819828984020992
+Supercell LinkedIn - https://www.linkedin.com/company/supercell/
+Supercell Glassdoor - https://www.glassdoor.com/Overview/Working-at-Supercell-EI_IE511675.11,20.htm
+Supercell IOS Stickers - https://apps.apple.com/us/app/hay-day-stickers/id1249257275
+??? - https://supr.cl/NDA
+Supercell Discord General Channel - https://discord.com/channels/547793312229097478/547850422140796963
+
