@@ -1,0 +1,13 @@
+	Discord Profile Authorization
+	https://discord.com/api/oauth2/authorize?response_type=code&scope=identify&client_id=
+  
+	SUPERCELL SLACK BRAWL STARS
+	https://supercellcreators.slack.com/messages/bs_announcements
+  
+	DISCORD SERVER MESSAGES/CHANNELS LINKS
+	https://discordapp.com/channels/547793312229097478/547818575251898371
+	https://discordapp.com/channels/547793312229097478/547818345161031689
+	https://discordapp.com/channels/547793312229097478/547818606608646175
+	https://discordapp.com/channels/547793312229097478/547951486223777808
+	https://discordapp.com/channels/547793312229097478/547819828984020992
+	https://discord.com/channels/547793312229097478/547850422140796963
