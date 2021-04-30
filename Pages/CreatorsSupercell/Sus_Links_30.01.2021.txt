@@ -1,3 +1,6 @@
+<TODAY IS DATAMINE TIME:D>	
+	
+	
 	Discord Profile Authorization
 	https://discord.com/api/oauth2/authorize?response_type=code&scope=identify&client_id=
   
