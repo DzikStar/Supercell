@@ -1,7 +1,7 @@
-Strona: store.supercell.com
-Data stanu Datamine: 29.04.2021
-Datamine wykonany przez: @DzikStar#4665
-Datamine z wersji: 1.0.0 i od 9.000 kolumny dla wersji 1.0.3
+WebPage: store.supercell.com
+Datamine day: 29.04.2021
+Datamine maked by: @DzikStar#4665
+Version used to Datamine: 1.0.0 and from 9.000 column for version 1.0.3
 
 
 JavaScript:
@@ -33,8 +33,7 @@ USER -  	https://store.supercell.com/css/user.46a72d1e.css
 [!]CHUNK-V - 	https://store.supercell.com/css/chunk-vendors.2615853a.css
 
 
-
-OBRAZY:
+IMAGES:
 https://store.supercell.com/img/characters-running.aadd44fe.png
 https://store.supercell.com/img/perk-1.533a41c7.png
 https://store.supercell.com/img/appstore.150a9787.png
@@ -80,9 +79,9 @@ https://store.supercell.com/img/safeguard.b695caff.png
 https://store.supercell.com/img/barbarian-confused.2283166b.png
 
 
-Dodatkowe informacje wyciągnięte z kodu źródłowego:
-	- To co teraz widzimi na stronie store.supercell nie jest finalną stroną startową, w przyszłości zobaczymy tam podział na kategorie gier.
-	- Sklep będzie aktualnie rozwijany tylko dla gier takich jak Brawl Stars, Clash Royale, Boom Beach, Hay Day. (3 nowe gry są dopiero w fazie tworzenia więc narazie nie spodziewajmy się ich w store.supercell)
-	- W sklepie store.supercell w przyszłości będzie można zakupywać przedmioty z Kodem Twórcy.
-	- Strona będzie ulegać też trybowi Przerwy Konserwacyjnej.
-	- Produkty na stronie będa na Przecenionych cenach. (najprawdopodobniej chodzi o marżę od AppStore/GooglePlay).
+ADDITIONAL INFORMATION FROM SOURCE CODE:
+	- This what we now see on page store.supercell isn't final homepage, in future we see there division into games.
+	- The store will currently only be developed for games such as Brawl Stars, Clash Royale, Boom Beach, and Hay Day. (4 new games are still in development, so don't expect  	      them in store.supercell for now)
+	- In the shop store.supercell we also can Buy offers with Content Creators Codes.
+	- The website will also be subject to the Maintenance Break mode in the near future.
+	- The products on the website will be at Discounted prices. (most likely it is a decrease in the margin from the AppStore / GooglePlay).
