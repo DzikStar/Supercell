@@ -141,7 +141,7 @@ LINKS:
 SCID Authorization -                https://id.supercell.com/oauth/authorize?client_id=9ECF64A1-4E2D-457E-B588-9A6E7854B0E9&response_type=code&scope=identity.relay_email%20identity.connections
 Google Acc Authorization -          https://accounts.google.com/o/oauth2/v2/auth?scope=https://www.googleapis.com/auth/youtube.readonly&access_type=offline&include_granted_scopes=true&response_type=code&client_id=328065027120-7cvve242fcseoee3gu7c87o4jcfeodl7.apps.googleusercontent.com 
 Twitch Authorization -              https://id.twitch.tv/oauth2/authorize?response_type=code&scope=channel:read:subscriptions&client_id=2ledlxtwd36axajkkjjdyla6g7w3fu
-Facebook Authhorization -       https://www.facebook.com/v4.0/dialog/oauth?response_type=code&display=popup&scope=read_insights,pages_show_list&state=&client_id=1316177441882663
+Facebook Authhorization -           https://www.facebook.com/v4.0/dialog/oauth?response_type=code&display=popup&scope=read_insights,pages_show_list&state=&client_id=1316177441882663
 Discord Authorization -             https://discord.com/api/oauth2/authorize?response_type=code&scope=identify&client_id=631438648838979604
 Slack BS Channel -                  https://supercellcreators.slack.com/messages/bs_announcements
 Slack CoC Channel -                 https://supercellcreators.slack.com/messages/coc_announcements
