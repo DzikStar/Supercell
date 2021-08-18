@@ -157,6 +157,6 @@ Discord HDP Channel -               https://discordapp.com/channels/547793312229
 Supercell LinkedIn -                https://www.linkedin.com/company/supercell/
 Supercell Glassdoor -               https://www.glassdoor.com/Overview/Working-at-Supercell-EI_IE511675.11,20.htm
 Supercell IOS Stickers -            https://apps.apple.com/us/app/hay-day-stickers/id1249257275
-??? -                               https://supr.cl/NDA
+NDA -                               https://supr.cl/NDA
 Supercell Discord General Channel - https://discord.com/channels/547793312229097478/547850422140796963
 
