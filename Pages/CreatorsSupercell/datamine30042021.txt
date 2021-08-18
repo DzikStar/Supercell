@@ -159,4 +159,4 @@ Supercell Glassdoor -               https://www.glassdoor.com/Overview/Working-a
 Supercell IOS Stickers -            https://apps.apple.com/us/app/hay-day-stickers/id1249257275
 NDA -                               https://supr.cl/NDA
 Supercell Discord General Channel - https://discord.com/channels/547793312229097478/547850422140796963
-
+SCA Discord Bot -                   https://discord.com/oauth2/authorize?client_id=631438648838979604&permissions=1133584&scope=bot 
