@@ -1,0 +1,14 @@
+2022
+  - Otworzyłem Drzewko Na GitHubie w Celu Śledzenia Zmian w Plikach Gry i Zewnętrznych.
+  - Zdobyłem side SCID
+
+2021
+  - Eksportowania Interfejsów.
+  - Edycji Modeli
+  - Datamine Gry i Stron WWW
+  - Konwersji Plików
+  - Dekompresji Plików
+  - Zabawy z CSV
+  - Zabawy z SC
+  - Wiele Innych
+  
