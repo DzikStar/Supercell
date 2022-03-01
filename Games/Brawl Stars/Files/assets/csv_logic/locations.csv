@@ -1,62 +1,62 @@
 "Name","Disabled","TID","LocationTheme","SupportingCampaignGround","BannerOverrideSWF","BannerOverrideExportName","GameModeVariation","Map","CommunityCredit"
 "string","boolean","string","string","boolean","string","string","string","string","string"
-"Wanted1","true","TID_WANTED_1","DarrylsShip",,,,"Bounty","Wanted_1",
+"Wanted1","true","TID_WANTED_1","Biodome",,,,"Bounty","Wanted_1",
 "Wanted3","true","TID_WANTED_3","Arcade",,,,"Bounty","Wanted_3",
 "Wanted4","true","TID_WANTED_4","Default",,,,"Bounty","Gemgrab_3",
 "Wanted5","true","TID_WANTED_5","Default",,,,"Bounty","Gemgrab_2",
 "Wanted6","true","TID_WANTED_6","Default",,,,"Bounty","Wanted_6",
-"Wanted7",,"TID_WANTED_7","Brawlywood",,,,"Bounty","Wanted_7",
+"Wanted7",,"TID_WANTED_7","Biodome",,,,"Bounty","Wanted_7",
 "Wanted2","true","TID_WANTED_2","Oasis",,,,"Bounty","Wanted_2",
 "Gemgrab1",,"TID_GOLDRUSH_1","Mine",,,,"GemGrab","Gemgrab_1",
 "Gemgrab2",,"TID_GOLDRUSH_2","Arcade",,,,"GemGrab","Gemgrab_2",
-"Gemgrab3",,"TID_WANTED_4","FightingGame",,,,"GemGrab","Gemgrab_3",
-"Gemgrab4",,"TID_WANTED_3B","CastleCourtyard",,,,"GemGrab","Wanted_3",
-"Gemgrab5",,"TID_GOLDRUSH_5","Mine",,,,"GemGrab","Gemgrab_5",
-"Gemgrab6",,"TID_GOLDRUSH_6","Mine",,,,"GemGrab","Gemgrab_4",
-"Survival1",,"TID_BATTLE_ROYALE_1","DefaultShowdown",,,,"Showdown","Survival_1",
+"Gemgrab3",,"TID_WANTED_4","Mine",,,,"GemGrab","Gemgrab_3",
+"Gemgrab4",,"TID_WANTED_3B","Mine",,,,"GemGrab","Wanted_3",
+"Gemgrab5","true","TID_GOLDRUSH_5","Default",,,,"GemGrab","Gemgrab_5",
+"Gemgrab6","true","TID_GOLDRUSH_6","Default",,,,"GemGrab","Gemgrab_4",
+"Survival1","true","TID_BATTLE_ROYALE_1","DefaultShowdown",,,,"Showdown","Survival_1",
 "Survival2",,"TID_BATTLE_ROYALE_2","DefaultShowdown",,,,"Showdown","Survival_2","OwenReds"
 "Survival3",,"TID_BATTLE_ROYALE_3","DefaultShowdown",,,,"Showdown","Survival_3",
-"Survival4",,"TID_BATTLE_ROYALE_4","MortuaryShowdown",,,,"Showdown","Survival_4",
+"Survival4",,"TID_BATTLE_ROYALE_4","DefaultShowdown",,,,"Showdown","Survival_4",
 "Heist1","true","TID_BANKHEIST_1","Minicity",,,,"Heist","Bankheist_1",
-"Heist2",,"TID_BANKHEIST_2","Default",,,,"Heist","Bankheist_2",
-"Heist3",,"TID_BANKHEIST_3","FightingGame",,,,"Heist","Bankheist_3",
+"Heist2","true","TID_BANKHEIST_2","Default",,,,"Heist","Bankheist_2",
+"Heist3",,"TID_BANKHEIST_3","Mortuary",,,,"Heist","Bankheist_3",
 "Tutorial","true",,"OldTownTutorial",,,,"Tutorial","Tutorial",
 "BossFight1","true","TID_BOSS_4","Default",,,,"BigGame","BossFight_1",
-"Wanted8",,"TID_WANTED_8","CastleCourtyard",,,,"Bounty","Wanted_8",
-"Heist4","true","TID_BANKHEIST_4","CastleCourtyard",,,,"Heist","Bankheist_4",
+"Wanted8","true","TID_WANTED_8","CastleCourtyard",,,,"Bounty","Wanted_8",
+"Heist4",,"TID_BANKHEIST_4","Mortuary",,,,"Heist","Bankheist_4",
 "Ball1",,"TID_BALL_1","Grassfield",,,,"BrawlBall","Laserball_1",
-"Ball2",,"TID_BALL_2","Grassfield",,,,"BrawlBall","Laserball_2",
-"Ball3",,"TID_BALL_3","Grassfield",,,,"BrawlBall","Laserball_3",
+"Ball2","true","TID_BALL_2","Grassfield",,,,"BrawlBall","Laserball_2",
+"Ball3",,"TID_BALL_3","GrassfieldBeachBall",,,,"BrawlBall","Laserball_3",
 "Coop1","true","TID_COOP_1","Default",,,,"RoboRumble","Coop_1",
 "SurvivalTeam7",,"TID_BATTLE_ROYALE_7","MortuaryShowdown",,,,"DuoShowdown","Survival_7",
 "Coop2","true","TID_COOP_2","Default",,,,"RoboRumble","Coop_2",
 "BossFight2","true","TID_BOSS_3","Mine",,,,"BigGame","BossFight_2",
-"Gemgrab8","true","TID_GOLDRUSH_8","Default",,,,"GemGrab","Gemgrab_8",
+"Gemgrab8","TRUE","TID_GOLDRUSH_8","Mine",,,,"GemGrab","Gemgrab_8",
 "Survival5",,"TID_BATTLE_ROYALE_5","MortuaryShowdown",,,,"Showdown","Survival_5","Mordeus"
-"Survival6",,"TID_BATTLE_ROYALE_6","DefaultShowdown",,,,"Showdown","Survival_6",
-"SurvivalTeam1",,"TID_BATTLE_ROYALE_1","DefaultShowdown",,,,"DuoShowdown","Survival_1",
+"Survival6","true","TID_BATTLE_ROYALE_6","DefaultShowdown",,,,"Showdown","Survival_6",
+"SurvivalTeam1","true","TID_BATTLE_ROYALE_1","DefaultShowdown",,,,"DuoShowdown","Survival_1",
 "SurvivalTeam2",,"TID_BATTLE_ROYALE_2","DefaultShowdown",,,,"DuoShowdown","Survival_2","OwenReds"
 "SurvivalTeam3",,"TID_BATTLE_ROYALE_3","DefaultShowdown",,,,"DuoShowdown","Survival_3",
-"SurvivalTeam4",,"TID_BATTLE_ROYALE_4","MortuaryShowdown",,,,"DuoShowdown","Survival_4",
+"SurvivalTeam4",,"TID_BATTLE_ROYALE_4","DefaultShowdown",,,,"DuoShowdown","Survival_4",
 "SurvivalTeam5",,"TID_BATTLE_ROYALE_5","MortuaryShowdown",,,,"DuoShowdown","Survival_5","Mordeus"
 "Coop3","true","TID_COOP_6","DefaultShowdown",,,,"RoboRumble","Coop_3",
-"Gemgrab7","true","TID_GOLDRUSH_7","CastleCourtyard",,,,"GemGrab","Gemgrab_7","DarkKnight"
+"Gemgrab7",,"TID_GOLDRUSH_7","Arcade",,,,"GemGrab","Gemgrab_7","DarkKnight"
 "Gemgrab10","true","TID_GOLDRUSH_10","Mine",,,,"GemGrab","Gemgrab_10","Lewinham"
 "Heist5","true","TID_BANKHEIST_5","Default",,,,"Heist","Bankheist_5","Rushalisk"
 "Survival7",,"TID_BATTLE_ROYALE_7","MortuaryShowdown",,,,"Showdown","Survival_7",
-"SurvivalTeam6",,"TID_BATTLE_ROYALE_6","DefaultShowdown",,,,"DuoShowdown","Survival_6",
-"Survival8","true","TID_BATTLE_ROYALE_8","IslandShowdown",,,,"Showdown","Survival_8","Rushalisk"
-"SurvivalTeam8","true","TID_BATTLE_ROYALE_8","IslandShowdown",,,,"DuoShowdown","Survival_8","Rushalisk"
-"Heist6","true","TID_BANKHEIST_6","Default",,,,"Heist","Bankheist_6","Mordeus"
-"Gemgrab11",,"TID_GOLDRUSH_11","Mine",,,,"GemGrab","Gemgrab_11","FatBubblyDragon"
+"SurvivalTeam6","true","TID_BATTLE_ROYALE_6","DefaultShowdown",,,,"DuoShowdown","Survival_6",
+"Survival8",,"TID_BATTLE_ROYALE_8","IslandShowdown",,,,"Showdown","Survival_8","Rushalisk"
+"SurvivalTeam8",,"TID_BATTLE_ROYALE_8","IslandShowdown",,,,"DuoShowdown","Survival_8","Rushalisk"
+"Heist6",,"TID_BANKHEIST_6","Default",,,,"Heist","Bankheist_6","Mordeus"
+"Gemgrab11","true","TID_GOLDRUSH_11","Default",,,,"GemGrab","Gemgrab_11","FatBubblyDragon"
 "Heist7","true","TID_BANKHEIST_7","Default",,,,"Heist","Bankheist_7","Schmedricks"
 "Ball4",,"TID_BALL_4","Grassfield",,,,"BrawlBall","Laserball_4","Lex"
-"Ball6",,"TID_BALL_6","BBArena",,,,"BrawlBall","Laserball_6","Mordeus"
+"Ball6",,"TID_BALL_6","GrassfieldBeachBall",,,,"BrawlBall","Laserball_6","Mordeus"
 "Ball7","true","TID_BALL_7","Grassfield",,,,"BrawlBall","Laserball_7","Lewinham"
-"Heist8",,"TID_BANKHEIST_18","Mortuary",,,,"Heist","Bankheist_8","AlexEsteAdevarat"
+"Heist8",,"TID_BANKHEIST_18","Default",,,,"Heist","Bankheist_8","AlexEsteAdevarat"
 "Wanted9","true","TID_WANTED_9","Brawlywood",,,,"Bounty","Wanted_9","thelucas2000"
-"Survival12","true","TID_BATTLE_ROYALE_12","DefaultShowdown",,,,"Showdown","Survival_12","Tony_A9"
-"SurvivalTeam12","true","TID_BATTLE_ROYALE_12","DefaultShowdown",,,,"DuoShowdown","Survival_12","Tony_A9"
+"Survival12",,"TID_BATTLE_ROYALE_12","DefaultShowdown",,,,"Showdown","Survival_12","Tony_A9"
+"SurvivalTeam12",,"TID_BATTLE_ROYALE_12","DefaultShowdown",,,,"DuoShowdown","Survival_12","Tony_A9"
 "Raid1","true","TID_RAID_2","DefaultShowdown",,,,"BossFight","Raid_1",
 "GGxmas1","true","TID_GOLDRUSH_XMAS_1","CastleCourtyard",,,,"GemGrab","Wanted_3",
 "GGxmas2","true","TID_GOLDRUSH_XMAS_2","CastleCourtyard",,,,"GemGrab","Gemgrab_7",
@@ -72,7 +72,7 @@
 "Heist9","true","TID_BANKHEIST_9","OldTown",,,,"Heist","Bankheist_9",
 "Heist10","true","TID_BANKHEIST_10","OldTown",,,,"Heist","Bankheist_10",
 "Heist11","true","TID_BANKHEIST_11","Default",,,,"Heist","Bankheist_11","AeroNautikks"
-"Heist12",,"TID_BANKHEIST_12","CastleCourtyard",,,,"Heist","Bankheist_12","Zagibulenka"
+"Heist12",,"TID_BANKHEIST_12","Default",,,,"Heist","Bankheist_12","Zagibulenka"
 "Heist13","true","TID_BANKHEIST_13","OldTown",,,,"Heist","Bankheist_13",
 "LNYHeist1","true","TID_BANKHEIST_9","OldTownLNY",,,,"Heist","Bankheist_9",
 "LNYHeist2","true","TID_BANKHEIST_10","OldTownLNY",,,,"Heist","Bankheist_10",
@@ -80,18 +80,18 @@
 "LNYHeist4","true","TID_BANKHEIST_12","OldTownLNY",,,,"Heist","Bankheist_12","Zagibulenka"
 "LNYHeist5","true","TID_BANKHEIST_13","OldTownLNY",,,,"Heist","Bankheist_13",
 "Wanted10","true","TID_WANTED_9","OldTown",,,,"Bounty","Wanted_10",
-"Wanted11","true","TID_WANTED_11","OldTown",,,,"Bounty","Wanted_11",
-"Wanted12",,"TID_WANTED_12","Mortuary",,,,"Bounty","Wanted_12",
-"Wanted13",,"TID_WANTED_13","Arcade",,,,"Bounty","Wanted_13","OwenReds"
+"Wanted11",,"TID_WANTED_11","FightingGame",,,,"Bounty","Wanted_11",
+"Wanted12","true","TID_WANTED_12","Mortuary",,,,"Bounty","Wanted_12",
+"Wanted13",,"TID_WANTED_13","Biodome",,,,"Bounty","Wanted_13","OwenReds"
 "Wanted14",,"TID_WANTED_14","Default",,,,"Bounty","Wanted_14",
 "LNYWanted1","true","TID_WANTED_9","OldTownLNY",,,,"Bounty","Wanted_10",
 "LNYWanted2","true","TID_WANTED_11","OldTownLNY",,,,"Bounty","Wanted_11",
 "LNYWanted3","true","TID_WANTED_12","OldTownLNY",,,,"Bounty","Wanted_12",
 "LNYWanted4","true","TID_WANTED_13","OldTownLNY",,,,"Bounty","Wanted_13","OwenReds"
 "LNYWanted5","true","TID_WANTED_14","OldTownLNY",,,,"Bounty","Wanted_14",
-"LNYGemgrab1","true","TID_GOLDRUSH_4","OldTownLNY",,,,"GemGrab","Wanted_3",
-"LNYGemgrab2","true","TID_GOLDRUSH_5","OldTownLNY",,,,"GemGrab","Gemgrab_5_LNY",
-"LNYGemgrab3","true","TID_GOLDRUSH_6","OldTownLNY",,,,"GemGrab","Gemgrab_4_LNY",
+"LNYGemgrab1","true","TID_GOLDRUSH_4","Default",,,,"GemGrab","Wanted_3",
+"LNYGemgrab2","true","TID_GOLDRUSH_5","Default",,,,"GemGrab","Gemgrab_5_LNY",
+"LNYGemgrab3","true","TID_GOLDRUSH_6","Default",,,,"GemGrab","Gemgrab_4_LNY",
 "Ball8","true","TID_WANTED_10","Grassfield",,,,"BrawlBall","Laserball_8",
 "Survival10","true","TID_BATTLE_ROYALE_10","DefaultShowdown",,,,"Showdown","Survival_10","Binnyboy"
 "SurvivalTeam10","true","TID_BATTLE_ROYALE_10","DefaultShowdown",,,,"DuoShowdown","Survival_10","Binnyboy"
@@ -105,20 +105,20 @@
 "SurvivalTeam14",,"TID_BATTLE_ROYALE_17","MortuaryShowdown",,,,"DuoShowdown","Survival_14","Maxymus"
 "Survival15","true","TID_BATTLE_ROYALE_13","DefaultShowdown",,,,"Showdown","Survival_15","Mordeus"
 "SurvivalTeam15","true","TID_BATTLE_ROYALE_13","DefaultShowdown",,,,"DuoShowdown","Survival_15","Mordeus"
-"Survival16","true","TID_BATTLE_ROYALE_19","DefaultShowdown",,,,"Showdown","Survival_16","Meme-grabbee"
-"SurvivalTeam16","true","TID_BATTLE_ROYALE_19","DefaultShowdown",,,,"DuoShowdown","Survival_16","Meme-grabbee"
+"Survival16",,"TID_BATTLE_ROYALE_19","MortuaryShowdown",,,,"Showdown","Survival_16","Meme-grabbee"
+"SurvivalTeam16",,"TID_BATTLE_ROYALE_19","MortuaryShowdown",,,,"DuoShowdown","Survival_16","Meme-grabbee"
 "Survival17","true","TID_BATTLE_ROYALE_23","DefaultShowdown",,,,"Showdown","Survival_17","OwenReds"
 "SurvivalTeam17","true","TID_BATTLE_ROYALE_23","DefaultShowdown",,,,"DuoShowdown","Survival_17","OwenReds"
-"Survival18","true","TID_BATTLE_ROYALE_21","DefaultShowdown",,,,"Showdown","Survival_18","Pentagonal Cubes"
-"SurvivalTeam18","true","TID_BATTLE_ROYALE_21","DefaultShowdown",,,,"DuoShowdown","Survival_18","Pentagonal Cubes"
-"Gemgrab12","true","TID_GOLDRUSH_12","CastleCourtyard",,,,"GemGrab","Gemgrab_12","ash"
-"Gemgrab13",,"TID_GOLDRUSH_13","CastleCourtyard",,,,"GemGrab","Gemgrab_13","Electra Drake"
-"Gemgrab14","true","TID_GOLDRUSH_23","CastleCourtyard",,,,"GemGrab","Gemgrab_10","Lewinham"
-"Gemgrab15","true","TID_GOLDRUSH_17","Minicity",,,,"GemGrab","Gemgrab_15","Mordeus"
-"Gemgrab16",,"TID_GOLDRUSH_25","Mortuary",,,,"GemGrab","Gemgrab_16","benci"
-"Gemgrab17","true","TID_GOLDRUSH_24","Mortuary",,,,"GemGrab","Gemgrab_17","Lab2point0"
-"Gemgrab18","true","TID_GOLDRUSH_19","Mine",,,,"GemGrab","Gemgrab_18","freezeemilk"
-"Ball9",,"TID_BALL_15","Grassfield",,,,"BrawlBall","Laserball_9","Mordeus"
+"Survival18",,"TID_BATTLE_ROYALE_21","DefaultShowdown",,,,"Showdown","Survival_18","Pentagonal Cubes"
+"SurvivalTeam18",,"TID_BATTLE_ROYALE_21","DefaultShowdown",,,,"DuoShowdown","Survival_18","Pentagonal Cubes"
+"Gemgrab12","true","TID_GOLDRUSH_12","Default",,,,"GemGrab","Gemgrab_12","ash"
+"Gemgrab13","true","TID_GOLDRUSH_13","Default",,,,"GemGrab","Gemgrab_13","Electra Drake"
+"Gemgrab14",,"TID_GOLDRUSH_23","Mine",,,,"GemGrab","Gemgrab_10","Lewinham"
+"Gemgrab15","true","TID_GOLDRUSH_17","Default",,,,"GemGrab","Gemgrab_15","Mordeus"
+"Gemgrab16",,"TID_GOLDRUSH_25","Bazaar",,,,"GemGrab","Gemgrab_16","benci"
+"Gemgrab17","true","TID_GOLDRUSH_24","Default",,,,"GemGrab","Gemgrab_17","Lab2point0"
+"Gemgrab18","true","TID_GOLDRUSH_19","Default",,,,"GemGrab","Gemgrab_18","freezeemilk"
+"Ball9","true","TID_BALL_15","Grassfield",,,,"BrawlBall","Laserball_9","Mordeus"
 "Biggame1","true","TID_BOSS_4","DefaultShowdown",,,,"BigGame","Biggame_1","OwenReds"
 "Biggame2","true","TID_BOSS_3","DefaultShowdown",,,,"BigGame","Biggame_2","OwenReds"
 "Training","true",,"OldTownTutorial",,,,"Training","Training",
@@ -130,41 +130,41 @@
 "Siege4",,"TID_ROBO_WARS_13","Scrapyard",,,,"Siege","Siege_4","OwenReds"
 "Siege5","true","TID_ROBO_WARS_11","Scrapyard",,,,"Siege","Siege_5","Binnyboy"
 "Siege6","true","TID_ROBO_WARS_10","Scrapyard",,,,"Siege","Siege_6","Binnyboy"
-"Siege7","true","TID_ROBO_WARS_4","Scrapyard",,,,"Siege","Siege_7","OwenReds"
-"Siege8","true","TID_ROBO_WARS_12","Scrapyard",,,,"Siege","Siege_8","Mordeus"
-"Ball10",,"TID_BALL_17","BBArena",,,,"BrawlBall","Laserball_10","Mordeus"
+"Siege7",,"TID_ROBO_WARS_4","Scrapyard",,,,"Siege","Siege_7","OwenReds"
+"Siege8",,"TID_ROBO_WARS_12","Scrapyard",,,,"Siege","Siege_8","Mordeus"
+"Ball10",,"TID_BALL_17","Grassfield",,,,"BrawlBall","Laserball_10","Mordeus"
 "Raid4","true","TID_ROBO_WARS_14","DefaultShowdown",,,,"BossFight","Raid_4",
 "Ball11","true","TID_BALL_21","Grassfield",,,,"BrawlBall","Laserball_11","ash"
 "Survival21","true","TID_BATTLE_ROYALE_16","DefaultShowdown",,,,"Showdown","Survival_21","Mordeus"
 "SurvivalTeam21","true","TID_BATTLE_ROYALE_16","DefaultShowdown",,,,"DuoShowdown","Survival_21","Mordeus"
-"Heist14",,"TID_BANKHEIST_14B","Brawlywood",,,,"Heist","Bankheist_14","Lex"
+"Heist14","true","TID_BANKHEIST_14B","Brawlywood",,,,"Heist","Bankheist_14","Lex"
 "Heist15","true","TID_BANKHEIST_15","FightingGame",,,,"Heist","Bankheist_15","OwenReds"
-"Gemgrab20","true","TID_GOLDRUSH_21","CastleCourtyard",,,,"GemGrab","Gemgrab_20",
-"Gemgrab21","true","TID_GOLDRUSH_21C","FightingGame",,,,"GemGrab","Gemgrab_21","Frep"
+"Gemgrab20",,"TID_GOLDRUSH_21","Biodome",,,,"GemGrab","Gemgrab_20",
+"Gemgrab21","true","TID_GOLDRUSH_21C","Default",,,,"GemGrab","Gemgrab_21","Frep"
 "Siege9","true","TID_ROBO_WARS_2","Scrapyard",,,,"Siege","Siege_9","Mr. Lee"
 "Siege10",,"TID_ROBO_WARS_3","Scrapyard",,,,"Siege","Siege_10","G.W.B.S."
-"Ball12","true","TID_BALL_22","GrassfieldBeachBall",,,,"BrawlBall","Laserball_12","FeFaLah"
+"Ball12",,"TID_BALL_22","GrassfieldBeachBall",,,,"BrawlBall","Laserball_12","FeFaLah"
 "Ball13","true","TID_BALL_23","Grassfield",,,,"BrawlBall","Laserball_13","Chief Pekka"
 "Heist16","true","TID_BANKHEIST_16","CastleCourtyard",,,,"Heist","Bankheist_16","Thomas P."
-"Heist17","true","TID_BANKHEIST_17B","CastleCourtyard",,,,"Heist","Bankheist_17","Sir.Hocus"
-"Gemgrab22",,"TID_GOLDRUSH_22","FightingGame",,,,"GemGrab","Gemgrab_22","Milan R."
-"Gemgrab23","true","TID_GOLDRUSH_33","Brawlywood",,,,"GemGrab","Gemgrab_23","OwenReds"
+"Heist17",,"TID_BANKHEIST_17B","Mortuary",,,,"Heist","Bankheist_17","Sir.Hocus"
+"Gemgrab22","true","TID_GOLDRUSH_22","Default",,,,"GemGrab","Gemgrab_22","Milan R."
+"Gemgrab23","true","TID_GOLDRUSH_33","Biodome",,,,"GemGrab","Gemgrab_23","OwenReds"
 "Wanted15","true","TID_WANTED_16","OasisBeach",,,,"Bounty","Wanted_15","Justin W."
 "Wanted16","true","TID_WANTED_17","OasisBeach",,,,"Bounty","Wanted_16","Ossama H."
 "Heist18","true","TID_BANKHEIST_18B","GiftShop",,,,"Heist","Bankheist_18","Mordeus"
 "Survival22","true","TID_BATTLE_ROYALE_22A","DefaultShowdown",,,,"Showdown","Survival_22","feimao"
 "SurvivalTeam22","true","TID_BATTLE_ROYALE_22A","DefaultShowdown",,,,"DuoShowdown","Survival_22","feimao"
-"Survival23","true","TID_BATTLE_ROYALE_23A","DefaultShowdown",,,,"Showdown","Survival_23","Cloudy"
-"SurvivalTeam23","true","TID_BATTLE_ROYALE_23A","DefaultShowdown",,,,"DuoShowdown","Survival_23","Cloudy"
+"Survival23",,"TID_BATTLE_ROYALE_23A","DefaultShowdown",,,,"Showdown","Survival_23","Cloudy"
+"SurvivalTeam23",,"TID_BATTLE_ROYALE_23A","DefaultShowdown",,,,"DuoShowdown","Survival_23","Cloudy"
 "Survival24","true","TID_BATTLE_ROYALE_24A","DefaultShowdown",,,,"Showdown","Survival_24","OwenReds"
 "SurvivalTeam24","true","TID_BATTLE_ROYALE_24A","DefaultShowdown",,,,"DuoShowdown","Survival_24","OwenReds"
-"Gemgrab24","true","TID_GOLDRUSH_24A","FightingGame",,,,"GemGrab","Gemgrab_24","Milan Ryba"
-"Wanted17","true","TID_WANTED_17B","CastleCourtyard",,,,"Bounty","Wanted_17","ToxinLab"
+"Gemgrab24","true","TID_GOLDRUSH_24A","Default",,,,"GemGrab","Gemgrab_24","Milan Ryba"
+"Wanted17",,"TID_WANTED_17B","Default",,,,"Bounty","Wanted_17","ToxinLab"
 "Ball14",,"TID_BALL_14A","Grassfield",,,,"BrawlBall","Laserball_14","OwenReds"
-"Ball15","true","TID_BALL_15A","Grassfield",,,,"BrawlBall","Laserball_15","Silver Beast"
-"Ball16",,"TID_BALL_16A","Grassfield",,,,"BrawlBall","Laserball_16","Binnyboy"
-"Ball17","true","TID_BALL_17A","Grassfield",,,,"BrawlBall","Laserball_17","Ellisimo"
-"Ball18",,"TID_BALL_18A","Grassfield",,,,"BrawlBall","Laserball_18","Frep"
+"Ball15",,"TID_BALL_15A","Grassfield",,,,"BrawlBall","Laserball_15","Silver Beast"
+"Ball16","true","TID_BALL_16A","Grassfield",,,,"BrawlBall","Laserball_16","Binnyboy"
+"Ball17",,"TID_BALL_17A","Grassfield",,,,"BrawlBall","Laserball_17","Ellisimo"
+"Ball18","true","TID_BALL_18A","Grassfield",,,,"BrawlBall","Laserball_18","Frep"
 "Survival25","true","TID_BATTLE_ROYALE_30A","DefaultShowdown",,,,"Showdown","Survival_25","Mordeus"
 "SurvivalTeam25","true","TID_BATTLE_ROYALE_30A","DefaultShowdown",,,,"DuoShowdown","Survival_25","Mordeus"
 "BossRace1","true","TID_BOSS_RACE_1","DefaultShowdown",,,,"Takedown","BossRace_1",
@@ -209,16 +209,16 @@
 "CaptureTheFlag6","true","TID_TROPHYTHIEVES_05","Arcade",,,,"CTF","CaptureTheFlag_6","ToxinLab"
 "CaptureTheFlag7","true","TID_TROPHYTHIEVES_06","Arcade",,,,"CTF","CaptureTheFlag_7","DustyBud"
 "CaptureTheFlag8","true","TID_TROPHYTHIEVES_07","Arcade",,,,"CTF","CaptureTheFlag_8","Cloudy"
-"Gemgrab25","true","TID_GOLDRUSH_35","DarrylsShip",,,,"GemGrab","Gemgrab_25","Cloudy"
-"Gemgrab26","true","TID_GOLDRUSH_37","DarrylsShip",,,,"GemGrab","Gemgrab_26","Cindy"
-"Gemgrab27","true","TID_GOLDRUSH_38","DarrylsShip",,,,"GemGrab","Gemgrab_27","ToxinLab"
-"Gemgrab28","true","TID_GOLDRUSH_43","Bazaar",,,,"GemGrab","Gemgrab_28","DustyBud"
-"Gemgrab29","true","TID_GOLDRUSH_44","DarrylsShip",,,,"GemGrab","Gemgrab_29","OwenReds"
-"Gemgrab30","true","TID_GOLDRUSH_45","DarrylsShip",,,,"GemGrab","Gemgrab_30","Chief Pekka"
-"Gemgrab31","true","TID_GOLDRUSH_36","DarrylsShip",,,,"GemGrab","Gemgrab_31","gradient33"
+"Gemgrab25","true","TID_GOLDRUSH_35","Default",,,,"GemGrab","Gemgrab_25","Cloudy"
+"Gemgrab26","true","TID_GOLDRUSH_37","Default",,,,"GemGrab","Gemgrab_26","Cindy"
+"Gemgrab27","true","TID_GOLDRUSH_38","Default",,,,"GemGrab","Gemgrab_27","ToxinLab"
+"Gemgrab28","true","TID_GOLDRUSH_43","Default",,,,"GemGrab","Gemgrab_28","DustyBud"
+"Gemgrab29","true","TID_GOLDRUSH_44","Default",,,,"GemGrab","Gemgrab_29","OwenReds"
+"Gemgrab30","true","TID_GOLDRUSH_45","Default",,,,"GemGrab","Gemgrab_30","Chief Pekka"
+"Gemgrab31","true","TID_GOLDRUSH_36","Default",,,,"GemGrab","Gemgrab_31","gradient33"
 "Heist19","true","TID_BANKHEIST_23","Oasis",,,,"Heist","Bankheist_19","Chief Pekka"
-"Heist20","true","TID_BANKHEIST_20","Oasis",,,,"Heist","Bankheist_20","gradient33"
-"Wanted18","true","TID_WANTED_23","Brawlywood",,,,"Bounty","Wanted_18","Biono"
+"Heist20",,"TID_BANKHEIST_20","Default",,,,"Heist","Bankheist_20","gradient33"
+"Wanted18",,"TID_WANTED_23","Bazaar",,,,"Bounty","Wanted_18","Biono"
 "Wanted19","true","TID_WANTED_20","Brawlywood",,,,"Bounty","Wanted_19","TCGLouis"
 "Survival26","true","TID_BATTLE_ROYALE_41","DefaultShowdown",,,,"Showdown","Survival_26","Frep"
 "SurvivalTeam26","true","TID_BATTLE_ROYALE_41","DefaultShowdown",,,,"DuoShowdown","Survival_26","Frep"
@@ -226,10 +226,10 @@
 "SurvivalTeam27","true","TID_BATTLE_ROYALE_35","DefaultShowdown",,,,"DuoShowdown","Survival_27","The Red Brawler"
 "Survival28","true","TID_BATTLE_ROYALE_40","DefaultShowdown",,,,"Showdown","Survival_28","Gavyn1114"
 "SurvivalTeam28","true","TID_BATTLE_ROYALE_40","DefaultShowdown",,,,"DuoShowdown","Survival_28","Gavyn1114"
-"Survival29",,"TID_BATTLE_ROYALE_43","DefaultShowdown",,,,"Showdown","Survival_29","OwenReds"
-"SurvivalTeam29",,"TID_BATTLE_ROYALE_43","DefaultShowdown",,,,"DuoShowdown","Survival_29","OwenReds"
-"Survival30",,"TID_BATTLE_ROYALE_34","MortuaryShowdown",,,,"Showdown","Survival_30","Cloudy"
-"SurvivalTeam30",,"TID_BATTLE_ROYALE_34","MortuaryShowdown",,,,"DuoShowdown","Survival_30","Cloudy"
+"Survival29","true","TID_BATTLE_ROYALE_43","DefaultShowdown",,,,"Showdown","Survival_29","OwenReds"
+"SurvivalTeam29","true","TID_BATTLE_ROYALE_43","DefaultShowdown",,,,"DuoShowdown","Survival_29","OwenReds"
+"Survival30","true","TID_BATTLE_ROYALE_34","MortuaryShowdown",,,,"Showdown","Survival_30","Cloudy"
+"SurvivalTeam30","true","TID_BATTLE_ROYALE_34","MortuaryShowdown",,,,"DuoShowdown","Survival_30","Cloudy"
 "Survival31","true","TID_BATTLE_ROYALE_37","DefaultShowdown",,,,"Showdown","Survival_31","Binnyboy"
 "SurvivalTeam31","true","TID_BATTLE_ROYALE_37","DefaultShowdown",,,,"DuoShowdown","Survival_31","Binnyboy"
 "Survival32","true","TID_BATTLE_ROYALE_38","DefaultShowdown",,,,"Showdown","Survival_32","gradient33"
@@ -238,7 +238,7 @@
 "SurvivalTeam33","true","TID_GOLDRUSH_46","MortuaryShowdown",,,,"DuoShowdown","Survival_33","Mordeus"
 "Ball19","true","TID_BALL_8","Grassfield",,,,"BrawlBall","Laserball_19",
 "Ball20","true","TID_BALL_9","Grassfield",,,,"BrawlBall","Laserball_20",
-"Ball21","true","TID_BALL_10","Grassfield",,,,"BrawlBall","Laserball_21",
+"Ball21",,"TID_BALL_10","GrassfieldBeachBall",,,,"BrawlBall","Laserball_21",
 "Ball22","true","TID_BALL_11","Grassfield",,,,"BrawlBall","Laserball_22",
 "Ball23","true","TID_BALL_12","Grassfield",,,,"BrawlBall","Laserball_23",
 "Ball24","true","TID_BALL_13","Grassfield",,,,"BrawlBall","Laserball_24",
@@ -247,16 +247,16 @@
 "GravesTeam8","true","TID_BATTLE_ROYALE_6","MortuaryShowdown",,,,"DuoShowdown","Survival_6",
 "KingOfHill1","true","TID_KING_OF_HILL_9","Arcade",,,,"KingOfHill","KingOfHill_1",
 "KingOfHill2","true","TID_KING_OF_HILL_11","Arcade",,,,"KingOfHill","KingOfHill_2",
-"KingOfHill3","true","TID_KING_OF_HILL_3","Arcade",,,,"KingOfHill","KingOfHill_3","Mordeus"
+"KingOfHill3",,"TID_KING_OF_HILL_3","Bazaar",,,,"KingOfHill","KingOfHill_3","Mordeus"
 "KingOfHill4","true","TID_KING_OF_HILL_4","CastleCourtyard",,,,"KingOfHill","KingOfHill_4","Mordeus"
-"KingOfHill5",,"TID_KING_OF_HILL_5","CastleCourtyard",,,,"KingOfHill","KingOfHill_5","Mordeus"
+"KingOfHill5","true","TID_KING_OF_HILL_5","CastleCourtyard",,,,"KingOfHill","KingOfHill_5","Mordeus"
 "KingOfHill6","true","TID_KING_OF_HILL_6","Arcade",,,,"KingOfHill","KingOfHill_6","Mordeus"
 "KingOfHill7","true","TID_KING_OF_HILL_7","Arcade",,,,"KingOfHill","KingOfHill_7","Mordeus"
 "Ball26","true","TID_BALL_30","BBArena",,,,"BrawlBall","Laserball_26","Hypahn"
 "Ball27","true","TID_BALL_31","BBArena",,,,"BrawlBall","Laserball_27","DustyBud"
-"Ball28","true","TID_BALL_32","BBArena",,,,"BrawlBall","Laserball_28","S3nNy ツ"
-"Ball29",,"TID_BALL_33","BBArena",,,,"BrawlBall","Laserball_29","brawl123456789"
-"Ball30","true","TID_BALL_34","BBArena",,,,"BrawlBall","Laserball_30","Cloudy"
+"Ball28",,"TID_BALL_32","Grassfield",,,,"BrawlBall","Laserball_28","S3nNy ツ"
+"Ball29","true","TID_BALL_33","BBArena",,,,"BrawlBall","Laserball_29","brawl123456789"
+"Ball30",,"TID_BALL_34","GrassfieldBeachBall",,,,"BrawlBall","Laserball_30","Cloudy"
 "Survival34","true","TID_BATTLE_ROYALE_44","DefaultShowdown",,,,"Showdown","Survival_34","Mordeus"
 "SurvivalTeam34","true","TID_BATTLE_ROYALE_44","DefaultShowdown",,,,"DuoShowdown","Survival_34","Mordeus"
 "Ball6_PSG","true","TID_BALL_6","BBArena",,,,"BrawlBall","Laserball_6","Mordeus"
@@ -265,7 +265,7 @@
 "Siege15","true","TID_ROBO_WARS_15","Scrapyard",,,,"Siege","Siege_15","ChichoRD"
 "Siege16","true","TID_ROBO_WARS_16","Scrapyard",,,,"Siege","Siege_16","Joop"
 "Siege17","true","TID_ROBO_WARS_17","Scrapyard",,,,"Siege","Siege_17","OliveOil"
-"Wanted27","true","TID_WANTED_27","Bazaar",,,,"Bounty","Wanted_27","DustyBud"
+"Wanted27",,"TID_WANTED_27","Bazaar",,,,"Bounty","Wanted_27","DustyBud"
 "Wanted28","true","TID_WANTED_28","Bazaar",,,,"Bounty","Wanted_28","tentien"
 "Heist27","true","TID_BANKHEIST_27","Bazaar",,,,"Heist","Bankheist_27","Chief Pekka"
 "Heist28","true","TID_BANKHEIST_28","Bazaar",,,,"Heist","Bankheist_28","ChichoRD"
@@ -276,8 +276,8 @@
 "SurvivalTeam47","true","TID_BATTLE_ROYALE_47","DefaultShowdown",,,,"DuoShowdown","Survival_47","❤❤❤"
 "Survival49","true","TID_BATTLE_ROYALE_49","MortuaryShowdown",,,,"Showdown","Survival_49","iLast"
 "SurvivalTeam49","true","TID_BATTLE_ROYALE_49","MortuaryShowdown",,,,"DuoShowdown","Survival_49","iLast"
-"Survival50","true","TID_BATTLE_ROYALE_50","MortuaryShowdown",,,,"Showdown","Survival_50","Granny Smith"
-"SurvivalTeam50","true","TID_BATTLE_ROYALE_50","MortuaryShowdown",,,,"DuoShowdown","Survival_50","Granny Smith"
+"Survival50",,"TID_BATTLE_ROYALE_50","MortuaryShowdown",,,,"Showdown","Survival_50","Granny Smith"
+"SurvivalTeam50",,"TID_BATTLE_ROYALE_50","MortuaryShowdown",,,,"DuoShowdown","Survival_50","Granny Smith"
 "Survival51","true","TID_BATTLE_ROYALE_51","MortuaryShowdown",,,,"Showdown","Survival_51","Binnyboy"
 "SurvivalTeam51","true","TID_BATTLE_ROYALE_51","MortuaryShowdown",,,,"DuoShowdown","Survival_51","Binnyboy"
 "Survival52","true","TID_BATTLE_ROYALE_52","DefaultShowdown",,,,"Showdown","Survival_52","kawaiishark"
@@ -292,21 +292,21 @@
 "KingOfHill9","true","TID_GOLDRUSH_55","Arcade",,,,"KingOfHill","KingOfHill_9",
 "KingOfHill10","true","TID_KING_OF_HILL_28","Arcade",,,,"KingOfHill","KingOfHill_10","Collab❤"
 "KingOfHill11","true","TID_KING_OF_HILL_18","Arcade",,,,"KingOfHill","KingOfHill_11","Mordeus"
-"KingOfHill12","true","TID_KING_OF_HILL_22","CastleCourtyard",,,,"KingOfHill","KingOfHill_12","Mordeus"
+"KingOfHill12",,"TID_KING_OF_HILL_22","Arcade",,,,"KingOfHill","KingOfHill_12","Mordeus"
 "KingOfHill13",,"TID_KING_OF_HILL_23","Arcade",,,,"KingOfHill","KingOfHill_13","Mordeus"
-"KingOfHill14",,"TID_KING_OF_HILL_20","Brawlywood",,,,"KingOfHill","KingOfHill_14","Mordeus"
-"Wanted29",,"TID_GOLDRUSH_63","FightingGame",,,,"Bounty","Wanted_29","Frank™"
-"Gemgrab32","true","TID_GOLDRUSH_32T","Arcade",,,,"GemGrab","Gemgrab_32",
-"Gemgrab33","true","TID_GOLDRUSH_33T","Bazaar",,,,"GemGrab","Gemgrab_33",
-"Gemgrab34","true","TID_GOLDRUSH_34T","Bazaar",,,,"GemGrab","Gemgrab_34",
-"KingOfHill15","true","TID_KING_OF_HILL_15F","Bazaar",,,,"KingOfHill","KingOfHill_15F",
-"KingOfHill16",,"TID_KING_OF_HILL_16F","Mortuary",,,,"KingOfHill","KingOfHill_16F",
+"KingOfHill14","true","TID_KING_OF_HILL_20","Brawlywood",,,,"KingOfHill","KingOfHill_14","Mordeus"
+"Wanted29","true","TID_GOLDRUSH_63","FightingGame",,,,"Bounty","Wanted_29","Frank™"
+"Gemgrab32","true","TID_GOLDRUSH_32T","Default",,,,"GemGrab","Gemgrab_32",
+"Gemgrab33","true","TID_GOLDRUSH_33T","Default",,,,"GemGrab","Gemgrab_33",
+"Gemgrab34","true","TID_GOLDRUSH_34T","Default",,,,"GemGrab","Gemgrab_34",
+"KingOfHill15",,"TID_KING_OF_HILL_15F","Arcade",,,,"KingOfHill","KingOfHill_15F",
+"KingOfHill16",,"TID_KING_OF_HILL_16F","Default",,,,"KingOfHill","KingOfHill_16F",
 "Wanted30","true","TID_WANTED_30T","Bazaar",,,,"Bounty","Wanted_30",
 "Heist29","true","TID_BANKHEIST_29T","Default",,,,"Heist","Bankheist_29",
 "KingOfHill17","true","TID_KING_OF_HILL_30","Arcade",,,,"KingOfHill","KingOfHill_17",
 "KingOfHill18","true","TID_KING_OF_HILL_31","Arcade",,,,"KingOfHill","KingOfHill_18",
 "PlayerMapTemplate","true","TID_GOLDRUSH_1","Default",,,,"GemGrab","Gemgrab_1",
-"KingOfHill20",,"TID_KING_OF_HILL_20F","Mortuary",,,,"KingOfHill","KingOfHill_20F",
+"KingOfHill20",,"TID_KING_OF_HILL_20F","Bazaar",,,,"KingOfHill","KingOfHill_20F",
 "Graves9","true","TID_BATTLE_ROYALE_47","MortuaryShowdownHW",,,,"Showdown","Survival_47","❤❤❤"
 "GravesTeam9","true","TID_BATTLE_ROYALE_47","MortuaryShowdownHW",,,,"DuoShowdown","Survival_47","❤❤❤"
 "Graves10","true","TID_BATTLE_ROYALE_49","MortuaryShowdownHW",,,,"Showdown","Survival_49","iLast"
@@ -327,7 +327,7 @@
 "BossFight6","true","TID_BOSS_7","Default",,,,"BigGame","BossFight_6",
 "Raid5","true","TID_RAID_4","DefaultShowdown",,,,"BossFight","Raid_5",
 "Raid6","true","TID_RAID_5","MortuaryShowdown",,,,"BossFight","Raid_6",
-"Gemgrab35","true","TID_GOLDRUSH_35C","CastleCourtyard",,,,"GemGrab","Gemgrab_35","*.+Ľûpųş+.*"
+"Gemgrab35",,"TID_GOLDRUSH_35C","Biodome",,,,"GemGrab","Gemgrab_35","*.+Ľûpųş+.*"
 "CaptureTheFlag9","true","TID_TROPHYTHIEVES_08","Arcade",,,,"CTF","CaptureTheFlag_9",
 "CaptureTheFlag10","true","TID_TROPHYTHIEVES_09","Arcade",,,,"CTF","CaptureTheFlag_10",
 "CaptureTheFlag11","true","TID_TROPHYTHIEVES_10","Arcade",,,,"CTF","CaptureTheFlag_11",
@@ -343,9 +343,9 @@
 "Ball34","true","TID_JAN2021MAPS_31","Grassfield",,,,"BrawlBall","Laserball_34","Mordeus"
 "Ball35","true","TID_JAN2021MAPS_7","BBArena",,,,"BrawlBall","Laserball_35","Frep"
 "Ball36","true","TID_JAN2021MAPS_8","BBArena",,,,"BrawlBall","Laserball_36","Ellisimo"
-"Gemgrab36","true","TID_JAN2021MAPS_4","CastleCourtyard",,,,"GemGrab","Gemgrab_36","TR | Miqu3"
-"Gemgrab37","true","TID_JAN2021MAPS_3","Brawlywood",,,,"GemGrab","Gemgrab_37","BK|PoneySwagg"
-"Gemgrab38","true","TID_JAN2021MAPS_17","Brawlywood",,,,"GemGrab","Gemgrab_38","RealCanadian"
+"Gemgrab36","true","TID_JAN2021MAPS_4","Default",,,,"GemGrab","Gemgrab_36","TR | Miqu3"
+"Gemgrab37","true","TID_JAN2021MAPS_3","Default",,,,"GemGrab","Gemgrab_37","BK|PoneySwagg"
+"Gemgrab38","true","TID_JAN2021MAPS_17","Default",,,,"GemGrab","Gemgrab_38","RealCanadian"
 "Heist21","true","TID_JAN2021MAPS_19","CastleCourtyard",,,,"Heist","Bankheist_21","FeFaLah"
 "Heist22","true","TID_JAN2021MAPS_20","CastleCourtyard",,,,"Heist","Bankheist_22","BiohazarD"
 "KingOfHill21","true","TID_JAN2021MAPS_15","Arcade",,,,"KingOfHill","KingOfHill_21","TooManyPelican"
@@ -360,16 +360,16 @@
 "ProtectKing4","true","MAP 4","CastleCourtyard",,,,"ProtectKing","Gemgrab_4",
 "ProtectKing5","true","MAP 5","Default",,,,"ProtectKing","Wanted_9",
 "ProtectKing6","true","MAP 6","Bazaar",,,,"ProtectKing","Gemgrab_7",
-"Knockout1",,"TID_KNOCKOUT_01","CastleCourtyard",,,,"Knockout","Knockout_1",
-"Knockout2",,"TID_KNOCKOUT_02","Mortuary",,,,"Knockout","Knockout_2",
+"Knockout1","true","TID_KNOCKOUT_01","CastleCourtyard",,,,"Knockout","Knockout_1",
+"Knockout2","true","TID_KNOCKOUT_02","Mortuary",,,,"Knockout","Knockout_2",
 "Knockout3","true","TID_KNOCKOUT_03","CastleCourtyard",,,,"Knockout","Knockout_3",
 "Knockout4","true","TID_KNOCKOUT_04","CastleCourtyard",,,,"Knockout","Knockout_4",
 "Knockout5","true","TID_KNOCKOUT_05","CastleCourtyard",,,,"Knockout","Knockout_5",
 "Knockout6","true","TID_KNOCKOUT_06","CastleCourtyard",,,,"Knockout","Knockout_6",
 "Knockout7","true","TID_KNOCKOUT_07","CastleCourtyard",,,,"Knockout","Knockout_7",
-"Knockout8",,"TID_MAR2021MAPS_14","CastleCourtyard",,,,"Knockout","Knockout_8",
-"Knockout9",,"TID_MAR2021MAPS_10","Brawlywood",,,,"Knockout","Knockout_9",
-"Knockout10","true","TID_MAR2021MAPS_8","CastleCourtyard",,,,"Knockout","Knockout_10",
+"Knockout8",,"TID_MAR2021MAPS_14","Default",,,,"Knockout","Knockout_8",
+"Knockout9",,"TID_MAR2021MAPS_10","Default",,,,"Knockout","Knockout_9",
+"Knockout10",,"TID_MAR2021MAPS_8","Biodome",,,,"Knockout","Knockout_10",
 "HoldTheBall6","true","TID_HOLDTROPHY_06","Arcade",,,,"HoldTheBall","Dribble_06",
 "HoldTheBall7","true","TID_HOLDTROPHY_07","Arcade",,,,"HoldTheBall","Dribble_07",
 "HoldTheBall8","true","TID_HOLDTROPHY_08","Arcade",,,,"HoldTheBall","Dribble_08",
@@ -391,29 +391,29 @@
 "BasketBrawl5","true","TID_BASKET_05","ArcadeBasket",,,,"BasketBrawl","BasketBrawl_5",
 "BasketBrawl6","true","TID_BASKET_06","ArcadeBasket",,,,"BasketBrawl","BasketBrawl_6",
 "BasketBrawl7","true","TID_BASKET_07","ArcadeBasket",,,,"BasketBrawl","BasketBrawl_7",
-"Survival56",,"TID_SD_JUNE21_1","MortuaryShowdown",,,,"Showdown","Survival_56","Mordeus"
-"SurvivalTeam56",,"TID_SD_JUNE21_1","MortuaryShowdown",,,,"DuoShowdown","Survival_56","Mordeus"
+"Survival56","true","TID_SD_JUNE21_1","MortuaryShowdown",,,,"Showdown","Survival_56","Mordeus"
+"SurvivalTeam56","true","TID_SD_JUNE21_1","MortuaryShowdown",,,,"DuoShowdown","Survival_56","Mordeus"
 "Survival58","true","TID_SD_JUNE21_3","DefaultShowdown",,,,"Showdown","Survival_58","DarkKnight"
 "SurvivalTeam58","true","TID_SD_JUNE21_3","DefaultShowdown",,,,"DuoShowdown","Survival_58","DarkKnight"
 "Survival59","true","TID_SD_JUNE21_4","MortuaryShowdown",,,,"Showdown","Survival_59","nitis"
 "SurvivalTeam59","true","TID_SD_JUNE21_4","MortuaryShowdown",,,,"DuoShowdown","Survival_59","nitis"
-"Survival60",,"TID_SD_JUNE21_5","MortuaryShowdown",,,,"Showdown","Survival_60","Vortex12"
-"SurvivalTeam60",,"TID_SD_JUNE21_5","MortuaryShowdown",,,,"DuoShowdown","Survival_60","Vortex12"
+"Survival60","true","TID_SD_JUNE21_5","MortuaryShowdown",,,,"Showdown","Survival_60","Vortex12"
+"SurvivalTeam60","true","TID_SD_JUNE21_5","MortuaryShowdown",,,,"DuoShowdown","Survival_60","Vortex12"
 "Survival61","true","TID_SD_JUNE21_6","DefaultShowdown",,,,"Showdown","Survival_61",
 "SurvivalTeam61","true","TID_SD_JUNE21_6","DefaultShowdown",,,,"DuoShowdown","Survival_61",
 "Survival62","true","JUNEMAP7_PLACEHOLDER","MortuaryShowdown",,,,"Showdown","Survival_62",
 "SurvivalTeam62","true","JUNEMAP7_PLACEHOLDER","MortuaryShowdown",,,,"DuoShowdown","Survival_62",
-"Gemgrab39","true","TID_GG_JUNE21_1","Brawlywood",,,,"GemGrab","Gemgrab_39","PhotonWinz"
-"Gemgrab40",,"TID_GG_JUNE21_2","Mortuary",,,,"GemGrab","Gemgrab_40","Pufferfish"
-"Gemgrab41","true","TID_GG_JUNE21_3","Arcade",,,,"GemGrab","Gemgrab_41","Imfernol"
-"Gemgrab42","true","TID_GG_JUNE21_4","CastleCourtyard",,,,"GemGrab","Gemgrab_42","Goomy4"
-"Gemgrab43","true","TID_GG_JUNE21_5","Arcade",,,,"GemGrab","Gemgrab_43",
-"Gemgrab44","true","JUNEMAP6_PLACEHOLDER","Mine",,,,"GemGrab","Gemgrab_44",
+"Gemgrab39","true","TID_GG_JUNE21_1","Default",,,,"GemGrab","Gemgrab_39","PhotonWinz"
+"Gemgrab40","true","TID_GG_JUNE21_2","Default",,,,"GemGrab","Gemgrab_40","Pufferfish"
+"Gemgrab41","true","TID_GG_JUNE21_3","Default",,,,"GemGrab","Gemgrab_41","Imfernol"
+"Gemgrab42","true","TID_GG_JUNE21_4","Default",,,,"GemGrab","Gemgrab_42","Goomy4"
+"Gemgrab43","true","TID_GG_JUNE21_5","Default",,,,"GemGrab","Gemgrab_43",
+"Gemgrab44","true","JUNEMAP6_PLACEHOLDER","Default",,,,"GemGrab","Gemgrab_44",
 "Ball37","true","TID_BB_JUNE21_1","BBArena",,,,"BrawlBall","Laserball_37","OwenReds"
 "Ball38","true","TID_BB_JUNE21_2","BBArena",,,,"BrawlBall","Laserball_38","Ellisimo"
 "Ball39","true","TID_BB_JUNE21_3","BBArena",,,,"BrawlBall","Laserball_39","Cloudy"
 "Ball40","true","TID_BB_JUNE21_4","BBArena",,,,"BrawlBall","Laserball_40","Galactic"
-"Ball41",,"TID_BB_JUNE21_5","BBArena",,,,"BrawlBall","Laserball_41","amazingSuper"
+"Ball41","true","TID_BB_JUNE21_5","BBArena",,,,"BrawlBall","Laserball_41","amazingSuper"
 "Ball42","true","JUNEMAP6_PLACEHOLDER","BBArena",,,,"BrawlBall","Laserball_42",
 "Ball43","true","JUNEMAP7_PLACEHOLDER","BBArena",,,,"BrawlBall","Laserball_43",
 "Heist23","true","TID_HEIST_JUNE21_1","CastleCourtyard",,,,"Heist","Bankheist_23","STB"
@@ -428,36 +428,36 @@
 "Wanted22","true","TID_BOUNTY_JUNE21_2","CastleCourtyard",,,,"Bounty","Wanted_22",
 "Siege20","true","TID_SIEGE_JUNE21_1","Scrapyard",,,,"Siege","Siege_20","RealCanadian ;D"
 "Siege21","true","TID_SIEGE_JUNE21_2","Scrapyard",,,,"Siege","Siege_21",
-"Knockout11","true","TID_KO_JUNE21_1","Brawlywood",,,,"Knockout","Knockout_11",
-"Knockout12",,"TID_KO_JUNE21_2","FightingGame",,,,"Knockout","Knockout_12",
-"Survival63",,"TID_SHOWDOWN_63","DefaultShowdown",,,,"Showdown","Survival_63","DeterminedDaaf"
-"SurvivalTeam63",,"TID_SHOWDOWN_63","DefaultShowdown",,,,"DuoShowdown","Survival_63","DeterminedDaaf"
+"Knockout11",,"TID_KO_JUNE21_1","Bazaar",,,,"Knockout","Knockout_11",
+"Knockout12","true","TID_KO_JUNE21_2","FightingGame",,,,"Knockout","Knockout_12",
+"Survival63","true","TID_SHOWDOWN_63","DefaultShowdown",,,,"Showdown","Survival_63","DeterminedDaaf"
+"SurvivalTeam63","true","TID_SHOWDOWN_63","DefaultShowdown",,,,"DuoShowdown","Survival_63","DeterminedDaaf"
 "Survival64","true","SD_AUGCOMP3","DefaultShowdown",,,,"Showdown","Survival_64",
 "SurvivalTeam64","true","SD_AUGCOMP4","DefaultShowdown",,,,"DuoShowdown","Survival_64",
 "Survival65","true","SD_AUGCOMP5","DefaultShowdown",,,,"Showdown","Survival_65",
 "SurvivalTeam65","true","SD_AUGCOMP6","DefaultShowdown",,,,"DuoShowdown","Survival_65",
-"Survival66",,"TID_SHOWDOWN_66","DefaultShowdown",,,,"Showdown","Survival_66","Pon4ik"
-"SurvivalTeam66",,"TID_SHOWDOWN_66","DefaultShowdown",,,,"DuoShowdown","Survival_66","Pon4ik"
-"Knockout13",,"TID_KNOCKOUT_13","Brawlywood",,,,"Knockout","Knockout_13","Poierg"
+"Survival68","true","TID_SHOWDOWN_68","DefaultShowdown",,,,"Showdown","Survival_69",
+"SurvivalTeam68","true","TID_SHOWDOWN_68","DefaultShowdown",,,,"DuoShowdown","Survival_69",
+"Knockout13","true","TID_KNOCKOUT_13","Brawlywood",,,,"Knockout","Knockout_13","Poierg"
 "Knockout14","true","KO_AUGCOMP2","FightingGame",,,,"Knockout","Knockout_14",
-"Knockout15",,"TID_KNOCKOUT_15","FightingGame",,,,"Knockout","Knockout_15","JavQuek"
-"Heist30",,"TID_HEIST_30","FightingGame",,,,"Heist","Bankheist_30","my name is.."
+"Knockout15",,"TID_KNOCKOUT_15","Biodome",,,,"Knockout","Knockout_15","JavQuek"
+"Heist30","true","TID_HEIST_30","FightingGame",,,,"Heist","Bankheist_30","my name is.."
 "Heist31","true","HEIST_AUGCOMP2","FightingGame",,,,"Heist","Bankheist_31",
-"Heist32",,"TID_HEIST_32","Brawlywood",,,,"Heist","Bankheist_32","TooManyPelican"
-"Wanted23",,"TID_BOUNTY_23","FightingGame",,,,"Bounty","Wanted_23","MagicalAz1"
-"Wanted24",,"TID_BOUNTY_24","Brawlywood",,,,"Bounty","Wanted_24","Edy"
+"Heist32","true","TID_HEIST_32","Brawlywood",,,,"Heist","Bankheist_32","TooManyPelican"
+"Wanted23","true","TID_BOUNTY_23","FightingGame",,,,"Bounty","Wanted_23","MagicalAz1"
+"Wanted24","true","TID_BOUNTY_24","Brawlywood",,,,"Bounty","Wanted_24","Edy"
 "Wanted25","true","BOUNTY_AUGCOMP2","FightingGame",,,,"Bounty","Wanted_25",
 "Siege22","true","SIEGE_AUGCOMP1","Scrapyard",,,,"Siege","Siege_22",
-"Siege23",,"TID_SIEGE_23","Scrapyard",,,,"Siege","Siege_23","fatbeandee"
-"Siege24",,"TID_SIEGE_24","Scrapyard",,,,"Siege","Siege_24","DustyBud"
-"KingOfHill29",,"TID_HOTZONE_29","FightingGame",,,,"KingOfHill","KingOfHill_29","TooManyPelican"
+"Siege23","true","TID_SIEGE_23","Scrapyard",,,,"Siege","Siege_23","fatbeandee"
+"Siege24","true","TID_SIEGE_24","Scrapyard",,,,"Siege","Siege_24","DustyBud"
+"KingOfHill29","true","TID_HOTZONE_29","FightingGame",,,,"KingOfHill","KingOfHill_29","TooManyPelican"
 "KingOfHill30","true","HZ_AUGCOMP2","FightingGame",,,,"KingOfHill","KingOfHill_30",
-"KingOfHill31",,"TID_HOTZONE_31","FightingGame",,,,"KingOfHill","KingOfHill_31","Oblivious | Vibez"
+"KingOfHill31","true","TID_HOTZONE_31","FightingGame",,,,"KingOfHill","KingOfHill_31","Oblivious | Vibez"
 "Ball44","true","BB_AUGCOMP1","Grassfield",,,,"BrawlBall","Laserball_44",
-"Ball45",,"TID_BRAWLBALL_45","Grassfield",,,,"BrawlBall","Laserball_45","IAmBread"
-"Ball46",,"TID_BRAWLBALL_46","Grassfield",,,,"BrawlBall","Laserball_46","Oski_01"
-"Gemgrab45",,"TID_GEMGRAB_45","FightingGame",,,,"GemGrab","Gemgrab_45","Brunoistrash"
-"Gemgrab46",,"TID_GEMGRAB_46","FightingGame",,,,"GemGrab","Gemgrab_46","Lost Lukas"
+"Ball45","true","TID_BRAWLBALL_45","Grassfield",,,,"BrawlBall","Laserball_45","IAmBread"
+"Ball46","true","TID_BRAWLBALL_46","Grassfield",,,,"BrawlBall","Laserball_46","Oski_01"
+"Gemgrab45","true","TID_GEMGRAB_45","Default",,,,"GemGrab","Gemgrab_45","Brunoistrash"
+"Gemgrab46","true","TID_GEMGRAB_46","Default",,,,"GemGrab","Gemgrab_46","Lost Lukas"
 "Gemgrab47","true","GG_AUGCOMP3","FightingGame",,,,"GemGrab","Gemgrab_47",
 "TagTeam1","true","TID_TAGTEAM_1","FightingGame",,,,"TagTeam","TagTeam_1",
 "TagTeam2","true","TID_TAGTEAM_2","FightingGame",,,,"TagTeam","TagTeam_2",
@@ -471,3 +471,43 @@
 "TagTeam10","true","TID_TAGTEAM_10","FightingGame",,,,"TagTeam","TagTeam_10",
 "TagTeam11","true","TID_TAGTEAM_11","FightingGame",,,,"TagTeam","TagTeam_11",
 "TagTeam12","true","TID_TAGTEAM_12","FightingGame",,,,"TagTeam","TagTeam_12",
+"Deathmatch1","true","TID_DEATHMATCH_1","Mortuary",,,,"Deathmatch","Deathmatch_1","Mordeus"
+"Payload1","true","TID_PAYLOAD_1","Biodome",,,,"Payload","Payload_1",
+"Payload2","true","TID_PAYLOAD_2","Biodome",,,,"Payload","Payload_2",
+"Payload3","true","TID_PAYLOAD_3","Biodome",,,,"Payload","Payload_3",
+"Payload4","true","TID_PAYLOAD_4","Biodome",,,,"Payload","Payload_4",
+"Deathmatch2","true","TID_DEATHMATCH_2","Default",,,,"Deathmatch","Deathmatch_2","Mordeus"
+"Deathmatch3","true","TID_DEATHMATCH_3","Biodome",,,,"Deathmatch","Deathmatch_3","Mordeus"
+"Deathmatch4","true","TID_DEATHMATCH_4","Bazaar",,,,"Deathmatch","Deathmatch_4","Mordeus"
+"Deathmatch5","true","TID_DEATHMATCH_5","FightingGame",,,,"Deathmatch","Deathmatch_5","Mordeus"
+"Deathmatch6","true","TID_DEATHMATCH_6","Arcade",,,,"Deathmatch","Deathmatch_6","Mordeus"
+"Deathmatch7","true","TID_DEATHMATCH_7","Biodome",,,,"Deathmatch","Deathmatch_7","Mordeus"
+"Deathmatch8","true","TID_DEATHMATCH_OLD","Mortuary",,,,"Deathmatch","Knockout_7",
+"Deathmatch9","true","TID_DEATHMATCH_OLD","Mortuary",,,,"Deathmatch","Knockout_8",
+"Deathmatch10","true","TID_DEATHMATCH_OLD","Mortuary",,,,"Deathmatch","Knockout_9",
+"Deathmatch11","true","TID_DEATHMATCH_OLD","Mortuary",,,,"Deathmatch","Knockout_10",
+"Gemgrab48",,"TID_GEMGRAB_48","Default",,,,"GemGrab","Gemgrab_48",
+"SurvivalTutorial","true","TID_TUTORIAL_SD_FIRST","IslandShowdown",,,,"Showdown","Survival_Tutorial",
+"Payload5","true","TID_PAYLOAD_5","Arcade",,,,"Payload","Payload_5","Mordeus"
+"Payload6","true","TID_PAYLOAD_6","Biodome",,,,"Payload","Payload_6","Mordeus"
+"Payload7","true","TID_PAYLOAD_7","Arcade",,,,"Payload","Payload_7","Mordeus"
+"Payload8","true","TID_PAYLOAD_8","Arcade",,,,"Payload","Payload_8","Mordeus"
+"Payload9","true","TID_PAYLOAD_9","Arcade",,,,"Payload","Payload_9","Mordeus"
+"Payload10","true","TID_PAYLOAD_10","Arcade",,,,"Payload","Payload_10","Mordeus"
+"Payload11","true","TID_PAYLOAD_11","Biodome",,,,"Payload","Payload_11","Mordeus"
+"Payload12","true","TID_PAYLOAD_12","Biodome",,,,"Payload","Payload_12","Mordeus"
+"Payload13","true","TID_PAYLOAD_13","Arcade",,,,"Payload","Payload_13","Mordeus"
+"Payload14","true","TID_PAYLOAD_14","Biodome",,,,"Payload","Payload_14","Mordeus"
+"Payload15","true","TID_PAYLOAD_15","Arcade",,,,"Payload","Payload_15","Mordeus"
+"Gemgrab49",,"TID_GEMGRAB_49","FightingGame",,,,"GemGrab","Gemgrab_49","Mordeus"
+"Ball47",,"TID_BRAWLBALL_47","GrassfieldBeachBall",,,,"BrawlBall","Laserball_47","Mordeus"
+"Knockout16",,"TID_KNOCKOUT_16","FightingGame",,,,"Knockout","Knockout_16","iLast"
+"Knockout17",,"TID_KNOCKOUT_17","Bazaar",,,,"Knockout","Knockout_17",
+"KingOfHill32",,"TID_HOTZONE_32","Default",,,,"KingOfHill","KingOfHill_32","Dr. No"
+"Ball48",,"TID_BRAWLBALL_48","GrassfieldBeachBall",,,,"BrawlBall","Laserball_48","Volt"
+"Gemgrab50",,"TID_GEMGRAB_50","FightingGame",,,,"GemGrab","Gemgrab_50","Shroky"
+"Gemgrab51",,"TID_GEMGRAB_51","Default",,,,"GemGrab","Gemgrab_51","Schnauzer"
+"Survival69",,"TID_SHOWDOWN_69","DefaultShowdown",,,,"Showdown","Survival_69","gradient33"
+"SurvivalTeam69",,"TID_SHOWDOWN_69","DefaultShowdown",,,,"DuoShowdown","Survival_69","gradient33"
+"Survival70",,"TID_SHOWDOWN_70","MortuaryShowdown",,,,"Showdown","Survival_70",
+"SurvivalTeam70",,"TID_SHOWDOWN_70","MortuaryShowdown",,,,"DuoShowdown","Survival_70",
