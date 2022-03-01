@@ -35,8 +35,10 @@ TID_BRAWL_PASS_PREVIOUS_SEASON,PREVIOUS SEASON
 TID_BRAWL_PASS_PREVIOUS_SEASON_INFO,TAP HERE TO CLAIM REWARDS!
 TID_BRAWL_PASS_UNLOCK_INFO,PREMIUM REWARDS LOCKED!
 TID_BRAWL_PASS_UNLOCK_LABEL,UNLOCK
+TID_BRAWLPASS_PURCHASE_ERROR_3,This Brawl Pass season has already been purchased.
 TID_BRAWLPASS_PURCHASE_ERROR_4,"Sorry, this Brawl Pass is no longer available!"
 TID_BRAWLPASS_PURCHASE_ERROR_5,"Cannot purchase BRAWL PASS BUNDLE, you have already earned all the rewards!"
+TID_BRAWLPASS_PURCHASE_ERROR_6,Brawl Pass purchase not allowed with negative gem balance
 TID_PURCHASE_BRAWL_PASS_PROGRESS_TITLE,ADVANCE TIER?
 TID_PURCHASE_BRAWL_PASS_PROGRESS_INFO,Buy <NUM> Tokens and advance to the next Tier?
 TID_PURCHASE_BRAWL_PASS_TITLE,GET BRAWL PASS!
@@ -44,6 +46,9 @@ TID_PURCHASE_BRAWL_PASS_TITLE_PLAIN,BRAWL PASS
 TID_PURCHASE_BRAWL_PASS_TITLE_BUNDLE,BRAWL PASS BUNDLE
 TID_PURCHASE_BRAWL_PASS_INFO_PLAIN,Unlock Brawl Pass Rewards and extra Quests
 TID_PURCHASE_BRAWL_PASS_INFO_BUNDLE,BRAWL PASS + <NUM> TIERS
+TID_BRAWL_PASS_CANNOT_PURCHASE_BRAWL_PASS_FOR_PAST_SEASON,Past Brawl Pass seasons cannot be purchased
+TID_BRAWL_PASS_CANNOT_PURCHASE_NO_SEASON_FOUND,"Current Brawl Pass season cannot be found, please try again later."
+TID_BRAWL_PASS_CANNOT_PURCHASE_ALREADY_UNLOCKED,Current Brawl Pass season has been already unlocked
 TID_TAKEDOWNS_LABEL,TAKEDOWNS
 TID_DEFEAT_LABEL,DEFEAT
 TID_UNDERDOG,UNDERDOG
@@ -848,14 +853,14 @@ TID_BATTLE_END_GAIN_LABEL_COIN_DOUBLER,Tokens remaining:
 TID_BATTLE_END_COIN_REWARDS,TOKEN REWARDS
 TID_BATTLE_END_MVP,STAR PLAYER
 TID_BATTLE_END_DEFEAT_INFO,Better luck next time!
-TID_TUTORIAL_1,"Hi, I'm Shelly! Let's collect all those <ce662f9>GEMS</c>! <c0066ff>DRAG</c> the <c0066ff>BLUE CONTROL</c> with your left thumb to get me moving."
-TID_TUTORIAL_2,Gotta collect them all! These <ce662f9>GEMS</c> are mine!
+TID_TUTORIAL_1,"Hi, I'm Shelly! Let's collect all those <c50d050>POWER CUBES</c>! <c0066ff>DRAG</c> the <c0066ff>BLUE CONTROL</c> with your left thumb to get me moving."
+TID_TUTORIAL_2,Gotta collect them all! These <c50d050>POWER CUBES</c> are mine!
 TID_TUTORIAL_3,"Robo targets! <ccc0033>DRAG</c> the <ccc0033>RED CONTROL</c> with your right thumb to aim your shots, and release to fire. Destroy the robos!"
 TID_TUTORIAL_GOOD_JOB_1,Good job!
 TID_TUTORIAL_5,More targets! You can <ccc0033>TAP</c> the <ccc0033>RED CONTROL</c> to shoot at the closest enemy. Destroy the robos!
 TID_TUTORIAL_6,"Now use your Super to shoot the BOSS behind the wall! <cff9900>DRAG</c> the <cff9900>YELLOW CONTROL</c> to aim your Super, and release to fire!"
 TID_TUTORIAL_555,"Nice, keep going!"
-TID_TUTORIAL_7,"Good job! We've got the <ce662f9>GEMS</c>, let's head towards the exit!"
+TID_TUTORIAL_7,"Good job! We've got the <c50d050>POWER CUBES</c>, let's head towards the exit!"
 TID_TUTORIAL_8,Hitting enemies charges your Super. Use the <cff9900>yellow control</c> to attack the enemies with your Super!
 TID_TUTORIAL_9,"You're a natural Brawler!\n\nNow, let's go get 'em!"
 TID_TUTORIAL_10,Attacking targets charges up the Super attack meter. My Super is ready now!\nTap the Super button!
@@ -1389,7 +1394,7 @@ TID_SETTINGS_BUTTON_FACEBOOK_CONNECTED_UP,CONNECTED
 TID_SETTINGS_BUTTON_FACEBOOK_DISCONNECTED_UP,CONNECT
 TID_FAQ_BUTTON,Help and Support
 TID_ABOUT_TERMS,All use of this software is subject to Terms and Conditions and Privacy Policy at www.supercell.com.
-TID_ABOUT,Credits\n\n<names>\n\nBrawl Stars ™ <version>\nCopyright 2016-2021 Supercell Ltd. All Rights Reserved.\n<extracopyright>\n<terms>
+TID_ABOUT,Credits\n\n<names>\n\nBrawl Stars ™ <version>\nCopyright 2016-2022 Supercell Ltd. All Rights Reserved.\n<extracopyright>\n<terms>
 TID_IAP_TRANSACTION_PENDING,Please wait. Transaction is pending.
 TID_RATE_APP_TITLE,Rate Brawl Stars
 TID_RATE_APP_MESSAGE,Please rate or review Brawl Stars on App Store to give us valuable feedback!
@@ -1629,7 +1634,7 @@ TID_SPEC_ABI_HEAL_OTHERS_MAIN_ATTACK,MAMA'S HUG
 TID_SPEC_BOUNCED_BULLETS_STRONGER,SUPER BOUNCY
 TID_SPEC_ABI_FIRE_DOT_ULTI,EL FUEGO
 TID_SPEC_LAST_STAND,SWAN SONG
-TID_SPEC_BURN,INCENDIARY
+TID_SPEC_BURN,MORE ROCKETS!
 TID_SPEC_CRIPPLE,EXTRA TOXIC
 TID_SPEC_ABI_BARREL_DEFENSE,STEEL HOOPS
 TID_SPEC_HEAL_MAIN_ATTACK,DA CAPO!
@@ -1654,7 +1659,7 @@ TID_SPEC_ABI_HEAL_OTHERS_MAIN_ATTACK_DESC,"Whenever Pam hits enemy brawlers with
 TID_SPEC_BOUNCED_BULLETS_STRONGER_DESC,"Rico's bullets, from attack and Super alike, get supercharged by their first bounce and deal +<c00cc00><VALUE1></c> damage!"
 TID_SPEC_ABI_FIRE_DOT_ULTI_DESC,Enemies caught in El Primo's Super will burn for <c00cc00><VALUE1></c> damage over 4 seconds.
 TID_SPEC_LAST_STAND_DESC,Poco plays his swan song at the very moment he expires. Friendly Brawlers around him recover <c00cc00><VALUE1></c> health!
-TID_SPEC_BURN_DESC,The impact of Brock's attack sets the ground on fire. Enemies in the area take <c00cc00><VALUE1></c> damage per second! Lasts for 2 seconds.
+TID_SPEC_BURN_DESC,Rocket Rain now rains down <c00cc00><VALUE1>%</c> more rockets.
 TID_SPEC_ABI_BARREL_DEFENSE_DESC,After Barrel Roll all damage Darryl takes is reduced by <c00cc00><VALUE2>%</c> for <c00cc00><VALUE1></c> seconds.
 TID_SPEC_CRIPPLE_DESC,"Crow's poison saps the strength of enemies, who deal <c00cc00><VALUE1>%</c> less damage while poisoned."
 TID_BATTLE_ROYALE_7,Double Trouble
@@ -1720,7 +1725,7 @@ TID_BRAWL_BOX_INFO_1,"A Big Box gives rewards similar to opening 3 Brawl Boxes. 
 TID_BRAWL_BOX_INFO_2,"Each Brawl Box contains one of the following: a new Brawler, Power Points & Coins, Gear Tokens & Scrap, a Gadget, or a Star Power. Additionally, you can also get bonus Token Doublers.\n\nReward probabilities are:"
 TID_BRAWL_BOX_INFO_3,"A Mega Box gives you rewards similar to opening 10 Brawl Boxes. However, the Power Points are distributed among fewer Brawlers. Gear Tokens are gathered to one Token type.\n\nYou get 10 random draws, each with these reward probabilities:"
 TID_BRAWL_BOX_INFO_CATEGORIES,\n\n<CATEGORY1> : <NUM1>%\nRare Brawler : <NUM2>%<GAR_HERO_1>\nSuper Rare Brawler : <NUM3>%<GAR_HERO_2>\nEpic Brawler : <NUM4>%<GAR_HERO_3>\nMythic Brawler : <NUM5>%<GAR_HERO_4>\nLegendary Brawler : <NUM6>%<GAR_HERO_5>\nStar Power : <NUM7>%<GAR_STAR_POWER>\nGadget : <NUM8>%<GAR_ACCESSORY>\nGear Tokens: <NUM9>%
-TID_BRAWL_BOX_INFO_FOOTER,"\n\nIn addition, each draw gives you a <TOKEN_DOUBLER>% chance to get a Token Doubler. Gadgets are only available once Brawlers have reached Power Level 7. Star Powers are only available for Brawlers with Power Level 9. Scrap and Gear Tokens are only available once Brawlers have reached Power Level 10. Once you have unlocked all rewards of a certain type, for example Rare Brawlers, the probability to get all other rewards will increase. Luck: In order to make the Brawl Box opening experience fairer, there is a luck system affecting the probability of Legendary Brawlers. With each draw that doesn't give you a new Brawler, your luck value is increased. Each time you get a new Brawler, your luck value decreases based on the rarity of the Brawler you got. When luck is high enough, you have a higher chance to get a Legendary Brawler, chance will not go higher than <MAX_LEGENDARY>%. Conversely, low luck means that you have a lesser chance to get a new Legendary Brawler. Early draws are predetermined to ensure a fair start for everybody."
+TID_BRAWL_BOX_INFO_FOOTER,"\n\nIn addition, each draw gives you a <TOKEN_DOUBLER>% chance to get a Token Doubler. Gadgets are only available once Brawlers have reached Power Level 7. Star Powers are only available for Brawlers with Power Level 9. Scrap and Gear Tokens are only available once Brawlers have reached Power Level 10. After unlocking <WCPP_BRAWLERS> brawlers there will be a <WCPP_CHANCE>% chance that power points can be assigned to any brawler. Once you have unlocked all rewards of a certain type, for example Rare Brawlers, the probability to get all other rewards will increase. Luck: In order to make the Brawl Box opening experience fairer, there is a luck system affecting the probability of Legendary Brawlers. With each draw that doesn't give you a new Brawler, your luck value is increased. Each time you get a new Brawler, your luck value decreases based on the rarity of the Brawler you got. When luck is high enough, you have a higher chance to get a Legendary Brawler, chance will not go higher than <MAX_LEGENDARY>%. Conversely, low luck means that you have a lesser chance to get a new Legendary Brawler. Early draws are predetermined to ensure a fair start for everybody."
 TID_BRAWL_BOX_INFO_POWER_POINTS_AND_COINS,Power Points + Coins
 TID_BRAWL_BOX_INFO_POWER_POINTS_COINS_AND_SCRAP,Power Points + Coins + Scrap
 TID_BRAWL_BOX_INFO_COINS_AND_SCRAP,Coins + Scrap
@@ -1789,7 +1794,7 @@ TID_HINT_19,QUICKFIRE works well on enemies that move straight towards you or aw
 TID_HINT_20,"When you are inside a bush, enemies can see you if you attack or take damage."
 TID_HINT_21,You can use bushes to hide from enemies.
 TID_HINT_22,"When you use QUICKFIRE, it will fire your weapon even if there are no enemies in range."
-TID_VS_TUTORIAL,Collect all <ce662f9>GEMS</c>
+TID_VS_TUTORIAL,Collect all <c50d050>POWER CUBES</c>!
 TID_USE_MANUAL_FIRE_TUTORIAL,DRAG the <ccc0033>red control</c> to aim!
 TID_TUTORIAL_GOOD_JOB_2,Good job! The <cff6633>ORANGE BARS</c> show your ammo. I'll reload as fast as I can.
 TID_TUTORIAL_GOOD_JOB_3,Good job! Attacking enemies charges up your <cff9900>SUPER ATTACK</c>!
@@ -2030,8 +2035,10 @@ TID_EVENT_MODIFIER_15,SHOWDOWN+
 TID_EVENT_MODIFIER_DESC_15,"Receive extra trophies for every opponent you defeat, but also lose some when you are defeated!"
 TID_EVENT_MODIFIER_16,PEEK-A-BOO
 TID_EVENT_MODIFIER_DESC_16,"Every now and then, all brawlers go invisible!"
+TID_EVENT_MODIFIER_17,BURNING BALL
+TID_EVENT_MODIFIER_DESC_17,"Amber has been careless with her fire fluid and has set the ball on fire! Not only does it deal damage to anyone who touches it, the ball also breaks walls now! So much heat!"
 TID_BALL_5,BB Fort
-TID_BALL_6,Super Stadium
+TID_BALL_6,Super Beach
 TID_BALL_7,Puddle Splash
 TID_BANKHEIST_8,Bone Tunnel
 TID_EVENT_MODIFIER_DESC_3_SD,Gathering close with your friends can be dangerous when huge rocks are falling from the sky!
@@ -2863,7 +2870,7 @@ TID_MUMMY_ULTI,CAUSTIC CHARISMA
 TID_MUMMY_ULTI_DESC,"Emz creates a cloud of toxicity around herself, slowing down the movement of enemies and damaging them."
 TID_STAT_MUMMY,Emz
 TID_SPEC_ABI_TICK_DMG_GROW,BAD KARMA
-TID_SPEC_ABI_TICK_DMG_GROW_DESC,"Enemies that stay within the cloud of Emz's toxic hair spray suffer increasing damage, <c00cc00><VALUE1></c>% per hit."
+TID_SPEC_ABI_TICK_DMG_GROW_DESC,"Enemies that stay within the cloud of Emz's toxic hair spray suffer increasing damage, <c00cc00><VALUE1>%</c> per hit."
 TID_SPEC_ABI_HEAL_SUPER_DMG,HYPE
 TID_SPEC_ABI_HEAL_SUPER_DMG_DESC,Emz recovers <c00cc00><VALUE1></c> health per second for each enemy brawler inside her Super's area of effect.
 TID_FRIEND_ADD_YOUR_ID,Your ID: <ID>
@@ -3137,8 +3144,8 @@ TID_CTF_8,Best Kind Of Gift
 TID_CTF_GOAL_MATCH_OVER,<name>\nstole a trophy!\n\nMatch over
 TID_STAT_DAMAGE_PER_DRONE,Damage per drone
 TID_GOLDRUSH_46,Two Thousand Lakes
-TID_EVENT_MODIFIER_11,STORMY SEAS
-TID_EVENT_MODIFIER_DESC_11,"The boat tilts, making movement faster or slower depending on your movement direction!"
+TID_EVENT_MODIFIER_11,TILT
+TID_EVENT_MODIFIER_DESC_11,"The floor tilts, making movement faster or slower depending on your movement direction!"
 TID_QUICK_MESSAGE_ASK_BRAWLER_SPLIT,Which brawler should I pick?
 TID_QUICK_MESSAGE_ASK_MODE_SPLIT,What event should we play?
 TID_DRILLER,JACKY
@@ -3154,13 +3161,13 @@ TID_IAP_MAR2020,WELCOME MARCH!
 TID_SPAWNER_DUDE_SHORT_DESC,DAMAGE DEALER
 TID_SPAWNER_DUDE_DESC,Mr. P is a disgruntled luggage handler who angrily hurls suitcases at opponents. His Super calls robo-porters to help him.
 TID_SPAWNER_DUDE_WEAPON,"YOUR SUITCASE, SIR!"
-TID_SPAWNER_DUDE_WEAPON_DESC,"Mr. P throws a heavy suitcase with angry intent. If the suitcase hits an obstacle or an opponent, it bounces over them, lands with a bang and deals area damage."
+TID_SPAWNER_DUDE_WEAPON_DESC,"Mr. P throws a heavy suitcase with angry intent. Upon hitting an obstacle or reaching maximum range, the suitcase bounces and lands with a bang, dealing area damage."
 TID_SPAWNER_DUDE_ULTI,PORTERS! ATTACK!
 TID_SPAWNER_DUDE_ULTI_DESC,Mr. P deploys the home base for his robo-porters. He has reprogrammed the small penguin-head robots to attack and harass opponents (and unruly guests).
 TID_SPEC_ABI_SPAWNER_DUDE_1,HANDLE WITH CARE
-TID_SPEC_ABI_SPAWNER_DUDE_1_DESC,Mr. P's overstuffed suitcases bounce and burst even if they don't hit a target or obstacle.
+TID_SPEC_ABI_SPAWNER_DUDE_1_DESC,"Every <c00cc00><VALUE1></c> seconds, the explosion damage of Mr. P's next overstuffed suitcase is increased by <c00cc00><VALUE2>%</c>."
 TID_SPEC_ABI_SPAWNER_DUDE_2,REVOLVING DOOR
-TID_SPEC_ABI_SPAWNER_DUDE_2_DESC,The robo-porters respawn <c00cc00><VALUE1></c> seconds faster after being defeated.
+TID_SPEC_ABI_SPAWNER_DUDE_2_DESC,All robo-porters from the home base now have <c00cc00><VALUE1>%</c> more health and <c00cc00><VALUE2>%</c> higher damage.
 TID_HINT_GET_TO_ZONE,Get inside a Hot Zone!
 TID_HERO_INFO_TITLE,BRAWLER STATS
 TID_HERO_UPGRADE_TITLE,UPGRADE BRAWLER?
@@ -3337,9 +3344,9 @@ TID_DRILLER_WEAPON_DESC,Jacky hops on her Jackhammer to shake the ground all aro
 TID_DRILLER_ULTI,HOLEY MOLEY!
 TID_DRILLER_ULTI_DESC,"Jacky drills a hole in the ground, pulling in foes to introduce them to her Jackhammer!"
 TID_SPEC_ABI_DRILLER_1,COUNTER CRUSH
-TID_SPEC_ABI_DRILLER_1_DESC,"When receiving damage, Jacky returns the favor by converting <c00cc00><VALUE1></c>% of the damage into a Groundbreaker counterattack."
+TID_SPEC_ABI_DRILLER_1_DESC,"When receiving damage, Jacky returns the favor by converting <c00cc00><VALUE1>%</c> of the damage into a Groundbreaker counterattack."
 TID_SPEC_ABI_DRILLER_2,HARDY HARD HAT
-TID_SPEC_ABI_DRILLER_2_DESC,Jacky's Hard Hat protects her by reducing any damage she takes by <c00cc00><VALUE1></c>%.
+TID_SPEC_ABI_DRILLER_2_DESC,Jacky's Hard Hat protects her by reducing any damage she takes by <c00cc00><VALUE1>%</c>.
 TID_ACCESSORY_GROW_BUSH_DESC,Rosa fertilizes the ground around her and bushes instantly grow to provide great cover.
 TID_ACCESSORY_CROW_SHIELD_DESC,Crow gets a shield for <c00cc00><VALUE1></c>% of incoming damage for <c00cc00><VALUE2></c> seconds.
 TID_ACCESSORY_WALLY_HEAL_DESC,Sprout consumes a bush to restore <c00cc00><VALUE1></c> health.
@@ -3372,7 +3379,7 @@ TID_ACCESSORY_SANDY_SLEEP_DESC,Sandy falls a sleep for <c00cc00><VALUE1></c> sec
 TID_ACCESSORY_BEE_SNIPER_SLOW_DESC,Bea drops a beehive with a splash of sticky honey around it. The honey slows down enemies that step in it.
 TID_ACCESSORY_BULL_HEAL_DESC,Bull instantly rejuvenates himself for <c00cc00><VALUE1></c> health.
 TID_ACCESSORY_GUNSLINGER_RELOAD_DESC,Colt instantly reloads <c00cc00><VALUE1></c> ammo.
-TID_ACCESSORY_MUMMY_PUSH_DESC,EMZ pushes back all enemies around her while also dealing <c00cc00><VALUE1></c> damage.
+TID_ACCESSORY_MUMMY_PUSH_DESC,Emz pushes back all enemies around her while also dealing <c00cc00><VALUE1></c> damage.
 TID_ACCESSORY_NINJA_FAKE_DESC,Leon creates an illusion of himself to confuse his enemies.
 TID_ACCESSORY_BASEBALL_HEAL_DESC,Bibi heals <c00cc00><VALUE1></c> health per second for <c00cc00><VALUE2></c> seconds.
 TID_ACCESSORY_GROW_BUSH,GROW LIGHT
@@ -3454,7 +3461,7 @@ TID_BALL_30,Galaxy Arena
 TID_BALL_31,Shoulder Bash
 TID_BALL_32,Well Cut
 TID_BALL_33,Center Field
-TID_BALL_34,Warped Arena
+TID_BALL_34,Warped Beach
 TID_BATTLE_ROYALE_44,Thousand Lakes
 TID_ACCESSORY_BLOCKED_PORTER_ALREADY_PROMOTED,Porter already buffed!
 TID_ACCESSORY_BLOCKED_TARGET_ALREADY_ACTIVE,Target already active!
@@ -3692,7 +3699,7 @@ TID_REGION_CHINA,China
 TID_QUALIFIED_TITLE_CHINA,线上资格赛已解锁！
 TID_QUALIFIED_INFO_CHINA,您已成功完成全球锦标赛挑战，真棒！\n您可以前往<cFFE400><URL></c>，通过引导完成赛事报名，继续荒野乱斗全球锦标赛之旅！
 TID_CHINA_REAL_NAME_REGULATION,Registered with real name
-TID_CHINA_LOGIN_DESC,为了你的健康，请合理控制游戏时间。沪网文【2018】8544-517号 新出网证（沪）字33号 著作权人：超级细胞有限公司（SUPERCELL OY）出版单位：上海游族信息技术有限公司 国新出审【2020】552号 出版物号：ISBN 978-7-498-07472-0 抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
+TID_CHINA_LOGIN_DESC,本公司积极履行《网络游戏行业防沉迷自律公约》抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。根据国家新闻出版署《关于防止未成年人沉迷网络游戏的通知》、《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》，所有网络游戏用户均需使用有效身份信息完成账号实名注册后方可进入游戏，认证为未成年的玩家将受到防沉迷功能限制。沪网文【2018】8544-517号、新出网证（沪）字33号 著作权人：SUPERCELL OY 出版单位：上海游族信息技术有限公司 运营单位：上海游族信息技术有限公司 国新出审【2020】552号 出版物号：ISBN 978-7-498-07472-0
 TID_POWER_LEVELER,SURGE
 TID_POWER_LEVELER_SHORT_DESC,DAMAGE DEALER
 TID_POWER_LEVELER_DESC,He's a Protector with a penchant for parties. Surge attacks foes with energy drink blasts that split in two on contact. His Super upgrades his stats in 3 stages and comes complete with totally awesome body mods!
@@ -3838,11 +3845,13 @@ TID_LOGIN_WITH_FACEBOOK,Login with Facebook
 TID_TERMS_OF_SERVICE_BUTTON_TENCENT,Tencent Game License and Service Agreement
 TID_PRIVACY_POLICY_BUTTON_TENCENT,Tencent Game Privacy Protection Guidelines
 TID_PARENTS_GUIDE_BUTTON_TENCENT,Tencent Game Children Privacy Protection Guidelines
-TID_TENCENT_LOGIN_AGREEMENTS,"I have carefully read and agree with <TOS>, <PP> and <CHILDREN>."
+TID_TENCENT_LOGIN_AGREEMENTS,"I have carefully read and agree with <TOS>, <PP>, <CHILDREN> and <THIRDPARTY>."
+TID_THIRD_PARTY_SHARING_BUTTON_TENCENT,Third Party Info Sharing List
+TID_TENCENT_THIRDPARTY_INFO,Third Party Info Sharing List
 TID_TENCENT_LOGIN_TOS,Tencent Game License and Service Agreement
 TID_TENCENT_LOGIN_PP,Tencent Game Privacy Protection Guidelines
 TID_TENCENT_LOGIN_CHILDREN,Tencent Game Children Privacy Protection Guidelines
-TID_TENCENT_LOGIN_AGREEMENT_NOTE,"You need to carefully read and agree with\n<TOS>,\n<PP> and\n<CHILDREN>\nbefore accessing the game."
+TID_TENCENT_LOGIN_AGREEMENT_NOTE,"You need to carefully read and agree with\n<TOS>,\n<PP>,\n<CHILDREN> and\n<THIRDPARTY>\nbefore accessing the game."
 TID_KING_OF_HILL_29,Power Surge
 TID_QUESTS_GMV_NOT_AVAILABLE,Game mode is not available currently
 TID_IAP_SOM_072001,SUMMER OFFER
@@ -3954,11 +3963,11 @@ TID_SUPPORT_NEW_VERSION_TITLE,Update required!
 TID_SUPPORT_NEW_VERSION_TEXT,A new version of Brawl Stars is available. Update your game before accessing Help and Support.
 TID_SUPPORT_NEW_VERSION_BUTTON,UPDATE
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_TITLE,Information
-TID_TENCENT_LOGIN_AGREEMENT_POPUP,"Before using Tencent services, please carefully read <TOS>, <PP> and <CHILDREN> and ensure that you fully understand the items and our processing rules. Meanwhile, please pay attention to items in these agreements that exempt or limit our liability, items that limit your right, appointed solution of dispute and jurisdiction clauses. Please press \qAgree\q if you have carefully read and agree with <TOS>, <PP> and <CHILDREN>."
+TID_TENCENT_LOGIN_AGREEMENT_POPUP,"Before using Tencent services, please carefully read <TOS>, <PP>, <CHILDREN> and <THIRDPARTY> and ensure that you fully understand the items and our processing rules. Meanwhile, please pay attention to items in these agreements that exempt or limit our liability, items that limit your right, appointed solution of dispute and jurisdiction clauses. Please press \qAgree\q if you have carefully read and agree with <TOS>, <PP>, <CHILDREN> and <THIRDPARTY>."
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_AGREE,Agree
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_REFUSE,Refuse
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_2_TITLE,Important notice
-TID_TENCENT_LOGIN_AGREEMENT_POPUP_2,"Please note that you need to carefully read and agree with\n<TOS>,\n<PP> and\n<CHILDREN>\nbefore accessing the game."
+TID_TENCENT_LOGIN_AGREEMENT_POPUP_2,"Please note that you need to carefully read and agree with\n<TOS>,\n<PP>,\n<CHILDREN> and\n<THIRDPARTY>\nbefore accessing the game."
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_BACK,Back
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_NO,No
 TID_BRAWL_PASS_SEASON_2,WELCOME TO STARR PARK!
@@ -4337,8 +4346,8 @@ TID_SALLY_NANI_SKIN,SALLY NANI
 TID_SALLY_NANI_SHOP,SALLY\nNANI
 TID_CONY_MAX_SKIN,CONY MAX
 TID_CONY_MAX_SKIN_SHOP,CONY\nMAX
-TID_WANTED_17B,Overgrown Snowtel
-TID_BANKHEIST_17B,Snowy Gems
+TID_WANTED_17B,Overgrown Canyon
+TID_BANKHEIST_17B,Twisted Gems
 TID_WANTED_3B,Gem Fort
 TID_BOSS_7,Lit Match
 TID_BOSS_8,Open Season
@@ -4356,6 +4365,8 @@ TID_RAID_4,Rumble in the Jungle
 TID_RAID_5,Rope-a-dope
 TID_BRAWLPASS_AUTOCOLLECT_INFO,"This is a friendly reminder that you have unclaimed rewards in Season <NUM>! If you don't claim them soon, the rewards from Season <NUM> will be automatically collected for you. Unclaimed Power Point rewards will be converted to Coins upon the ending of the current Season."
 TID_BRAWLPASS_AUTOCOLLECT_INFO_TITLE,IMPORTANT NOTICE!
+TID_BRAWLPASS_ALREADY_UNLOCKED_COMPENSATION_INFO,"Brawl Pass had already been unlocked at the time of processing your purchase. As a compensation, <NUM> gems have been added to your account."
+TID_BRAWLPASS_ALREADY_UNLOCKED_COMPENSATION_INFO_TITLE,BRAWL PASS ALREADY UNLOCKED
 TID_MSG_PLAYER_MAP_WON,"Congratulations! Your map <NAME> has won, and will be available for all players in the winners' event."
 TID_MSG_PLAYER_MAP_REJECTED,"Unfortunately, your map <NAME> wasn't approved by enough players. You can improve it and submit again!"
 TID_MSG_PLAYER_MAP_REJECTED_AUTOREVIEW,"Unfortunately, your map <NAME> wasn't approved. You can improve it and submit again!"
@@ -4495,6 +4506,7 @@ TID_TRAITS_HEADER,TRAITS:
 TID_TRAIT_CHARGE_SUPER_FROM_DAMAGE,This Brawler charges Super from damage received
 TID_TRAIT_CHARGE_SUPER_AUTOMATIC,This Brawler charges Super over time
 TID_TRAIT_CHARGE_SUPER_FROM_DISTANCE,This Brawler charges Super from staying close to opposing Brawlers
+TID_TRAIT_MOVE_ON_WATER,This Brawler can move over water
 TID_SECTION_SHORTCUT_0,SPECIAL
 TID_SECTION_SHORTCUT_1,POWER LEAGUE
 TID_SECTION_SHORTCUT_2,TROPHIES
@@ -4868,7 +4880,7 @@ TID_TRUE_SILVER_SPIKE,TRUE SILVER SPIKE
 TID_TRUE_SILVER_SPIKE_SHOP,TRUE SILVER\nSPIKE
 TID_TRUE_SILVER_GENE,TRUE SILVER GENE
 TID_TRUE_SILVER_GENE_SHOP,TRUE SILVER\nGENE
-TID_CHALLENGE_TEASER_INFO_NOUNIQUE,"Get ready for the <CHALLENGE>!\n\nWin <WIN> matches and get a FREE Mega Box! Play with friends or use the \qLooking for Team\q feature to increase your odds.\n\nThe challenge will only be active for <DURATION> hours, so make it count!"
+TID_CHALLENGE_TEASER_INFO_NOUNIQUE,"Get ready for the <CHALLENGE>!\n\nWin <WIN> matches and claim your reward! Play with friends or use the \qLooking for Team\q feature to increase your odds.\n\nThe challenge will only be active for <DURATION> hours, so make it count!"
 TID_CC_POPUP_TITLE_ANNIVERSARY,ANNIVERSARY CHALLENGE
 TID_CC_POPUP_QUALIFY_INFO_GENERIC_NOUNIQUE,Beat the challenge to win a FREE Mega Box!
 TID_QUALIFIED_INFO_GENERIC_NOUNIQUE,"Congrats, you won the <CHALLENGE>! You have unlocked a FREE Mega Box!"
@@ -5239,7 +5251,7 @@ TID_GEAR_LOW_HEALTH_DAMAGE_TITLE,DAMAGE
 TID_GEAR_SLOW_RESISTANCE_TITLE,RESISTANCE
 TID_GEAR_SHIELD_TITLE,SHIELD
 TID_GEAR_FOREST_SPEED_INFO,Get a SPEED INCREASE when moving in bushes by <NUM>%.
-TID_GEAR_STANDING_HEAL_INFO,RECOVER <NUM> HEALTH per second when stationary.
+TID_GEAR_STANDING_HEAL_INFO,REGENERATE HEALTH <NUM>% faster.
 TID_GEAR_LOW_HEALTH_DAMAGE_INFO,Deal <NUM>% EXTRA DAMAGE when below 50% Health.
 TID_GEAR_SLOW_RESISTANCE_INFO,"REDUCE STUN duration effects, and DECREASE SLOW effectiveness by <NUM>%."
 TID_GEAR_SHIELD_INFO,"Gain extra <NUM> HEALTH as a consumable SHIELD. The shield regenerates in 10 seconds, when at full health."
@@ -5320,7 +5332,7 @@ TID_CLUB_LEAGUE_TAB_REWARDS,REWARDS
 TID_CLUB_LEAGUE_BUTTON_TICKETS,Tickets:
 TID_CLUB_LEAGUE_EVENT_DAY,EVENT DAY <NUM>/<MAX>
 TID_CLUB_LEAGUES_BUTTON_EVENT_DAY,Event Day <DAY>
-TID_CLUB_LEAGUES_BUTTON_DAY_NEW,NEW!
+TID_CLUB_LEAGUES_BUTTON_DAY_NEW,NEW DAY!
 TID_CLUB_LEAGUES_BUTTON_NEXT_EVENTS,NEXT EVENTS
 TID_CLUB_LEAGUES_BUTTON_RACE_COOLDOWN_DESC,Next Event Day in:
 TID_CLUB_LEAGUES_BUTTON_SEASON_COOLDOWN_DESC,Next Season starts in:
@@ -5347,6 +5359,7 @@ TID_CLUB_LEAGUE_WARNING_WAITING_LEAGUE,Awaiting League start
 TID_CLUB_LEAGUE_WARNING_NOT_ENOUGH_TICKETS,Not enough tickets
 TID_CLUB_LEAGUE_WARNING_MORE_TICKETS_NEEDED,<NUM> more tickets needed
 TID_CLUB_LEAGUE_WARNING_MORE_TICKETS_NEEDED_SINGLE,<NUM> more ticket needed
+TID_CLUB_LEAGUE_WARNING_NOT_ENOUGH_TICKETS_FLOATER,Not enough tickets to play!
 TID_BATTLE_END_CLUB_LEAGUE_TEAM_BONUS,TEAM BONUS
 TID_EVENT_NAME_CLUB_LEAGUE_COMPETITIVE,POWER MATCH
 TID_EVENT_LOCATION_CLUB_LEAGUE_COMPETITIVE_DESC,Best of 3
@@ -5496,7 +5509,7 @@ TID_CLUB_LEAGUE_INFO_PAGE_1_TITLE,<cFCBC22>SEASONS & EVENT DAYS</c>
 TID_CLUB_LEAGUE_INFO_PAGE_1_DESC,During each weekly season your Club will compete against 7 other Clubs in your League.\n\nPlay Club League events over 3 separate Event Days and win daily Club trophies for your Club. The Clubs with the most trophies at the end of each day will earn the most points for the season leaderboard.\n\nClub Trophies RESET at the end of each Event Day.\n\n<cFCBC22>TIP: Team up with other Club members to earn bonus Club trophies!</c>
 TID_CLUB_LEAGUE_INFO_PAGE_2_MARKER,Tickets
 TID_CLUB_LEAGUE_INFO_PAGE_2_TITLE,<cFCBC22>TICKETS</c>
-TID_CLUB_LEAGUE_INFO_PAGE_2_DESC,"Playing Club League events requires Tickets. Every Club member will have 4 free Tickets to play each Event Day.\n\nEvery Club member also has the opportunity to buy and play with 4 Golden Tickets each season. When used tactically, Golden Tickets can improve your Club's daily rank for the Event Day they're used.\n\nIf you have any Golden Tickets remaining at the end of a season they will be stored for the next week."
+TID_CLUB_LEAGUE_INFO_PAGE_2_DESC,"Playing Club League events requires Tickets. Every Club member will have Tickets to play each Event Day.\n\nPlay all your tickets to maximize your season reward, and get as many club trophies for your club as you can!"
 TID_CLUB_LEAGUE_INFO_PAGE_3_MARKER,Leagues
 TID_CLUB_LEAGUE_INFO_PAGE_3_TITLE,<cFCBC22>LEAGUES</c>
 TID_CLUB_LEAGUE_INFO_PAGE_3_DESC,The Clubs with the most season points at the end of the week will be promoted to the next league while the bottom performing Clubs will be demoted. Climb to the highest league for higher challenge and rewards.
@@ -5509,8 +5522,8 @@ TID_CLUB_LEAGUE_INFO_PAGE_1_IMAGE_3,PLAY EVENTS FOR CLUB TROPHIES
 TID_CLUB_LEAGUE_INFO_PAGE_1_IMAGE_4,DO YOUR BEST EACH EVENT DAY...
 TID_CLUB_LEAGUE_INFO_PAGE_1_IMAGE_5,TO TOP THE SEASON LEADERBOARD!
 TID_CLUB_LEAGUE_INFO_PAGE_2_IMAGE_1,EVENTS COST TICKETS
-TID_CLUB_LEAGUE_INFO_PAGE_2_IMAGE_2,GET 4 FREE TICKETS PER EVENT DAY
-TID_CLUB_LEAGUE_INFO_PAGE_2_IMAGE_3,4 GOLDEN TICKETS AVAILABLE PER SEASON
+TID_CLUB_LEAGUE_INFO_PAGE_2_IMAGE_2,YOU GET TICKETS EVERY EVENT DAY
+TID_CLUB_LEAGUE_INFO_PAGE_2_IMAGE_3,PLAY ALL YOUR TICKETS FOR MAXIMAL REWARD
 TID_CLUB_LEAGUE_INFO_PAGE_3_IMAGE_1,SEASON ENDS AFTER EVENT DAY 3
 TID_CLUB_LEAGUE_INFO_PAGE_3_IMAGE_2,HIGHEST RANKED CLUBS ARE PROMOTED
 TID_CLUB_LEAGUE_INFO_PAGE_3_IMAGE_3,LOWEST RANKED CLUBS ARE DEMOTED
@@ -5836,8 +5849,12 @@ TID_RANKED_FRIENDLY_TIMER_VERY_LONG,x2
 TID_SHOP_LNY22_SKINS,Lunar Brawl Skins
 TID_SHOP_LNY22_TITLE,LUNAR BRAWL
 TID_SHOP_LNY22_INFO,Skin Set
-TID_CLUB_LEAGUE_TODAYS_TICKETS,TODAY'S TICKETS
+TID_CLUB_LEAGUE_TODAYS_TICKETS,TICKETS
+TID_CLUB_LEAGUE_TODAYS_TICKETS_COUNT,x<NUM>
 TID_CLUB_LEAGUE_TODAYS_TICKETS_TIMER,<TIME> left to play
+TID_CLUB_LEAGUE_TODAYS_MAX_POINTS,MAX POINTS
+TID_CLUB_LEAGUE_TODAYS_MAX_POINTS_EXTRA_PERCENT,+<PERCENT>%
+TID_CLUB_LEAGUE_BONUS_DAY,BONUS DAY
 TID_CLUB_LEAGUE_TROPHY_RESET,Club Trophies reset at the end of each Event Day
 TID_CLUB_LEAGUE_TROPHY_RESET_MESSAGE,Play today's Club League Events to collect Club Trophies! Club Trophies reset each Event Day. Play on each Event Day to contribute the most to your club.
 TID_EMOTE_BUNDLE_LNY22_PACK,Lunar Brawl Skins Pin set
@@ -5872,3 +5889,222 @@ TID_TRUE_SILVER_LOU_SKIN_SHOP,TRUE SILVER\nLOU
 TID_TRUE_SILVER_PENNY_SKIN,TRUE SILVER PENNY
 TID_TRUE_SILVER_PENNY_SKIN_SHOP,TRUE SILVER\nPENNY
 TID_SKIN_INFO_CAMPAIGN_ANNIVERSARY_2021,2021 Anniversary skin
+TID_REWARD_INFO_RESOURCE_GEARTOKENSDAMAGE,<AMOUNT> Damage tokens claimed
+TID_REWARD_INFO_RESOURCE_GEARTOKENSHEAL,<AMOUNT> Heal tokens claimed
+TID_REWARD_INFO_RESOURCE_GEARTOKENSRESISTANCE,<AMOUNT> Resistance tokens claimed
+TID_REWARD_INFO_RESOURCE_GEARTOKENSSHIELD,<AMOUNT> Shield tokens claimed
+TID_REWARD_INFO_RESOURCE_GEARTOKENSSPEED,<AMOUNT> Speed tokens claimed
+TID_RESOURCE_REVOCATION,Revocation of <AMOUNT> <NAME>
+TID_CLAIM_VOUCHER_POPUP_TEXT,Do you wish to claim your reward now?
+TID_CLAIM_VOUCHER_POPUP_TITLE,Claim Reward
+TID_CLAIM_VOUCHER_BUTTON_CLAIM,Claim
+TID_CLAIM_VOUCHER_BUTTON_CANCEL,Cancel
+TID_SPELL_FACTORY_CLAIM_FAILED_TITLE,Error claiming reward
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_UNKNOWN,Unable to claim reward for <c267F00><CODE></c>
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_ALREADY_CLAIMED,Unable to claim.\n\n<c267F00><CODE></c> reward has already been claimed
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_INVALID_CODE,INVALID CODE\n\n<c7F0000><CODE></c>
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_EXPIRED,Unable to claim reward.\n\n<c267F00><CODE></c> reward has expired.
+TID_RANKED_FRIENDLY_BEST_OF_TOGGLE_TITLE,BEST OF
+TID_FLEA,EVE
+TID_FLEA_SHORT_DESC,DAMAGE DEALER
+TID_FLEA_DESC,Eve believes that everyone can be valuable... as a resource for her babies.
+TID_FLEA_WEAPON,EGG SHOOTER
+TID_FLEA_WEAPON_DESC,"Eve shoots three eggs in a row, with each one being bigger and dealing more damage than the previous egg."
+TID_FLEA_ULTI,BABY BOOM
+TID_FLEA_ULTI_DESC,"Eve releases a big egg, which incubates a group of hatchlings. Hatchlings attach to enemies and deal damage over time."
+TID_SPEC_ABI_FLEA_1,UNNATURAL ORDER
+TID_SPEC_ABI_FLEA_1_DESC,Reverses the order of the eggs shot by her Egg Shooter.
+TID_SPEC_ABI_FLEA_2,HAPPY SURPRISE
+TID_SPEC_ABI_FLEA_2_DESC,"Upon hitting an enemy brawler, the largest egg of her Egg Shooter will spawn a hatchling."
+TID_ACCESSORY_FLEA_JUMP,GOTTA GO!
+TID_ACCESSORY_FLEA_JUMP_DESC,Eve jumps away and leaves behind a hatchling.
+TID_ACCESSORY_FLEA_SYMBIOSIS,MOTHERLY LOVE
+TID_ACCESSORY_FLEA_SYMBIOSIS_DESC,Hatchlings spawned from an active big egg will now heal allies over time instead of dealing damage.
+TID_ACCESSORY_BLOCKED_MISSING_BIG_EGG,Can't activate without a big egg!
+TID_ACCESSORY_BLOCKED_BIG_EGG_TOO_FAR,Big egg is too far away!
+TID_BIG_EGG_HEALTH,Big Egg Health
+TID_HATCHLING_HEALTH,Hatchling Health
+TID_HATCHLING_DAMAGE,Hatchling Damage
+TID_HATCHLING_COUNT,Hatchling Count
+TID_ACCESSORY_DUPLICATOR_SWAP,STUNT DOUBLE
+TID_ACCESSORY_DUPLICATOR_SWAP_DESC,Lola and her Ego switch locations and recover <c00cc00><VALUE1></c> health.
+TID_ACCESSORY_BLOCKED_EGO_TOO_FAR,Ego is too far!
+TID_ACCESSORY_BLOCKED_MISSING_EGO,Can't activate without Ego!
+TID_GAME_MODE_25,WIPEOUT
+TID_GAME_MODE_25_DESC,Collect points by defeating opponents. The first team to reach <MAX_SCORE> points wins the match!
+TID_DEATHMATCH_INTRO_TEXT,Defeat opponents!
+TID_NOTIFICATION_DEATHMATCH,A new WIPEOUT map is available! Time to win new Rewards!
+TID_GAME_MODE_26,PAYLOAD
+TID_GAME_MODE_26_DESC,"Push your team's minecart (?) by standing near it. The first team to push their minecart to the goal wins the match! Standing near the opponent's minecart slows it down. If the time runs out, the team that got the furthest wins!"
+TID_PAYLOAD_INTRO_TEXT,Push the minecart!
+TID_NOTIFICATION_PAYLOAD,A new PAYLOAD map is available! Time to win new Rewards!
+TID_ACCESSORY_PERCENTER_LIFESTEAL,GOTCHA!
+TID_ACCESSORY_PERCENTER_LIFESTEAL_DESC,"On activation, Colette's shots heal herself for <c00cc00><VALUE1></c> seconds for <c00cc00><VALUE2>%</c> of the damage dealt."
+TID_ACCESSORY_BASEBALL_STICKY,EXTRA STICKY
+TID_ACCESSORY_BASEBALL_STICKY_DESC,Bibi's next Spitball slows down enemies on hit for <c00cc00><VALUE1></c> seconds!
+TID_ACCESSORY_MUMMY_ACID,ACID SPRAY
+TID_ACCESSORY_MUMMY_ACID_DESC,"Emz's next blast of hair spray can pass through walls, but deals <ccc0000><VALUE1>%</c> less damage."
+TID_FIRST_BLOOD,<name> FIRST TAKEDOWN!
+TID_KILL_NUMBER_OWN,FOUR TAKEDOWNS LEFT!
+TID_KILL_NUMBER_OPPONENT,FOUR TAKEDOWNS LEFT FOR YOUR ENEMIES!
+TID_ONE_POINT_FROM_VICTORY,ONE TAKEDOWN FROM VICTORY!
+TID_OPPONENT_ONE_POINT_FROM_VICTORY,ONE TAKEDOWN FROM DEFEAT!
+TID_VICTORY_MATCH_OVER,VICTORY!
+TID_LOSS_MATCH_OVER,DEFEAT!
+TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2022,Lunar Brawl 2022 skin
+TID_LOGIN_CALENDAR_LEFT_TITLE,DAILY REWARDS
+TID_LOGIN_CALENDAR_LEFT_SUBTITLE,Login for <cfffc11>15 days in a row</c> and earn <cfffc11>FREE rewards</c> each day
+TID_LOGIN_CALENDAR_RIGHT_TITLE,TODAY'S REWARDS
+TID_LOGIN_CALENDAR_BUTTON_CLAIM,CLAIM
+TID_LOGIN_CALENDAR_BUTTON_CLOSE,CLOSE
+TID_LOGIN_CALENDAR_AVAILABLE_IN_TIMER,Available in: <TIME>
+TID_LOGIN_CALENDAR_CARD_DAY_NUM,DAY <NUM>
+TID_LOGIN_CALENDAR_CARD_AVAILABLE_IN_TIMER,Available in: <TIME>
+TID_LOGIN_CALENDAR_CARD_TIME_TO_CLAIM,Time left to claim: <TIME>
+TID_LOGIN_CALENDAR_REWARD_BRAWLER_CHOICE,CHOOSE A BRAWLER
+TID_LOGIN_CALENDAR_REWARD_LEVEL_UPGRADE,UPGRADE A BRAWLER
+TID_LOGIN_CALENDAR_REWARD_PIN,NEW PIN
+TID_LOGIN_CALENDAR_REWARD_SKIN,NEW SKIN
+TID_LOGIN_CALENDAR_REWARD_GADGET_CHOICE,CHOOSE A GADGET
+TID_LOGIN_CALENDAR_REWARD_PIN_X2,2 NEW PINS
+TID_LOGIN_CALENDAR_REWARD_STARPOWER_CHOICE,CHOOSE A STAR POWER
+TID_LOGIN_CALENDAR_REWARD_DESC_BRAWLER_CHOICE,Choose to unlock either <HERONAME1> or <HERONAME2>
+TID_LOGIN_CALENDAR_REWARD_DESC_LEVEL_UPGRADE,Upgrade <HERONAME> to POWER LEVEL <VALUE>
+TID_LOGIN_CALENDAR_REWARD_DESC_PIN,<VALUE1> pin <VALUE2>/<VALUE3>. Use pins to emote in battle.
+TID_LOGIN_CALENDAR_REWARD_DESC_SKIN,Customise <VALUE> with this new skin!
+TID_LOGIN_CALENDAR_REWARD_DESC_GADGET_CHOICE,Choose a Gadget for <VALUE>. Gadgets are an extra ability to use up to 3 times per battle.
+TID_LOGIN_CALENDAR_REWARD_DESC_PIN_X2,This reward gives you 2 NEW PINS
+TID_LOGIN_CALENDAR_REWARD_DESC_STARPOWER_CHOICE,Choose a Star Power for <VALUE>. Star Powers are extra passive abilities for you brawler.
+TID_LOGIN_CALENDAR_ERROR_REWARD_EXPIRED,Reward has expired
+TID_CHINA_PRIVACY_SETTINGS_BUTTON,Privacy Settings
+TID_CHINA_PRIVACY_SETTINGS_TITLE,PRIVACY SETTINGS
+TID_CHINA_PRIVACY_HIDE_IN_LEADERBOARDS,HIDE IN LEADERBOARDS
+TID_ACCESSORY_CROSS_BOMBER_BURST,RADIO CHECK
+TID_ACCESSORY_CROSS_BOMBER_BURST_DESC,Grom's next attack throws <c00cc00><VALUE1></c> Buds in rapid succession.
+TID_ACCESSORY_SNAKE_OIL_SPREAD,BOOSTER SHOTS
+TID_ACCESSORY_SNAKE_OIL_SPREAD_DESC,"Byron's next attack shoots <c00cc00><VALUE1></c> darts instead of one, each dealing <ccc0000><VALUE2>%</c> less damage and <ccc0000><VALUE3>%</c> less healing."
+TID_GEMGRAB_48,Sapphire Plains
+TID_ACCESSORY_STICKY_BOMB_VISION,RESIDUE
+TID_ACCESSORY_STICKY_BOMB_VISION_DESC,Squeak's next exploding goo blobs give allies sight into bushes for <c00cc00><VALUE1></c> seconds.
+TID_ACCESSORY_ELECTRO_SNIPER_BOUNCE,REVERSE POLARITY
+TID_ACCESSORY_ELECTRO_SNIPER_BOUNCE_DESC,Belle's next Electro-Bolt bounces from walls.
+TID_TUTORIAL_SD_FIRSTBATTLE,"The last Brawler standing, wins! Collect Power Cubes from boxes to increase your strength. There are poison clouds closing in, so keep moving!"
+TID_ACCESSORY_KICKER_DUDE_SWEEP,ROUNDHOUSE KICK
+TID_ACCESSORY_KICKER_DUDE_SWEEP_DESC,"Fang spins and hits all enemies around him, stunning them for <c00cc00><VALUE1></c> seconds."
+TID_TDM_30_SECONDS,30 SECONDS LEFT!
+TID_TDM_DOUBLE_TAKEDOWN,DOUBLE TAKEDOWN!
+TID_TDM_TEAM_TAKEDOWN,TEAM TAKEDOWN!
+TID_ACCESSORY_KNIGHT_RAGE,ROTTEN BANANA
+TID_ACCESSORY_KNIGHT_RAGE_DESC,Ash loses <ccc0000><VALUE1>%</c> health and instantly gains <c00cc00><VALUE2>%</c> rage.
+TID_ACCESSORY_BLOCKED_REQUIRES_HEALTH,More health required!
+TID_ACCESSORY_BLOCKED_RAGE_ALREADY_FULL,Rage already full!
+TID_STAT_BIG_EGG_DAMAGE,Largest egg damage
+TID_TUTORIAL_SD_FIRST,Training Island
+TID_OVERTIME_PAYLOAD,Overtime!\nMinecarts move faster!
+TID_GATCHA_SCREEN_WCPP_DROP_TITLE,POWER POINTS FOR ANY BRAWLER
+TID_GATCHA_SCREEN_WCPP_DROP_DESC,Choose a brawler after collecting all your rewards
+TID_EMOTE_BUNDLE_BIODOME_PACK,Biodome Skins Pin set
+TID_SHOP_BIODOME_SKINS,Biodome Skins
+TID_SHOP_BIODOME_TITLE,BIODOME
+TID_SHOP_BIODOME_INFO,Skin set
+TID_SKIN_INFO_CAMPAIGN_BIODOME,Biodome Skin
+TID_LOGIN_CALENDAR_RIGHT_TITLE_WAIT,NEXT REWARD
+TID_LOGIN_CALENDAR_REWARD_BRAWLER,NEW BRAWLER
+TID_LOGIN_CALENDAR_NOTIFICATIONS_TITLE,Don't miss out on your free rewards!
+TID_LOGIN_CALENDAR_NOTIFICATIONS_DESCRIPTION,Get Notified when each reward is available to claim
+TID_LOGIN_CALENDAR_NOTIFICATIONS_DECLINE,MAYBE LATER
+TID_LOGIN_CALENDAR_NOTIFICATIONS_ACCEPT,NOTIFY ME
+TID_LOGIN_CALENDAR_WARNING,Be sure to login on DAY <VALUE> or you'll lose out on the remaining rewards!
+TID_LOGIN_CALENDAR_TIP_TITLE,TIP:
+TID_LOGIN_CALENDAR_TIP_SKINS,Use the skins button when selecting Shelly to change her skin
+TID_LOGIN_CALENDAR_TIP_PINS,Use pins to emote in battle!
+TID_LOGIN_CALENDAR_TIP_GADGET,Gadgets are an extra ability to use up to 3 times per battle
+TID_LOGIN_CALENDAR_TIP_STAR_POWER,Star Powers are extra passive abilities for you brawler
+TID_LOGIN_CALENDAR_PINS_DESCRIPTION,Next pin available on DAY <VALUE>.\nKeep logging in daily to complete this collection
+TID_LOGIN_CALENDAR_BUTTON_TITLE,DAY <VALUE> REWARD IN:
+TID_LOGIN_CALENDAR_REMINDER_1_TITLE,FREE rewards for <HERONAME> for 14 days
+TID_LOGIN_CALENDAR_REMINDER_1_DESCRIPTION,Boost the progress of <HERONAME> and collect amazing cosmetics just by logging in each day!
+TID_LOGIN_CALENDAR_REMINDER_1_BUTTON,NEXT
+TID_LOGIN_CALENDAR_REMINDER_2_TITLE,FREE <cff92f9>Epic</c> Brawler on day 15
+TID_LOGIN_CALENDAR_REMINDER_2_DESCRIPTION,Don't miss a day or you'll lost out on your daily rewards!
+TID_LOGIN_CALENDAR_REMINDER_2_BUTTON,LET'S GO!
+TID_LOGIN_CALENDAR_REWARD_DESC_GADGET,Unlock <VALUE> Gadget for <HERONAME>. Gadgets are an extra ability to use up to 3 times per battle.
+TID_LOGIN_CALENDAR_REWARD_DESC_STARPOWER,Unlock <VALUE> Star Power for <HERONAME>. Star Powers are extra passive abilities for you brawler.
+TID_LOGIN_CALENDAR_SCREEN_BRAWLER_CHOICE_TAGLINE_1,Double Shotgun
+TID_LOGIN_CALENDAR_SCREEN_BRAWLER_CHOICE_TAGLINE_2,Splash Damage
+TID_LOGIN_CALENDAR_CHOICE_OR,OR
+TID_LOGIN_CALENDAR_SCREEN_UPGRADE_TITLE,<HERONAME> UPGRADED
+TID_LOGIN_CALENDAR_SCREEN_UPGRADE_ATTACK_DAMAGE,Attack Damage
+TID_LOGIN_CALENDAR_SCREEN_UPGRADE_SUPER_DAMAGE,Super Damage
+TID_LOGIN_CALENDAR_SCREEN_PINS_TITLE,<HERONAME>'s PINS
+TID_LOGIN_CALENDAR_SCREEN_PINS_COLLECTED,<VALUE1>/<VALUE2> collected
+TID_LOGIN_CALENDAR_BUTTON_CHOOSE,CHOOSE
+TID_LOGIN_CALENDAR_REWARD_DESC_BRAWLER,Unlock <HERONAME>
+TID_DOCTOR_EDGAR_SKIN,DOCTOR EDGAR
+TID_DOCTOR_EDGAR_SKIN_SHOP,DOCTOR\nEDGAR
+TID_FIREFLY_RICO_SKIN,FIREFLY RICO
+TID_FIREFLY_RICO_SKIN_SHOP,FIREFLY RICO
+TID_STAG_BEETLE_MEG_SKIN,BEETLE MEG
+TID_STAG_BEETLE_MEG_SKIN_SHOP,BEETLE MEG
+TID_SAVAGE_BULL_SKIN,LION BULL
+TID_SAVAGE_BULL_SKIN_SHOP,LION BULL
+TID_WASP_BO_SKIN,WASP BO
+TID_WASP_BO_SKIN_SHOP,WASP BO
+TID_MR_FLY_SKIN,MR. FLY
+TID_MR_FLY_SKIN_SHOP,MR. FLY
+TID_BUNNY_GROM_SKIN,BUNNY GROM
+TID_BUNNY_GROM_SKIN_SHOP,BUNNY GROM
+TID_MANTIS_ROSA_SKIN,MANTIS ROSA
+TID_MANTIS_ROSA_SKIN_SHOP,MANTIS ROSA
+TID_SPIKY_EVE_SKIN,SPIKY EVE
+TID_SPIKY_EVE_SKIN_SHOP,SPIKY EVE
+TID_CORRUPTED_SPROUT_SKIN,CORRUPTED SPROUT
+TID_CORRUPTED_SPROUT_SKIN_SHOP,CORRUPTED\nSPROUT
+TID_IVY_BELLE_SKIN,IVY BELLE
+TID_IVY_BELLE_SKIN_SHOP,IVY BELLE
+TID_TRUE_GOLD_SPROUT_SKIN,TRUE GOLD SPROUT
+TID_TRUE_GOLD_SPROUT_SKIN_SHOP,TRUE GOLD\nSPROUT
+TID_TRUE_GOLD_SURGE_SKIN,TRUE GOLD SURGE
+TID_TRUE_GOLD_SURGE_SKIN_SHOP,TRUE GOLD\nSURGE
+TID_TRUE_GOLD_RUFFS_SKIN,TRUE GOLD RUFFS
+TID_TRUE_GOLD_RUFFS_SKIN_SHOP,TRUE GOLD\nRUFFS
+TID_TRUE_GOLD_BUZZ_SKIN,TRUE GOLD BUZZ
+TID_TRUE_GOLD_BUZZ_SKIN_SHOP,TRUE GOLD\nBUZZ
+TID_TRUE_SILVER_SPROUT_SKIN,TRUE SILVER SPROUT
+TID_TRUE_SILVER_SPROUT_SKIN_SHOP,TRUE SILVER\nSPROUT
+TID_TRUE_SILVER_SURGE_SKIN,TRUE SILVER SURGE
+TID_TRUE_SILVER_SURGE_SKIN_SHOP,TRUE SILVER\nSURGE
+TID_TRUE_SILVER_RUFFS_SKIN,TRUE SILVER RUFFS
+TID_TRUE_SILVER_RUFFS_SKIN_SHOP,TRUE SILVER\nRUFFS
+TID_TRUE_SILVER_BUZZ_SKIN,TRUE SILVER BUZZ
+TID_TRUE_SILVER_BUZZ_SKIN_SHOP,TRUE SILVER\nBUZZ
+TID_DEATHMATCH_1,Infinite Doom
+TID_DEATHMATCH_2,Camping Grounds
+TID_DEATHMATCH_3,Friendly Fire: Off
+TID_DEATHMATCH_4,Translocator Exchange
+TID_DEATHMATCH_5,Slayer's Paradise
+TID_DEATHMATCH_6,Wicked Twig
+TID_DEATHMATCH_7,Quad Damage
+TID_PAYLOAD_5,Drawback
+TID_PAYLOAD_7,Backhaul
+TID_PAYLOAD_8,Force Majeure
+TID_PAYLOAD_9,Air Waybill
+TID_PAYLOAD_10,Cubic Capacity
+TID_PAYLOAD_13,Concealed Damage
+TID_PAYLOAD_15,Special Delivery
+TID_BRAWL_PASS_SEASON_10,THE BIODOME
+TID_DEATHMATCH_8,Strafe Jump
+TID_CLUB_LEAGUE_TIE_BREAKER_TITLE,TIE BREAKER RULES
+TID_CLUB_LEAGUE_TIE_BREAKER_DESCRIPTION,TIE BREAKER RULES\n\n1. Club points\n2. Club trophies (Total)\n3. Tickets used (Total)\n4. Number of active members\n5. First Result change\n
+TID_GEMGRAB_49,Open Space
+TID_BRAWLBALL_47,Off the Line
+TID_KNOCKOUT_16,Riverside
+TID_KNOCKOUT_17,Flowing Springs
+TID_HOTZONE_32,Double Sided
+TID_BRAWLBALL_48,Hairdryer Treatment
+TID_GEMGRAB_50,Gem Exchange
+TID_GEMGRAB_51,Opposing Forts
+TID_SHOWDOWN_69,Canyon Rivers
+TID_SHOWDOWN_70,The Mortuary
+TID_RANKED_BATTLE_END_EPIC,Epic win!
+TID_RANKED_BATTLE_END_CLOSE,Close match!
