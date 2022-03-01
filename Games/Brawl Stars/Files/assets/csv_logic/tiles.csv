@@ -19,7 +19,7 @@
 "WallyFillerWall","-",2,"true","true","true",,,,,,,,"custom","sprout_def_wall_explo","sprout_def_wall_hit",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall.scw","wally_wall_filler",90,,1,
 "ExtraBush","-",3,,,"true",,"true",,,,,,"custom","Grass_explo_fx","Grass_hit_fx",,,,,,-1,"true","true",100,60,-10,60,25,,"sc3d/grass2.scw","grass_1",,,1,
 "RopeFence","a",,"true",,"true",,,,,,,,"rope_fence_pole","Rope_explo_fx",,,,,,,,,,100,60,-10,60,25,,,,,"true",2,"true"
-"Road","b",,,,,,,,,"true",,,"road",,,,,,,,,,,100,60,-10,60,25,,,,,"true",1,"true"
+"Road","b",,,,,,,,,"true",,,"road",,,,,,,,,,,100,60,-10,60,25,,,,,,1,
 "WallyMoonWall","-",4,"true","true","true",,,,,,,,"custom","sprout_002_wall_explo_satellite","sprout_002_wall_hit",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall_moon.scw","wally_wall",90,,1,
 "WallyMoonFillerWall","-",5,"true","true","true",,,,,,,,"custom","sprout_002_wall_explo","sprout_002_wall_hit",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall_moon.scw","wally_wall_filler",90,,1,
 "SpawnPoint1",".",,,,,,,,,,,,"custom",,,,,,,,,,,,,,,,,"sc3d/spawn_point_blue.scw",,,"true",1,
@@ -43,3 +43,5 @@
 "WallyPrinceRedFillerWall","-",7,"true","true","true",,,,,,,,"custom","sprout_003_wall_explo_chroma","sprout_003_wall_hit_chroma",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall_prince.scw","wally_wall_filler",90,,1,
 "WallyPrinceGreenWall","-",8,"true","true","true",,,,,,,,"custom","sprout_003_wall_explo","sprout_003_wall_hit",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall_prince_2.scw","wally_wall",0,,1,
 "WallyPrinceGreenFillerWall","-",9,"true","true","true",,,,,,,,"custom","sprout_003_wall_explo","sprout_003_wall_hit",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall_prince_2.scw","wally_wall_filler",90,,1,
+"WallyWeirdWall","-",10,"true","true","true",,,,,,,,"custom","sprout_004_wall_explosion","sprout_004_wall_hit",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall_weird.scw","wally_wall",0,,1,
+"WallyWeirdFillerWall","-",11,"true","true","true",,,,,,,,"custom","sprout_004_wall_explosion","sprout_004_wall_hit",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall_weird.scw","wally_wall_filler",90,,1,
