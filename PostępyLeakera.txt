@@ -1,4 +1,7 @@
 2022
+  - Nauczyłem się Moddingu area_effects.csv
+  - Nauczyłem się Moddingu effects.csv
+  - Nauczyłem się Moddingu projectiles.csv
   - Otworzyłem Drzewko Na GitHubie w Celu Śledzenia Zmian w Plikach Gry i Zewnętrznych.
   - Zdobyłem side SCID
 
