@@ -106,6 +106,6 @@ SnakeOil_Spread,next_attack_change,14,100,gadget_activate,,gadget_on_loop,,,1000
 StickyBomb_Vision,next_attack_change,8,100,gadget_activate,,gadget_on_loop,,,100000,,,,,,,,,,,,,,,,,,,,,,,,,StickyBombVisionArea,,,,,,,,,TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE,
 ElectroSniper_Bounce,next_attack_change,2,100,gadget_activate,,gadget_on_loop,,,100000,,,,,,,,,,,,,,,,,,,,,,,,,ElectroSniperBounceProjectile,,,,,,,,,TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE,
 KickerDude_Sweep,spin_shoot,,100,gadget_activate,,,,,8,,,,1,,1,,KickerDudeSweepStun,,true,,,,,,,,,,,,,,,,100,,,,,,,,,
-Knight_Rage,take_damage,2,100,gadget_activate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,50,,,,,TID_ACCESSORY_BLOCKED_REQUIRES_HEALTH,TID_ACCESSORY_BLOCKED_RAGE_ALREADY_FULL,TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE,
+Knight_Rage,take_damage,2,100,gadget_activate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,40,,,,,TID_ACCESSORY_BLOCKED_REQUIRES_HEALTH,TID_ACCESSORY_BLOCKED_RAGE_ALREADY_FULL,TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE,
 3785d0cc9f571b50a50102f4db4595e8c6c4634e,,,100,gadget_activate,,,,,,,,,,,,,,,,,,,,,,,,40,60,,,,,,,,,,,,,,,
 9817903446f444264514a7c4a3bebc847f6b6f0c,,,100,gadget_activate,,,,,,,,,,,,,,,,,,,,,,,,40,60,,,,,,,,,,,,,,,
