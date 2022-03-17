@@ -37,7 +37,7 @@
 "RandomEmoteOfRarity",23,"TRUE","FALSE",,,"sc/ui.sc",,"shop_popupitem_24","shop_price_wrapper_1",,,,,,,,"shop_popupprice_wrapper_1","offer_item_random_rarity_emote_big","offer_item_random_rarity_emote_big","offer_item_random_rarity_emote_small","offer_item_random_rarity_emote_big","reward_profilebutton_22","reward_popupitem_large_22","offer_pin_pack","reward_popupitem_large_22","reward_popupitem_small_22",,"offer_item_random_emote_of_rarity_small","offer_item_random_emote_of_rarity_small","TID_SHOP_OFFER_TITLE_23","pin","reward_profilebutton_22"
 ,,,,,,,,,,,,,,,,,,,,,,,,"offer_pin_pack",,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,"offer_random_epic",,,,,,,,
-"RandomEmotesPackOfRarity",27,"TRUE","FALSE",,,"sc/ui.sc",,"shop_popupitem_25",,,,,,,,,"shop_popupprice_wrapper_1","offer_item_epic_emotes_big","offer_item_epic_emotes_big","offer_item_epic_emotes_small","offer_item_epic_emotes_big","reward_profilebutton_22",,,,"reward_popupitem_small_22",,"offer_item_epic_emotes_small","offer_item_epic_emotes_small","TID_SHOP_OFFER_TITLE_27","box","reward_profilebutton_22"
+"RandomEmotesPackOfRarity",27,"TRUE","FALSE",,,"sc/ui.sc",,"shop_popupitem_25",,,,,,,,,"shop_popupprice_wrapper_1","offer_item_rarity_emotes_big","offer_item_rarity_emotes_big","offer_item_rarity_emotes_small","offer_item_rarity_emotes_big","reward_profilebutton_22",,,,"reward_popupitem_small_22",,"offer_item_rarity_emotes_small","offer_item_rarity_emotes_small","TID_SHOP_OFFER_TITLE_27","box","reward_profilebutton_22"
 ,,,,,,,,,,,,,,,,,,,,,,,,"offer_pin_pack",,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,"offer_random_epic",,,,,,,,
 "PlayerThumbnail",25,"FALSE","FALSE",,,"sc/ui.sc",,,,,,,,,,,,,,,,,,,,,"item_player_thumbnail","item_player_thumbnail","item_player_thumbnail","TID_REWARD_DESC_PLAYER_ICON","resource",
