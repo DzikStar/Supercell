@@ -2451,7 +2451,7 @@ RosaMantisAttack,rosa_mantis_attack.glb,1,11,,,100,100,50,,hips_s#3+L_upperLeg_s
 RosaMantisAttackRecoil,rosa_mantis_attack.glb,12,19,,,1,100,100,,hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0
 RosaMantisAttackRecoil2,rosa_mantis_attack.glb,20,28,,,1,100,100,,hips_s#5+L_upperLeg_s#0+R_upperLeg_s#0
 RosaMantisUltRecoil,rosa_mantis_ult.glb,,-1,,,1,100,200,,hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0
-RosaMantisUltRecoil2,rosa_mantis_detransform.glb,,-1,,,1,100,200,,hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0
+RosaMantisUltRecoil2,rosa_mantis_detransform.glb,,30,,,1,100,200,,hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0
 RosaMantisWin,rosa_mantis_win.glb,1,112,,,,,,,
 RosaMantisWinloop,rosa_mantis_win.glb,113,155,,,,,,true,
 RosaMantisLose,rosa_mantis_lose.glb,1,86,,,,,,,
