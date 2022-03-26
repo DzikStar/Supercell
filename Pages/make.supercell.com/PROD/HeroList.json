@@ -1,0 +1,44 @@
+{
+    "message": [
+        "Heros loaded"
+    ],
+    "error_status": "",
+    "heros": [
+        {
+            "Id": "2301",
+            "Title": "It’s Pop Starr Emz",
+            "Caption": "It’s Pop Starr Emz",
+            "Description": "MAKE Emz become a Pop Starr!",
+            "ButtonLabel": "VIEW CAMPAIGN",
+            "ButtonLink": "/en/campaign/2306",
+            "ImageDesktop": "https://make.supercell.com/craft/hero/its-pop-starr-emz/Emz_desktop_1920x1080.jpg",
+            "ImageMobile": "https://make.supercell.com/craft/hero/its-pop-starr-emz/EMZ_mobile_675x1080.jpg",
+            "Thumbnail": "https://make.supercell.com/craft/hero/its-pop-starr-emz/emz_thumb.jpg",
+            "Game": "brawl-stars",
+            "Created": 1647328200234,
+            "Updated": 1647351695972,
+            "Active": 1
+        },
+        {
+            "Id": "2296",
+            "Title": "New Make",
+            "Caption": "New Make",
+            "Description": "3D files are no longer required! Read about all the changes!",
+            "ButtonLabel": "READ MORE",
+            "ButtonLink": "https://blog.brawlstars.com/blog/community/supercell-make.html",
+            "ImageDesktop": "https://make.supercell.com/craft/hero/new-make/desktop_1920x1080.jpg",
+            "ImageMobile": "https://make.supercell.com/craft/hero/new-make/mobile_675x1080.jpg",
+            "Thumbnail": "https://make.supercell.com/craft/hero/new-make/2D_announcement_thumb.jpg",
+            "Game": null,
+            "Created": 1647328033172,
+            "Updated": 1647357749471,
+            "Active": 1
+        }
+    ],
+    "Page": 0,
+    "PerPage": 16,
+    "HerosOnPage": 2,
+    "NextPage": 1,
+    "PreviousPage": 0,
+    "success": true
+}
