@@ -1,6 +1,6 @@
 window.__NUXT__ = (function(a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, _, $, aa, ab, ac, ad, ae, af, ag, ah, ai, aj, ak, al, am, an, ao, ap, aq, ar, as, at, au, av) {
     return {
-        staticAssetsBase: "\u002F_nuxt\u002Fstatic\u002F1647088789",
+        staticAssetsBase: "\u002F_nuxt\u002Fstatic\u002F1647853849",
         layout: "default",
         error: e,
         state: {
