@@ -1,0 +1,76 @@
+{
+    "upcomingTiers": true,
+    "maxPoints": 1000,
+    "tiers": [
+        {
+            "rewardType": "coins",
+            "id": 1,
+            "image": "/reward-track/Coins.svg",
+            "rewardAmount": 5,
+            "trophyPoints": 20
+        },
+        {
+            "rewardType": "starpack",
+            "id": 2,
+            "image": "/reward-track/Star-points.svg",
+            "rewardAmount": 5,
+            "trophyPoints": 100
+        },
+        {
+            "rewardType": "tokens",
+            "id": 3,
+            "image": "/reward-track/Token.svg",
+            "rewardAmount": 5,
+            "trophyPoints": 200
+        },
+        {
+            "rewardType": "coins",
+            "id": 4,
+            "image": "/reward-track/Coins.svg",
+            "rewardAmount": 10,
+            "trophyPoints": 300
+        },
+        {
+            "rewardType": "starpack",
+            "id": 5,
+            "image": "/reward-track/Star-points.svg",
+            "rewardAmount": 10,
+            "trophyPoints": 500
+        },
+        {
+            "rewardType": "tokens",
+            "id": 6,
+            "image": "/reward-track/Token.svg",
+            "rewardAmount": 10,
+            "trophyPoints": 600
+        },
+        {
+            "rewardType": "coins",
+            "id": 7,
+            "image": "/reward-track/Coins.svg",
+            "rewardAmount": 25,
+            "trophyPoints": 700
+        },
+        {
+            "rewardType": "starpack",
+            "id": 8,
+            "image": "/reward-track/Star-points.svg",
+            "rewardAmount": 50,
+            "trophyPoints": 800
+        },
+        {
+            "rewardType": "tokens",
+            "id": 9,
+            "image": "/reward-track/Token.svg",
+            "rewardAmount": 100,
+            "trophyPoints": 900
+        },
+        {
+            "rewardType": "pin",
+            "id": 10,
+            "image": "/reward-track/Pin1.svg",
+            "rewardAmount": 1,
+            "trophyPoints": 1000
+        }
+    ]
+}
