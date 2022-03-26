@@ -1,0 +1,26 @@
+{
+    "message": [
+        "User loaded"
+    ],
+    "error_status": "",
+    "user": {
+        "Id": "",
+        "Username": "",
+        "Description": "",
+        "Avatar": ,
+        "Email": "",
+        "Creator": ,
+        "FirstName": "",
+        "LastName": "",
+        "Blocked": ,
+        "PaypalConnected": ,
+        "PaypalEmail": "",
+        "FacebookName": "",
+        "TwitterName": "",
+        "ArtStationName": "",
+        "Slug": "",
+        "AvatarImages": {}
+    },
+    "HasIngame": ,
+    "success": 
+}
