@@ -1,9 +1,12 @@
+Jakaś Lista.. nie zwracaj uwagi
+
 2022
+  - Otworzyłem Drzewko Na GitHubie w Celu Śledzenia Zmian w Plikach Gry i Zewnętrznych.
+  - Zdobyłem side SCID
   - Nauczyłem się Moddingu area_effects.csv
   - Nauczyłem się Moddingu effects.csv
   - Nauczyłem się Moddingu projectiles.csv
-  - Otworzyłem Drzewko Na GitHubie w Celu Śledzenia Zmian w Plikach Gry i Zewnętrznych.
-  - Zdobyłem side SCID
+  - Ogarnąłem Hosting Sekcji Skinów (via Evgenkor07)
 
 2021
   - Eksportowania Interfejsów.
