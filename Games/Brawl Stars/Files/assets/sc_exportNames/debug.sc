@@ -1,0 +1,15 @@
+63 debug_menu_item
+62 debug_button
+61 debug_input_window
+60 debug_menu
+59 debug_menu_bottom
+58 debug_menu_button
+57 debug_menu_category
+56 debug_menu_category_mini
+55 debug_menu_item_small
+54 debug_menu_text
+53 debug_menu_wide
+52 debug_switches_window
+51 invalid_export_name
+50 preview_menu
+45 debug_togglebutton
