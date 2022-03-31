@@ -1,6 +1,6 @@
 {
     "upcomingTiers": true,
-    "maxPoints": 1000,
+    "maxPoints": 2000,
     "tiers": [
         {
             "rewardType": "coins",
@@ -71,6 +71,76 @@
             "image": "/reward-track/Pin1.svg",
             "rewardAmount": 1,
             "trophyPoints": 1000
+        },
+        {
+            "rewardType": "coins",
+            "id": 11,
+            "image": "/reward-track/Coins.svg",
+            "rewardAmount": 5,
+            "trophyPoints": 1020
+        },
+        {
+            "rewardType": "starpack",
+            "id": 12,
+            "image": "/reward-track/Star-points.svg",
+            "rewardAmount": 5,
+            "trophyPoints": 1100
+        },
+        {
+            "rewardType": "tokens",
+            "id": 13,
+            "image": "/reward-track/Token.svg",
+            "rewardAmount": 5,
+            "trophyPoints": 1200
+        },
+        {
+            "rewardType": "coins",
+            "id": 14,
+            "image": "/reward-track/Coins.svg",
+            "rewardAmount": 10,
+            "trophyPoints": 1300
+        },
+        {
+            "rewardType": "starpack",
+            "id": 15,
+            "image": "/reward-track/Star-points.svg",
+            "rewardAmount": 10,
+            "trophyPoints": 1500
+        },
+        {
+            "rewardType": "tokens",
+            "id": 16,
+            "image": "/reward-track/Token.svg",
+            "rewardAmount": 10,
+            "trophyPoints": 1600
+        },
+        {
+            "rewardType": "coins",
+            "id": 17,
+            "image": "/reward-track/Coins.svg",
+            "rewardAmount": 25,
+            "trophyPoints": 1700
+        },
+        {
+            "rewardType": "starpack",
+            "id": 18,
+            "image": "/reward-track/Star-points.svg",
+            "rewardAmount": 50,
+            "trophyPoints": 1800
+        },
+        {
+            "rewardType": "tokens",
+            "id": 19,
+            "image": "/reward-track/Token.svg",
+            "rewardAmount": 100,
+            "trophyPoints": 1900
+        },
+        {
+            "rewardType": "pin",
+            "id": 20,
+            "image": "/reward-track/Pin3.svg",
+            "rewardAmount": 1,
+            "trophyPoints": 2000
         }
     ]
 }
