@@ -1,0 +1,170 @@
+[
+    {
+        "teamNr": 1,
+        "name": "Vatra Gaming Vulcano",
+        "shortName": "VAT",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/vatragamingvulcano.png"
+    },
+    {
+        "teamNr": 2,
+        "name": "Chasmac Gaming NA",
+        "shortName": "CMG",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/chasmacgaming.png"
+    },
+    {
+        "teamNr": 3,
+        "name": "The Real Ones",
+        "shortName": "REAL",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/therealones.png"
+    },
+    {
+        "teamNr": 4,
+        "name": "Avengers",
+        "shortName": "AVG",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/avengers.png"
+    },
+    {
+        "teamNr": 5,
+        "name": "STMN",
+        "shortName": "STMN",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/stmn.png"
+    },
+    {
+        "teamNr": 6,
+        "name": "Vatra Amaterasu",
+        "shortName": "VTR",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/vatraamaterasu.png"
+    },
+    {
+        "teamNr": 7,
+        "name": "Tribe Gaming NA",
+        "shortName": "TRB",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/tribegamingna.png"
+    },
+    {
+        "teamNr": 8,
+        "name": "No U Esports",
+        "shortName": "NoU",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/nouesports.png"
+    },
+    {
+        "teamNr": 9,
+        "name": "F/A Upper Moon",
+        "shortName": "MOON",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/fauppermoon.png"
+    },
+    {
+        "teamNr": 10,
+        "name": "F/A Hashira",
+        "shortName": "HSR",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/fahashira.png"
+    },
+    {
+        "teamNr": 11,
+        "name": "ExtraToxicBois",
+        "shortName": "ETB",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/extratoxicbois.png"
+    },
+    {
+        "teamNr": 12,
+        "name": "Reconic Esports SESA",
+        "shortName": "RCN",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/reconicesportssesa.png"
+    },
+    {
+        "teamNr": 13,
+        "name": "Byro Esports",
+        "shortName": "Byro",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/byroesports.png"
+    },
+    {
+        "teamNr": 14,
+        "name": "Free win agents",
+        "shortName": "FWA",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/freewinagents.png"
+    },
+    {
+        "teamNr": 15,
+        "name": "Arena Quesito",
+        "shortName": "AQ",
+        "region": "latams",
+        "logo": "/team-logos/latams/arenaquesito.png"
+    },
+    {
+        "teamNr": 16,
+        "name": "WJM",
+        "shortName": "WJM",
+        "region": "latams",
+        "logo": "/team-logos/latams/wjm.png"
+    },
+    {
+        "teamNr": 17,
+        "name": "Renegados F/A",
+        "shortName": "RNG",
+        "region": "latams",
+        "logo": "/team-logos/latams/renegados.png"
+    },
+    {
+        "teamNr": 18,
+        "name": "Chasmac Gaming BR",
+        "shortName": "CMG",
+        "region": "latams",
+        "logo": "/team-logos/latams/chasmacgaming.png"
+    },
+    {
+        "teamNr": 19,
+        "name": "Unima Gaming",
+        "shortName": "UNI",
+        "region": "latams",
+        "logo": "/team-logos/latams/unima_gaming.png"
+    },
+    {
+        "teamNr": 20,
+        "name": "6ix F/A",
+        "shortName": "6IX",
+        "region": "latams",
+        "logo": "/team-logos/latams/6ix.png"
+    },
+    {
+        "teamNr": 21,
+        "name": "AC MILAN QLASH",
+        "shortName": "AQM",
+        "region": "latams",
+        "logo": "/team-logos/latams/acmilanqlash.png"
+    },
+    {
+        "teamNr": 22,
+        "name": "KIB Esports",
+        "shortName": "KIB",
+        "region": "latams",
+        "logo": "/team-logos/latams/kibesports.png"
+    },
+    {
+        "teamNr": 23,
+        "name": "Serenity Esports",
+        "shortName": "SRN",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/serinityesports.png"
+    },
+    {
+        "teamNr": 24,
+        "name": "BLITZ",
+        "shortName": "BZ",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/blitz.png"
+    }
+]
