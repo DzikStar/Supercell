@@ -1,16 +1,16 @@
 [
     {
         "eventId": "3SxP15w8sffaikys6gyT8X",
-        "previewVideo": "",
-        "teams": 8,
         "days": 1,
         "teaserVideo": "G1ZurYR_rf8",
-        "status": "published",
+        "status": "finished",
+        "name": "April Monthly Finals - SESA & ANZ",
+        "previewVideo": "",
+        "teams": 8,
         "region": "sesaanz",
         "dayStartTimes": [
             1648886400000
         ],
-        "name": "April Monthly Finals - SESA & ANZ",
         "type": "regular",
         "streams": [
             {
@@ -24,6 +24,18 @@
                 "title": "Brawlstars Twitch",
                 "day": 1,
                 "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1648882054037,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "https://www.youtube.com/watch?v=T96Chaa3CfE",
+                "locale": "pl",
+                "region": "",
+                "title": "Champion",
+                "day": 1,
+                "platform": "Youtube"
             }
         ]
     },
@@ -50,6 +62,42 @@
                 "locale": "en",
                 "region": "",
                 "title": "Brawlstars Twitch",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1648882139546,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "brunoclash",
+                "locale": "pt",
+                "region": "",
+                "title": "BrunoClash",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1648882177161,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "thealvaro845",
+                "locale": "es",
+                "region": "",
+                "title": "Alvaro845",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1648882338306,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "rhaegargt",
+                "locale": "es",
+                "region": "",
+                "title": "Rhaegar",
                 "day": 1,
                 "platform": "Twitch"
             }
