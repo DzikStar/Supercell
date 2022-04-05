@@ -14,9 +14,9 @@
         "type": "regular",
         "streams": [
             {
-                "followLink": "",
+                "followLink": "twitch.tv/brawlstars",
                 "streamId": 1648724633298,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1443951922",
                 "vodOffset": 0,
                 "videoId": "brawlstars",
                 "locale": "en",
@@ -28,7 +28,7 @@
             {
                 "followLink": "",
                 "streamId": 1648882054037,
-                "vodId": "",
+                "vodId": "https://www.youtube.com/watch?v=T96Chaa3CfE",
                 "vodOffset": 0,
                 "videoId": "https://www.youtube.com/watch?v=T96Chaa3CfE",
                 "locale": "pl",
@@ -41,22 +41,22 @@
     },
     {
         "eventId": "2xra27OvKSSAqz4BdSJlbu",
-        "previewVideo": "",
-        "teams": 8,
         "days": 1,
         "teaserVideo": "G1ZurYR_rf8",
-        "status": "published",
+        "status": "finished",
+        "name": "April Monthly Finals - LATAM S",
+        "previewVideo": "",
+        "teams": 8,
         "region": "latams",
         "dayStartTimes": [
             1648911600000
         ],
-        "name": "April Monthly Finals - LATAM S",
         "type": "regular",
         "streams": [
             {
-                "followLink": "",
+                "followLink": "twitch.tv/brawlstars",
                 "streamId": 1648724861134,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1444180052",
                 "vodOffset": 0,
                 "videoId": "brawlstars",
                 "locale": "en",
@@ -66,9 +66,9 @@
                 "platform": "Twitch"
             },
             {
-                "followLink": "",
+                "followLink": "twitch.tv/brunoclash",
                 "streamId": 1648882139546,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1444189653",
                 "vodOffset": 0,
                 "videoId": "brunoclash",
                 "locale": "pt",
@@ -78,9 +78,9 @@
                 "platform": "Twitch"
             },
             {
-                "followLink": "",
+                "followLink": "https://www.twitch.tv/thealvaro845",
                 "streamId": 1648882177161,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1444190926",
                 "vodOffset": 0,
                 "videoId": "thealvaro845",
                 "locale": "es",
@@ -90,9 +90,9 @@
                 "platform": "Twitch"
             },
             {
-                "followLink": "",
+                "followLink": "https://www.twitch.tv/rhaegargt",
                 "streamId": 1648882338306,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1444180780",
                 "vodOffset": 0,
                 "videoId": "rhaegargt",
                 "locale": "es",
