@@ -169,16 +169,16 @@
     },
     {
         "eventId": "6lTphx9mTJTw5R407TunRx",
-        "previewVideo": "",
-        "teams": 8,
         "days": 1,
         "teaserVideo": "G1ZurYR_rf8",
-        "status": "published",
+        "status": "finished",
+        "name": "Brawl Stars Championship 2022! April Monthly Finals - EMEA",
+        "previewVideo": "",
+        "teams": 8,
         "region": "emea",
         "dayStartTimes": [
             1649512800000
         ],
-        "name": "Brawl Stars Championship 2022! April Monthly Finals - EMEA",
         "type": "regular",
         "streams": [
             {
