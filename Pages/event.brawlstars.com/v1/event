@@ -102,5 +102,233 @@
                 "platform": "Twitch"
             }
         ]
+    },
+    {
+        "eventId": "2I1fU9wGcPrCOE5J152D81",
+        "days": 1,
+        "teaserVideo": "G1ZurYR_rf8",
+        "status": "finished",
+        "name": "Brawl Stars Championship 2022! April Monthly Finals - EAST ASIA",
+        "previewVideo": "",
+        "teams": 8,
+        "region": "eastasia",
+        "dayStartTimes": [
+            1649487600000
+        ],
+        "type": "regular",
+        "streams": [
+            {
+                "followLink": "",
+                "streamId": 1649481420723,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "kXPsmYc0Ous",
+                "locale": "zh-tc",
+                "region": "",
+                "title": "Brawl Stars 荒野亂鬥",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649481604390,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "QnwzLBob5jM",
+                "locale": "kr",
+                "region": "",
+                "title": "BrawlStarsKO",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649481640015,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "brawlstars",
+                "locale": "en",
+                "region": "",
+                "title": "Brawl Stars",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649488283917,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "ih_xjV1QD4g",
+                "locale": "jp",
+                "region": "",
+                "title": "ブロスタ公式",
+                "day": 1,
+                "platform": "Youtube"
+            }
+        ]
+    },
+    {
+        "eventId": "6lTphx9mTJTw5R407TunRx",
+        "previewVideo": "",
+        "teams": 8,
+        "days": 1,
+        "teaserVideo": "G1ZurYR_rf8",
+        "status": "published",
+        "region": "emea",
+        "dayStartTimes": [
+            1649512800000
+        ],
+        "name": "Brawl Stars Championship 2022! April Monthly Finals - EMEA",
+        "type": "regular",
+        "streams": [
+            {
+                "followLink": "",
+                "streamId": 1649482325516,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "brawlstars",
+                "locale": "en",
+                "region": "",
+                "title": "Brawl Stars",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649482376608,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "334of-O2nPA",
+                "locale": "tr",
+                "region": "",
+                "title": "Oyun Gemisi",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649482452464,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "veni_gaming",
+                "locale": "pl",
+                "region": "",
+                "title": "Veni Gaming",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649482493411,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "pioupioulover",
+                "locale": "fr",
+                "region": "",
+                "title": "pioupioulover",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649482560353,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "ferre",
+                "locale": "it",
+                "region": "",
+                "title": "Ferre",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649482638551,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "tv_brocast",
+                "locale": "de",
+                "region": "",
+                "title": "BroCast",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649482675771,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "thealvaro845",
+                "locale": "es",
+                "region": "",
+                "title": "Alvaro845",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649482714739,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "spiukbs",
+                "locale": "es",
+                "region": "",
+                "title": "Spiuk",
+                "day": 1,
+                "platform": "Twitch"
+            }
+        ]
+    },
+    {
+        "eventId": "7MDXZQD06yw3uTMFZajf9E",
+        "previewVideo": "",
+        "teams": 8,
+        "days": 1,
+        "teaserVideo": "G1ZurYR_rf8",
+        "status": "published",
+        "region": "nalatamn",
+        "dayStartTimes": [
+            1649624400000
+        ],
+        "name": "Brawl Stars Championship 2022! April Monthly Finals - NA & LATAM",
+        "type": "regular",
+        "streams": [
+            {
+                "followLink": "",
+                "streamId": 1649482931664,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "brawlstars",
+                "locale": "en",
+                "region": "",
+                "title": "Brawl Stars",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649482957526,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "nearz_z",
+                "locale": "es",
+                "region": "",
+                "title": "NearZ",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1649482986465,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "thealvaro845",
+                "locale": "es",
+                "region": "",
+                "title": "Alvaro845",
+                "day": 1,
+                "platform": "Twitch"
+            }
+        ]
     }
 ]
