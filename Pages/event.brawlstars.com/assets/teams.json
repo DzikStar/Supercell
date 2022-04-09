@@ -166,5 +166,131 @@
         "shortName": "BZ",
         "region": "sesaanz",
         "logo": "/team-logos/sesaanz/blitz.png"
+    },
+    {
+        "teamNr": 25,
+        "name": "Cistlia",
+        "shortName": "CSL",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/cistlia.png"
+    },
+    {
+        "teamNr": 26,
+        "name": "Ratalyanys",
+        "shortName": "RAT",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/ratalyanys.png"
+    },
+    {
+        "teamNr": 27,
+        "name": "Obey Alliance",
+        "shortName": "Obey",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/obeyalliance.png"
+    },
+    {
+        "teamNr": 28,
+        "name": "F/A Baguette",
+        "shortName": "BGT",
+        "region": "emea",
+        "logo": "/team-logos/emea/fabaguette.png"
+    },
+    {
+        "teamNr": 29,
+        "name": "2.5 Men",
+        "shortName": "TPF",
+        "region": "emea",
+        "logo": "/team-logos/emea/2.5men.png"
+    },
+    {
+        "teamNr": 30,
+        "name": "Reply Totem",
+        "shortName": "TTM",
+        "region": "emea",
+        "logo": "/team-logos/emea/replytotem.png"
+    },
+    {
+        "teamNr": 31,
+        "name": "Tribe Gaming EU",
+        "shortName": "TRB",
+        "region": "emea",
+        "logo": "/team-logos/emea/tribegamingeu.png"
+    },
+    {
+        "teamNr": 32,
+        "name": "Craze Clan",
+        "shortName": "CRZ",
+        "region": "emea",
+        "logo": "/team-logos/emea/crazeclan.png"
+    },
+    {
+        "teamNr": 33,
+        "name": "SK Gaming",
+        "shortName": "SK",
+        "region": "emea",
+        "logo": "/team-logos/emea/skgaming.png"
+    },
+    {
+        "teamNr": 34,
+        "name": "Team Queso",
+        "shortName": "TQ",
+        "region": "emea",
+        "logo": "/team-logos/emea/teamqueso.png"
+    },
+    {
+        "teamNr": 35,
+        "name": "STMN EU",
+        "shortName": "STMN",
+        "region": "emea",
+        "logo": "/team-logos/emea/stmneu.png"
+    },
+    {
+        "teamNr": 36,
+        "name": "Star Cluster",
+        "shortName": "SC",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/starcluster.png"
+    },
+    {
+        "teamNr": 37,
+        "name": "We Need Sponsor",
+        "shortName": "WNS",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/WeNeedSponsor.png"
+    },
+    {
+        "teamNr": 38,
+        "name": "ZETA DIVISION ZERO",
+        "shortName": "Z0",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/zetadivisionzero.png"
+    },
+    {
+        "teamNr": 39,
+        "name": "Juggler",
+        "shortName": "JG",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/juggler.png"
+    },
+    {
+        "teamNr": 40,
+        "name": "WINTER",
+        "shortName": "WT",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/winter.png"
+    },
+    {
+        "teamNr": 41,
+        "name": "Blood Diamond",
+        "shortName": "BD",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/blooddiamond.png"
+    },
+    {
+        "teamNr": 42,
+        "name": "ZETA DIVISION ONE",
+        "shortName": "Z1",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/zetadivisionone.png"
     }
 ]
