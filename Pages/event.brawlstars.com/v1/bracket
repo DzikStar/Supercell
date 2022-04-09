@@ -14,11 +14,12 @@
                             },
                             {
                                 "id": 31,
-                                "score": 0
+                                "score": 2
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 2,
@@ -29,11 +30,12 @@
                             },
                             {
                                 "id": 30,
-                                "score": 0
+                                "score": 2
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 3,
@@ -44,44 +46,76 @@
                             },
                             {
                                 "id": 29,
-                                "score": 0
+                                "score": 2
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 4,
                         "teams": [
                             {
                                 "id": 32,
-                                "score": 0
+                                "score": 2
                             },
                             {
                                 "id": 28,
+                                "score": 1
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 5,
+                        "teams": [
+                            {
+                                "id": 31,
+                                "score": 3
+                            },
+                            {
+                                "id": 30,
                                 "score": 0
                             }
                         ],
                         "time": 0,
-                        "completed": false
-                    },
-                    {
-                        "id": 5,
-                        "teams": [],
-                        "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 0
                     },
                     {
                         "id": 6,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 29,
+                                "score": 1
+                            },
+                            {
+                                "id": 32,
+                                "score": 3
+                            }
+                        ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 7,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 31,
+                                "score": 3
+                            },
+                            {
+                                "id": 32,
+                                "score": 2
+                            }
+                        ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 0
                     }
                 ]
             }
