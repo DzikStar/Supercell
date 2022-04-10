@@ -120,7 +120,7 @@
             {
                 "followLink": "",
                 "streamId": 1649481420723,
-                "vodId": "",
+                "vodId": "https://www.youtube.com/watch?v=kXPsmYc0Ous",
                 "vodOffset": 0,
                 "videoId": "kXPsmYc0Ous",
                 "locale": "zh-tc",
@@ -132,7 +132,7 @@
             {
                 "followLink": "",
                 "streamId": 1649481604390,
-                "vodId": "",
+                "vodId": "https://www.youtube.com/watch?v=QnwzLBob5jM",
                 "vodOffset": 0,
                 "videoId": "QnwzLBob5jM",
                 "locale": "kr",
@@ -144,7 +144,7 @@
             {
                 "followLink": "",
                 "streamId": 1649481640015,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1450684599",
                 "vodOffset": 0,
                 "videoId": "brawlstars",
                 "locale": "en",
@@ -156,7 +156,7 @@
             {
                 "followLink": "",
                 "streamId": 1649488283917,
-                "vodId": "",
+                "vodId": "https://www.youtube.com/watch?v=ih_xjV1QD4g",
                 "vodOffset": 0,
                 "videoId": "ih_xjV1QD4g",
                 "locale": "jp",
@@ -184,7 +184,7 @@
             {
                 "followLink": "",
                 "streamId": 1649482325516,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1450889205",
                 "vodOffset": 0,
                 "videoId": "brawlstars",
                 "locale": "en",
@@ -196,7 +196,7 @@
             {
                 "followLink": "",
                 "streamId": 1649482376608,
-                "vodId": "",
+                "vodId": "https://www.youtube.com/watch?v=334of-O2nPA",
                 "vodOffset": 0,
                 "videoId": "334of-O2nPA",
                 "locale": "tr",
@@ -208,7 +208,7 @@
             {
                 "followLink": "",
                 "streamId": 1649482452464,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1450898098",
                 "vodOffset": 0,
                 "videoId": "veni_gaming",
                 "locale": "pl",
@@ -220,7 +220,7 @@
             {
                 "followLink": "",
                 "streamId": 1649482493411,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1450897088",
                 "vodOffset": 0,
                 "videoId": "pioupioulover",
                 "locale": "fr",
@@ -232,7 +232,7 @@
             {
                 "followLink": "",
                 "streamId": 1649482560353,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1450881675",
                 "vodOffset": 0,
                 "videoId": "ferre",
                 "locale": "it",
@@ -244,7 +244,7 @@
             {
                 "followLink": "",
                 "streamId": 1649482638551,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1450911312",
                 "vodOffset": 0,
                 "videoId": "tv_brocast",
                 "locale": "de",
@@ -256,7 +256,7 @@
             {
                 "followLink": "",
                 "streamId": 1649482675771,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1450891897",
                 "vodOffset": 0,
                 "videoId": "thealvaro845",
                 "locale": "es",
@@ -268,7 +268,7 @@
             {
                 "followLink": "",
                 "streamId": 1649482714739,
-                "vodId": "",
+                "vodId": "https://www.twitch.tv/videos/1450861916",
                 "vodOffset": 0,
                 "videoId": "spiukbs",
                 "locale": "es",
