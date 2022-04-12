@@ -1,3 +1,3 @@
-window_landscape
 darken
+window_landscape
 window_portrait
