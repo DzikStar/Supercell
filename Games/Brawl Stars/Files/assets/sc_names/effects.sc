@@ -511,6 +511,7 @@ prt_arena_debris_1
 prt_arena_debris_2
 prt_balloon
 prt_bat
+prt_bea_bee
 prt_castle_trash_1
 prt_castle_trash_2
 prt_castle_trash_3
@@ -523,6 +524,7 @@ prt_hay
 prt_hay_2
 prt_hay_3
 prt_hay_horse
+prt_honey
 prt_sewer_mist
 prt_slime_droplet
 prt_smoke
@@ -533,6 +535,7 @@ prt_teleport
 prt_teleport_flash
 prt_tree_leaf
 prt_tree_leaf_2
+prt_tree_leaf_3
 prt_voxel_particle_1_brown
 prt_voxel_particle_1_crate
 prt_voxel_particle_1_grass
@@ -552,6 +555,7 @@ prt_voxel_particle_2_wood_2
 prt_wally_wall_leaf
 prt_wally_wall_leaf_2
 prt_water_bubble_green
+prt_water_bubble_purple
 prt_waterpark_debris_1
 prt_waterpark_debris_2
 prt_waterpark_debris_3
@@ -701,6 +705,7 @@ star_gfx
 Steam
 SteamSmall
 stone_1
+stone_1_biodome
 stone_1_brawlywood
 stone_1_dark
 stone_1_darryls
@@ -713,6 +718,7 @@ stone_1_snowtel
 stone_1_town
 stone_1_waterpark
 stone_2
+stone_2_biodome
 stone_2_brawlywood
 stone_2_dark
 stone_2_darryls
@@ -725,6 +731,7 @@ stone_2_snowtel
 stone_2_town
 stone_2_waterpark
 stone_3
+stone_3_biodome
 stone_3_brawlywood
 stone_3_dark
 stone_3_darryls
@@ -736,7 +743,9 @@ stone_3_scrap
 stone_3_snowtel
 stone_3_town
 stone_3_waterpark
+stone_4_biodome
 stone_4_waterpark
+stone_5_biodome
 sware_01
 sware_02
 sware_03
@@ -757,6 +766,11 @@ tex_arcade_signs_1
 tex_barley_sign
 tex_bazaar_rays
 tex_bazaar_symbols
+tex_biodome_display
+tex_biodome_display_glow
+tex_biodome_display_noise
+tex_biodome_water_glow
+tex_brawl_ball_lava
 tex_bulls_arrow_sign
 tex_bulls_sign
 tex_bulls_sign_flash
@@ -858,6 +872,7 @@ tex_water_tile
 tex_water_tile_bandstand
 tex_water_tile_bazaar
 tex_water_tile_beach
+tex_water_tile_biodome
 tex_water_tile_castle_courtyard
 tex_water_tile_mine
 tex_water_tile_mortuary
