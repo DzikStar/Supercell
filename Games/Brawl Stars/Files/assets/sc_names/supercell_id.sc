@@ -1,0 +1,3 @@
+window_landscape
+darken
+window_portrait
