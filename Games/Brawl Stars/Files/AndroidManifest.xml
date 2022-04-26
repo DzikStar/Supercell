@@ -1,218 +1,216 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" android:installLocation="auto" android:versionCode="42356" android:versionName="42.356" package="com.supercell.brawlstars" platformBuildVersionCode="30" platformBuildVersionName="11">
-	<uses-sdk android:minSdkVersion="18" android:targetSdkVersion="30" />
-	<uses-feature android:glEsVersion="0x20000" android:required="true" />
-	<uses-feature android:name="android.hardware.screen.landscape" android:required="true" />
-	<uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="true" />
-	<uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false" />
-	<uses-permission android:name="android.permission.INTERNET" />
-	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-	<uses-permission android:name="android.permission.WAKE_LOCK" />
-	<uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-	<uses-permission android:name="com.android.vending.BILLING" />
-	<uses-permission android:name="android.permission.VIBRATE" />
-	<supports-screens android:largeScreens="true" android:normalScreens="true" android:smallScreens="false" android:xlargeScreens="true" />
-	<meta-data android:name="android.max_aspect" android:value="2.4" />
-	<uses-permission android:name="android.permission.READ_BASIC_PHONE_STATE" />
-	<uses-permission android:name="android.Manifest.permission.ACCESS_NETWORK_STATE" />
-	<uses-feature android:name="android.hardware.camera" android:required="false" />
-	<uses-feature android:name="android.hardware.camera.front" android:required="false" />
-	<uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
-	<uses-feature android:name="android.hardware.camera.flash" android:required="false" />
-	<uses-feature android:name="android.hardware.wifi" android:required="false" />
-	<uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-	<queries>
-		<package android:name="com.kakao.talk" />
-		<package android:name="com.kakao.onetalk" />
-		<package android:name="com.android.chrome" />
-		<package android:name="com.chrome.beta" />
-		<package android:name="com.chrome.dev" />
-		<package android:name="com.supercell.brawlstars" />
-		<package android:name="com.supercell.boombeach" />
-		<package android:name="com.supercell.clashofclans" />
-		<package android:name="com.supercell.clashroyale" />
-		<package android:name="com.supercell.hayday" />
-		<package android:name="com.supercell.clashquest" />
-		<intent>
-			<action android:name="android.media.action.IMAGE_CAPTURE" />
-		</intent>
-	</queries>
-	<uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-	<uses-permission android:maxSdkVersion="18" android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-	<uses-permission-sdk-23 android:name="android.permission.CAMERA" />
-	<uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-	<application android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:backupAgent="com.supercell.titan.PreferencesBackupAgent" android:extractNativeLibs="true" android:icon="@drawable/ic_launcher" android:isSplitRequired="true" android:label="@string/app_name" android:localeConfig="@xml/locales_config" android:name="com.supercell.titan.TitanMultidexApplication" android:supportsRtl="true" android:usesCleartextTraffic="true">
-		<meta-data android:name="com.google.android.gms.games.APP_ID" android:value="@string/app_id" />
-		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
-		<meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/fb_app_id" />
-		<meta-data android:name="com.google.android.backup.api_key" android:value="@string/backup_api_key" />
-		<provider android:authorities="com.supercell.brawlstars.supercellid.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
-			<meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/supercell_id_file_paths" />
-		</provider>
-		<activity android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|smallestScreenSize" android:label="@string/app_name" android:launchMode="singleTask" android:maxAspectRatio="2.4" android:name="com.supercell.brawlstars.GameApp" android:resizeableActivity="false" android:screenOrientation="sensorLandscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:windowSoftInputMode="adjustNothing|stateUnchanged">
-			<intent-filter>
-				<action android:name="android.intent.action.MAIN" />
-				<category android:name="android.intent.category.LAUNCHER" />
-			</intent-filter>
-			<intent-filter>
-				<action android:name="android.intent.action.VIEW" />
-				<category android:name="android.intent.category.DEFAULT" />
-				<category android:name="android.intent.category.BROWSABLE" />
-				<data android:scheme="brawlstars" />
-			</intent-filter>
-			<intent-filter android:autoVerify="true">
-				<action android:name="android.intent.action.VIEW" />
-				<category android:name="android.intent.category.DEFAULT" />
-				<category android:name="android.intent.category.BROWSABLE" />
-				<data android:host="link.brawlstars.com" android:scheme="http" />
-				<data android:host="link.brawlstars.com" android:scheme="https" />
-				<data android:host="link-staging.brawlstars.com" android:scheme="http" />
-				<data android:host="link-staging.brawlstars.com" android:scheme="https" />
-			</intent-filter>
-			<intent-filter>
-				<action android:name="android.intent.action.VIEW" />
-				<category android:name="android.intent.category.DEFAULT" />
-				<category android:name="android.intent.category.BROWSABLE" />
-				<data android:scheme="kakaogame241121" />
-			</intent-filter>
-			<intent-filter>
-				<action android:name="android.intent.action.VIEW" />
-				<category android:name="android.intent.category.DEFAULT" />
-				<category android:name="android.intent.category.BROWSABLE" />
-				<data android:scheme="kakaod509a010c29a8768bcc216071a43fa9b" />
-			</intent-filter>
-			<intent-filter>
-				<action android:name="android.intent.action.VIEW" />
-				<category android:name="android.intent.category.DEFAULT" />
-				<category android:name="android.intent.category.BROWSABLE" />
-				<data android:host="kakaolink" android:scheme="kakaod509a010c29a8768bcc216071a43fa9b" />
-			</intent-filter>
-			<intent-filter>
-				<action android:name="android.intent.action.VIEW" />
-				<category android:name="android.intent.category.DEFAULT" />
-				<category android:name="android.intent.category.BROWSABLE" />
-				<data android:host="kakaostory" android:scheme="kakaod509a010c29a8768bcc216071a43fa9b" />
-			</intent-filter>
-			<meta-data android:name="com.kakao.sdk.AppKey" android:value="d509a010c29a8768bcc216071a43fa9b" />
-			<meta-data android:name="android.app.nova_lib" android:value="nova_cpp" />
-			<intent-filter>
-				<action android:name="com.google.intent.action.TEST_LOOP" />
-				<category android:name="android.intent.category.DEFAULT" />
-				<data android:mimeType="application/javascript" />
-			</intent-filter>
-		</activity>
-		<receiver android:name="com.supercell.titan.TimeAlarm" />
-		<meta-data android:name="com.kakao.sdk.AppKey" android:value="d509a010c29a8768bcc216071a43fa9b" />
-		<activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:name="jp.line.android.sdk.activity.WebLoginActivity" android:screenOrientation="landscape" />
-		<activity android:configChanges="keyboardHidden|orientation" android:exported="true" android:name="jp.line.android.sdk.activity.LineAuthCompleteActivity" android:screenOrientation="landscape">
-			<intent-filter>
-				<action android:name="android.intent.action.VIEW" />
-				<category android:name="android.intent.category.DEFAULT" />
-				<category android:name="android.intent.category.BROWSABLE" />
-				<data android:scheme="line.brawlstars" />
-			</intent-filter>
-		</activity>
-		<meta-data android:name="jp.line.sdk.ChannelId" android:value="1622218855" />
-		<meta-data android:name="jp.line.sdk.AuthScheme" android:value="com.supercell.brawlstars" />
-		<meta-data android:name="jp.line.sdk.Phase" android:value="REAL" />
-		<meta-data android:name="io.sentry.dsn" android:value="https://54ea4e6fb96a4952a4913faa741f9900@o315582.ingest.sentry.io/5430569" />
-		<meta-data android:name="io.sentry.session-tracking.enable" android:value="true" />
-		<meta-data android:name="io.sentry.environment" android:value="production" />
-		<meta-data android:name="io.sentry.anr.timeout-interval-mills" android:value="5000" />
-		<meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-3940256099942544~1234567890" />
-		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:name="com.kakaogame.KGAuthActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-		<activity android:label="@string/com_kakao_login_button" android:launchMode="singleTop" android:name="com.kakao.auth.authorization.authcode.KakaoWebViewActivity" android:windowSoftInputMode="adjustResize">
-			<intent-filter>
-				<action android:name="android.intent.action.MAIN" />
-				<category android:name="android.intent.category.DEFAULT" />
-			</intent-filter>
-		</activity>
-		<meta-data android:name="com.google.firebase.messaging.default_notification_channel_id" android:value="@string/default_notification_channel_id" />
-		<meta-data android:name="com.google.firebase.messaging.default_notification_icon" android:resource="@drawable/dummy_ae_e2" />
-		<service android:name="com.supercell.titan.PushMessageService">
-			<intent-filter>
-				<action android:name="com.google.firebase.MESSAGING_EVENT" />
-			</intent-filter>
-		</service>
-		<meta-data android:name="firebase_analytics_collection_deactivated" android:value="true" />
-		<meta-data android:name="firebase_messaging_auto_init_enabled" android:value="false" />
-		<meta-data android:name="firebase_analytics_collection_enabled" android:value="false" />
-		<meta-data android:name="android.max_aspect" android:value="2.4" />
-		<meta-data android:name="android.notch_support" android:value="true" />
-		<meta-data android:name="io.sentry.anr.enable" android:value="false" />
-		<meta-data android:name="io.sentry.ndk.scope-sync.enable" android:value="true" />
-		<activity android:clearTaskOnLaunch="true" android:name="com.journeyapps.barcodescanner.CaptureActivity" android:screenOrientation="sensorLandscape" android:stateNotNeeded="true" android:theme="@style/zxing_CaptureTheme" android:windowSoftInputMode="stateAlwaysHidden" />
-		<service android:exported="false" android:name="com.google.firebase.components.ComponentDiscoveryService">
-			<meta-data android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" android:value="com.google.firebase.components.ComponentRegistrar" />
-			<meta-data android:name="com.google.firebase.components:com.google.firebase.iid.Registrar" android:value="com.google.firebase.components.ComponentRegistrar" />
-		</service>
-		<receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver" />
-		<receiver android:enabled="true" android:exported="true" android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" android:permission="android.permission.INSTALL_PACKAGES">
-			<intent-filter>
-				<action android:name="com.android.vending.INSTALL_REFERRER" />
-			</intent-filter>
-		</receiver>
-		<service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService" />
-		<service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE" />
-		<activity android:launchMode="singleTask" android:name="com.kakao.sdk.partner.auth.AgeAuthActivity" android:theme="@style/TransparentCompat" />
-		<activity android:exported="false" android:launchMode="singleTask" android:name="com.kakao.sdk.auth.TalkAuthCodeActivity" android:theme="@style/TransparentCompat" />
-		<activity android:launchMode="singleTask" android:name="com.kakao.sdk.auth.AuthCodeHandlerActivity" android:theme="@style/TransparentCompat" />
-		<provider android:authorities="com.supercell.brawlstars.SentryInitProvider" android:exported="false" android:name="io.sentry.android.core.SentryInitProvider" />
-		<provider android:authorities="com.supercell.brawlstars.SentryPerformanceProvider" android:exported="false" android:initOrder="200" android:name="io.sentry.android.core.SentryPerformanceProvider" />
-		<service android:exported="true" android:name="com.google.firebase.messaging.FirebaseMessagingService">
-			<intent-filter android:priority="-500">
-				<action android:name="com.google.firebase.MESSAGING_EVENT" />
-			</intent-filter>
-		</service>
-		<activity android:excludeFromRecents="true" android:exported="false" android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-		<service android:exported="true" android:name="com.google.android.gms.auth.api.signin.RevocationBoundService" android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" android:visibleToInstantApps="true" />
-		<receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
-			<intent-filter>
-				<action android:name="com.google.android.c2dm.intent.RECEIVE" />
-			</intent-filter>
-		</receiver>
-		<service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
-			<intent-filter android:priority="-500">
-				<action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-			</intent-filter>
-		</service>
-		<activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-		<provider android:authorities="com.supercell.brawlstars.firebaseinitprovider" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider" />
-		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:name="com.google.android.gms.ads.AdActivity" android:theme="@android:style/Theme.Translucent" />
-		<provider android:authorities="com.supercell.brawlstars.mobileadsinitprovider" android:exported="false" android:initOrder="100" android:name="com.google.android.gms.ads.MobileAdsInitProvider" />
-		<provider android:authorities="com.supercell.brawlstars.helpshift.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="com.helpshift.support.providers.HelpshiftFileProvider">
-			<meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/hs__provider_paths" />
-		</provider>
-		<activity android:hardwareAccelerated="true" android:launchMode="singleTop" android:name="com.helpshift.support.activities.ParentActivity" android:theme="@style/Helpshift.Theme.Activity" />
-		<activity android:configChanges="orientation|screenSize" android:name="com.helpshift.support.HSReview" android:theme="@style/Helpshift.Theme.Dialog" />
-		<activity android:name="com.supercell.id.ui.MainActivity" android:theme="@style/SupercellIdTheme" />
-		<receiver android:exported="true" android:name="com.supercell.id.SharedDataBroadcastReceiver">
-			<intent-filter>
-				<action android:name="com.supercell.id.GetSharedData" />
-			</intent-filter>
-		</receiver>
-		<receiver android:exported="false" android:name="com.supercell.id.SharedDataReceiverBroadcastReceiver" />
-		<activity android:enabled="false" android:exported="false" android:launchMode="singleInstance" android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity" android:process=":playcore_missing_splits_activity" android:stateNotNeeded="true" />
-		<activity android:enabled="false" android:exported="false" android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity" android:stateNotNeeded="true" android:theme="@style/Theme.PlayCore.Transparent" />
-		<service android:enabled="false" android:exported="true" android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService" />
-		<meta-data android:name="com.google.android.play.billingclient.version" android:value="3.0.3" />
-		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:exported="false" android:name="com.android.billingclient.api.ProxyBillingActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false" android:launchMode="singleTop" android:name="com.linecorp.linesdk.auth.internal.LineAuthenticationActivity" android:theme="@style/LineSdk_AuthenticationActivity" />
-		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:name="com.linecorp.linesdk.auth.internal.LineAuthenticationCallbackActivity">
-			<intent-filter>
-				<action android:name="android.intent.action.VIEW" />
-				<category android:name="android.intent.category.DEFAULT" />
-				<category android:name="android.intent.category.BROWSABLE" />
-				<data android:scheme="lineauth" />
-			</intent-filter>
-		</activity>
-		<provider android:authorities="com.supercell.brawlstars.lifecycle-process" android:exported="false" android:multiprocess="true" android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer" />
-		<meta-data android:name="com.android.vending.splits.required" android:value="true" />
-		<meta-data android:name="com.android.stamp.source" android:value="https://play.google.com/store" />
-		<meta-data android:name="com.android.stamp.type" android:value="STAMP_TYPE_DISTRIBUTION_APK" />
-		<meta-data android:name="com.android.vending.splits" android:value="@xml/splits0" />
-		<meta-data android:name="com.android.vending.derived.apk.id" android:value="2" />
-	</application>
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" android:installLocation="auto" package="com.supercell.brawlstars" platformBuildVersionCode="30" platformBuildVersionName="11">
+    <uses-feature android:glEsVersion="0x00020000" android:required="true"/>
+    <uses-feature android:name="android.hardware.screen.landscape" android:required="true"/>
+    <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="true"/>
+    <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <supports-screens android:largeScreens="true" android:normalScreens="true" android:smallScreens="false" android:xlargeScreens="true"/>
+    <meta-data android:name="android.max_aspect" android:value="2.4"/>
+    <uses-permission android:name="android.permission.READ_BASIC_PHONE_STATE"/>
+    <uses-permission android:name="android.Manifest.permission.ACCESS_NETWORK_STATE"/>
+    <uses-feature android:name="android.hardware.camera" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.front" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.flash" android:required="false"/>
+    <uses-feature android:name="android.hardware.wifi" android:required="false"/>
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <queries>
+        <package android:name="com.kakao.talk"/>
+        <package android:name="com.kakao.onetalk"/>
+        <package android:name="com.android.chrome"/>
+        <package android:name="com.chrome.beta"/>
+        <package android:name="com.chrome.dev"/>
+        <package android:name="com.supercell.brawlstars"/>
+        <package android:name="com.supercell.boombeach"/>
+        <package android:name="com.supercell.clashofclans"/>
+        <package android:name="com.supercell.clashroyale"/>
+        <package android:name="com.supercell.hayday"/>
+        <package android:name="com.supercell.clashquest"/>
+        <intent>
+            <action android:name="android.media.action.IMAGE_CAPTURE"/>
+        </intent>
+    </queries>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:maxSdkVersion="18" android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission-sdk-23 android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <application android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:backupAgent="com.supercell.titan.PreferencesBackupAgent" android:extractNativeLibs="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.supercell.titan.TitanMultidexApplication" android:supportsRtl="true" android:usesCleartextTraffic="true">
+        <meta-data android:name="com.google.android.gms.games.APP_ID" android:value="@string/app_id"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/fb_app_id"/>
+        <meta-data android:name="com.google.android.backup.api_key" android:value="@string/backup_api_key"/>
+        <provider android:authorities="com.supercell.brawlstars.supercellid.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/supercell_id_file_paths"/>
+        </provider>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|smallestScreenSize" android:label="@string/app_name" android:launchMode="singleTask" android:maxAspectRatio="2.4" android:name="com.supercell.brawlstars.GameApp" android:resizeableActivity="false" android:screenOrientation="sensorLandscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:windowSoftInputMode="adjustNothing|stateUnchanged">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="brawlstars"/>
+            </intent-filter>
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="link.brawlstars.com" android:scheme="http"/>
+                <data android:host="link.brawlstars.com" android:scheme="https"/>
+                <data android:host="link-staging.brawlstars.com" android:scheme="http"/>
+                <data android:host="link-staging.brawlstars.com" android:scheme="https"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="kakaogame241121"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="kakaod509a010c29a8768bcc216071a43fa9b"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="kakaolink" android:scheme="kakaod509a010c29a8768bcc216071a43fa9b"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="kakaostory" android:scheme="kakaod509a010c29a8768bcc216071a43fa9b"/>
+            </intent-filter>
+            <meta-data android:name="com.kakao.sdk.AppKey" android:value="d509a010c29a8768bcc216071a43fa9b"/>
+            <meta-data android:name="android.app.nova_lib" android:value="nova_cpp"/>
+            <intent-filter>
+                <action android:name="com.google.intent.action.TEST_LOOP"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="application/javascript"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.supercell.titan.TimeAlarm"/>
+        <meta-data android:name="com.kakao.sdk.AppKey" android:value="d509a010c29a8768bcc216071a43fa9b"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:name="jp.line.android.sdk.activity.WebLoginActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="true" android:name="jp.line.android.sdk.activity.LineAuthCompleteActivity" android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="line.brawlstars"/>
+            </intent-filter>
+        </activity>
+        <meta-data android:name="jp.line.sdk.ChannelId" android:value="1622218855"/>
+        <meta-data android:name="jp.line.sdk.AuthScheme" android:value="com.supercell.brawlstars"/>
+        <meta-data android:name="jp.line.sdk.Phase" android:value="REAL"/>
+        <meta-data android:name="io.sentry.dsn" android:value="https://54ea4e6fb96a4952a4913faa741f9900@o315582.ingest.sentry.io/5430569"/>
+        <meta-data android:name="io.sentry.session-tracking.enable" android:value="true"/>
+        <meta-data android:name="io.sentry.environment" android:value="production"/>
+        <meta-data android:name="io.sentry.anr.timeout-interval-mills" android:value="5000"/>
+        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-3940256099942544~1234567890"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:name="com.kakaogame.KGAuthActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:label="@string/com_kakao_login_button" android:launchMode="singleTop" android:name="com.kakao.auth.authorization.authcode.KakaoWebViewActivity" android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <meta-data android:name="com.google.firebase.messaging.default_notification_channel_id" android:value="@string/default_notification_channel_id"/>
+        <meta-data android:name="com.google.firebase.messaging.default_notification_icon" android:resource="@drawable/ic_notification"/>
+        <service android:name="com.supercell.titan.PushMessageService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <meta-data android:name="firebase_analytics_collection_deactivated" android:value="true"/>
+        <meta-data android:name="firebase_messaging_auto_init_enabled" android:value="false"/>
+        <meta-data android:name="firebase_analytics_collection_enabled" android:value="false"/>
+        <meta-data android:name="android.max_aspect" android:value="2.4"/>
+        <meta-data android:name="android.notch_support" android:value="true"/>
+        <meta-data android:name="io.sentry.anr.enable" android:value="false"/>
+        <meta-data android:name="io.sentry.ndk.scope-sync.enable" android:value="true"/>
+        <activity android:clearTaskOnLaunch="true" android:name="com.journeyapps.barcodescanner.CaptureActivity" android:screenOrientation="sensorLandscape" android:stateNotNeeded="true" android:theme="@style/zxing_CaptureTheme" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <service android:exported="false" android:name="com.google.firebase.components.ComponentDiscoveryService">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.iid.Registrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <receiver android:enabled="true" android:exported="true" android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" android:permission="android.permission.INSTALL_PACKAGES">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <activity android:launchMode="singleTask" android:name="com.kakao.sdk.partner.auth.AgeAuthActivity" android:theme="@style/TransparentCompat"/>
+        <activity android:exported="false" android:launchMode="singleTask" android:name="com.kakao.sdk.auth.TalkAuthCodeActivity" android:theme="@style/TransparentCompat"/>
+        <activity android:launchMode="singleTask" android:name="com.kakao.sdk.auth.AuthCodeHandlerActivity" android:theme="@style/TransparentCompat"/>
+        <provider android:authorities="com.supercell.brawlstars.SentryInitProvider" android:exported="false" android:name="io.sentry.android.core.SentryInitProvider"/>
+        <provider android:authorities="com.supercell.brawlstars.SentryPerformanceProvider" android:exported="false" android:initOrder="200" android:name="io.sentry.android.core.SentryPerformanceProvider"/>
+        <service android:exported="true" android:name="com.google.firebase.messaging.FirebaseMessagingService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <service android:exported="true" android:name="com.google.android.gms.auth.api.signin.RevocationBoundService" android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" android:visibleToInstantApps="true"/>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <provider android:authorities="com.supercell.brawlstars.firebaseinitprovider" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:name="com.google.android.gms.ads.AdActivity" android:theme="@android:style/Theme.Translucent"/>
+        <provider android:authorities="com.supercell.brawlstars.mobileadsinitprovider" android:exported="false" android:initOrder="100" android:name="com.google.android.gms.ads.MobileAdsInitProvider"/>
+        <provider android:authorities="com.supercell.brawlstars.helpshift.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="com.helpshift.support.providers.HelpshiftFileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/hs__provider_paths"/>
+        </provider>
+        <activity android:hardwareAccelerated="true" android:launchMode="singleTop" android:name="com.helpshift.support.activities.ParentActivity" android:theme="@style/Helpshift.Theme.Activity"/>
+        <activity android:configChanges="orientation|screenSize" android:name="com.helpshift.support.HSReview" android:theme="@style/Helpshift.Theme.Dialog"/>
+        <activity android:name="com.supercell.id.ui.MainActivity" android:theme="@style/SupercellIdTheme"/>
+        <receiver android:exported="true" android:name="com.supercell.id.SharedDataBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.supercell.id.GetSharedData"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="com.supercell.id.SharedDataReceiverBroadcastReceiver"/>
+        <activity android:enabled="false" android:exported="false" android:launchMode="singleInstance" android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity" android:process=":playcore_missing_splits_activity" android:stateNotNeeded="true"/>
+        <activity android:enabled="false" android:exported="false" android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity" android:stateNotNeeded="true" android:theme="@style/Theme.PlayCore.Transparent"/>
+        <service android:enabled="false" android:exported="true" android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"/>
+        <meta-data android:name="com.google.android.play.billingclient.version" android:value="3.0.3"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:exported="false" android:name="com.android.billingclient.api.ProxyBillingActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false" android:launchMode="singleTop" android:name="com.linecorp.linesdk.auth.internal.LineAuthenticationActivity" android:theme="@style/LineSdk_AuthenticationActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:name="com.linecorp.linesdk.auth.internal.LineAuthenticationCallbackActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="lineauth"/>
+            </intent-filter>
+        </activity>
+        <provider android:authorities="com.supercell.brawlstars.lifecycle-process" android:exported="false" android:multiprocess="true" android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"/>
+        <meta-data android:name="com.android.dynamic.apk.fused.modules" android:value="base,googleplay_asset_pack"/>
+        <meta-data android:name="com.android.stamp.source" android:value="https://play.google.com/store"/>
+        <meta-data android:name="com.android.stamp.type" android:value="STAMP_TYPE_STANDALONE_APK"/>
+        <meta-data android:name="com.android.vending.splits" android:resource="@xml/splits0"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="1"/>
+    </application>
 </manifest>
