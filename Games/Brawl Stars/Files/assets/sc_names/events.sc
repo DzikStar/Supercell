@@ -11,7 +11,6 @@ event_basketbrawl_banner
 event_basketbrawl_banner_square
 event_bazaar_banner
 event_beach_banner
-event_biodome_banner
 event_boss_banner
 event_boss_banner_square
 event_brawlball_banner
@@ -19,6 +18,7 @@ event_canyon_banner
 event_cny_banner
 event_coop_banner_square
 event_gemmine_banner
+event_invasion_banner_square
 event_lone_star_banner
 event_mortuary_banner
 event_mortuary_showdown_banner
@@ -28,11 +28,12 @@ event_raid_banner_square
 event_rampage_banner_square
 event_robowars_banner
 event_robowars_banner_square
+event_starr_force_banner
 event_stormvalley_banner
+event_stuntshow_banner
 event_survival_banner_square
 event_tagteam_banner_square
 event_teamdeathmatch_banner_square
-event_tigerpit_banner
 event_trophythieves_banner
 event_trophythieves_banner_square
 event_velocirapids_banner
