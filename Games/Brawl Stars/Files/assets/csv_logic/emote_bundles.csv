@@ -16,3 +16,6 @@
 "LoginCalendarPenny1",,"sc/ui.sc",,"TID_LOGIN_CALENDAR_REWARD_PIN_X2","false"
 "LoginCalendarPenny2",,"sc/ui.sc",,"TID_LOGIN_CALENDAR_REWARD_PIN_X2","false"
 "Biodome",,"sc/ui.sc","pin_pack_biodome","TID_EMOTE_BUNDLE_BIODOME_PACK","false"
+"Stuntshow",,"sc/ui.sc","pin_pack_stuntshow","TID_EMOTE_BUNDLE_STUNTSHOW_PACK","false"
+"Goldenweek",,"sc/ui.sc","pin_pack_goldenweek","TID_EMOTE_BUNDLE_GOLDENWEEK_PACK","false"
+"Villains",,"sc/ui.sc","pin_pack_villains","TID_EMOTE_BUNDLE_VILLAINS_PACK","false"
