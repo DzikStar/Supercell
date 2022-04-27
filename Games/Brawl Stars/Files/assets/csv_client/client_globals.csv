@@ -246,7 +246,8 @@
 ,,,,,"EVENTS","https://kf.qq.com/touch/scene_product.html?scene_id=kf8632"
 ,,,,,"SETTINGS","https://kf.qq.com/touch/scene_product.html?scene_id=kf8631"
 ,,,,,"SHOP","https://kf.qq.com/touch/scene_product.html?scene_id=kf8630"
-,,,,,"DELETE_ACCOUNT","https://kf.qq.com/touch/scene_product.html?scene_id=kf8631"
+,,,,,"DELETE_ACCOUNT","https://bs.qq.com/act/7619/a20220316zxhy/index.html?"
+,,,,,"DELETE_ACCOUNT_NEW","https://bs.qq.com/act/7619/a20220316zxhy/index.html?"
 ,,,,,"ANNOUNCEMENTS","https://kf.qq.com/touch/scene_product.html?scene_id=kf8631"
 "TENCENT_REPORT_URL",,,"https://report.gamesafe.qq.com/static/h5/index.htm",,,
 "TENCENT_LAYOUT_REPORT_URL",,,"https://service-light.gamesafe.qq.com/report/report_log_data",,,
@@ -257,4 +258,5 @@
 "TENCENT_LAYOUT_REPORT_SCREENSHOT_QUALITY",86,,,,,
 "TENCENT_PERSONAL_ASSISTANT_GAMEID",,,"1339",,,
 "TENCENT_PERSONAL_ASSISTANT_URL",,,"https://xyapi.game.qq.com/xiaoyue/service/redirect?",,,
-l
+"SELF_HELP_DELETION_ARTICLE",,,"articles/gdpr-request-deletion-of-your-personal-data.html",,,
+"SELF_HELP_DELETION_ARTICLE_CN",,,"articles/gdpr-request-deletion-of-your-personal-data-1.html",,,
