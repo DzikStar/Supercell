@@ -42,3 +42,13 @@
 ,,,,,,,,,,"Shaman",,,
 ,,,,,,,,,,"Rosa",,,
 "Biodome",14,"BIODOME","TID_SHOP_BIODOME_SKINS","TID_SHOP_BIODOME_TITLE","TID_SHOP_BIODOME_INFO","FALSE","TID_SHOP_LAST_CHANCE_SKINS","TRUE","offer_1_item_skin_pack_biodome",,"TRUE","biodome","Biodome"
+"Stuntshow",15,"STUNTSHOW","TID_SHOP_STUNTSHOW_SKINS","TID_SHOP_STUNTSHOW_TITLE","TID_SHOP_STUNTSHOW_INFO","FALSE","TID_SHOP_LAST_CHANCE_SKINS","TRUE","offer_1_item_skin_pack_stuntshow","MechaDude","TRUE","stuntshow","Stuntshow"
+,,,,,,,,,,"Whirlwind",,,
+,,,,,,,,,,"Cactus",,,
+"GoldenWeek",16,"GOLDENWEEK","TID_SHOP_GOLDENWEEK_SKINS","TID_SHOP_GOLDENWEEK_TITLE","TID_SHOP_GOLDENWEEK_INFO","FALSE","TID_SHOP_LAST_CHANCE_SKINS","TRUE","offer_1_item_skin_pack_goldenweek","SpawnerDude","TRUE","goldenweek","Goldenweek"
+,,,,,,,,,,"BeeSniper",,,
+,,,,,,,,,,"Shaman",,,
+,,,,,,,,,,"Mechanic",,,
+"Villains",17,"VILLAINS","TID_SHOP_VILLAINS_SKINS","TID_SHOP_VILLAINS_TITLE","TID_SHOP_VILLAINS_INFO","FALSE","TID_SHOP_LAST_CHANCE_SKINS","TRUE","offer_1_item_skin_pack_villains","Duplicator","TRUE","villains","Villains"
+,,,,,,,,,,"CannonGirl",,,
+,,,,,,,,,,"SnakeOil",,,
