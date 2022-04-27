@@ -38,7 +38,10 @@
 "Brawlidays_2021","true","sc/background_brawlidays2021.sc","bgr_brawlidays2021",,,,,"Xmas_menu","sfx/brawl_xmas_load_01.ogg","sc/loading_brawlidays.sc"
 "Brawlidays_2021_snow","true","sc/background_brawlidays2021.sc","bgr_brawlidays2021","sc/ui.sc","particle_snow_","Snow",2,"Xmas_menu","sfx/brawl_xmas_load_01.ogg","sc/loading_brawlidays.sc"
 "Brawlentines","true","sc/background_stv.sc","bgr_stv",,,,,"Brawlywood_Menu","sfx/brawl_fighting_load_01.ogg",
-"LNY22",,"sc/background_lny22.sc","bgr_lny22",,,,,"Retro_Fight_Menu","sfx/brawl_fighting_load_01.ogg",
-"Biodome",,"sc/background_biodome.sc","bgr_biodome",,,,,"Biodome_Menu","sfx/brawly_biome_loading_01.ogg",
+"LNY22","true","sc/background_lny22.sc","bgr_lny22",,,,,"Retro_Fight_Menu","sfx/brawl_fighting_load_01.ogg",
+"Biodome","true","sc/background_biodome.sc","bgr_biodome",,,,,"Biodome_Menu","sfx/brawly_biome_loading_01.ogg",
 "Ramadan22",,"sc/background_ramadan22.sc","bgr_ramadan22",,,,,"Brawzaar_menu_muzak",,
-"Easter22",,"sc/background_easter22.sc","bgr_easter22",,,,,"MenuMusic",,
+"Easter22","true","sc/background_easter22.sc","bgr_easter22",,,,,"MenuMusic",,
+"GoldenWeek22",,"sc/background_gw22.sc","bgr_gw",,,,,"Lunar_Menu_Music",,
+"Stuntshow",,"sc/background_stuntshow.sc","bgr_stuntshow",,,,,"Pinstuntbrawl_Menu",,
+"Villains",,"sc/background_villains.sc","bgr_villains",,,,,"Space_Brawl_Menu",,
