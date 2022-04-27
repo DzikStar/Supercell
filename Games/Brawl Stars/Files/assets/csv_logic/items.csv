@@ -68,3 +68,6 @@ BasketBrawlHoop,,,,,,,,,,,,,,,,Spawn_plasmoid,,sc3d/basketball_hoop.scw,sc3d/bas
 Healing,,,,,,,,,true,500,,,3,,,Spawn_plasmoid,,sc3d/healing_tile.scw,sc3d/healing_tile.scw,,true,,,GroundLow
 WindWall,,,sc/effects.sc,,,,,gadget_gale_windwall,,600,,200,,,,Spawn_plasmoid,,,,,,true,,Above
 KickerDudeMine,,,sc/effects_brawler.sc,fang_gadget_projectile,fang_gadget_projectile_red,shadow_normal_circle,,,,800,2000,,200,KickerDudeMineExplosion,true,,,,,,,true,,Above
+Spray,,,,,,,,,true,,,,,,,,,sc3d/spray_2x2.scw,sc3d/spray_2x2.scw,,,,,GroundLow
+InvasionToken,,,sc/effects.sc,,,,pickup_glow_green,power_up_bottle_sparkle,,,,,4,,true,Spawn_buff,,sc3d/item_bolt.scw,sc3d/item_bolt.scw,,true,,,Above
+InvasionBase,,,,,,,,,,,,200,,,,,,sc3d/drop_pod_platform.scw,sc3d/drop_pod_platform.scw,sc3d/drop_pod.scw,true,,,GroundTop
