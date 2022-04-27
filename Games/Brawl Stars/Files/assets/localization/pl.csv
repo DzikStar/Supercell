@@ -18,6 +18,14 @@ TID_QUEST_DESC_3,ZADAJ <AMOUNT> PKT. OBRAŻEŃ
 TID_QUEST_DESC_4,ULECZ <AMOUNT> PKT. ŻYCIA
 TID_QUEST_DESC_5,SKORZYSTAJ Z OPCJI \qZAGRAJ PONOWNIE\q <NUM> RAZY
 TID_QUEST_DESC_6,ROZEGRAJ <NUM>\nMECZY/E W DRUŻYNIE
+TID_QUEST_DESC_7_MODE_0,MIEJ PRZY SOBIE CO NAJMNIEJ <LIMIT> SZT. KLEJNOTÓW PRZEZ <AMOUNT> S
+TID_QUEST_DESC_7_MODE_2,ZADAJ <AMOUNT> PKT USZKODZEŃ SEJFOWI
+TID_QUEST_DESC_7_MODE_3,UKOŃCZ OKREŚLONĄ LICZBĘ MECZY (<AMOUNT>) Z CO NAJMNIEJ <LIMIT> GWIAZDKAMI
+TID_QUEST_DESC_7_MODE_5,PODAJ PIŁKĘ <AMOUNT> RAZY
+TID_QUEST_DESC_7_MODE_6,ZBIERZ <AMOUNT> SZT. KOSTEK MOCY
+TID_QUEST_DESC_7_MODE_9,"ZBIERZ <AMOUNT> SZT. KOSTEK MOCY, GDY OBAJ GRACZE SĄ AKTYWNI"
+TID_QUEST_DESC_7_MODE_17,PRZEJMIJ STREFY NA <AMOUNT> S
+TID_QUEST_DESC_7_MODE_20,NIE DAJ SIĘ POKONAĆ PRZEZ NASTĘPUJĄCĄ LICZBĘ RUND: <AMOUNT>
 TID_QUEST_DESC_1_LEVELED,UKOŃCZ POZIOM
 TID_QUEST_DESC_1_BIG_GAME,WYGRAJ BITWY: <AMOUNT>
 TID_QUEST_DESC_1_BIG_GAME_SINGLE,WYGRAJ <AMOUNT> BITWĘ
@@ -44,7 +52,7 @@ TID_PURCHASE_BRAWL_PASS_PROGRESS_INFO,Kupić <NUM> żetonów i przejść do wyż
 TID_PURCHASE_BRAWL_PASS_TITLE,ZDOBĄDŹ KARNET ZADYMIARSKI!
 TID_PURCHASE_BRAWL_PASS_TITLE_PLAIN,KARNET ZADYMIARSKI
 TID_PURCHASE_BRAWL_PASS_TITLE_BUNDLE,PAKIET Z KARNETEM ZADYMIARSKIM
-TID_PURCHASE_BRAWL_PASS_INFO_PLAIN,Odblokuj nagrody i dodatkowe misje z Karnetem Zadymiarskim
+TID_PURCHASE_BRAWL_PASS_INFO_PLAIN,"Odblokuj nagrody Karnetu Zadymiarskiego, dodatkowe misje i +2 dodatkowe odświeżenia misji na tydzień"
 TID_PURCHASE_BRAWL_PASS_INFO_BUNDLE,KARNET ZADYMIARSKI Z <NUM> KLASAMI
 TID_BRAWL_PASS_CANNOT_PURCHASE_BRAWL_PASS_FOR_PAST_SEASON,Nie można kupić minionego sezonu Karnetu Zadymiarskiego
 TID_BRAWL_PASS_CANNOT_PURCHASE_NO_SEASON_FOUND,"Nie można znaleźć bieżącego sezonu Karnetu Zadymiarskiego, spróbuj ponownie później."
@@ -653,7 +661,7 @@ TID_HERO_INFO_RARITY,<c<COLOR>><NAME></c>
 TID_HERO_INFO_ITEM_RARITY,<c<COLOR>><NAME></c>
 TID_HERO_INFO_POWER_BAR_TOOL_TIP,"Zbieraj punkty mocy ze skrzynek Zadymiarza i ofert sklepowych, aby odblokować następne ulepszenie"
 TID_HERO_INFO_STAR_POWER_CAN_DROP,Gwiezdną moc można teraz znaleźć w skrzynkach Zadymiarza
-TID_HERO_INFO_STAR_POWER_BLOCKED,Wzmocnij Zadymiarza <HERONAME> za pomocą wybieranej ilości gwiezdnej mocy! Dostępna w skrzynkach Zadymiarza po osiągnięciu poziomu MOCY <LEVEL>.
+TID_HERO_INFO_STAR_POWER_BLOCKED,Wzmocnij Zadymiarza <HERONAME> za pomocą wybranej gwiezdnej mocy! Dostępna w skrzynkach Zadymiarza po osiągnięciu poziomu MOCY <LEVEL>.
 TID_HERO_INFO_ACCESSORIES_CAN_DROP,Gadżety można teraz znaleźć w skrzynkach Zadymiarza
 TID_HERO_INFO_ACCESSORIES_BLOCKED,Wzmocnij Zadymiarza <HERONAME> specjalnym gadżetem! Dostępny w skrzynkach Zadymiarza po osiągnięciu poziomu MOCY <LEVEL>.
 TID_HERO_INFO_STAR_POWER_LABEL,GWIEZDNA MOC: <NAME>
@@ -763,6 +771,8 @@ TID_GATCHA_SCREEN_HERO_POWER_LEVEL_UP_UNLOCKED,Ulepszenie odblokowane!
 TID_GATCHA_SCREEN_HERO_POWER_LEVEL_UP_AVAILABLE,Ulepszenie dostępne!
 TID_GATCHA_SCREEN_VANITY_ITEM_DROP_TITLE_52,ODZNAKA
 TID_GATCHA_SCREEN_VANITY_ITEM_DROP_DESC_52,Wyróżnij się za pomocą wyjątkowych odznak!
+TID_GATCHA_SCREEN_VANITY_ITEM_DROP_TITLE_68,SPREJ
+TID_GATCHA_SCREEN_VANITY_ITEM_DROP_DESC_68,Wyraź się za pomocą sprejów do zbierania!
 TID_GATCHA_SCREEN_BOX_COUNTER_BONUS,BONUS
 TID_GATCHA_SCREEN_STAR_POINT_DROP_TITLE,GWIEZDNE PUNKTY
 TID_GATCHA_SCREEN_STAR_POINT_DROP_DESC,Za gwiezdne punkty można kupić specjalne przedmioty w sklepie
@@ -1303,6 +1313,10 @@ TID_SHOP_OFFER_TITLE_21,PAKIET ODZNAK
 TID_SHOP_OFFER_TITLE_22,PAKIET ODZNAK DLA:
 TID_SHOP_OFFER_TITLE_23,<RARITY> ODZNAKA
 TID_SHOP_OFFER_TITLE_27,PAKIET ODZNAK (<RARITY>)
+TID_SHOP_OFFER_TITLE_35,NOWY SPREJ
+TID_SHOP_OFFER_TITLE_36,SPREJE
+TID_SHOP_OFFER_INFO_36,Wyraź się w bitwie poprzez spreje!
+TID_SHOP_OFFER_TITLE_37,DODATKOWE MIEJSCE NA SPREJ
 TID_EMOTE_RARITY_0,ZWYKŁA
 TID_EMOTE_RARITY_1,RZADKA
 TID_EMOTE_RARITY_2,EPICKA
@@ -1347,6 +1361,8 @@ TID_SHOP_OFFER_INFO_30,Odblokuj nowego Zadymiarza ulepszonego do poziomu <LVL>!
 TID_SHOP_OFFER_INFO_31,Odblokuj losowego Zadymiarza <RARITY> ulepszonego do poziomu <LVL>!
 TID_SHOP_OFFER_INFO_32,"Użyj żetonów wyposażenia, aby wytwarzać i ulepszać wyposażenie!"
 TID_SHOP_OFFER_INFO_33,"Użyj złomu, aby wytwarzać i ulepszać wyposażenie!"
+TID_SHOP_OFFER_INFO_35,"Używaj sprejów, aby udekorować poziomy!"
+TID_SHOP_OFFER_INFO_37,Jedno dodatkowe miejsce na spreje!
 TID_SHOP_OFFER_HOR_NEW,NOWOŚĆ
 TID_SHOP_OFFER_HOR_RARITY,<c<COLOR>><NAME></c>
 TID_SHOP_OFFER_HOR_BRAWLER,ZADYMIARZ
@@ -2246,7 +2262,7 @@ TID_RAID_3,Złom
 TID_BUTTON_INVITE_PLAYER,ZAPROŚ
 TID_BUTTON_JOIN_TEAM,POPROŚ O DOŁĄCZENIE
 TID_BUTTON_TEAM_FULL,PEŁNA
-TID_DECIMAL_MARK,","
+TID_DECIMAL_MARK,.
 TID_RARITY_HEADER_0,NAGRODA ALEI PUCHARÓW
 TID_RARITY_HEADER_1,RZADKI
 TID_RARITY_HEADER_2,BARDZO RZADKI
@@ -3199,6 +3215,7 @@ TID_MRP_AGENT_SKIN,AGENT P
 TID_MRP_AGENT_SKIN_SHOP,AGENT P
 TID_HERO_INFO_ATTACK_DAMAGE_MULTIPLIER,<AMMO> x <DAMAGE>
 TID_HERO_INFO_DURATION,Czas trwania
+TID_HERO_INFO_CHANGE_CHARACTER_DURATION,Zmień opóźnienie
 TID_HERO_INFO_DAMAGE_REDUCTION,Redukcja obrażeń
 TID_HERO_INFO_LIFE_STEAL,Leczenie obrażeń
 TID_SPAWN_BUILDING_HEALTH,Punkty życia bazy
@@ -3604,6 +3621,7 @@ TID_BRAWL_PASS_TAB_PAST_REWARDS,POPRZEDNI SEZON
 TID_BRAWL_PASS_PREMIUM,KARNET ZADYMIARSKI
 TID_BRAWL_PASS_FREE,GRATIS
 TID_BRAWL_PASS_BUY,AKTYWUJ
+TID_BRAWL_PASS_UNLOCK_ITEM_AT_TIER,<ITEM> - ODBLOKUJ PO OSIĄGNIĘCIU KLASY <NUM>
 TID_BRAWL_PASS_SEASON_HEADER,SEZON KARNETU ZADYMIARSKIEGO
 TID_QUEST_NEW_BATCH_IN,Odblokowanie nowych misji za:
 TID_QUEST_NEW_DAILY_IN,Odświeżenie misji dnia za:
@@ -3613,8 +3631,10 @@ TID_BRAWL_PASS_TIER_SHORTCUT,KLASA <NUM>: <REWARD>
 TID_BRAWL_PASS_TAIL_TITLE,Duża premiowa skrzynka!
 TID_BRAWL_PASS_TAIL_INFO,"Gdy ukończysz Karnet Zadymiarski, będziesz dostawać dużą skrzynkę za każde <NUM> żetonów!"
 TID_BRAWL_PASS_PURCHASE_OR,LUB
-TID_EMOTES_POPUP_TITLE,ODZNAKI BITEWNE
+TID_EMOTES_POPUP_TITLE,ODZNAKI
 TID_EMOTES_POPUP_TEXT,"Wybierz odznaki, których będziesz używać w bitwie."
+TID_SPRAYS_POPUP_TITLE,SPREJE
+TID_SPRAYS_POPUP_TEXT,"Wybierz spreje, których będziesz używać w bitwie."
 TID_BRAWL_PASS_INFO_TITLE_0,Z KARNETEM ZADYMIARSKIM
 TID_BRAWL_PASS_INFO_TEXT_0,"Całe tony dodatkowych nagród, w tym:\n\nGALE, nowy rzadki Zadymiarz chromatyczny!\n\nWyjątkowe przebranie: HANDLARZ GALE\n\nWyjątkowa odznaka i inne świetne odznaki dla GALE\n\n<NUM> Mega skrzynki!\n\nMonety i punkty mocy!\n\n\nPrzyspieszenie Karnetu Zadymiarskiego za pomocą dodatkowych misji!"
 TID_EVIL_GENE_SKIN,ZŁY GENE
@@ -3693,6 +3713,7 @@ TID_REGION_CHINA,Chiny
 TID_QUALIFIED_TITLE_CHINA,线上资格赛已解锁！
 TID_QUALIFIED_INFO_CHINA,您已成功完成全球锦标赛挑战，真棒！\n您可以前往<cFFE400><URL></c>，通过引导完成赛事报名，继续荒野乱斗全球锦标赛之旅！
 TID_CHINA_REAL_NAME_REGULATION,Zarejestrowano pod prawdziwym nazwiskiem
+TID_CHINA_LOGIN_DESC,本公司积极履行《网络游戏行业防沉迷自律公约》抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。根据国家新闻出版署《关于防止未成年人沉迷网络游戏的通知》、《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》，所有网络游戏用户均需使用有效身份信息完成账号实名注册后方可进入游戏，认证为未成年的玩家将受到防沉迷功能限制。沪网文【2018】8544-517号、新出网证（沪）字33号 著作权人：SUPERCELL OY 出版单位：上海游族信息技术有限公司 运营单位：上海游族信息技术有限公司 国新出审【2020】552号 出版物号：ISBN 978-7-498-07472-0
 TID_POWER_LEVELER,SURGE
 TID_POWER_LEVELER_SHORT_DESC,MASZYNA ZNISZCZENIA
 TID_POWER_LEVELER_DESC,"Obrońca, który lubi imprezować. Surge atakuje wrogów energetykami, które rozpoławiają się przy trafieniu. Jego superatak ulepsza statystyki w 3 etapach i daje możliwość niesamowitych modyfikacji sylwetki!"
@@ -3761,10 +3782,21 @@ TID_EMOTE_CATEGORY_4,MIEJSCE 1
 TID_EMOTE_CATEGORY_5,MIEJSCE 2
 TID_EMOTE_CATEGORY_BRAWLER_PINS,ODZNAKI (<BRAWLER>)
 TID_EMOTE_CATEGORY_PLAYER_PINS,ODZNAKI (GRACZ)
+TID_SPRAY_CATEGORY_BRAWLER,SPREJ <BRAWLER>
+TID_SPRAY_CATEGORY_SHARED,WSPÓŁDZIELONE SPREJE
+TID_SPRAY_CATEGORY_1,MIEJSCE 1
+TID_SPRAY_CATEGORY_2,MIEJSCE 1
+TID_SPRAY_CATEGORY_3,MIEJSCE 2
+TID_SPRAY_CATEGORY_4,MIEJSCE 3
+TID_SPRAY_CATEGORY_5,MIEJSCE 4
+TID_SPRAY_EQUIP_NOT_OWNED,Nie odblokowano jeszcze tego spreju!
+TID_SPRAY_BRAWLER_EQUIP_NOT_OWNED,Możesz znaleźć ten sprej w sklepie!
+TID_SPRAY_SLOT_LOCKED,To miejsce na sprej jest odblokowywane po zdobyciu <NUM> pucharów!
 TID_EDIT_MUTE_EMOTES,Wycisz odznaki w bitwie
 TID_ACCESSORY_BLOCKED_INVISIBILITY_ALREADY_ACTIVE,Niewidzialność jest aktywna!
 TID_ACCESSORY_BLOCKED_SHIELD_ALREADY_ACTIVE,Tarcza została już aktywowana!
 TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE,Gadżet został już aktywowany!
+TID_ACCESSORY_BLOCKED_ALREADY_MAX_LEVEL,Osiągnięto już maks. poziom!
 TID_SETTINGS_PLAYER_ID,ID gracza: <ID>
 TID_NAME_COLOR_REQUIRES_BRAWL_PASS,"KUP KARNET ZADYMIARSKI, aby odblokować chromatyczny kolor imienia na czas trwania sezonu!"
 TID_RANK_COLLECT_PREVIOUS_REWARD_SPECIFIC,Najpierw musisz zebrać poprzednią nagrodę!
@@ -3968,7 +4000,7 @@ TID_BRAWL_PASS_INFO_TEXT_2,"Zdobądź mnóstwo dodatkowych nagród, takich jak:\
 TID_BRAWL_PASS_SEASON_3,ŚWIĄTECZNA UCIECZKA
 TID_BRAWL_PASS_INFO_TEXT_3,"Zdobądź mnóstwo dodatkowych nagród, takich jak:\n\n<BRAWLER> - Nowy Zadymiarz chromatyczny!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_1>!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_2>!\n\nWYJĄTKOWE i CZADOWE ODZNAKI <BRAWLER>\n\n<NUM>x MEGASKRZYNKI!\n\nDODATKOWE MONETY i PUNKTY MOCY!\n\n\nDODATKOWE MISJE, które pomogą szybciej wypełnić Karnet Zadymiarski!\n\nWYJĄTKOWY CHROMATYCZNY KOLOR IMIENIA na czas trwania sezonu!"
 TID_BRAWL_PASS_SEASON_4,MOC STARR!
-TID_BRAWL_PASS_INFO_TEXT_GENERIC,"Zdobądź mnóstwo dodatkowych nagród, takich jak:\n\n<BRAWLER> - Nowy Zadymiarz chromatyczny!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_1>!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_2>!\n\nWYJĄTKOWE i CZADOWE ODZNAKI <BRAWLER>\n\n<NUM>x MEGASKRZYNKI!\n\nDODATKOWE MONETY i PUNKTY MOCY!\n\n\nDODATKOWE MISJE, które pomogą szybciej wypełnić Karnet Zadymiarski!\n\nWYJĄTKOWY CHROMATYCZNY KOLOR IMIENIA na czas trwania sezonu!"
+TID_BRAWL_PASS_INFO_TEXT_GENERIC,"Zdobądź mnóstwo dodatkowych nagród takich jak:\n\n<BRAWLER>- Nowy Zadymiarz chromatyczny!\n\nOGRANICZONE CZASOWO WYJĄTKOWE PRZEBRANIE: <SKIN_1>!\n\nOGRANICZONE CZASOWO WYJĄTKOWE PRZEBRANIE: <SKIN_2>!\n\nOGRANICZONE CZASOWO WYJĄTKOWE i CZADOWE ODZNAKI <BRAWLER>\n\nOGRANICZONE CZASOWO WYJĄTKOWE SPREJE\n\n<NUM> MEGASKRZYNKI!\n\nDODATKOWE MONETY i PUNKTY MOCY!\n\n\nDODATKOWE MISJE, które pomogą szybciej wypełnić Karnet Zadymiarski!\n\n<NUM> DODATKOWE ODŚWIEŻENIA MISJI NA TYDZIEŃ\n\nWYJĄTKOWY CHROMATYCZNY KOLOR IMIENIA na czas trwania sezonu!"
 TID_QUESTS_MORE,Wyświetl wszystkie misje
 TID_QUESTS_MORE_NEXT_SEASON,Wszystkie misje sezonu <THIS_SEASON> zostały ukończone. Nowe misje zostaną udostępnione po rozpoczęciu sezonu <NEXT_SEASON>.
 TID_BRAWL_PASS_AUTOCOLLECT_TITLE,Nagrody sezonu <NUM>
@@ -4073,6 +4105,7 @@ TID_BANKHEIST_29T,Zwrot
 TID_EMOTE_BUNDLE_ROSALLOWEEN,BRAWL-O-WEENOWE ODZNAKI ROSY
 TID_EMOTE_BUNDLE_WF,PAKIET FINAŁU ŚWIATOWEGO
 TID_EMOTE_PLAYERS,GRACZA
+TID_SPRAY_PLAYERS,SPREJ
 TID_KING_OF_HILL_30,Uwaga
 TID_KING_OF_HILL_31,Skwiercząca niespodzianka
 TID_PLAYER_MAP_SLOT_CREATE_NEW_TITLE,UTWÓRZ NOWĄ!
@@ -4315,11 +4348,11 @@ TID_ICE_DUDE_DESC,"Lou to gość, który zawsze zachowuje zimną krew. Częstuje
 TID_ICE_DUDE_WEAPON,ZMROŻENIE
 TID_ICE_DUDE_WEAPON_DESC,"Lou bombarduje przeciwników lodowymi rożkami i jest w stanie unieruchomić rywala, zamrażając go na <accumulatedStun> s."
 TID_ICE_DUDE_ULTI,LODOWY NAPÓJ
-TID_ICE_DUDE_ULTI_DESC,"Lou rzuca zmrożonym syropem, tworząc na ziemi oblodzony, śliski obszar. Bardzo utrudnia przeciwnikom stawianie wymyślnych kroków."
+TID_ICE_DUDE_ULTI_DESC,"Lou rzuca zmrożonym syropem, który tworzy na ziemi oblodzony, śliski obszar i powoli zamraża wrogów. Bardzo utrudnia przeciwnikom stawianie wymyślnych kroków!"
 TID_SPEC_ABI_ICE_DUDE_1,SUPERMRÓZ
-TID_SPEC_ABI_ICE_DUDE_1_DESC,"Przeciwnicy znajdujący się w obszarze superataku Lou stopniowo zamarzają, jak przy ataku Zmrożenie."
+TID_SPEC_ABI_ICE_DUDE_1_DESC,Przeciwnicy stojący na obszarze superataku Lou zamarzają <c00cc00><VALUE1>%</c> szybciej.
 TID_SPEC_ABI_ICE_DUDE_2,HIPOTERMIA
-TID_SPEC_ABI_ICE_DUDE_2_DESC,"Szybkość przeładowania spada u przeciwników nawet o <c00cc00><VALUE1>%</c> w zależności od tego, jak bardzo są zmrożeni atakami Lou."
+TID_SPEC_ABI_ICE_DUDE_2_DESC,"Przeciwnicy tracą do <c00cc00><VALUE1>%</c> swoich obrażeń w zależności od tego, jak bardzo są zmrożeni atakami Lou."
 TID_ACCESSORY_ICE_DUDE_GADGET,BRYŁA LODU
 TID_ACCESSORY_ICE_DUDE_GADGET_DESC,Lou osłania się lodem i staje się niewrażliwy na ataki przez <c00cc00><VALUE1></c> s.
 TID_INVITE_CLAN_TOKEN_ERROR_FULL,"Nie można zaprosić, klub jest pełny"
@@ -4702,7 +4735,7 @@ TID_SPEC_ABI_STICKY_BOMB_1_DESC,Każdy przeciwnik w strefie rażenia lepkiej bom
 TID_SPEC_ABI_STICKY_BOMB_2,SUPERKLAJSTER
 TID_SPEC_ABI_STICKY_BOMB_2_DESC,Wtórne eksplozje lepkiej bomby z superataku Squeaka spowalniają przeciwników na <c00cc00><VALUE2></c> s.
 TID_ACCESSORY_STICKY_BOMB_RANGE,PUENTA
-TID_ACCESSORY_STICKY_BOMB_RANGE_DESC,Zasięg kolejnej lepkiej bomby Squeaka zwiększa się o <c00cc00><VALUE1>%</c>.
+TID_ACCESSORY_STICKY_BOMB_RANGE_DESC,Następna lepka bomba Squeaka zadaje <c00cc00><VALUE2>%</c> więcej obrażeń i ma <c00cc00><VALUE1>%</c> większy zasięg.
 TID_RANKED2_CONFIRM_QUESTION,WYBRAĆ?
 TID_RANKED_PICK_ERROR_BRAWLER_NOT_OWNED,Nie masz tego Zadymiarza!
 TID_RANKED_PICK_ERROR_BRAWLER_BANNED,"Ten Zadymiarz został zablokowany, wybierz innego!"
@@ -5224,7 +5257,7 @@ TID_GEAR_TOKEN_SHIELD,Żetony tarczy
 TID_GEAR_TOKEN_SPEED,Żetony prędkości
 TID_GEAR_TOKEN_TYPE_DAMAGE,OBRAŻENIA
 TID_GEAR_TOKEN_TYPE_HEAL,PUNKTY ŻYCIA
-TID_GEAR_TOKEN_TYPE_RESISTANCE,ODPORNOŚĆ
+TID_GEAR_TOKEN_TYPE_VISION,WIDZENIE
 TID_GEAR_TOKEN_TYPE_SHIELD,TARCZA
 TID_GEAR_TOKEN_TYPE_SPEED,PRĘDKOŚĆ
 TID_GEAR_TOKEN,Żeton wyposażenia
@@ -5238,22 +5271,22 @@ TID_GEAR_UPGRADE_BUTTON,ULEPSZ
 TID_GEAR_FOREST_SPEED_TITLE,PRĘDKOŚĆ
 TID_GEAR_STANDING_HEAL_TITLE,PUNKTY ŻYCIA
 TID_GEAR_LOW_HEALTH_DAMAGE_TITLE,OBRAŻENIA
-TID_GEAR_SLOW_RESISTANCE_TITLE,ODPORNOŚĆ
+TID_GEAR_VISION_TITLE,WIDZENIE
 TID_GEAR_SHIELD_TITLE,TARCZA
 TID_GEAR_FOREST_SPEED_INFO,ZWIĘKSZA PRĘDKOŚĆ podczas ruchu w krzakach o <NUM>%.
-TID_GEAR_STANDING_HEAL_INFO,REGENERUJE ZDROWIE <NUM>% szybciej.
+TID_GEAR_STANDING_HEAL_INFO,REGENERUJ PUNKTY ŻYCIA o <NUM>% skuteczniej.
 TID_GEAR_LOW_HEALTH_DAMAGE_INFO,"Zwiększa ZADAWANE OBRAŻENIA o <NUM>, gdy liczba punktów życia spadnie poniżej poziomu 50%."
-TID_GEAR_SLOW_RESISTANCE_INFO,SKRACA czas trwania efektów OGŁUSZENIA i ZMNIEJSZA skuteczność SPOWOLNIENIA o <NUM>%.
+TID_GEAR_VISION_INFO,ODKRYJ przeciwników na\n<NUM> s po zadaniu im obrażeń.
 TID_GEAR_SHIELD_INFO,Zyskaj <NUM> PŻ w postaci zużywalnej TARCZY. Tarcza regeneruje się w 10 sekund przy maks. liczbie punktów życia.
 TID_GEAR_FOREST_SPEED_UPGRADE_INFO,WZROST SZYBKOŚCI ruchu w krzakach
-TID_GEAR_STANDING_HEAL_UPGRADE_INFO,"PRZYWRACANIE PUNKTÓW ŻYCIA, gdy postać nie rusza się"
+TID_GEAR_STANDING_HEAL_UPGRADE_INFO,Skuteczniej REGENERUJ PUNKTY ŻYCIA
 TID_GEAR_LOW_HEALTH_DAMAGE_UPGRADE_INFO,"Dodatkowe OBRAŻENIA, gdy punkty życia spadną poniżej poziomu 50%"
-TID_GEAR_SLOW_RESISTANCE_UPGRADE_INFO,Skraca czas trwania efektów OGŁUSZENIA i zmniejsza skuteczność SPOWOLNIENIA
+TID_GEAR_VISION_UPGRADE_INFO,ODKRYJ przeciwników po zadaniu im obrażeń
 TID_GEAR_SHIELD_UPGRADE_INFO,Daje TARCZĘ zwiększającą PŻ
 TID_GEAR_FOREST_SPEED_UPGRADE_TARGET,WZROST PRĘDKOŚCI
-TID_GEAR_STANDING_HEAL_UPGRADE_TARGET,PRZYWRACANIE PUNKTÓW ŻYCIA
+TID_GEAR_STANDING_HEAL_UPGRADE_TARGET,BONUS DO REGENERACJI
 TID_GEAR_LOW_HEALTH_DAMAGE_UPGRADE_TARGET,DODATKOWE OBRAŻENIA
-TID_GEAR_SLOW_RESISTANCE_UPGRADE_TARGET,ODPORNOŚĆ
+TID_GEAR_VISION_UPGRADE_TARGET,CZAS ODKRYCIA
 TID_GEAR_SHIELD_UPGRADE_TARGET,PŻ TARCZY
 TID_GEAR_UPGRADED,WYPOSAŻENIE ULEPSZONE!
 TID_GEAR_TITLE,WYPOSAŻENIE
@@ -5742,13 +5775,13 @@ TID_TEAM_REQUEST_INVITE_FAIL_NOT_ENOUGH_TICKETS_YOU,Nie można wysłać zaprosze
 TID_TEAM_REQUEST_INVITE_FAIL_NOT_ENOUGH_TICKETS_PLAYER,Nie można wysłać zaproszenia. Gracz nie ma wystarczającej liczby biletów klubowych!
 TID_KICKER_DUDE,KIEŁ
 TID_KICKER_DUDE_SHORT_DESC,MASZYNA ZNISZCZENIA
-TID_KICKER_DUDE_DESC,"Kieł to mistrz błyskawicznych kopnięć. Jego główny atak to soczysty kopniak, który sprawia, że Kieł wyskakuje z butów! Superatak Kła to potężne kopnięcie, które trafia kolejno wielu wrogów, jeśli znajdują się blisko siebie."
+TID_KICKER_DUDE_DESC,"Kieł to mistrz szybkich kopnięć. Jego główny atak to soczysty kopniak, który sprawia, że Kieł wyskakuje z butów! Superatak Kła to potężne kopnięcie, które trafia kolejno wielu wrogów, jeśli znajdują się blisko siebie."
 TID_KICKER_DUDE_WEAPON,KARA-TREP
 TID_KICKER_DUDE_WEAPON_DESC,"Kieł wyprowadza szybkie, podstępne kopnięcie. Jeśli nie trafi w cel, siła ataku wysyła jego but w powietrze!"
 TID_KICKER_DUDE_ULTI,UKRADKIEM Z BUTA
 TID_KICKER_DUDE_ULTI_DESC,"Kieł wyprowadza paskudny kopniak z wyskoku. Jeśli trafi, może wymierzyć trzy kolejne kopnięcia pobliskim wrogom."
 TID_SPEC_ABI_KICKER_DUDE_1,RAŹNE KOPNIAKI
-TID_SPEC_ABI_KICKER_DUDE_1_DESC,"Gdy Kieł pokona wroga superatakiem, otrzymuje błyskawiczne doładowanie, dzięki któremu może wykonać kolejny superatak!"
+TID_SPEC_ABI_KICKER_DUDE_1_DESC,"Gdy Kieł pokona Zadymiarza superatakiem, otrzymuje błyskawiczne doładowanie, dzięki któremu może wykonać kolejny superatak!"
 TID_SPEC_ABI_KICKER_DUDE_2,BOSKIE ZELÓWKI
 TID_SPEC_ABI_KICKER_DUDE_2_DESC,Co <c00cc00><VALUE1></c> s zmniejsza otrzymywane obrażenia o <c00cc00><VALUE2></c>. Maksymalna redukcja obrażeń może wynieść <c00cc00><VALUE3>%</c>.
 TID_ACCESSORY_KICKER_DUDE_GADGET,POP-CORN-FU
@@ -5925,7 +5958,7 @@ TID_GAME_MODE_25_DESC,"Zbieraj punkty, pokonując przeciwników. Pierwsza druży
 TID_DEATHMATCH_INTRO_TEXT,Pokonuj przeciwników!
 TID_NOTIFICATION_DEATHMATCH,Dostępna jest nowa mapa w trybie BATALIA! Czas zdobyć nowe nagrody!
 TID_GAME_MODE_26,ŁADUNEK
-TID_GAME_MODE_26_DESC,"Pchaj wagonetkę (?) drużyny, stojąc obok niej. Pierwsza drużyna, która dopcha wagonetkę do celu, wygrywa mecz! Stanie obok wagonetki przeciwnika spowalnia ją. Jeśli czas dobiegnie końca, wygrywa drużyna, która zaszła najdalej!"
+TID_GAME_MODE_26_DESC,"Pchaj wagonetkę drużyny, stojąc obok niej. Pierwsza drużyna, która dopcha wagonetkę do celu, wygrywa mecz! Stanie obok wagonetki przeciwnika spowalnia ją. Jeśli czas dobiegnie końca, wygrywa drużyna, która zaszła najdalej!"
 TID_PAYLOAD_INTRO_TEXT,Pchaj wagonetkę!
 TID_NOTIFICATION_PAYLOAD,Dostępna jest nowa mapa w trybie ŁADUNEK! Czas zdobyć nowe nagrody!
 TID_ACCESSORY_PERCENTER_LIFESTEAL,MAM CIĘ!
@@ -5942,8 +5975,8 @@ TID_OPPONENT_ONE_POINT_FROM_VICTORY,OD PORAŻKI DZIELI CIĘ JEDNA ELIMINACJA!
 TID_VICTORY_MATCH_OVER,ZWYCIĘSTWO!
 TID_LOSS_MATCH_OVER,PORAŻKA!
 TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2022,Przebranie z okazji Chińskiego Nowego Roku 2022
-TID_LOGIN_CALENDAR_LEFT_TITLE,CODZIENNE NAGRODY
-TID_LOGIN_CALENDAR_LEFT_SUBTITLE,Loguj się <cfffc11>15 dni z rzędu</c> i otrzymaj <cfffc11>DARMOWE nagrody</c> każdego dnia
+TID_LOGIN_CALENDAR_LEFT_TITLE,PASSA PREZENTÓW ZA CODZIENNE LOGOWANIE
+TID_LOGIN_CALENDAR_LEFT_SUBTITLE,"<cfffc11>LOGUJ SIĘ CODZIENNIE PRZEZ 15 DNI</c>, aby otrzymać <cfffc11>DARMOWE PREZENTY</c>! <cfffc11>NIE PRZEGAP ŻADNEGO DNIA</c>, inaczej twoja passa zostanie przerwana!"
 TID_LOGIN_CALENDAR_RIGHT_TITLE,DZISIEJSZE NAGRODY
 TID_LOGIN_CALENDAR_BUTTON_CLAIM,ODBIERZ
 TID_LOGIN_CALENDAR_BUTTON_CLOSE,ZAMKNIJ
@@ -5952,7 +5985,7 @@ TID_LOGIN_CALENDAR_CARD_DAY_NUM,DZIEŃ <NUM>
 TID_LOGIN_CALENDAR_CARD_AVAILABLE_IN_TIMER,Dostępne za: <TIME>
 TID_LOGIN_CALENDAR_CARD_TIME_TO_CLAIM,Czas pozostały na odebranie: <TIME>
 TID_LOGIN_CALENDAR_REWARD_BRAWLER_CHOICE,WYBIERZ ZADYMIARZA
-TID_LOGIN_CALENDAR_REWARD_LEVEL_UPGRADE,ULEPSZ ZADYMIARZA
+TID_LOGIN_CALENDAR_REWARD_LEVEL_UPGRADE,ULEPSZ\nZADYMIARZA
 TID_LOGIN_CALENDAR_REWARD_PIN,NOWA ODZNAKA
 TID_LOGIN_CALENDAR_REWARD_SKIN,NOWA SKÓRKA
 TID_LOGIN_CALENDAR_REWARD_GADGET_CHOICE,WYBIERZ GADŻET
@@ -5975,7 +6008,7 @@ TID_ACCESSORY_SNAKE_OIL_SPREAD,WZMOCNIONE STRZAŁY
 TID_ACCESSORY_SNAKE_OIL_SPREAD_DESC,"Przy następnym ataku Byron wystrzeliwuje wiele rzutek (<c00cc00><VALUE1></c>) zamiast jednej, przy czym każda zadaje <ccc0000><VALUE2>%</c> mniej obrażeń i przywraca <ccc0000><VALUE3>%</c> mniej zdrowia."
 TID_GEMGRAB_48,Szafirowe równiny
 TID_ACCESSORY_STICKY_BOMB_VISION,POZOSTAŁOŚCI
-TID_ACCESSORY_STICKY_BOMB_VISION_DESC,Następne bomby brejowe Squeaka dają sojusznikom możliwość patrzenia w krzaki na <c00cc00><VALUE1></c> s.
+TID_ACCESSORY_STICKY_BOMB_VISION_DESC,"Następna lepka bomba Squeaka pozostawia po wybuchu osad, który spowalnia wrogów i daje sojusznikom zdolność patrzenia w krzaki na <c00cc00><VALUE1></c> s."
 TID_ACCESSORY_ELECTRO_SNIPER_BOUNCE,ODWRÓCONE BIEGUNY
 TID_ACCESSORY_ELECTRO_SNIPER_BOUNCE_DESC,Następny elektropocisk Belle odbija się od ścian.
 TID_TUTORIAL_SD_FIRSTBATTLE,"Ostatni ocalały zadymiarz wygrywa! Zbieraj kostki mocy ze skrzynek, aby zwiększyć swoją siłę. Nadchodzą chmury trucizny, więc nie przestawaj się ruszać!"
@@ -6011,7 +6044,7 @@ TID_LOGIN_CALENDAR_TIP_PINS,"Używaj odznak, aby wyrażać siebie w bitwie!"
 TID_LOGIN_CALENDAR_TIP_GADGET,"Gadżet to dodatkowa zdolność, której można użyć do 3 razy na bitwę"
 TID_LOGIN_CALENDAR_TIP_STAR_POWER,Gwiezdne moce to dodatkowe pasywne zdolności dla twojego zadymiarza
 TID_LOGIN_CALENDAR_PINS_DESCRIPTION,"Następna odznaka dostępna w DNIU <VALUE>.\nKontynuuj codzienne logowanie, aby ją odebrać"
-TID_LOGIN_CALENDAR_BUTTON_TITLE,NAGRODA ZA DZIEŃ <VALUE> ZA:
+TID_LOGIN_CALENDAR_BUTTON_TITLE,NASTĘPNY CODZIENNY PREZENT ZA:
 TID_LOGIN_CALENDAR_REMINDER_1_TITLE,DARMOWE nagrody za <HERONAME> przez 14 dni
 TID_LOGIN_CALENDAR_REMINDER_1_DESCRIPTION,"<HERONAME> - przyśpiesz postępy i zdobądź niesamowite przedmioty kosmetyczne, logując się każdego dnia!"
 TID_LOGIN_CALENDAR_REMINDER_1_BUTTON,NASTĘPNA
@@ -6098,13 +6131,248 @@ TID_SHOWDOWN_69,Rzeki kanionu
 TID_SHOWDOWN_70,Kostnica
 TID_RANKED_BATTLE_END_EPIC,Epickie zwycięstwo!
 TID_RANKED_BATTLE_END_CLOSE,Wyrównany mecz!
+TID_JETPACK_GIRL,JANET
+TID_JETPACK_GIRL_SHORT_DESC,MASZYNA ZNISZCZENIA
+TID_JETPACK_GIRL_DESC,Janet jest gwiazdą programu i chętnie wszystkim o tym przypomina.\n\nGdyby tylko jej siostra Bonnie nie wpadała ciągle w tarapaty...
+TID_JETPACK_GIRL_WEAPON,WYSOKA NUTA
+TID_JETPACK_GIRL_WEAPON_DESC,"Janet śpiewa wysoką nutę. Im dłużej ją utrzyma, tym bardziej skoncentrowany stanie się jej głos i dalej dotrze."
+TID_JETPACK_GIRL_ULTI,CRESCENDO
+TID_JETPACK_GIRL_ULTI_DESC,"Janet wznosi się na chwilę w powietrze przy użyciu plecaka odrzutowego, cały czas atakując wrogów z góry."
+TID_SPEC_ABI_JETPACK_GIRL_1,WIDOK NA SCENĘ
+TID_SPEC_ABI_JETPACK_GIRL_1_DESC,"Gdy Janet unosi się w powietrzu przy pomocy plecaka odrzutowego, odkrywa duży obszar zarośli wokół niej."
+TID_SPEC_ABI_JETPACK_GIRL_2,ROZGRZEWKA WOKALNA
+TID_SPEC_ABI_JETPACK_GIRL_2_DESC,Janet koncentruje atak <c00cc00><VALUE1>%</c> szybciej.
+TID_ACCESSORY_JETPACK_GIRL_GADGET_1,POTĘŻNY BAS
+TID_ACCESSORY_JETPACK_GIRL_GADGET_1_DESC,"Janet wystawia głośnik, który zadaje <c00cc00><VALUE1></c> obrażeń na sekundę wszystkim wrogom na danym obszarze, aż zostanie zniszczony."
+TID_ACCESSORY_JETPACK_GIRL_GADGET_2,WEJŚCIÓWKA ZA KULISY
+TID_ACCESSORY_JETPACK_GIRL_GADGET_2_DESC,"Wysoka nuta sprawia, że Janet leci do tyłu, nawet przez ściany. Im bardziej skoncentrowany jej atak, tym dalej zostaje odrzucona."
+TID_CANNON_GIRL,BONNIE
+TID_CANNON_GIRL_SHORT_DESC,HYBRYDA
+TID_CANNON_GIRL_DESC,"Bonnie i jej działo \qClyde\q zawsze rozrabiają. Kto by pomyślał, że taka miła dziewczyna może siać takie spustoszenie?"
+TID_CANNON_GIRL_WEAPON,LUŹNY ZĄB
+TID_CANNON_GIRL_WEAPON_DESC,"Bonnie wystrzeliwuje z Clyde´a OGROMNY ząb, który leci na wrogów."
+TID_CANNON_GIRL_ULTI,WYRZUTNIA GWIAZD
+TID_CANNON_GIRL_ULTI_DESC,Clyde wystrzeliwuje Bonnie w powietrze. Dziewczyna może przelecieć nad przeszkodami i zadaje obrażenia pobliskim wrogom po wylądowaniu.
+TID_CANNON_GIRL_SMALL_WEAPON,BOMBOWA KURTKA
+TID_CANNON_GIRL_SMALL_WEAPON_DESC,Bonnie wyrzuca z rękawów kilka małych granatów.
+TID_CANNON_GIRL_SMALL_ULTI,CLYDE
+TID_CANNON_GIRL_SMALL_ULTI_DESC,"Bonnie przyzywa Clyde´a i wskakuje do niego, przejmując kontrolę nad działem."
+TID_SPEC_ABI_CANNON_GIRL_1,CZARNY PROCH
+TID_SPEC_ABI_CANNON_GIRL_1_DESC,Zasięg wyrzutni gwiazd Bonnie wzrasta o <c00cc00><VALUE1>%</c>.
+TID_SPEC_ABI_CANNON_GIRL_2,ZĄB MĄDROŚCI
+TID_SPEC_ABI_CANNON_GIRL_2_DESC,"Luźny ząb pęka po trafieniu, zadając <c00cc00><VALUE1>%</c> dodatkowych obrażeń pobliskim wrogom."
+TID_ACCESSORY_CANNON_GIRL_SPEED,CUKROWY SZAŁ
+TID_ACCESSORY_CANNON_GIRL_SPEED_DESC,Szybkość ruchu i przeładowania Clyde wzrasta o <c00cc00><VALUE1>%</c> na <c00cc00><VALUE2></c> s.
+TID_ACCESSORY_CANNON_GIRL_DASH,TEST ZDERZENIOWY
+TID_ACCESSORY_CANNON_GIRL_DASH_DESC,"Bonnie skacze do przodu, odrzucając wrogów i zadając <c00cc00><VALUE1></c> obrażeń od uderzenia."
+TID_ACCESSORY_BLOCKED_REQUIRES_CANNON,Wymagany Clyde!
+TID_ACCESSORY_BLOCKED_REQUIRES_ASSASSIN,Wymagana Bonnie!
+TID_LOGIN_CALENDAR_MISSED,Przegapiono pozostałe nagrody za logowanie.
+TID_ACCESSORY_POWER_LEVELER_EXTRA_LEVELS,FALA MOCY
+TID_ACCESSORY_POWER_LEVELER_EXTRA_LEVELS_DESC,"Surge przeciąża swoje układy, zwiększając swój poziom ulepszenia o <c00cc00><VALUE1></c> na <c00cc00><VALUE2></c> s."
+TID_ACCESSORY_POWER_LEVELER_SHIELD,TARCZA ENERGETYCZNA
+TID_ACCESSORY_POWER_LEVELER_SHIELD_DESC,Przez następne <c00cc00><VALUE1></c> s Surge pochłania <c00cc00><VALUE2>%</c> obrażeń od następnego przychodzącego trafienia i wykorzystuje tę energię do przeładowania <c00cc00><VALUE3></c> szt. amunicji.
+TID_GAME_MODE_27,ZRZUT BOTÓW
+TID_GAME_MODE_27_DESC,"Broń się przed inwazją robotów. Niszcz roboty i zbieraj śruby. Pierwsza drużyna, która zbierze określoną liczbę śrub (<MAX_SCORE>), wygrywa mecz!"
+TID_INVASION_INTRO_TEXT,Niszcz roboty!
+TID_NOTIFICATION_INVASION,Dostępna jest nowa mapa w trybie ZRZUT BOTÓW! Czas zdobyć nowe nagrody!
+TID_INVASION_1,Dewolucja
+TID_INVASION_2,Podział
+TID_INVASION_3,Val Verde
+TID_INVASION_4,Kwadranty
+TID_INVASION_5,Bitwa światów
+TID_INVASION_6,Strefa zabijania
+TID_INVASION_7,W dychę
+TID_INVASION_8,A kuku
+TID_INVASION_9,Boty atakują!
+TID_INVASION_10,Liniowe bloki
+TID_INVASION_11,Korytarze
+TID_INVASION_12,Nad rzeką
+TID_INVASION_13,Odejście
+TID_INVASION_14,Forty
+TID_INVASION_15,Bot
+TID_INVASION_16,Głośne miejsce
+TID_SPRAYS_TUTORIAL_TITLE,SPREJE
+TID_SPRAYS_TUTORIAL_HEADER,WYRAŹ SIĘ W BITWIE!
+TID_BRAWL_PASS_CANCEL_QUEST_REROLL,ANULUJ ODŚWIEŻENIE
+TID_BRAWL_PASS_REROLL_QUEST,ODŚWIEŻ MISJĘ
+TID_BRAWL_PASS_QUEST_REROLL_COUNT,Odświeżenia: <num>/<max>
+TID_BRAWL_PASS_QUEST_REROLL_REFRESH_TIME,Odświeżenie za <time>
+TID_YOU_HAVE_USED_ALL_REROLLS,Zużyto wszystkie odświeżenia! Zdobądź ich więcej w ramach Karnetu Zadymiarskiego
+TID_YOU_HAVE_USED_ALL_REROLLS_HAS_PREMIUM,Zużyto wszystkie dostępne odświeżenia!
+TID_QUEST_REROLL_INTRO,WYBIERZ MISJĘ DO ODŚWIEŻENIA
+TID_QUEST_REROLL_ACCEPT,ZAAKCEPTUJ
+TID_QUEST_REROLL_REJECT,ODRZUĆ
+TID_REROLL_NOT_POSSIBLE_FOR_ITEM,Nie możesz odświeżyć tego elementu
+TID_CONFIRM_QUEST_REROLL,ODŚWIEŻYĆ MISJĘ?
+TID_CONFIRM_QUEST_REROLL_DESC,Nowa misja nie będzie miała wymagań dotyczących: <char> lub <type>...\nPozostałe odświeżenia: <rerolls>
+TID_CONFIRM_QUEST_REROLL_DESC_ONLY_TYPE,Nowa misja nie będzie miała wymagań dotyczących: <type>...\nPozostałe odświeżenia: <rerolls>
+TID_QUEST_TYPE_REQ_WIN,WYGRANA
+TID_QUEST_TYPE_REQ_KILL,POKONAJ PRZECIWNIKÓW
+TID_QUEST_TYPE_REQ_DEAL_DAMAGE,OBRAŻENIA
+TID_QUEST_TYPE_REQ_HEAL,WYLECZ
+TID_QUEST_TYPE_REQ_PLAY_AGAIN,ZAGRAJ PONOWNIE
+TID_QUEST_TYPE_REQ_TEAM_PLAY,GRA DRUŻYNOWA
+TID_QUEST_TYPE_REQ_MODE_SPECIFIC,OKREŚLONY TRYB
+TID_CHINA_PRIVACY_SHOW_IN_LEADERBOARDS,POKAŻ W TABELI WYNIKÓW
+TID_CHINA_PRIVACY_SHOW_PLAYER_PROFILE,POKAŻ PROFIL GRACZA
+TID_CHINA_PRIVACY_SHOW_CLUB_DETAILS,POKAŻ INFORMACJE O KLUBIE
+TID_CHINA_PRIVACY_ALLOW_SPECTATE,ZEWÓL NA OGLĄDANIE
+TID_CHINA_PRIVACY_INFO_OLD_PLAYERS_TITLE,Ważny komunikat
+TID_CHINA_PRIVACY_INFO_OLD_PLAYERS_DESC,"Szanowny graczu Brawl Stars:\nDodaliśmy do gry ustawienia prywatności, które są domyślnie włączone. Możesz je zmienić, wybierając kolejno Ustawienia -> Ustawienia prywatności."
+TID_CHINA_PRIVACY_INFO_NEW_PLAYERS_TITLE,Ważny komunikat
+TID_CHINA_PRIVACY_INFO_NEW_PLAYERS_DESC,"Szanowny graczu Brawl Stars:\nDodaliśmy do gry ustawienia prywatności, które są domyślnie wyłączone. Zezwolić grze na ich włączenie?"
+TID_CHINA_PRIVACY_INFO_NEW_PLAYERS_BUTTON_ACCEPT,ZAAKCEPTUJ
+TID_CHAT_JUST_DISABLED,Inni gracze zgłosili cię z powodu niestosownych komentarzy. Twój czat został wyłączony na <TIME>.
+TID_CHAT_UNAVAILABLE,Czat wyłączony na <TIME>.
+TID_CHAT_BANNED_REASON,Inni gracze zgłosili cię z powodu niestosownych komentarzy.
+TID_CHAT_BANNED_PERIOD_OF,Wyciszono cię w globalnym czacie na:
+TID_CHAT_FAIL_BANNED,Wyciszono cię na <TIME>.
+TID_CHAT_JUST_BANNED,Inni gracze zgłosili cię z powodu niestosownych komentarzy. Wyciszono cię na <TIME>.
+TID_TENCENT_CUSTOMER_SUPPORT,Obsługa klienta Tencent
+TID_SELF_SERVICE_BUTTON,Samoobsługa
+TID_REPORT_CLUB_CONFIRMATION_TITLE,Zgłosić gracza <NAME>?
+TID_REPORT_CLUB_CONFIRMATION,Czy na pewno chcesz zgłosić gracza <NAME> z powodu niestosownego zachowania?
+TID_REPORT_PLAYER_CONFIRMATION_TITLE,Zgłosić gracza <NAME>?
+TID_REPORT_PLAYER_CONFIRMATION,Czy na pewno chcesz zgłosić gracza <NAME> z powodu niewłaściwego zachowania?
+TID_REPORT_BATTLE_PLAYER_CONFIRMATION_TITLE,Zgłosić gracza <NAME>?
+TID_REPORT_BATTLE_PLAYER_CONFIRMATION,Czy na pewno chcesz zgłosić gracza <NAME> z powodu niestosownego zachowania?
+TID_DELETE_ACCOUNT_TITLE,Usuń moje konto
+TID_UGC_INPUT_FEATURE_UNAVAILABLE,Ta funkcja jest obecnie niedostępna
+TID_PLAYER_PROFILE_PRIVATE,Ten gracz ustawił profil jako prywatny
+TID_PLAYER_CLUB_INFO_PRIVATE,Ten gracz ustawił informacje o klubie jako prywatne
+TID_CLAN_RESPONSE_111,Ta funkcja jest obecnie niedostępna
+TID_CLAN_RESPONSE_120,"Ten opis zawartości nie jest dozwolony, spróbuj wprowadzić inny."
+TID_CHINA_LOGIN_DESC_YOOZOO,本公司积极履行《网络游戏行业防沉迷自律公约》抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。根据国家新闻出版署《关于防止未成年人沉迷网络游戏的通知》、《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》，所有网络游戏用户均需使用有效身份信息完成账号实名注册后方可进入游戏，认证为未成年的玩家将受到防沉迷功能限制。沪网文【2018】8544-517号、新出网证（沪）字33号 著作权人：SUPERCELL OY 出版单位：上海游族信息技术有限公司 运营单位：上海游族信息技术有限公司 批准文号：国新出审【2020】552号 出版物号：ISBN 978-7-498-07472-0
+TID_YOOZOO_LOGIN_AGREEMENTS,"Oświadczam, że znam i akceptuję treść dokumentów: <TOS>, <PP>, <CHILDREN> i <THIRDPARTY>."
+TID_YOOZOO_TERMS_CHILDREN,Wytyczne na temat ochrony prywatności nieletnich Yoozoo
+TID_TERMS_CHILDREN_BUTTON_YOOZOO,Wytyczne na temat ochrony prywatności nieletnich Yoozoo
+TID_YOOZOO_THIRDPARTY_INFO,"Lista osób trzecich, którym udostępniamy dane"
+TID_THIRD_PARTY_SHARING_BUTTON_YOOZOO,"Lista osób trzecich, którym udostępniamy dane"
+TID_YOOZOO_SYSTEM_SETTINGS_BUTTON,Ustawienia systemowe
+TID_SKIN_PIN_INCLUDED,+ Wyjątkowa odznaka!
+TID_SKIN_PINS_INCLUDED,+ Pakiet ekskluzywnych odznak!
+TID_OWN_TEAM_BANS,NIEBIESKA DRUŻYNA BLOKUJE
+TID_ENEMY_TEAM_BANS,CZERWONA DRUŻYNA BLOKUJE
+TID_PRE_PICK_YOUR_BRAWLER,WYBIERZ WSTĘPNIE ZADYMIARZA
+TID_PRE_PICK,WYBIERZ WSTĘPNIE
+TID_CANCEL,ANULUJ
+TID_WANTS_TO_PLAY,CHCE GRAĆ
+TID_WANT_TO_PLAY,CHCĄ GRAĆ
+TID_WANTS_TO_PLAY_MULTIPLE_TEAMMATES,<num> CZŁONK. DRUŻYNY
+TID_BRAWL_PASS_SEASON_11,POKAZ KASKADERSKI
+TID_SHOP_STUNTSHOW_SKINS,Przebrania Pokaz kaskaderski
+TID_SHOP_STUNTSHOW_TITLE,POKAZ KASKADERSKI
+TID_SHOP_STUNTSHOW_INFO,Zestaw przebrań
+TID_SKIN_INFO_CAMPAIGN_STUNTSHOW,Przebranie Pokaz kaskaderski
+TID_EMOTE_BUNDLE_STUNTSHOW_PACK,Odznaki przebrania Pokaz kaskaderski
+TID_EMOTE_BUNDLE_GOLDENWEEK_PACK,Odznaki przebrania Złoty tydzień
+TID_SKIN_INFO_CAMPAIGN_GOLDENWEEK,Przebranie Złoty tydzień
+TID_SHOP_GOLDENWEEK_SKINS,Przebrania Złoty tydzień
+TID_SHOP_GOLDENWEEK_TITLE,ZŁOTY TYDZIEŃ
+TID_SHOP_GOLDENWEEK_INFO,Zestaw przebrań
+TID_SPRAY_BRAWLER_COMING_SOON,Sprej Zadymiarza - już wkrótce
+TID_SHOP_VILLAINS_SKINS,Przebranie Najgorsza zgraja
+TID_SHOP_VILLAINS_TITLE,NAJGORSZA ZGRAJA
+TID_SHOP_VILLAINS_INFO,Zestaw przebrań
+TID_EMOTE_BUNDLE_VILLAINS_PACK,Odznaki przebrania Najgorsza zgraja
+TID_SKIN_INFO_CAMPAIGN_VILLAINS,Przebranie Najgorsza zgraja
+TID_HOTZONE_33,Otwarta strefa
+TID_KNOCKOUT_18,Nowa perspektywa
+TID_TRUE_GOLD_BELLE_SKIN,ZŁOTA BELLE
+TID_TRUE_GOLD_BELLE_SKIN_SHOP,ZŁOTA\nBELLE
+TID_TRUE_SILVER_BELLE_SKIN,SREBRNA BELLE
+TID_TRUE_SILVER_BELLE_SKIN_SHOP,SREBRNA\nBELLE
+TID_TRUE_GOLD_STU_SKIN,ZŁOTY STU
+TID_TRUE_GOLD_STU_SKIN_SHOP,ZŁOTY\nSTU
+TID_TRUE_SILVER_STU_SKIN,SREBRNY STU
+TID_TRUE_SILVER_STU_SKIN_SHOP,SREBRNY\nSTU
+TID_TRUE_GOLD_ASH_SKIN,ZŁOTY ASH
+TID_TRUE_GOLD_ASH_SKIN_SHOP,ZŁOTY\nASH
+TID_TRUE_SILVER_ASH_SKIN,SREBRNY ASH
+TID_TRUE_SILVER_ASH_SKIN_SHOP,SREBRNY\nASH
+TID_TRUE_GOLD_MEG_SKIN,ZŁOTA MEG
+TID_TRUE_GOLD_MEG_SKIN_SHOP,ZŁOTA\nMEG
+TID_TRUE_SILVER_MEG_SKIN,SREBRNA MEG
+TID_TRUE_SILVER_MEG_SKIN_SHOP,SREBRNA\nMEG
+TID_TRUE_GOLD_LOLA_SKIN,ZŁOTA LOLA
+TID_TRUE_GOLD_LOLA_SKIN_SHOP,ZŁOTA\nLOLA
+TID_TRUE_SILVER_LOLA_SKIN,SREBRNA LOLA
+TID_TRUE_SILVER_LOLA_SKIN_SHOP,SREBRNA\nLOLA
+TID_CRASH_TEST_DARRYL_SKIN,KASKADER DARRYL
+TID_CRASH_TEST_DARRYL_SKIN_SHOP,KASKADER\nDARRYL
+TID_BIKER_CARL_SKIN,MOTOCYKLISTA CARL
+TID_BIKER_CARL_SKIN_SHOP,MOTOCYKLISTA CARL
+TID_PYRO_SPIKE_SKIN,OGNISTY SPIKE
+TID_PYRO_SPIKE_SKIN_SHOP,OGNISTY SPIKE
+TID_MONSTER_TRUCK_MEG_SKIN,MONSTER TRUCKOWA MEG
+TID_MONSTER_TRUCK_MEG_SKIN_SHOP,MONSTER TRUCKOWA\nMEG
+TID_OVERLORD_BYRON_SKIN,WŁADCA BYRON
+TID_OVERLORD_BYRON_SKIN_SHOP,WŁADCA\nBYRON
+TID_GALAXY_STORM_LOLA_SKIN,GALAKTYCZNA LOLA
+TID_GALAXY_STORM_LOLA_SKIN_SHOP,GALAKTYCZNA\nLOLA
+TID_EMPRESS_BONNIE_SKIN,CESARZOWA BONNIE
+TID_EMPRESS_BONNIE_SKIN_SHOP,CESARZOWA\nBONNIE
+TID_TEMPEST_TARA_SKIN,BURZLIWA TARA
+TID_TEMPEST_TARA_SKIN_SHOP,BURZLIWA\nTARA
+TID_VALKYRIE_JANET_SKIN,WALKIRIA JANET
+TID_VALKYRIE_JANET_SKIN_SHOP,WALKIRIA\nJANET
+TID_DARUMA_MRP_SKIN,DARUMA PAN P
+TID_DARUMA_MRP_SKIN_SHOP,DARUMA\nPAN P
+TID_SKIN_INFO_CAMPAIGN_LANTERN,Przebranie Święto Latarni
+TID_ACCESSORY_DRILLER_REBUILD,ODBUDOWANIE
+TID_ACCESSORY_DRILLER_REBUILD_DESC,Jacky odbudowuje środowisko w małym promieniu wokół niej.
+TID_ACCESSORY_ASSAULT_SHOTGUN_PROJECTILES,DESZCZ MONET
+TID_ACCESSORY_ASSAULT_SHOTGUN_PROJECTILES_DESC,Przy następnym rzucie monetą Griff wystrzeliwuje <c00cc00><VALUE1>%</c> wiecej monet.
+TID_ACCESSORY_FIRE_DUDE_FLAME_SHIELD,TAŃCZĄCE PŁOMIENIE
+TID_ACCESSORY_FIRE_DUDE_FLAME_SHIELD_DESC,"Amber tworzy szalejące wokół niej płomienie (<c00cc00><VALUE3></c>), które zadają pobliskim wrogom <c00cc00><VALUE1></c> obrażeń od uderzenia przez <c00cc00><VALUE2></c> s."
+TID_ACCESSORY_MECHA_DUDE_TOWER_RELOAD,SKRZYNKA Z NARZĘDZIAMI
+TID_ACCESSORY_MECHA_DUDE_TOWER_RELOAD_DESC,"Meg upuszcza swoją skrzynkę z narzędziami, która zwiększa szybkość przeładowania pobliskich sojuszników o <c00cc00><VALUE1>%</c>, aż skrzynka zostanie zniszczona."
+TID_ACCESSORY_ROPE_DUDE_VISION,OKULARY RENTGENOWSKIE
+TID_ACCESSORY_ROPE_DUDE_VISION_DESC,"Buzz widzi, co kryją wszystkie krzaki, przez <c00cc00><VALUE1></c> s."
+TID_LOGIN_CALENDAR_ALREADY_HAVE_BRAWLER,Masz już tego Zadymiarza
+TID_LOGIN_CALENDAR_ALREADY_HAVE_GADGET,Masz już ten gadżet
+TID_LOGIN_CALENDAR_ALREADY_HAVE_STAR_POWER,Masz już tą gwiezdną moc
+TID_LOGIN_CALENDAR_FINAL_REWARD_MESSAGE,DARMOWY <cFF92F9>EPICKI</c> ZADYMIARZ W 15. DNIU
+TID_LOGIN_CALENDAR_WARNING_MESSAGE,"<cFFB820>NIE PRZEGAP ŻADNEGO DNIA</c>, inaczej pozostałe prezenty przepadną!"
+TID_POWER_LEAGUE_BRAWLER_REQUIREMENT_SELECT,"Odblokuj przynajmniej 12 Zadymiarzy, aby wziąć udział w tym wydarzeniu"
+TID_TEAM_ERROR_134,"Odblokuj przynajmniej 12 Zadymiarzy, aby wziąć udział w tym wydarzeniu"
+TID_MATCHMAKE_FAILED_25,"Odblokuj przynajmniej 12 Zadymiarzy, aby wziąć udział w tym wydarzeniu"
+TID_POWER_LEAGUE_BRAWLER_REQUIREMENT_INVITE,"Ten gracz nie ma wystarczająco odblokowanych Zadymiarzy, aby wziąć udziału w tym wydarzeniu"
+TID_TEAM_ERROR_133,"Ten gracz nie ma wystarczająco odblokowanych Zadymiarzy, aby wziąć udziału w tym wydarzeniu"
+TID_REWARD_SPRAY_SLOT,DODATKOWE MIEJSCE NA SPREJ
+TID_SPRAY_SLOT_TITLE,MIEJSCE NA SPREJ
+TID_KNOCKOUT_19,X oznacza cel
+TID_BANKHEIST_31,Nietykalność
+TID_LOGIN_CALENDAR_FINAL_REWARD,DARMOWY <cFF92F9>EPICKI</c> ZADYMIARZ
+TID_LOGIN_CALENDAR_OR,LUB
+TID_LOGIN_CALENDAR_BRAWLER_UPGRADED,ULEPSZONY ZADYMIARZ!
+TID_LOGIN_CALENDAR_TOOLTIP_SKIN,"Odblokuj to nowe przebranie Zadymiarza\n\nGdy będziesz już je mieć, możesz założyć przebranie na ekranie Zadymiarza. Jeśli Zadymiarz ma przynajmniej 1 przebranie, wybierz go i stuknij przycisk z ikoną wieszaka."
+TID_LOGIN_CALENDAR_TOOLTIP_CHOOSE_BRAWLER,"Wybierz Zadymiarza, którego chcesz odblokować w następnej kolejności!"
+TID_LOGIN_CALENDAR_TOOLTIP_UPGRADE_BRAWLER,"Ulepsz swojego Zadymiarza! Zwiększ jego punkty życia, obrażenia od ataku i obrażenia od superataku z każdym nowym poziomem mocy. Miejsce na gadżet Zadymiarza zostaje odblokowane na 7. poziomie mocy, a miejsce na gwiezdną moc - na 9. poziomie mocy."
+TID_LOGIN_CALENDAR_TOOLTIP_PIN_1,"Używaj odznak, aby wyrazić się w bitwie. Odznaki można założyć na ekranie Zadymiarza."
+TID_LOGIN_CALENDAR_TOOLTIP_PIN_2,"Używaj odznak, aby wyrazić się w bitwie. Odznaki można założyć na ekranie Zadymiarza."
+TID_LOGIN_CALENDAR_TOOLTIP_GADGETS,"Wybierz gadżet dla swojego Zadymiarza. Gadżety to dodatkowe zdolności, które można użyć 3 razy na bitwę. Każdy Zadymiarz ma własne, niepowtarzalne gwiezdne moce."
+TID_LOGIN_CALENDAR_TOOLTIP_STAR_POWER,"Wybierz gwiezdną moc dla Zadymiarza. Gwiezdne moce to dodatkowe pasywne umiejętności dla Zadymiarza. Każdy Zadymiarz ma własne, niepowtarzalne gwiezdne moce."
+TID_LOGIN_CALENDAR_TUTORIAL_TOOLTIP,"Pierwszy codzienny podarunek czeka na ciebie!\nStuknij, aby go ODEBRAĆ."
+TID_BRAWL_PASS_INFO_TEXT_10,"Zdobądź mnóstwo dodatkowych nagród, takich jak:\n\n<BRAWLER> - Nowy Zadymiarz chromatyczny!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_1>!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_2>!\n\nWYJĄTKOWE i CZADOWE ODZNAKI <BRAWLER>\n\n<NUM>MEGASKRZYNKI!\n\nDODATKOWE MONETY i PUNKTY MOCY!\n\n\nDODATKOWE MISJE, które pomogą szybciej wypełnić Karnet Zadymiarski!\n\n<NUM> DODATKOWE ODŚWIEŻENIA MISJI NA TYDZIEŃ\n\nWYJĄTKOWY CHROMATYCZNY KOLOR IMIENIA na czas trwania sezonu!"
+TID_LOGIN_CALENDAR_STARR_PARK,PARK STARR
+TID_LOGIN_CALENDAR_LOYALTY_PROGRAM,PROGRAM LOJALNOŚCIOWY
+TID_LOGIN_CALENDAR_TITLE,PROGRAM LOJALNOŚCIOWY PARKU STARR
+TID_REWARD_DESC_PLAYER_ICON_REGULAR,IKONA GRACZA
+TID_CLUB_LEAGUE_CLUB_COINS_HOW_TO_GET,"Zdobywaj monety klubowe, rywalizując w Lidze Klubowej"
+TID_SHOP_OFFER_INFO_25,Nowa ikona gracza!
+TID_LOGIN_CALENDAR_TUTORIAL_COME_BACK,"<cFFB820>WRÓĆ JUTRO</c>, aby ODEBRAĆ ten prezent, inaczej passa zostanie przerwana!"
+TID_BRAWLBALL_49,Super sprężystość
+TID_BRAWLBALL_50,Pełne przechylenie
+TID_BRAWLBALL_51,Najwyższy wynik
+TID_BRAWLBALL_52,Pingpong
 TID_REGION_CUSTOM1,
 TID_REGION_CUSTOM2,
 TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_HERO_INFO_GENERICS_HEADER,
-TID_CHINA_LOGIN_DESC,
 TID_VOTE_MAP_REWARD_LABEL,
 TID_RANKED_QUEST_PROGRESS,
 TID_ONLINE_CL_TEAMS,
