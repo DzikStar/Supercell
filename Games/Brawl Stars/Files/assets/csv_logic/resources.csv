@@ -15,6 +15,7 @@
 "GearScrap","TID_GEAR_SCRAP","sc/ui.sc",,"genicon_upgradium",,,,,,,
 "ClubCoins","TID_CLUB_COINS","sc/ui.sc",,"genicon_upgradium",,,,,,,
 "GearTokensHeal","TID_GEAR_TOKEN_HEAL","sc/ui.sc",,"gear_token_heal",,,,,,,
-"GearTokensResistance","TID_GEAR_TOKEN_RESISTANCE","sc/ui.sc",,"gear_token_resistance",,,,,,,
+"GearTokensResistance","TID_GEAR_TOKEN_TYPE_VISION","sc/ui.sc",,"gear_token_vision",,,,,,,
 "GearTokensShield","TID_GEAR_TOKEN_SHIELD","sc/ui.sc",,"gear_token_shield",,,,,,,
 "GearTokensSpeed","TID_GEAR_TOKEN_SPEED","sc/ui.sc",,"gear_token_speed",,,,,,,
+"SpraySlot","TID_REWARD_SPRAY_SLOT","sc/ui.sc",,"reward_icon_sprays",,,,,,,
