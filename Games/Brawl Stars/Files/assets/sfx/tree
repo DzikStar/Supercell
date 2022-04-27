@@ -201,6 +201,58 @@
     blink_01v2.ogg
     blue_mine_01.ogg
     bomb_bleeps_01.ogg
+    bonnie_cannon_return_sfx_01.ogg
+    bonnie_cb_impact_01.ogg
+    bonnie_dryfire_01.ogg
+    bonnie_fire_01.ogg
+    bonnie_reload_01.ogg
+    bonnie_small_atk_01.ogg
+    bonnie_ulti_fire_01.ogg
+    bonnie_ulti_land_01.ogg
+    bonni_die_vo_01.ogg
+    bonni_die_vo_02.ogg
+    bonni_die_vo_03.ogg
+    bonni_die_vo_04.ogg
+    bonni_die_vo_05.ogg
+    bonni_die_vo_06.ogg
+    bonni_die_vo_07.ogg
+    bonni_die_vo_08.ogg
+    bonni_hurt_vo_01.ogg
+    bonni_hurt_vo_02.ogg
+    bonni_hurt_vo_03.ogg
+    bonni_hurt_vo_04.ogg
+    bonni_hurt_vo_05.ogg
+    bonni_hurt_vo_06.ogg
+    bonni_kill_vo_01.ogg
+    bonni_kill_vo_02.ogg
+    bonni_kill_vo_03.ogg
+    bonni_kill_vo_04.ogg
+    bonni_kill_vo_05.ogg
+    bonni_kill_vo_06.ogg
+    bonni_kill_vo_07.ogg
+    bonni_kill_vo_08.ogg
+    bonni_kill_vo_09.ogg
+    bonni_lead_vo_01.ogg
+    bonni_lead_vo_02.ogg
+    bonni_lead_vo_03.ogg
+    bonni_lead_vo_04.ogg
+    bonni_lead_vo_05.ogg
+    bonni_lead_vo_06.ogg
+    bonni_start_vo_01.ogg
+    bonni_start_vo_02.ogg
+    bonni_start_vo_03.ogg
+    bonni_start_vo_04.ogg
+    bonni_start_vo_05.ogg
+    bonni_start_vo_06.ogg
+    bonni_start_vo_07.ogg
+    bonni_start_vo_08.ogg
+    bonni_ulti_vo_01.ogg
+    bonni_ulti_vo_02.ogg
+    bonni_ulti_vo_03.ogg
+    bonni_ulti_vo_04.ogg
+    bonni_ulti_vo_05.ogg
+    bonni_ulti_vo_06.ogg
+    bonni_ulti_vo_07.ogg
     boss_spawn_seq_01.ogg
     bounce_fire_01.ogg
     bow_dryfire_01.ogg
@@ -256,7 +308,11 @@
     brawl_pass_buy_vfx_sfx_01.ogg
     brawl_pass_tier_up_01.ogg
     brawl_redblue_team_boxes_enter_01.ogg
+    brawl_reroll_01.ogg
     brawl_score_point_01.ogg
+    brawl_spray_01.ogg
+    brawl_spray_shake_01.ogg
+    brawl_stunt_2_load_01.ogg
     brawl_teammode_rank_up_01.ogg
     brawl_teleport_start_01.ogg
     brawl_teleport_use_01.ogg
@@ -810,6 +866,49 @@
     jackie_ulti_vo_02.ogg
     jacky_summer_atk_01.ogg
     jacky_summer_ulti_01.ogg
+    janet_atk_sfx_01.ogg
+    janet_die_vo_01.ogg
+    janet_die_vo_02.ogg
+    janet_die_vo_03.ogg
+    janet_die_vo_04.ogg
+    janet_die_vo_05.ogg
+    janet_die_vo_06.ogg
+    janet_dryfire_sfx_01.ogg
+    janet_hurt_vo_01.ogg
+    janet_hurt_vo_02.ogg
+    janet_hurt_vo_03.ogg
+    janet_hurt_vo_04.ogg
+    janet_hurt_vo_05.ogg
+    janet_hurt_vo_06.ogg
+    janet_hurt_vo_07.ogg
+    janet_hurt_vo_08.ogg
+    janet_kill_vo_01.ogg
+    janet_kill_vo_02.ogg
+    janet_kill_vo_03.ogg
+    janet_kill_vo_04.ogg
+    janet_kill_vo_05.ogg
+    janet_lead_vo_01.ogg
+    janet_lead_vo_02.ogg
+    janet_lead_vo_03.ogg
+    janet_lead_vo_04.ogg
+    janet_lead_vo_05.ogg
+    janet_lead_vo_06.ogg
+    janet_reload_sfx_01.ogg
+    janet_start_vo_01.ogg
+    janet_start_vo_02.ogg
+    janet_start_vo_03.ogg
+    janet_start_vo_04.ogg
+    janet_start_vo_05.ogg
+    janet_start_vo_06.ogg
+    janet_start_vo_07.ogg
+    janet_ulti_explo_01.ogg
+    janet_ulti_sfx_01.ogg
+    janet_ulti_vo_01.ogg
+    janet_ulti_vo_02.ogg
+    janet_ulti_vo_03.ogg
+    janet_ulti_vo_04.ogg
+    janet_ulti_vo_05.ogg
+    janet_ulti_vo_06.ogg
     jess_die_01.ogg
     jess_die_02.ogg
     jess_dry_fire_01.ogg
@@ -1304,9 +1403,6 @@
     snakeoil_hurt_vo_02.ogg
     snakeoil_kill_vo_01.ogg
     snakeoil_kill_vo_02.ogg
-    snakeoil_kill_vo_03.ogg
-    snakeoil_kill_vo_04.ogg
-    snakeoil_kill_vo_05.ogg
     snakeoil_kill_vo_06.ogg
     snakeoil_lead_vo_01.ogg
     snakeoil_lead_vo_02.ogg
