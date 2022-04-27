@@ -8,7 +8,7 @@
 
 # direct methods
 .method public constructor <init>()V
-    .locals 0
+    .registers 1
 
     .line 1
     invoke-direct {p0}, Lcom/supercell/titan/GameApp;-><init>()V
@@ -19,7 +19,7 @@
 
 # virtual methods
 .method public onActivityResult(IILandroid/content/Intent;)V
-    .locals 0
+    .registers 4
 
     .line 1
     invoke-super {p0, p1, p2, p3}, Lcom/supercell/titan/GameApp;->onActivityResult(IILandroid/content/Intent;)V
@@ -31,7 +31,7 @@
 .end method
 
 .method public onCreate(Landroid/os/Bundle;)V
-    .locals 4
+    .registers 6
 
     .line 1
     invoke-super {p0, p1}, Lcom/supercell/titan/GameApp;->onCreate(Landroid/os/Bundle;)V
@@ -72,7 +72,7 @@
 .end method
 
 .method public onPause()V
-    .locals 0
+    .registers 1
 
     .line 1
     invoke-super {p0}, Lcom/supercell/titan/GameApp;->onPause()V
@@ -84,7 +84,7 @@
 .end method
 
 .method public onResume()V
-    .locals 0
+    .registers 1
 
     .line 1
     invoke-super {p0}, Lcom/supercell/titan/GameApp;->onResume()V
