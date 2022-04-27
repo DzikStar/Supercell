@@ -96,7 +96,7 @@ Duplicator_StaticDuplicate,pet_control,1,100,gadget_activate,,,gadget_pet_on_loo
 KickerDude_Mines,spin_shoot,,100,gadget_activate,,darryl_def_atk,,,15,,,,,,,,,,true,,true,,,,,,,,,,,,,KickerDudeMinesProjectile,2,50,500,1500,0,0,,,,
 119d51e112ac047a90d534ac9bf4f7ad52481f51,,,100,gadget_activate,,,,,,,,,,,,,,,,,,,,,,,,40,60,,,,,,,,,,,,,,,
 Flea_Jump,spawn,6,100,gadget_activate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FleaExtraPet,200,,,,,,,,,
-Flea_Symbiosis,swap_secondary_pet,,100,gadget_activate,flea_gadget_heal,,,,20,,,,,,1,,,,,,,12,,,,,,,,,,,,FleaHealingPet,,,,,,,TID_ACCESSORY_BLOCKED_MISSING_BIG_EGG,TID_ACCESSORY_BLOCKED_BIG_EGG_TOO_FAR,,
+Flea_Symbiosis,swap_secondary_pet,,100,gadget_activate,flea_gadget_heal,,,,20,,,,,,,,,,,,,12,,,,,,,,,,,,FleaHealingPet,,,,,,,TID_ACCESSORY_BLOCKED_MISSING_BIG_EGG,TID_ACCESSORY_BLOCKED_BIG_EGG_TOO_FAR,,
 Duplicator_Swap,teleport_to_pet,2,100,gadget_activate,,,,,10,,true,,,,,,,,true,,,12,,,,,,,,,,,,DuplicatorSwapEffect,350,,,,,,TID_ACCESSORY_BLOCKED_MISSING_EGO,TID_ACCESSORY_BLOCKED_EGO_TOO_FAR,,
 Percenter_Lifesteal,next_attack_change,2,100,gadget_activate,,gadget_on_loop,,,100,,,,,,,,,,,,,,,,,,,,,,,,,PercenterLifestealProjectile,20,0,,-1,,,,,TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE,
 Baseball_Sticky,ulti_change,3,100,gadget_activate,,,,,100000,,,,,,,,,,,,,,,,,,,,,,,,,BaseballStickyProjectile,2,,,,0,,TID_ACCESSORY_BLOCKED_SUPER_REQUIRED,,TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE,
