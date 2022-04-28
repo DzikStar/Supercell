@@ -330,5 +330,80 @@
                 "platform": "Twitch"
             }
         ]
+    },
+    {
+        "eventId": "4mUol8jVwYc2ROeC0piV1P",
+        "previewVideo": "",
+        "teams": 8,
+        "days": 1,
+        "teaserVideo": "G1ZurYR_rf8",
+        "status": "published",
+        "region": "sesaanz",
+        "dayStartTimes": [
+            1651305600000
+        ],
+        "name": "May Monthly Finals - SESA & ANZ",
+        "type": "regular",
+        "streams": []
+    },
+    {
+        "eventId": "2OPsjvD8OSpy9fj6KozVbj",
+        "previewVideo": "",
+        "teams": 8,
+        "days": 1,
+        "teaserVideo": "G1ZurYR_rf8",
+        "status": "published",
+        "region": "latams",
+        "dayStartTimes": [
+            1651330800000
+        ],
+        "name": "May Monthly Finals - LATAM S",
+        "type": "regular",
+        "streams": []
+    },
+    {
+        "eventId": "3ifag1gW8BrDboIDqppG32",
+        "previewVideo": "",
+        "teams": 8,
+        "days": 1,
+        "teaserVideo": "G1ZurYR_rf8",
+        "status": "published",
+        "region": "eastasia",
+        "dayStartTimes": [
+            1651906800000
+        ],
+        "name": "May Monthly Finals - East Asia",
+        "type": "regular",
+        "streams": []
+    },
+    {
+        "eventId": "23fGEbeELZBFrTvQlVMe6a",
+        "previewVideo": "",
+        "teams": 8,
+        "days": 1,
+        "teaserVideo": "G1ZurYR_rf8",
+        "status": "published",
+        "region": "emea",
+        "dayStartTimes": [
+            1651932000000
+        ],
+        "name": "May Monthly Finals - EMEA",
+        "type": "regular",
+        "streams": []
+    },
+    {
+        "eventId": "2BBKzRhJFwqcnI7Co7fU9d",
+        "previewVideo": "",
+        "teams": 8,
+        "days": 1,
+        "teaserVideo": "G1ZurYR_rf8",
+        "status": "published",
+        "region": "nalatamn",
+        "dayStartTimes": [
+            1652043600000
+        ],
+        "name": "May Monthly Finals - NA & LATAM N",
+        "type": "regular",
+        "streams": []
     }
 ]
