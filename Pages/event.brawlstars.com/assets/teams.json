@@ -155,7 +155,7 @@
     },
     {
         "teamNr": 23,
-        "name": "Serenity Esports",
+        "name": "Serinity Esports",
         "shortName": "SRN",
         "region": "sesaanz",
         "logo": "/team-logos/sesaanz/serinityesports.png"
@@ -292,5 +292,54 @@
         "shortName": "Z1",
         "region": "eastasia",
         "logo": "/team-logos/eastasia/zetadivisionone.png"
+    },
+    {
+        "teamNr": 43,
+        "name": "SaltyGang",
+        "shortName": "SLG",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/saltygang.png"
+    },
+    {
+        "teamNr": 44,
+        "name": "Southern Cross",
+        "shortName": "SC",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/southerncross.png"
+    },
+    {
+        "teamNr": 45,
+        "name": "Business Proposal",
+        "shortName": "BP",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/businessproposal.png"
+    },
+    {
+        "teamNr": 46,
+        "name": "Kesas Lifelines",
+        "shortName": "KSL",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/kesaslifelines.png"
+    },
+    {
+        "teamNr": 47,
+        "name": "Embananados F/A",
+        "shortName": "EMB",
+        "region": "latams",
+        "logo": "/team-logos/latams/embananadosfa.png"
+    },
+    {
+        "teamNr": 48,
+        "name": "REGULAMENTADOS",
+        "shortName": "RGL",
+        "region": "latams",
+        "logo": "/team-logos/latams/regulamentados.png"
+    },
+    {
+        "teamNr": 49,
+        "name": "ZerøZone",
+        "shortName": "ZØ",
+        "region": "latams",
+        "logo": "/team-logos/latams/zerozone (1).png"
     }
 ]
