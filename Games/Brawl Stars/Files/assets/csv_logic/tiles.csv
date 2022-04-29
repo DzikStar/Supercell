@@ -45,4 +45,4 @@
 "WallyPrinceGreenFillerWall","-",9,"true","true","true",,,,,,,,,"custom","sprout_003_wall_explo","sprout_003_wall_hit",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall_prince_2.scw","wally_wall_filler",90,,1,
 "WallyWeirdWall","-",10,"true","true","true",,,,,,,,,"custom","sprout_004_wall_explosion","sprout_004_wall_hit",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall_weird.scw","wally_wall",0,,1,
 "WallyWeirdFillerWall","-",11,"true","true","true",,,,,,,,,"custom","sprout_004_wall_explosion","sprout_004_wall_hit",,,,,,,"true",,100,60,-10,60,25,200,"sc3d/wally_wall_weird.scw","wally_wall_filler",90,,1,
-"Bouncer","o",,"true","true","true",,"true",,,,,,,"respawningwall","Rock_explo_fx","Rock_hit_fx",,,,,,,"true",,100,60,-10,60,25,,,,,"true",1,
+"Bouncer","o",,"true","true","true",,"true",,,,,,,"respawningwall","Rock_explo_fx","Rock_hit_fx",,,,,,,"true",,100,60,-10,60,25,,,,,,1,
