@@ -255,7 +255,7 @@ KickerDudeMineExplosion,,,sc/effects.sc,,,,,GroundHigh,,,,fang_def_ultiExp_blue,
 DuplicatorDuplicateArea,,,sc/effects_brawler.sc,range_damage_deduction,range_damage_deduction,range_damage_deduction,,GroundHigh,,,,,,,,66,600000,900,,,,Effect,,,,,,,,,,,,,,,,,true,,,,,
 DuplicatorSwapEffect,,,sc/effects.sc,,,,,GroundHigh,,,,gadget_arcade_teleport,,,,70,700,300,,,,Effect,,,,,,,,,,,,,,,,,,,,,,
 PayloadMoveArea,,,sc/effects_brawler.sc,area_mode_gift,payload_area_mode_blue,payload_area_mode_red,,GroundHigh,,,,,,,,150,600000,900,,,,Effect,,,,,,,,,,,,,,,,,,,,,,
-StickyBombVisionArea,,,sc/effects_brawler.sc,range_dashed,range_dashed,range_dashed_red,,GroundHigh,,,,,,,,50,20000,750,,,,VisionSlow,,,,,,,,,,,,,350,21,,,,,,,,true
+StickyBombVisionArea,,,sc/effects_brawler.sc,range_dashed,range_dashed,range_dashed_red,,GroundHigh,,,,,,,,50,10000,750,,,,VisionSlow,,,,,,,,,,,,,350,21,,,,,,,,true
 KickerDudeSweepStun,,,sc/effects.sc,,,,,GroundHigh,,,,gadget_fang_sweep,,,,100,300,700,,10,,Stun,,,,,,,,,,,,,,,,,,true,,,,
 PayloadMoveAreaPushed,,,sc/effects_brawler.sc,range_dashed,payload_active_blue,payload_active_red,,GroundHigh,,,,,,,,65,600000,900,,,,Effect,,,,,,,,,,,,,,,,,,,,,,
 PayloadMoveAreaSlowed,,,sc/effects_brawler.sc,mode_payload_target_blue,mode_payload_target_blue,mode_payload_target_red,,GroundHigh,,,,,,,,200,600000,900,,,,Effect,,,,,,,,,,,,,,,,,,,,,,
