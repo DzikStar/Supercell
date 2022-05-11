@@ -22,10 +22,10 @@
     },
     {
         "teamNr": 4,
-        "name": "Avengers",
-        "shortName": "AVG",
+        "name": "Vanguard Gaming",
+        "shortName": "VG",
         "region": "nalatamn",
-        "logo": "/team-logos/nalatamn/avengers.png"
+        "logo": "/team-logos/nalatamn/vanguard.png"
     },
     {
         "teamNr": 5,
@@ -36,10 +36,10 @@
     },
     {
         "teamNr": 6,
-        "name": "Vatra Amaterasu",
+        "name": "Vatra Gaming",
         "shortName": "VTR",
         "region": "nalatamn",
-        "logo": "/team-logos/nalatamn/vatraamaterasu.png"
+        "logo": "/team-logos/nalatamn/image0122.png"
     },
     {
         "teamNr": 7,
@@ -197,10 +197,10 @@
     },
     {
         "teamNr": 29,
-        "name": "2.5 Men",
-        "shortName": "TPF",
+        "name": "BakS EU",
+        "shortName": "BakS",
         "region": "emea",
-        "logo": "/team-logos/emea/2.5men.png"
+        "logo": "/team-logos/emea/bakseu.png"
     },
     {
         "teamNr": 30,
@@ -274,10 +274,10 @@
     },
     {
         "teamNr": 40,
-        "name": "WINTER",
-        "shortName": "WT",
+        "name": "3R Gaming",
+        "shortName": "3RG",
         "region": "eastasia",
-        "logo": "/team-logos/eastasia/winter.png"
+        "logo": "/team-logos/eastasia/3RG_Logo.png"
     },
     {
         "teamNr": 41,
@@ -341,5 +341,47 @@
         "shortName": "ZØ",
         "region": "latams",
         "logo": "/team-logos/latams/zerozone (1).png"
+    },
+    {
+        "teamNr": 50,
+        "name": "Rising Sun Esports",
+        "shortName": "RS",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/risingsunesports.png"
+    },
+    {
+        "teamNr": 51,
+        "name": "SANG",
+        "shortName": "SG",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/sang.png"
+    },
+    {
+        "teamNr": 52,
+        "name": "Oracle",
+        "shortName": "ORC",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/oracle.png"
+    },
+    {
+        "teamNr": 53,
+        "name": "OGS",
+        "shortName": "OGS",
+        "region": "emea",
+        "logo": "/team-logos/emea/ogs.png"
+    },
+    {
+        "teamNr": 54,
+        "name": "Blood Diamond NA",
+        "shortName": "BD",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/blooddiamondna.png"
+    },
+    {
+        "teamNr": 55,
+        "name": "Nando Lovers",
+        "shortName": "NLV",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/nandolovers.png"
     }
 ]
