@@ -194,7 +194,7 @@
         {
             "rewardType": "starpack",
             "id": 28,
-            "image": "/reward-track/Token.svg",
+            "image": "/reward-track/Star-points.svg",
             "rewardAmount": 50,
             "trophyPoints": 2800
         },
