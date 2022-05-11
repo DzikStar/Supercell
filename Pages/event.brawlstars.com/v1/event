@@ -1,74 +1,50 @@
 [
     {
-        "eventId": "3SxP15w8sffaikys6gyT8X",
+        "eventId": "4mUol8jVwYc2ROeC0piV1P",
         "days": 1,
         "teaserVideo": "G1ZurYR_rf8",
         "status": "finished",
-        "name": "April Monthly Finals - SESA & ANZ",
+        "name": "May Monthly Finals - SESA & ANZ",
         "previewVideo": "",
         "teams": 8,
         "region": "sesaanz",
         "dayStartTimes": [
-            1648886400000
+            1651305600000
         ],
         "type": "regular",
         "streams": [
             {
-                "followLink": "twitch.tv/brawlstars",
-                "streamId": 1648724633298,
-                "vodId": "https://www.twitch.tv/videos/1443951922",
+                "followLink": "https://www.twitch.tv/brawlstars",
+                "streamId": 1651299757650,
+                "vodId": "https://youtu.be/qbX3vjVSqLw",
                 "vodOffset": 0,
                 "videoId": "brawlstars",
                 "locale": "en",
                 "region": "",
-                "title": "Brawlstars Twitch",
+                "title": "Brawl Stars",
                 "day": 1,
                 "platform": "Twitch"
-            },
-            {
-                "followLink": "",
-                "streamId": 1648882054037,
-                "vodId": "https://www.youtube.com/watch?v=T96Chaa3CfE",
-                "vodOffset": 0,
-                "videoId": "https://www.youtube.com/watch?v=T96Chaa3CfE",
-                "locale": "pl",
-                "region": "",
-                "title": "Champion",
-                "day": 1,
-                "platform": "Youtube"
             }
         ]
     },
     {
-        "eventId": "2xra27OvKSSAqz4BdSJlbu",
+        "eventId": "2OPsjvD8OSpy9fj6KozVbj",
         "days": 1,
         "teaserVideo": "G1ZurYR_rf8",
         "status": "finished",
-        "name": "April Monthly Finals - LATAM S",
+        "name": "May Monthly Finals - LATAM S",
         "previewVideo": "",
         "teams": 8,
         "region": "latams",
         "dayStartTimes": [
-            1648911600000
+            1651330800000
         ],
         "type": "regular",
         "streams": [
             {
-                "followLink": "twitch.tv/brawlstars",
-                "streamId": 1648724861134,
-                "vodId": "https://www.twitch.tv/videos/1444180052",
-                "vodOffset": 0,
-                "videoId": "brawlstars",
-                "locale": "en",
-                "region": "",
-                "title": "Brawlstars Twitch",
-                "day": 1,
-                "platform": "Twitch"
-            },
-            {
-                "followLink": "twitch.tv/brunoclash",
-                "streamId": 1648882139546,
-                "vodId": "https://www.twitch.tv/videos/1444189653",
+                "followLink": "https://www.twitch.tv/brunoclash",
+                "streamId": 1651300744115,
+                "vodId": "https://www.twitch.tv/videos/1471197712",
                 "vodOffset": 0,
                 "videoId": "brunoclash",
                 "locale": "pt",
@@ -79,8 +55,8 @@
             },
             {
                 "followLink": "https://www.twitch.tv/thealvaro845",
-                "streamId": 1648882177161,
-                "vodId": "https://www.twitch.tv/videos/1444190926",
+                "streamId": 1651300776262,
+                "vodId": "https://www.twitch.tv/videos/1471194524",
                 "vodOffset": 0,
                 "videoId": "thealvaro845",
                 "locale": "es",
@@ -91,8 +67,8 @@
             },
             {
                 "followLink": "https://www.twitch.tv/rhaegargt",
-                "streamId": 1648882338306,
-                "vodId": "https://www.twitch.tv/videos/1444180780",
+                "streamId": 1651300803980,
+                "vodId": "",
                 "vodOffset": 0,
                 "videoId": "rhaegargt",
                 "locale": "es",
@@ -100,29 +76,53 @@
                 "title": "Rhaegar",
                 "day": 1,
                 "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/brawlstars",
+                "streamId": 1651300858663,
+                "vodId": "https://youtu.be/irzKd2aO2fY",
+                "vodOffset": 0,
+                "videoId": "brawlstars",
+                "locale": "en",
+                "region": "",
+                "title": "Brawl Stars",
+                "day": 1,
+                "platform": "Twitch"
             }
         ]
     },
     {
-        "eventId": "2I1fU9wGcPrCOE5J152D81",
+        "eventId": "3ifag1gW8BrDboIDqppG32",
         "days": 1,
         "teaserVideo": "G1ZurYR_rf8",
         "status": "finished",
-        "name": "Brawl Stars Championship 2022! April Monthly Finals - EAST ASIA",
+        "name": "May Monthly Finals - East Asia",
         "previewVideo": "",
         "teams": 8,
         "region": "eastasia",
         "dayStartTimes": [
-            1649487600000
+            1651906800000
         ],
         "type": "regular",
         "streams": [
             {
-                "followLink": "",
-                "streamId": 1649481420723,
-                "vodId": "https://www.youtube.com/watch?v=kXPsmYc0Ous",
+                "followLink": "https://www.twitch.tv/brawlstars",
+                "streamId": 1651905155498,
+                "vodId": "https://youtu.be/7wEVk8gKShA",
                 "vodOffset": 0,
-                "videoId": "kXPsmYc0Ous",
+                "videoId": "brawlstars",
+                "locale": "en",
+                "region": "",
+                "title": "Brawl Stars",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://youtu.be/_ZbtytmtnOE",
+                "streamId": 1651905571290,
+                "vodId": "https://youtu.be/_ZbtytmtnOE",
+                "vodOffset": 0,
+                "videoId": "_ZbtytmtnOE",
                 "locale": "zh-tc",
                 "region": "",
                 "title": "Brawl Stars 荒野亂鬥",
@@ -130,61 +130,49 @@
                 "platform": "Youtube"
             },
             {
-                "followLink": "",
-                "streamId": 1649481604390,
-                "vodId": "https://www.youtube.com/watch?v=QnwzLBob5jM",
+                "followLink": "https://youtu.be/26WOOA886as",
+                "streamId": 1651905644108,
+                "vodId": "",
                 "vodOffset": 0,
-                "videoId": "QnwzLBob5jM",
-                "locale": "kr",
+                "videoId": "26WOOA886as",
+                "locale": "jp",
                 "region": "",
-                "title": "BrawlStarsKO",
+                "title": "ブロスタ公式",
                 "day": 1,
                 "platform": "Youtube"
             },
             {
-                "followLink": "",
-                "streamId": 1649481640015,
-                "vodId": "https://www.twitch.tv/videos/1450684599",
+                "followLink": "https://youtu.be/9NzNY7D-tIc",
+                "streamId": 1651905675869,
+                "vodId": "https://youtu.be/9NzNY7D-tIc",
                 "vodOffset": 0,
-                "videoId": "brawlstars",
-                "locale": "en",
+                "videoId": "9NzNY7D-tIc",
+                "locale": "kr",
                 "region": "",
-                "title": "Brawl Stars",
-                "day": 1,
-                "platform": "Twitch"
-            },
-            {
-                "followLink": "",
-                "streamId": 1649488283917,
-                "vodId": "https://www.youtube.com/watch?v=ih_xjV1QD4g",
-                "vodOffset": 0,
-                "videoId": "ih_xjV1QD4g",
-                "locale": "jp",
-                "region": "",
-                "title": "ブロスタ公式",
+                "title": "BrawlStarsKO",
                 "day": 1,
                 "platform": "Youtube"
             }
         ]
     },
     {
-        "eventId": "6lTphx9mTJTw5R407TunRx",
+        "eventId": "23fGEbeELZBFrTvQlVMe6a",
         "days": 1,
         "teaserVideo": "G1ZurYR_rf8",
         "status": "finished",
-        "name": "Brawl Stars Championship 2022! April Monthly Finals - EMEA",
+        "name": "May Monthly Finals - EMEA",
         "previewVideo": "",
         "teams": 8,
         "region": "emea",
         "dayStartTimes": [
-            1649512800000
+            1651932000000
         ],
         "type": "regular",
         "streams": [
             {
-                "followLink": "",
-                "streamId": 1649482325516,
-                "vodId": "https://www.twitch.tv/videos/1450889205",
+                "followLink": "https://www.twitch.tv/brawlstars",
+                "streamId": 1651905783512,
+                "vodId": "https://youtu.be/FPFJZoR7OIY",
                 "vodOffset": 0,
                 "videoId": "brawlstars",
                 "locale": "en",
@@ -194,21 +182,45 @@
                 "platform": "Twitch"
             },
             {
-                "followLink": "",
-                "streamId": 1649482376608,
-                "vodId": "https://www.youtube.com/watch?v=334of-O2nPA",
+                "followLink": "https://www.twitch.tv/godsavethefish",
+                "streamId": 1651905811245,
+                "vodId": "https://www.twitch.tv/videos/1477516994",
                 "vodOffset": 0,
-                "videoId": "334of-O2nPA",
-                "locale": "tr",
+                "videoId": "godsavethefish",
+                "locale": "fr",
                 "region": "",
-                "title": "Oyun Gemisi",
+                "title": "JS GodSaveTheFish",
                 "day": 1,
-                "platform": "Youtube"
+                "platform": "Twitch"
             },
             {
-                "followLink": "",
-                "streamId": 1649482452464,
-                "vodId": "https://www.twitch.tv/videos/1450898098",
+                "followLink": "https://www.twitch.tv/spiukbs",
+                "streamId": 1651905879261,
+                "vodId": "https://www.twitch.tv/videos/1477502959",
+                "vodOffset": 0,
+                "videoId": "spiukbs",
+                "locale": "es",
+                "region": "",
+                "title": "SpiukBS",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/thealvaro845",
+                "streamId": 1651905899611,
+                "vodId": "https://www.twitch.tv/videos/1477516888",
+                "vodOffset": 0,
+                "videoId": "thealvaro845",
+                "locale": "es",
+                "region": "",
+                "title": "Alvaro845",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/veni_gaming",
+                "streamId": 1651905938909,
+                "vodId": "https://www.twitch.tv/videos/1477521900",
                 "vodOffset": 0,
                 "videoId": "veni_gaming",
                 "locale": "pl",
@@ -218,33 +230,21 @@
                 "platform": "Twitch"
             },
             {
-                "followLink": "",
-                "streamId": 1649482493411,
-                "vodId": "https://www.twitch.tv/videos/1450897088",
+                "followLink": "https://www.twitch.tv/psplayerd",
+                "streamId": 1651905985625,
+                "vodId": "https://www.twitch.tv/videos/1477516922",
                 "vodOffset": 0,
-                "videoId": "pioupioulover",
-                "locale": "fr",
-                "region": "",
-                "title": "pioupioulover",
-                "day": 1,
-                "platform": "Twitch"
-            },
-            {
-                "followLink": "",
-                "streamId": 1649482560353,
-                "vodId": "https://www.twitch.tv/videos/1450881675",
-                "vodOffset": 0,
-                "videoId": "ferre",
+                "videoId": "psplayerd",
                 "locale": "it",
                 "region": "",
-                "title": "Ferre",
+                "title": "psPlayerD",
                 "day": 1,
                 "platform": "Twitch"
             },
             {
-                "followLink": "",
-                "streamId": 1649482638551,
-                "vodId": "https://www.twitch.tv/videos/1450911312",
+                "followLink": "https://www.twitch.tv/tv_brocast",
+                "streamId": 1651906028609,
+                "vodId": "https://www.twitch.tv/videos/1477516209",
                 "vodOffset": 0,
                 "videoId": "tv_brocast",
                 "locale": "de",
@@ -254,49 +254,37 @@
                 "platform": "Twitch"
             },
             {
-                "followLink": "",
-                "streamId": 1649482675771,
-                "vodId": "https://www.twitch.tv/videos/1450891897",
+                "followLink": "https://youtu.be/DM_fJ9VlwRY",
+                "streamId": 1651906058839,
+                "vodId": "https://youtu.be/DM_fJ9VlwRY",
                 "vodOffset": 0,
-                "videoId": "thealvaro845",
-                "locale": "es",
+                "videoId": "DM_fJ9VlwRY",
+                "locale": "tr",
                 "region": "",
-                "title": "Alvaro845",
+                "title": "Oyunların Ustası",
                 "day": 1,
-                "platform": "Twitch"
-            },
-            {
-                "followLink": "",
-                "streamId": 1649482714739,
-                "vodId": "https://www.twitch.tv/videos/1450861916",
-                "vodOffset": 0,
-                "videoId": "spiukbs",
-                "locale": "es",
-                "region": "",
-                "title": "Spiuk",
-                "day": 1,
-                "platform": "Twitch"
+                "platform": "Youtube"
             }
         ]
     },
     {
-        "eventId": "7MDXZQD06yw3uTMFZajf9E",
+        "eventId": "2BBKzRhJFwqcnI7Co7fU9d",
         "days": 1,
         "teaserVideo": "G1ZurYR_rf8",
         "status": "finished",
-        "name": "Brawl Stars Championship 2022! April Monthly Finals - NA & LATAM",
+        "name": "May Monthly Finals - NA & LATAM N",
         "previewVideo": "",
         "teams": 8,
         "region": "nalatamn",
         "dayStartTimes": [
-            1649624400000
+            1652043600000
         ],
         "type": "regular",
         "streams": [
             {
-                "followLink": "",
-                "streamId": 1649482931664,
-                "vodId": "https://www.twitch.tv/videos/1452276146",
+                "followLink": "https://www.twitch.tv/brawlstars",
+                "streamId": 1652035495468,
+                "vodId": "",
                 "vodOffset": 0,
                 "videoId": "brawlstars",
                 "locale": "en",
@@ -306,9 +294,9 @@
                 "platform": "Twitch"
             },
             {
-                "followLink": "",
-                "streamId": 1649482957526,
-                "vodId": "https://www.twitch.tv/videos/1452280144",
+                "followLink": "https://www.twitch.tv/nearz_z",
+                "streamId": 1652035517418,
+                "vodId": "",
                 "vodOffset": 0,
                 "videoId": "nearz_z",
                 "locale": "es",
@@ -318,9 +306,9 @@
                 "platform": "Twitch"
             },
             {
-                "followLink": "",
-                "streamId": 1649482986465,
-                "vodId": "https://www.twitch.tv/videos/1452281382",
+                "followLink": "https://www.twitch.tv/thealvaro845",
+                "streamId": 1652035566569,
+                "vodId": "",
                 "vodOffset": 0,
                 "videoId": "thealvaro845",
                 "locale": "es",
@@ -330,80 +318,5 @@
                 "platform": "Twitch"
             }
         ]
-    },
-    {
-        "eventId": "4mUol8jVwYc2ROeC0piV1P",
-        "previewVideo": "",
-        "teams": 8,
-        "days": 1,
-        "teaserVideo": "G1ZurYR_rf8",
-        "status": "published",
-        "region": "sesaanz",
-        "dayStartTimes": [
-            1651305600000
-        ],
-        "name": "May Monthly Finals - SESA & ANZ",
-        "type": "regular",
-        "streams": []
-    },
-    {
-        "eventId": "2OPsjvD8OSpy9fj6KozVbj",
-        "previewVideo": "",
-        "teams": 8,
-        "days": 1,
-        "teaserVideo": "G1ZurYR_rf8",
-        "status": "published",
-        "region": "latams",
-        "dayStartTimes": [
-            1651330800000
-        ],
-        "name": "May Monthly Finals - LATAM S",
-        "type": "regular",
-        "streams": []
-    },
-    {
-        "eventId": "3ifag1gW8BrDboIDqppG32",
-        "previewVideo": "",
-        "teams": 8,
-        "days": 1,
-        "teaserVideo": "G1ZurYR_rf8",
-        "status": "published",
-        "region": "eastasia",
-        "dayStartTimes": [
-            1651906800000
-        ],
-        "name": "May Monthly Finals - East Asia",
-        "type": "regular",
-        "streams": []
-    },
-    {
-        "eventId": "23fGEbeELZBFrTvQlVMe6a",
-        "previewVideo": "",
-        "teams": 8,
-        "days": 1,
-        "teaserVideo": "G1ZurYR_rf8",
-        "status": "published",
-        "region": "emea",
-        "dayStartTimes": [
-            1651932000000
-        ],
-        "name": "May Monthly Finals - EMEA",
-        "type": "regular",
-        "streams": []
-    },
-    {
-        "eventId": "2BBKzRhJFwqcnI7Co7fU9d",
-        "previewVideo": "",
-        "teams": 8,
-        "days": 1,
-        "teaserVideo": "G1ZurYR_rf8",
-        "status": "published",
-        "region": "nalatamn",
-        "dayStartTimes": [
-            1652043600000
-        ],
-        "name": "May Monthly Finals - NA & LATAM N",
-        "type": "regular",
-        "streams": []
     }
 ]
