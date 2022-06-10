@@ -1,0 +1,30 @@
+{
+    "gem-grab": {
+        "background": "/modes/gem-grab.jpeg",
+        "icon": "/modes/gem-grab-icon.jpeg"
+    },
+    "brawl-ball": {
+        "background": "/modes/brawl-ball.jpeg",
+        "icon": "/modes/brawl-ball-icon.jpeg"
+    },
+    "bounty": {
+        "background": "/modes/bounty.jpeg",
+        "icon": "/modes/bounty-icon.jpeg"
+    },
+    "siege": {
+        "background": "/modes/siege.jpeg",
+        "icon": "/modes/siege-icon.jpeg"
+    },
+    "heist": {
+        "background": "/modes/heist.jpeg",
+        "icon": "/modes/heist-icon.jpeg"
+    },
+    "hot-zone": {
+        "background": "/modes/hot-zone.jpeg",
+        "icon": "/modes/hot-zone-icon.jpeg"
+    },
+    "knockout": {
+        "background": "/modes/knockout.jpeg",
+        "icon": "/modes/knockout-icon.jpeg"
+    }
+}
