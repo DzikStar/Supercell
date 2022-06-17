@@ -79,7 +79,6 @@
     "TID_BANKHEIST_11": "Twist and Shoot",
     "TID_BALL_9": "Playbox",
     "TID_BALL_8": "Bank Shot",
-    "TID_BALL_6": "Super Stadium",
     "TID_BALL_4": "Sneaky Fields",
     "TID_BALL_32": "Well Cut",
     "TID_BALL_3": "Pinhole Punt",
@@ -95,5 +94,8 @@
     "TID_BALL_13": "Square Off",
     "TID_BALL_12": "Happy Feet",
     "TID_BALL_11": "Substitute",
-    "TID_BALL_34": "Warped Arena"
+    "TID_BALL_34": "Warped Arena",
+    "TID_KNOCKOUT_X1": "Goldarm Gulch",
+    "TID_KNOCKOUT_X4": "Belles Rock",
+    "TID_BALL_6": "Super Beach"
 }
