@@ -1469,25 +1469,61 @@
                 "matches": [
                     {
                         "id": 1,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 42,
+                                "score": 0
+                            },
+                            {
+                                "id": 34,
+                                "score": 0
+                            }
+                        ],
                         "time": 0,
                         "completed": false
                     },
                     {
                         "id": 2,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 31,
+                                "score": 0
+                            },
+                            {
+                                "id": 5,
+                                "score": 0
+                            }
+                        ],
                         "time": 0,
                         "completed": false
                     },
                     {
                         "id": 3,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 7,
+                                "score": 0
+                            },
+                            {
+                                "id": 21,
+                                "score": 0
+                            }
+                        ],
                         "time": 0,
                         "completed": false
                     },
                     {
                         "id": 4,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 14,
+                                "score": 0
+                            },
+                            {
+                                "id": 33,
+                                "score": 0
+                            }
+                        ],
                         "time": 0,
                         "completed": false
                     },
@@ -1887,25 +1923,61 @@
                 "matches": [
                     {
                         "id": 1,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 7,
+                                "score": 0
+                            },
+                            {
+                                "id": 31,
+                                "score": 0
+                            }
+                        ],
                         "time": 0,
                         "completed": false
                     },
                     {
                         "id": 2,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 42,
+                                "score": 0
+                            },
+                            {
+                                "id": 33,
+                                "score": 0
+                            }
+                        ],
                         "time": 0,
                         "completed": false
                     },
                     {
                         "id": 3,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 14,
+                                "score": 0
+                            },
+                            {
+                                "id": 5,
+                                "score": 0
+                            }
+                        ],
                         "time": 0,
                         "completed": false
                     },
                     {
                         "id": 4,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 34,
+                                "score": 0
+                            },
+                            {
+                                "id": 21,
+                                "score": 0
+                            }
+                        ],
                         "time": 0,
                         "completed": false
                     },
