@@ -535,3 +535,6 @@
 "Ball50","true","TID_BRAWLBALL_50","StuntShowBB",,,,"BrawlBall","Laserball_50",
 "Ball51",,"TID_BRAWLBALL_51","StuntShowBB",,,,"BrawlBall","Laserball_51",
 "Ball52",,"TID_BRAWLBALL_52","StuntShowBB",,,,"BrawlBall","Laserball_52",
+"SurvivalTeam71","true","TID_SHOWDOWN_71","DefaultShowdown",,,,"DuoShowdown","Survival_71","William Spencer"
+"SurvivalTeam72","true","TID_SHOWDOWN_72","DefaultShowdown",,,,"DuoShowdown","Survival_72","Stunt Freaks Team"
+"SurvivalTeam73","true","TID_SHOWDOWN_73","DefaultShowdown",,,,"DuoShowdown","Survival_73","Charles Poujade "
