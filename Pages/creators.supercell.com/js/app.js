@@ -72,13 +72,13 @@
             boostpayouts: "57189435",
             boostsignup: "75f9bf73",
             "boost~mystuff~user": "58595f15",
-            "boost~mystuff": "40eeed2c",
+            "boost~mystuff": "a437b1a3",
             boost: "165d712c",
             mystuff: "ae21ad82",
             user: "2fb0e0fe",
             "codeofconduct~welcome": "481dc9ad",
             codeofconduct: "983fd1c9",
-            welcome: "98405fd4",
+            welcome: "cbd8a78b",
             creatorsterms: "18d9dafe",
             deleteuser: "fe28280d",
             feedpost: "6b2877f8",
@@ -88,7 +88,7 @@
             loginerror: "e8434e13",
             maintenanace: "3d8e82c2",
             mystuffdiscord: "fb46244c",
-            mystuffslack: "513fa760",
+            mystuffslack: "9cae50ee",
             paypalauthenticate: "70f1fa22",
             platformauthenticate: "cb1782ce",
             register: "7a747569",
@@ -186,13 +186,13 @@
                 boostpayouts: "2453d15f",
                 boostsignup: "80ee2357",
                 "boost~mystuff~user": "b2f02ab3",
-                "boost~mystuff": "131bbf96",
+                "boost~mystuff": "95046ad6",
                 boost: "0e433876",
                 mystuff: "a44c45f6",
                 user: "2de1db7f",
                 "codeofconduct~welcome": "d7107657",
                 codeofconduct: "8666ebee",
-                welcome: "2f966374",
+                welcome: "94eea24d",
                 creatorsterms: "d9a978b9",
                 deleteuser: "63851ae5",
                 feedpost: "63a840f9",
@@ -202,7 +202,7 @@
                 loginerror: "92a167b6",
                 maintenanace: "92a167b6",
                 mystuffdiscord: "6d69380c",
-                mystuffslack: "5b14c9a7",
+                mystuffslack: "fc72f115",
                 paypalauthenticate: "a1159d83",
                 platformauthenticate: "dd4952ca",
                 register: "1f251bc8",
@@ -633,10 +633,6 @@
     },
     "0f91": function(e, t, a) {
         e.exports = a.p + "img/video-inbox-hero-mobile-CLASH_ROYALE.ae731a8c.jpg"
-    },
-    "106b": function(e, t, a) {
-        "use strict";
-        a("fe22")
     },
     "10a9": function(e, t, a) {},
     "10ed": function(e, t, a) {
@@ -1195,7 +1191,7 @@
         a("9861"),
         a("ac1f"),
         a("5319"),
-        a("bc3a")), C = a.n(T), O = a("e443"), A = a("60a1"), I = "GENERAL_SET_PAGE_LOADER_VISIBILITY", w = "GENERAL_SET_IS_HEADER_RENDERED", R = "GENERAL_SET_IS_HEADER_DISABLED", P = "GENERAL_SET_IS_FOOTER_RENDERED", L = "GENERAL_SET_IS_FOOTER_HIDDEN", N = "GENERAL_SET_IS_MOBILE_MENU_RENDERED", k = "GENERAL_ADD_ROUTE_HISTORY", D = "GENERAL_ROUTE_HISTORY_BACK", B = "GENERAL_DISABLE_BODY_SCROLL", U = "GENERAL_ENABLE_BODY_SCROLL", M = "GENERAL_SET_IS_GENDER_MODAL_OPENED", x = "GENERAL_SET_IS_COC_MODAL_OPENED", $ = "GENERAL_SET_PRIVATE_ASSET_STATUS", H = "BREAKPOINTS_SET_WINDOW_WIDTH", j = "BREAKPOINTS_SET_FROM_BREAKPOINT_VALUE", F = "BREAKPOINTS_SET_UNTIL_BREAKPOINT_VALUE", G = "BREAKPOINTS_SET_FROM_BREAKPOINT", Y = "BREAKPOINTS_SET_UNTIL_BREAKPOINT", V = "LOCALE_SET_LANGUAGE", W = "LOCALE_SET_TOS", q = "VIDEO_INBOX_INIT", K = "VIDEO_INBOX_CLEAR", z = "VIDEO_INBOX_CREATE_LINK", J = "VIDEO_INBOX_CREATE_LINK_COMPLETE", Z = "VIDEO_INBOX_CREATE_LINK_ERROR", X = "VIDEO_INBOX_REMOVE_LINK", Q = "USER_CLEAR", ee = "USER_SET_USER", te = "USER_SET_AUTHENTICATE_STATUS", ae = "USER_SET_GET_STATUS", oe = "USER_SET_SAVE_PERSONAL_STATUS", ne = "USER_SET_SAVE_DATE_OF_BIRTH_STATUS", re = "USER_SET_SAVE_GAMES_STATUS", ie = "USER_SET_SAVE_PRIMARY_GAME_STATUS", se = "USER_SET_SAVE_BOOST_STATUS", ce = "USER_SET_SAVE_FEED_FILTERS_STATUS", ue = "USER_SET_SAVE_PAYPAL_STATUS", le = "USER_SET_SAVE_CODE_OF_CONDUCT_COMPLETED_STATUS", de = "USER_SET_SAVE_WELCOME_SEEN_STATUS", _e = "USER_SET_CONNECT_DISCORD_STATUS", pe = "USER_SET_DISCONNECT_DISCORD_STATUS", me = "USER_SET_CONNECT_YOUTEUBE_STATUS", fe = "USER_SET_DISCONNECT_YOUTUBE_STATUS", he = "USER_SET_CONNECT_TWITCH_STATUS", ge = "USER_SET_DISCONNECT_TWITCH_STATUS", be = "USER_SET_CHECK_BOOST_HANDLE_STATUS", Se = "USER_LOGOUT", ye = "USER_SET_LOGOUT_STATUS", ve = "USER_SOFT_LOGOUT", Ee = "USER_VIDEO_INBOX_SET_GET_STATUS", Te = "USER_VIDEO_INBOX_SET_ACCEPTED_STATUS", Ce = "USER_VIDEO_INBOX_SET", Oe = "USER_SOCIAL_PLATFORMS_SET_GET_STATUS", Ae = "USER_SOCIAL_PLATFORMS_SET_SAVE_STATUS", Ie = "USER_SOCIAL_PLATFORMS_SET_PLATFORMS", we = "REGISTER_SET_AUTHENTICATE_STATUS", Re = "REGISTER_SET_SUBMIT_STATUS", Pe = "REGISTER_SET_CREDENTIALS", Le = "REGISTER_CLEAR", Ne = "REGISTER_SET_STEP", ke = "REGISTER_SET_LAST_VISITED_STEP", De = "REGISTER_SET_CONNECT_YOUTUBE_STATUS", Be = "REGISTER_SET_DISCONNECT_YOUTUBE_STATUS", Ue = "REGISTER_SET_CONNECT_TWITCH_STATUS", Me = "REGISTER_SET_DISCONNECT_TWITCH_STATUS", xe = "REGISTER_SET_GAMES", $e = "REGISTER_SET_PRIMARY_GAME", He = "REGISTER_SET_USERNAME", je = "REGISTER_SET_FIRST_NAME", Fe = "REGISTER_SET_LAST_NAME", Ge = "REGISTER_SET_EMAIL", Ye = "REGISTER_SET_LANG", Ve = "REGISTER_SET_LOC", We = "REGISTER_SET_DATE_OF_BIRTH", qe = "REGISTER_SET_GENDER", Ke = "REGISTER_SET_CHECKED_NDAS", ze = "REGISTER_SET_SIGN", Je = "REGISTER_RESET", Ze = "USER_SETTINGS_CLEAR", Xe = "USER_SETTINGS_SET_FIRST_NAME", Qe = "USER_SETTINGS_SET_LAST_NAME", et = "USER_SETTINGS_SET_USERNAME", tt = "USER_SETTINGS_SET_EMAIL", at = "USER_SETTINGS_SET_LANG", ot = "USER_SETTINGS_SET_LOC", nt = "BOOST_SIGNUP_CLEAR", rt = "BOOST_SIGNUP_SET_STEP", it = "BOOST_SIGNUP_SET_PERSONAL_ID", st = "BOOST_SIGNUP_SET_GENDER", ct = "BOOST_SIGNUP_SET_PAYPAL_DISCONNECT_DIALOG_STATUS", ut = "BOOST_SIGNUP_CHANGE_HANDLE", lt = "BOOST_SIGNUP_HANDLE_VALIDATION_ERROR", dt = "BOOST_SIGNUP_HANDLE_VALIDATION_VALID", _t = "BOOST_SIGNUP_CHANGE_HANDLE_CHECK", pt = "BOOST_SIGNUP_HANDLE_CHECK_VALIDATION_ERROR", mt = "BOOST_SIGNUP_HANDLE_CHECK_VALIDATION_VALID", ft = "BOOST_SIGNUP_HANDLE_SHOW_LOADER", ht = "BOOST_SIGNUP_CHANGE_CONFIRM_VALUE", gt = "BOOST_SIGNUP_SUBMIT", bt = "BOOST_SIGNUP_SUBMIT_COMPLETE", St = "BOOST_SIGNUP_DISCONNECT_PAYPAL", yt = "BOOST_SIGNUP_DISCONNECT_PAYPAL_COMPLETE", vt = "BOOST_SIGNUP_SET_TERMS", Et = "PAYPAL_CLEAR", Tt = "PAYPAL_SET_AUTHENTICATE_STATUS", Ct = "MERCH_CODES_CLEAR", Ot = "MERCH_CODES_FETCH_LIST", At = "MERCH_CODES_FETCH_LIST_COMPLETE", It = "MERCH_CODES_FETCH_LIST_ERROR", wt = "MERCH_CODES_RESET_GROUPS", Rt = "MERCH_CODES_SET_STASHED_GROUPS", Pt = "MERCH_CODES_MARK_CODE_OPENED", Lt = "MERCH_CODES_MARK_CODE_OPENED_COMPLETE", Nt = "MERCH_CODES_MARK_CODE_OPENED_ERROR", kt = "FEED_CLEAR", Dt = "FEED_FETCH_POSTS", Bt = "FEED_FETCH_POSTS_SUCCESS", Ut = "FEED_FETCH_POSTS_FAILED", Mt = "FEED_FETCH_MORE_POSTS", xt = "FEED_FETCH_MORE_POSTS_SUCCESS", $t = "FEED_FETCH_MORE_POSTS_FAILED", Ht = "FEED_FETCH_POST", jt = "FEED_FETCH_POST_SUCCESS", Ft = "FEED_FETCH_POST_FAILED", Gt = "FEED_SET_SHOW_FILTER_DIALOG", Yt = "BOOST_CLEAR", Vt = "BOOST_SET_GET_DATA_STATUS", Wt = "BOOST_SET_DATA", qt = "BOOST_SET_GET_PAYSLIP_STATUS", Kt = "BOOST_RESET_DATA", zt = "BOOST_SET_IS_WELCOME_SCREEN_SHOWN", Jt = "SET_IS_INFO_MODAL_SHOWN", Zt = "SET_IS_HANDLE_USED_MODAL_SHOWN", Xt = "SET_IS_CLASH_MINI_MESSAGE_SHOWN", Qt = "TROPHY_ROAD_CLEAR", ea = "TROPHY_ROAD_FETCH", ta = "TROPHY_ROAD_FETCH_SUCCESS", aa = "TROPHY_ROAD_FETCH_FAILED", oa = "TROPHY_ROAD_SET_CARD_COMPLETED", na = "TROPHY_ROAD_SET_CARD_COMPLETED_SUCCESS", ra = "TROPHY_ROAD_SET_CARD_COMPLETED_FAILED", ia = "TROPHY_ROAD_SHOW_VIDEO_MODAL", sa = "TROPHY_ROAD_HIDE_VIDEO_MODAL", ca = "TROPHY_ROAD_SHOW_UPGRADE_REVIEWS_MODAL", ua = "TROPHY_ROAD_HIDE_UPGRADE_REVIEWS_MODAL", la = "TROPHY_ROAD_SHOW_CLAIM_REVIEW_MODAL", da = "TROPHY_ROAD_HIDE_CLAIM_REVIEW_MODAL", _a = "TROPHY_ROAD_REQUEST_TIER_UPGRADE", pa = "TROPHY_ROAD_REQUEST_TIER_UPGRADE_SUCCESS", ma = "TROPHY_ROAD_REQUEST_TIER_UPGRADE_FAILED", fa = "TROPHY_ROAD_SHOW_NOTIFICATION", ha = "TROPHY_ROAD_HIDE_NOTIFICATION", ga = "TROPHY_ROAD_SETTING_ANIMATION_SEEN_CARD", ba = "TROPHY_ROAD_SET_CARD_ANIMATION_SEEN_STATUS", Sa = "GAMES_SET_GET_STATUS_STATUS", ya = "GAMES_SET_GAMES", va = "SLACK_SET_CONNECT_STATUS", Ea = "SLACK_SET_EMAIL", Ta = "SLACK_SET_CONFIRM_EMAIL", Ca = "SLACK_SET_CHECKED", Oa = a("e3e2"), Aa = a("a18c"), Ia = {
+        a("bc3a")), C = a.n(T), O = a("e443"), A = a("60a1"), I = "GENERAL_SET_PAGE_LOADER_VISIBILITY", w = "GENERAL_SET_IS_HEADER_RENDERED", R = "GENERAL_SET_IS_HEADER_DISABLED", P = "GENERAL_SET_IS_FOOTER_RENDERED", L = "GENERAL_SET_IS_FOOTER_HIDDEN", N = "GENERAL_SET_IS_MOBILE_MENU_RENDERED", k = "GENERAL_ADD_ROUTE_HISTORY", D = "GENERAL_ROUTE_HISTORY_BACK", B = "GENERAL_DISABLE_BODY_SCROLL", U = "GENERAL_ENABLE_BODY_SCROLL", M = "GENERAL_SET_IS_GENDER_MODAL_OPENED", x = "GENERAL_SET_IS_COC_MODAL_OPENED", $ = "GENERAL_SET_PRIVATE_ASSET_STATUS", j = "BREAKPOINTS_SET_WINDOW_WIDTH", H = "BREAKPOINTS_SET_FROM_BREAKPOINT_VALUE", F = "BREAKPOINTS_SET_UNTIL_BREAKPOINT_VALUE", G = "BREAKPOINTS_SET_FROM_BREAKPOINT", Y = "BREAKPOINTS_SET_UNTIL_BREAKPOINT", V = "LOCALE_SET_LANGUAGE", W = "LOCALE_SET_TOS", q = "VIDEO_INBOX_INIT", K = "VIDEO_INBOX_CLEAR", z = "VIDEO_INBOX_CREATE_LINK", J = "VIDEO_INBOX_CREATE_LINK_COMPLETE", Z = "VIDEO_INBOX_CREATE_LINK_ERROR", X = "VIDEO_INBOX_REMOVE_LINK", Q = "USER_CLEAR", ee = "USER_SET_USER", te = "USER_SET_AUTHENTICATE_STATUS", ae = "USER_SET_GET_STATUS", oe = "USER_SET_SAVE_PERSONAL_STATUS", ne = "USER_SET_SAVE_DATE_OF_BIRTH_STATUS", re = "USER_SET_SAVE_GAMES_STATUS", ie = "USER_SET_SAVE_PRIMARY_GAME_STATUS", se = "USER_SET_SAVE_BOOST_STATUS", ce = "USER_SET_SAVE_FEED_FILTERS_STATUS", ue = "USER_SET_SAVE_PAYPAL_STATUS", le = "USER_SET_SAVE_CODE_OF_CONDUCT_COMPLETED_STATUS", de = "USER_SET_SAVE_WELCOME_SEEN_STATUS", _e = "USER_SET_CONNECT_DISCORD_STATUS", pe = "USER_SET_DISCONNECT_DISCORD_STATUS", me = "USER_SET_CONNECT_YOUTEUBE_STATUS", fe = "USER_SET_DISCONNECT_YOUTUBE_STATUS", he = "USER_SET_CONNECT_TWITCH_STATUS", ge = "USER_SET_DISCONNECT_TWITCH_STATUS", be = "USER_SET_CHECK_BOOST_HANDLE_STATUS", Se = "USER_LOGOUT", ye = "USER_SET_LOGOUT_STATUS", ve = "USER_SOFT_LOGOUT", Ee = "USER_VIDEO_INBOX_SET_GET_STATUS", Te = "USER_VIDEO_INBOX_SET_ACCEPTED_STATUS", Ce = "USER_VIDEO_INBOX_SET", Oe = "USER_SOCIAL_PLATFORMS_SET_GET_STATUS", Ae = "USER_SOCIAL_PLATFORMS_SET_SAVE_STATUS", Ie = "USER_SOCIAL_PLATFORMS_SET_PLATFORMS", we = "REGISTER_SET_AUTHENTICATE_STATUS", Re = "REGISTER_SET_SUBMIT_STATUS", Pe = "REGISTER_SET_CREDENTIALS", Le = "REGISTER_CLEAR", Ne = "REGISTER_SET_STEP", ke = "REGISTER_SET_LAST_VISITED_STEP", De = "REGISTER_SET_CONNECT_YOUTUBE_STATUS", Be = "REGISTER_SET_DISCONNECT_YOUTUBE_STATUS", Ue = "REGISTER_SET_CONNECT_TWITCH_STATUS", Me = "REGISTER_SET_DISCONNECT_TWITCH_STATUS", xe = "REGISTER_SET_GAMES", $e = "REGISTER_SET_PRIMARY_GAME", je = "REGISTER_SET_USERNAME", He = "REGISTER_SET_FIRST_NAME", Fe = "REGISTER_SET_LAST_NAME", Ge = "REGISTER_SET_EMAIL", Ye = "REGISTER_SET_LANG", Ve = "REGISTER_SET_LOC", We = "REGISTER_SET_DATE_OF_BIRTH", qe = "REGISTER_SET_GENDER", Ke = "REGISTER_SET_CHECKED_NDAS", ze = "REGISTER_SET_SIGN", Je = "REGISTER_RESET", Ze = "USER_SETTINGS_CLEAR", Xe = "USER_SETTINGS_SET_FIRST_NAME", Qe = "USER_SETTINGS_SET_LAST_NAME", et = "USER_SETTINGS_SET_USERNAME", tt = "USER_SETTINGS_SET_EMAIL", at = "USER_SETTINGS_SET_LANG", ot = "USER_SETTINGS_SET_LOC", nt = "BOOST_SIGNUP_CLEAR", rt = "BOOST_SIGNUP_SET_STEP", it = "BOOST_SIGNUP_SET_PERSONAL_ID", st = "BOOST_SIGNUP_SET_GENDER", ct = "BOOST_SIGNUP_SET_PAYPAL_DISCONNECT_DIALOG_STATUS", ut = "BOOST_SIGNUP_CHANGE_HANDLE", lt = "BOOST_SIGNUP_HANDLE_VALIDATION_ERROR", dt = "BOOST_SIGNUP_HANDLE_VALIDATION_VALID", _t = "BOOST_SIGNUP_CHANGE_HANDLE_CHECK", pt = "BOOST_SIGNUP_HANDLE_CHECK_VALIDATION_ERROR", mt = "BOOST_SIGNUP_HANDLE_CHECK_VALIDATION_VALID", ft = "BOOST_SIGNUP_HANDLE_SHOW_LOADER", ht = "BOOST_SIGNUP_CHANGE_CONFIRM_VALUE", gt = "BOOST_SIGNUP_SUBMIT", bt = "BOOST_SIGNUP_SUBMIT_COMPLETE", St = "BOOST_SIGNUP_DISCONNECT_PAYPAL", yt = "BOOST_SIGNUP_DISCONNECT_PAYPAL_COMPLETE", vt = "BOOST_SIGNUP_SET_TERMS", Et = "PAYPAL_CLEAR", Tt = "PAYPAL_SET_AUTHENTICATE_STATUS", Ct = "MERCH_CODES_CLEAR", Ot = "MERCH_CODES_FETCH_LIST", At = "MERCH_CODES_FETCH_LIST_COMPLETE", It = "MERCH_CODES_FETCH_LIST_ERROR", wt = "MERCH_CODES_RESET_GROUPS", Rt = "MERCH_CODES_SET_STASHED_GROUPS", Pt = "MERCH_CODES_MARK_CODE_OPENED", Lt = "MERCH_CODES_MARK_CODE_OPENED_COMPLETE", Nt = "MERCH_CODES_MARK_CODE_OPENED_ERROR", kt = "FEED_CLEAR", Dt = "FEED_FETCH_POSTS", Bt = "FEED_FETCH_POSTS_SUCCESS", Ut = "FEED_FETCH_POSTS_FAILED", Mt = "FEED_FETCH_MORE_POSTS", xt = "FEED_FETCH_MORE_POSTS_SUCCESS", $t = "FEED_FETCH_MORE_POSTS_FAILED", jt = "FEED_FETCH_POST", Ht = "FEED_FETCH_POST_SUCCESS", Ft = "FEED_FETCH_POST_FAILED", Gt = "FEED_SET_SHOW_FILTER_DIALOG", Yt = "BOOST_CLEAR", Vt = "BOOST_SET_GET_DATA_STATUS", Wt = "BOOST_SET_DATA", qt = "BOOST_SET_GET_PAYSLIP_STATUS", Kt = "BOOST_RESET_DATA", zt = "BOOST_SET_IS_WELCOME_SCREEN_SHOWN", Jt = "SET_IS_INFO_MODAL_SHOWN", Zt = "SET_IS_HANDLE_USED_MODAL_SHOWN", Xt = "SET_IS_CLASH_MINI_MESSAGE_SHOWN", Qt = "TROPHY_ROAD_CLEAR", ea = "TROPHY_ROAD_FETCH", ta = "TROPHY_ROAD_FETCH_SUCCESS", aa = "TROPHY_ROAD_FETCH_FAILED", oa = "TROPHY_ROAD_SET_CARD_COMPLETED", na = "TROPHY_ROAD_SET_CARD_COMPLETED_SUCCESS", ra = "TROPHY_ROAD_SET_CARD_COMPLETED_FAILED", ia = "TROPHY_ROAD_SHOW_VIDEO_MODAL", sa = "TROPHY_ROAD_HIDE_VIDEO_MODAL", ca = "TROPHY_ROAD_SHOW_UPGRADE_REVIEWS_MODAL", ua = "TROPHY_ROAD_HIDE_UPGRADE_REVIEWS_MODAL", la = "TROPHY_ROAD_SHOW_CLAIM_REVIEW_MODAL", da = "TROPHY_ROAD_HIDE_CLAIM_REVIEW_MODAL", _a = "TROPHY_ROAD_REQUEST_TIER_UPGRADE", pa = "TROPHY_ROAD_REQUEST_TIER_UPGRADE_SUCCESS", ma = "TROPHY_ROAD_REQUEST_TIER_UPGRADE_FAILED", fa = "TROPHY_ROAD_SHOW_NOTIFICATION", ha = "TROPHY_ROAD_HIDE_NOTIFICATION", ga = "TROPHY_ROAD_SETTING_ANIMATION_SEEN_CARD", ba = "TROPHY_ROAD_SET_CARD_ANIMATION_SEEN_STATUS", Sa = "GAMES_SET_GET_STATUS_STATUS", ya = "GAMES_SET_GAMES", va = "SLACK_SET_CONNECT_STATUS", Ea = "SLACK_SET_EMAIL", Ta = "SLACK_SET_CONFIRM_EMAIL", Ca = "SLACK_SET_CHECKED", Oa = a("e3e2"), Aa = a("a18c"), Ia = {
             getPrivateAssetStatus: null,
             showPageLoader: !1,
             isHeaderRendered: !1,
@@ -1251,7 +1247,7 @@
             }
         }, Ra = {
             version: function() {
-                return O["a"].get("/version").catch((function() {}
+                return O["a"].get("v2/debug/version").catch((function() {}
                 ))
             },
             setPageLoaderVisibility: function(e, t) {
@@ -1480,11 +1476,11 @@
             },
             setWindowWidth: function(e, t) {
                 var a = e.commit;
-                a(H, t)
+                a(j, t)
             },
             setFromBreakpointValue: function(e, t) {
                 var a = e.commit;
-                a(j, t)
+                a(H, t)
             },
             setUntilBreakpointValue: function(e, t) {
                 var a = e.commit;
@@ -1499,11 +1495,11 @@
                 a(Y, t)
             }
         }, Ba = (n = {},
-        Object(E["a"])(n, H, (function(e, t) {
+        Object(E["a"])(n, j, (function(e, t) {
             e.windowWidth = t
         }
         )),
-        Object(E["a"])(n, j, (function(e, t) {
+        Object(E["a"])(n, H, (function(e, t) {
             e.fromBreakpointValue = t
         }
         )),
@@ -1528,9 +1524,9 @@
         }, Ma = (a("4e82"),
         a("caad"),
         a("2532"),
-        a("81d7")), xa = a("7b87"), $a = a("ebe3"), Ha = a("8c77"), ja = [A["DEFAULT_LANG"]], Fa = {
+        a("81d7")), xa = a("7b87"), $a = a("ebe3"), ja = a("8c77"), Ha = [A["DEFAULT_LANG"]], Fa = {
             lang: A["DEFAULT_LANG"],
-            tos: Object(E["a"])({}, A["DEFAULT_LANG"], Ha["default"])
+            tos: Object(E["a"])({}, A["DEFAULT_LANG"], ja["default"])
         }, Ga = {
             lang: function(e) {
                 return e.lang
@@ -1601,10 +1597,10 @@
         }, Ya = {
             setLanguage: function(e, t) {
                 var o = e.commit;
-                return Ma["a"].locale !== t ? ja.includes(t) ? (o(V, t),
+                return Ma["a"].locale !== t ? Ha.includes(t) ? (o(V, t),
                 Promise.resolve(t)) : a("cd69")("./" + t).then((function(e) {
                     return Ma["a"].setLocaleMessage(t, e.default[t]),
-                    ja.push(t),
+                    Ha.push(t),
                     a("ec80")("./tos_" + t)
                 }
                 )).then((function(e) {
@@ -1993,7 +1989,7 @@
             authenticate: function(e, t) {
                 var a, o = e.commit, n = e.dispatch;
                 return o(te, A["API_STATUS_PENDING"]),
-                O["a"].post("/users/login", {
+                O["a"].post("/v2/login", {
                     code: t
                 }).then((function(e) {
                     return a = {
@@ -2008,10 +2004,7 @@
                     n("get")
                 }
                 )).then((function(e) {
-                    return o(ee, {
-                        data: e.data
-                    }),
-                    n("games/get", null, {
+                    return n("games/get", null, {
                         root: !0
                     })
                 }
@@ -2102,7 +2095,7 @@
                 var a = e.dispatch;
                 return a("save", {
                     apiVersion: 2,
-                    endpoint: "users/me/personal",
+                    endpoint: "/v2/profile/personal",
                     data: t,
                     statusMutation: oe
                 })
@@ -2111,8 +2104,8 @@
                 var a = e.dispatch;
                 return a("save", {
                     apiVersion: 2,
-                    method: "post",
-                    endpoint: "/users/me/personal/dateOfBirth",
+                    method: "put",
+                    endpoint: "/v2/profile/personal/date-of-birth",
                     data: t,
                     statusMutation: ne
                 })
@@ -2121,7 +2114,8 @@
                 var a = e.dispatch;
                 return a("save", {
                     apiVersion: 2,
-                    endpoint: "users/me/games",
+                    endpoint: "v2/profile/games",
+                    method: "put",
                     data: t,
                     statusMutation: re
                 })
@@ -2130,7 +2124,8 @@
                 var a = e.dispatch;
                 return a("save", {
                     apiVersion: 2,
-                    endpoint: "users/me/games/primary",
+                    endpoint: "v2/profile/games/primary",
+                    method: "put",
                     data: t,
                     statusMutation: ie
                 })
@@ -2187,7 +2182,7 @@
                   , o = e.dispatch
                   , n = t.code;
                 return a(_e, A["API_STATUS_PENDING"]),
-                O["a"].post("/users/me/discord/connect", {
+                O["a"].post("/v2/discord", {
                     code: n
                 }).then((function(e) {
                     return o("get")
@@ -2206,7 +2201,7 @@
                 var t = e.commit
                   , a = e.dispatch;
                 return t(pe, A["API_STATUS_PENDING"]),
-                O["a"].delete("/users/me/discord/disconnect").then((function(e) {
+                O["a"].delete("/v2/discord").then((function(e) {
                     return a("get")
                 }
                 )).then((function(e) {
@@ -2224,7 +2219,7 @@
                   , o = e.dispatch
                   , n = t.code;
                 return a(me, A["API_STATUS_PENDING"]),
-                O["a"].post("/users/me/youtube", {
+                O["a"].post("/v2/platforms/youtube", {
                     code: encodeURIComponent(n)
                 }).then((function(e) {
                     return o("get")
@@ -2243,7 +2238,7 @@
                 var t = e.commit
                   , a = e.dispatch;
                 return t(fe, A["API_STATUS_PENDING"]),
-                O["a"].delete("/users/me/youtube").then((function(e) {
+                O["a"].delete("/v2/platforms/youtube").then((function(e) {
                     return a("get")
                 }
                 )).then((function(e) {
@@ -2261,7 +2256,7 @@
                   , o = e.dispatch
                   , n = t.code;
                 return a(he, A["API_STATUS_PENDING"]),
-                O["a"].post("/users/me/twitch", {
+                O["a"].post("/v2/platforms/twitch", {
                     code: n
                 }).then((function(e) {
                     return o("get")
@@ -2280,7 +2275,7 @@
                 var t = e.commit
                   , a = e.dispatch;
                 return t(ge, A["API_STATUS_PENDING"]),
-                O["a"].delete("/users/me/twitch").then((function(e) {
+                O["a"].delete("/v2/platforms/twitch").then((function(e) {
                     return a("get")
                 }
                 )).then((function(e) {
@@ -2331,7 +2326,7 @@
                 };
                 if (i)
                     return o(ye, A["API_STATUS_PENDING"]),
-                    O["a"].post("/users/logout").then((function(e) {
+                    O["a"].post("/v2/logout").then((function(e) {
                         return o(ye, A["API_STATUS_SUCCESS"]),
                         s(),
                         Promise.resolve(e)
@@ -2558,7 +2553,7 @@
             get: function(e) {
                 var t = e.commit;
                 return t(Ee, A["API_STATUS_PENDING"]),
-                O["a"].get("/users/me/videoInbox").then((function(e) {
+                O["a"].get("/v2/video-inbox").then((function(e) {
                     return t(Ee, A["API_STATUS_SUCCESS"]),
                     t(Ce, e.data),
                     Promise.resolve(e)
@@ -2747,7 +2742,7 @@
         a("a15b"),
         a("fb6a"),
         a("1276"),
-        "https://"), Ro = "facebook.com", Po = "fb.com", Lo = "instagram.com", No = "twitter.com", ko = "youtube.com", Do = "twitch.tv", Bo = "tiktok.com", Uo = "snapchat.com", Mo = "discord.gg", xo = /^(https:\/\/)*(www\.)?(facebook|fb)\.com\/[A-Za-z0-9-._@%]+/, $o = /^(https:\/\/)*(www\.)?instagram\.com\/[A-Za-z0-9-._@%]+/, Ho = /^(https:\/\/)*(www\.)?twitter\.com\/[A-Za-z0-9-._@%]+/, jo = /^(https:\/\/)*(www\.)?youtube\.com(\/c|\/channel)?\/[A-Za-z0-9-._@%]+/, Fo = /^(https:\/\/)*(www\.)?twitch\.tv\/[A-Za-z0-9-._@%]+/, Go = /^(https:\/\/)*(www\.)?tiktok\.com\/[A-Za-z0-9-._@%]+/, Yo = /^https:\/\/(www\.)?snapchat\.com\/add\/[A-Za-z0-9-._]{3,15}/, Vo = /^(https:\/\/)*(www\.)?discord\.gg\/[A-Za-z0-9-._@%]+/, Wo = [xo, $o, Ho, jo, Fo, Go, Yo, Vo], qo = {
+        "https://"), Ro = "facebook.com", Po = "fb.com", Lo = "instagram.com", No = "twitter.com", ko = "youtube.com", Do = "twitch.tv", Bo = "tiktok.com", Uo = "snapchat.com", Mo = "discord.gg", xo = /^(https:\/\/)*(www\.)?(facebook|fb)\.com\/[A-Za-z0-9-._@%]+/, $o = /^(https:\/\/)*(www\.)?instagram\.com\/[A-Za-z0-9-._@%]+/, jo = /^(https:\/\/)*(www\.)?twitter\.com\/[A-Za-z0-9-._@%]+/, Ho = /^(https:\/\/)*(www\.)?youtube\.com(\/c|\/channel)?\/[A-Za-z0-9-._@%]+/, Fo = /^(https:\/\/)*(www\.)?twitch\.tv\/[A-Za-z0-9-._@%]+/, Go = /^(https:\/\/)*(www\.)?tiktok\.com\/[A-Za-z0-9-._@%]+/, Yo = /^https:\/\/(www\.)?snapchat\.com\/add\/[A-Za-z0-9-._]{3,15}/, Vo = /^(https:\/\/)*(www\.)?discord\.gg\/[A-Za-z0-9-._@%]+/, Wo = [xo, $o, jo, Ho, Fo, Go, Yo, Vo], qo = {
             getStatus: null,
             saveStatus: null,
             platforms: []
@@ -2827,7 +2822,7 @@
             get: function(e) {
                 var t = e.commit;
                 return t(Oe, A["API_STATUS_PENDING"]),
-                O["a"].get("/users/me/social").then((function(e) {
+                O["a"].get("/v2/profile/social-links").then((function(e) {
                     return t(Oe, A["API_STATUS_SUCCESS"]),
                     t(Ie, e.data.social),
                     Promise.resolve(e)
@@ -2842,7 +2837,7 @@
                 var a = e.commit;
                 e.dispatch;
                 return a(Ae, A["API_STATUS_PENDING"]),
-                O["a"].put("/users/me/social", {
+                O["a"].put("/v2/profile/social-links", {
                     social: t
                 }).then((function(e) {
                     a(Ie, e.data.social)
@@ -3142,11 +3137,11 @@
             },
             setUsername: function(e, t) {
                 var a = e.commit;
-                a(He, t)
+                a(je, t)
             },
             setFirstName: function(e, t) {
                 var a = e.commit;
-                a(je, t)
+                a(He, t)
             },
             setLastName: function(e, t) {
                 var a = e.commit;
@@ -3397,12 +3392,12 @@
             e.primaryGame = t
         }
         )),
-        Object(E["a"])(l, He, (function(e, t) {
+        Object(E["a"])(l, je, (function(e, t) {
             e.username = t,
             e.displayUsername = t
         }
         )),
-        Object(E["a"])(l, je, (function(e, t) {
+        Object(E["a"])(l, He, (function(e, t) {
             e.firstName = t
         }
         )),
@@ -4308,7 +4303,7 @@
             getters: Un,
             actions: Mn,
             mutations: xn
-        }, Hn = (a("c740"),
+        }, jn = (a("c740"),
         a("99af"),
         {
             fetchStatus: null,
@@ -4319,7 +4314,7 @@
             total: 0,
             post: void 0,
             showFilterDialog: !1
-        }), jn = Object(Ja["a"])({}, Hn), Fn = {
+        }), Hn = Object(Ja["a"])({}, jn), Fn = {
             games: function(e, t, a, o) {
                 return o["user/feedFilter"]
             },
@@ -4439,7 +4434,7 @@
                 var a = e.commit
                   , o = (e.getters,
                 e.rootGetters);
-                return a(Ht),
+                return a(jt),
                 C.a.post("/PostGet", {
                     userId: o["user/id"],
                     token: o["user/token"],
@@ -4449,7 +4444,7 @@
                       , o = t.success
                       , n = t.errorStatus
                       , r = t.post;
-                    return !0 === o ? a(jt, r) : a(Ft, n),
+                    return !0 === o ? a(Ht, r) : a(Ft, n),
                     e.data
                 }
                 )).catch((function(e) {
@@ -4477,7 +4472,7 @@
             }
         }, Yn = (f = {},
         Object(E["a"])(f, kt, (function(e) {
-            Object.assign(e, Hn)
+            Object.assign(e, jn)
         }
         )),
         Object(E["a"])(f, Dt, (function(e) {
@@ -4517,13 +4512,13 @@
             e.errorStatus = t
         }
         )),
-        Object(E["a"])(f, Ht, (function(e) {
+        Object(E["a"])(f, jt, (function(e) {
             e.post = void 0,
             e.fetchStatus = A["API_STATUS_PENDING"],
             e.errorStatus = null
         }
         )),
-        Object(E["a"])(f, jt, (function(e, t) {
+        Object(E["a"])(f, Ht, (function(e, t) {
             e.post = t,
             e.fetchStatus = A["API_STATUS_SUCCESS"],
             e.errorStatus = null
@@ -4540,7 +4535,7 @@
         )),
         f), Vn = {
             namespaced: !0,
-            state: jn,
+            state: Hn,
             getters: Fn,
             actions: Gn,
             mutations: Yn
@@ -5161,7 +5156,7 @@
                 e.dispatch;
                 return t(Sa, A["API_STATUS_PENDING"]),
                 ir.games.length > 0 ? (t(Sa, A["API_STATUS_SUCCESS"]),
-                Promise.resolve()) : O["a"].get("/games").then((function(e) {
+                Promise.resolve()) : O["a"].get("/v2/config/games").then((function(e) {
                     return t(Sa, A["API_STATUS_SUCCESS"]),
                     t(ya, e.data),
                     Promise.resolve(e)
@@ -5226,7 +5221,7 @@
                   , o = e.commit
                   , n = e.getters;
                 return o(va, A["API_STATUS_PENDING"]),
-                O["a"].post("/v2/slack/users", {
+                O["a"].post("/v2/slack", {
                     email: t || n.email
                 }).then((function(e) {
                     return a("user/get", null, {
@@ -5486,7 +5481,7 @@
         }
         )),
         a.d(t, "CREATORS_TERMS", (function() {
-            return H
+            return j
         }
         ));
         var o = "/:lang"
@@ -5628,7 +5623,7 @@
             path: o + "/terms-of-service",
             name: "terms-of-service"
         }
-          , H = {
+          , j = {
             path: o + "/creators-terms",
             name: "creators-terms"
         }
@@ -6456,9 +6451,9 @@
             }
         }
           , $ = x
-          , H = (a("5c0b"),
+          , j = (a("5c0b"),
         Object(C["a"])($, n, r, !1, null, null, null))
-          , j = H.exports
+          , H = j.exports
           , F = a("a18c")
           , G = a("4360");
         a("8b70");
@@ -6500,27 +6495,77 @@
             return " " + e + "--" + t
         };
         o["a"].directive("class-mods", W);
+        var z = a("2909")
+          , J = (a("caad"),
+        a("2532"),
+        a("fb6a"),
+        function() {
+            var e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : "";
+            return e.toLowerCase().includes("text")
+        }
+        )
+          , Z = function() {
+            var e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : "";
+            return e.toLowerCase().includes("a")
+        }
+          , X = function(e) {
+            if (null === e)
+                return "";
+            var t = e
+              , a = 0
+              , o = 0
+              , n = ""
+              , r = ""
+              , i = ""
+              , s = "";
+            while (-1 !== a)
+                a = t.indexOf("_|", o),
+                o = t.indexOf("|_", a),
+                -1 !== a && (n = t.slice(0, a),
+                r = t.slice(o + 2),
+                i = t.slice(a + 2, o),
+                s = '<span class="highlight">' + i + "</span>",
+                t = n,
+                t += s,
+                t += r);
+            return t
+        }
+          , Q = function(e) {
+            return Object(z["a"])(e).reduce((function(e, t) {
+                var a = "";
+                return J(t.nodeName) && (a = X(t.nodeValue)),
+                Z(t.nodeName) && (a = t.outerHTML),
+                e += a,
+                e
+            }
+            ), "")
+        }
+          , ee = {
+            bind: function(e) {
+                e.innerHTML = Q(e.childNodes)
+            }
+        };
+        o["a"].directive("highlight-parser", ee);
         a("4d63"),
         a("c607"),
         a("2c3e"),
         a("25f0"),
-        a("fb6a"),
         a("466d");
-        var z = new RegExp(/[-a-zA-Z0-9@:%._+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_+.~#?&//=]*)/)
-          , J = new RegExp(/[mailto:]/)
-          , Z = {
+        var te = new RegExp(/[-a-zA-Z0-9@:%._+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_+.~#?&//=]*)/)
+          , ae = new RegExp(/[mailto:]/)
+          , oe = {
             bind: function(e, t, a) {
-                e.innerHTML = X(e.innerHTML)
+                e.innerHTML = ne(e.innerHTML)
             },
             inserted: function(e, t, a) {
-                Q(e)
+                re(e)
             },
             update: function(e, t, a) {
-                e.innerHTML = X(e.innerHTML),
-                Q(e)
+                e.innerHTML = ne(e.innerHTML),
+                re(e)
             }
         }
-          , X = function(e) {
+          , ne = function(e) {
             var t = e
               , a = 0
               , o = 0
@@ -6540,7 +6585,7 @@
                 i = t.slice(a + 2, o),
                 s = i.split(", "),
                 u = s[0],
-                s[1].match(z) || s[1].match(J) ? (c = s[1],
+                s[1].match(te) || s[1].match(ae) ? (c = s[1],
                 s[2] && (l = s[2].indexOf("blank") ? "_blank" : s[2].indexOf("self") ? "_self" : s[2].indexOf("parent") ? "_parent" : s[2].indexOf("top") ? "_top" : "_self"),
                 d = "<a href=" + c + ' target="' + l + '" class="parsed-link">' + u + "</a>") : (c = F["a"].resolve({
                     name: s[1],
@@ -6553,61 +6598,61 @@
                 t += r);
             return t
         }
-          , Q = function(e) {
+          , re = function(e) {
             for (var t = e.getElementsByTagName("a"), a = 0; a < t.length; a++)
-                "routerlink" === t[a].dataset.type && t[a].addEventListener("click", ee, !1)
+                "routerlink" === t[a].dataset.type && t[a].addEventListener("click", ie, !1)
         }
-          , ee = function(e) {
+          , ie = function(e) {
             e.preventDefault(),
             F["a"].push({
                 path: e.target.getAttribute("href")
             }).catch((function() {}
             ))
         };
-        o["a"].directive("link-parser", Z);
+        o["a"].directive("link-parser", oe);
         a("d81d"),
         a("4de4");
-        function te(e) {
+        function se(e) {
             var t = e.getBoundingClientRect();
             return t.top <= .75 * (window.innerHeight || document.documentElement.clientHeight)
         }
-        function ae() {
-            oe = oe.map((function(e) {
+        function ce() {
+            ue = ue.map((function(e) {
                 return Object.assign({}, e, {
-                    status: e.status ? e.status : te(e.el)
+                    status: e.status ? e.status : se(e.el)
                 })
             }
             )),
-            oe.forEach((function(e) {
+            ue.forEach((function(e) {
                 e.el.classList.toggle("is-revealed", e.status),
                 e.el.classList.toggle("is-concealed", !e.status),
                 e.el.classList.toggle("is-transition", e.status)
             }
             ))
         }
-        var oe = []
-          , ne = {
+        var ue = []
+          , le = {
             bind: function(e) {
-                oe.push({
+                ue.push({
                     el: e,
                     status: !1
                 })
             },
             inserted: function() {
-                ae()
+                ce()
             },
             unbind: function(e) {
-                oe = oe.filter((function(t) {
+                ue = ue.filter((function(t) {
                     return t.el !== e
                 }
                 ))
             }
         };
-        o["a"].directive("scroll-reveal", ne),
-        window.addEventListener("scroll", ae);
-        var re = [];
-        function ie() {
-            re = re.map((function(e) {
+        o["a"].directive("scroll-reveal", le),
+        window.addEventListener("scroll", ce);
+        var de = [];
+        function _e() {
+            de = de.map((function(e) {
                 var t = e.el.getBoundingClientRect();
                 return Object.assign({}, e, {
                     y: (t.top + t.height / 2 - window.innerHeight / 2) / window.innerHeight * e.z
@@ -6615,49 +6660,49 @@
             }
             ))
         }
-        function se() {
-            re.forEach((function(e) {
+        function pe() {
+            de.forEach((function(e) {
                 l["b"].set(e.el, {
                     y: e.y
                 })
             }
             ))
         }
-        function ce() {
+        function me() {
             window.requestAnimationFrame((function() {
-                return ce()
+                return me()
             }
             )),
-            se()
+            pe()
         }
-        ce();
-        var ue = {
+        me();
+        var fe = {
             bind: function(e, t) {
-                re.push({
+                de.push({
                     el: e,
                     y: 0,
                     z: t.value ? t.value : 100
                 })
             },
             inserted: function() {
-                ie()
+                _e()
             },
             unbind: function(e) {
-                re = re.filter((function(t) {
+                de = de.filter((function(t) {
                     return t.el !== e
                 }
                 ))
             }
         };
-        o["a"].directive("scroll-parallax", ue),
-        window.addEventListener("scroll", ie),
+        o["a"].directive("scroll-parallax", fe),
+        window.addEventListener("scroll", _e),
         o["a"].config.productionTip = !1,
         window.vm = new o["a"]({
             router: F["a"],
             store: G["a"],
             i18n: Y["a"],
             render: function(e) {
-                return e(j)
+                return e(H)
             }
         }).$mount("#app"),
         window.localStorage.removeItem("paypalRedirectUrl"),
@@ -6862,11 +6907,11 @@
         }
         )),
         a.d(t, "API_ERROR_INVALID_COUNTRY", (function() {
-            return H
+            return j
         }
         )),
         a.d(t, "API_ERROR_INVALID_STATE", (function() {
-            return j
+            return H
         }
         )),
         a.d(t, "API_ERROR_NOT_AUTHENTICATED", (function() {
@@ -7078,11 +7123,11 @@
         }
         )),
         a.d(t, "USER_UPGRADE_STATUS_NOT_REVIEWED", (function() {
-            return He
+            return je
         }
         )),
         a.d(t, "USER_UPGRADE_STATUS_ACCEPTED", (function() {
-            return je
+            return He
         }
         )),
         a.d(t, "USER_UPGRADE_STATUS_REJECTED", (function() {
@@ -7294,11 +7339,11 @@
         }
         )),
         a.d(t, "TROPHY_ROAD_CARD_TYPE_TROPHY", (function() {
-            return Ht
+            return jt
         }
         )),
         a.d(t, "TROPHY_ROAD_CARD_TYPE_TIER_UPGRADE", (function() {
-            return jt
+            return Ht
         }
         )),
         a.d(t, "TROPHY_ROAD_CARD_ID_APPROVED_AS_CREATOR", (function() {
@@ -7393,7 +7438,7 @@
             return la
         }
         ));
-        var o = "1.6.0"
+        var o = "1.6.1"
           , n = "en"
           , r = ["en"]
           , i = 13
@@ -7430,8 +7475,8 @@
           , M = "user_not_whitelisted"
           , x = "user_with_this_id_doesnt_exist"
           , $ = "not_enough_followers"
-          , H = "invalid_country"
-          , j = "invalid_state"
+          , j = "invalid_country"
+          , H = "invalid_state"
           , F = "not_authenticated"
           , G = "maintenance"
           , Y = "not_in_creators_discord"
@@ -7484,8 +7529,8 @@
           , Me = "CONFIRMED"
           , xe = "REJECTED"
           , $e = "NONE"
-          , He = "NOT-REVIEWED"
-          , je = "ACCEPTED"
+          , je = "NOT-REVIEWED"
+          , He = "ACCEPTED"
           , Fe = "REJECTED"
           , Ge = "NONE"
           , Ye = "NOT-REVIEWED"
@@ -7538,8 +7583,8 @@
           , Mt = "MONTHLY"
           , xt = "YEARLY"
           , $t = "WELCOME-CARD"
-          , Ht = "TROPHY-CARD"
-          , jt = "TIER-UPGRADE-CARD"
+          , jt = "TROPHY-CARD"
+          , Ht = "TIER-UPGRADE-CARD"
           , Ft = "approvedAsCreator"
           , Gt = "tier1WelcomeVideo"
           , Yt = "tier2WelcomeVideo"
@@ -8900,9 +8945,9 @@
             }
         }
           , $ = x
-          , H = (a("25a8"),
+          , j = (a("25a8"),
         Object(T["a"])($, P, L, !1, null, "53e1f8ce", null))
-          , j = H.exports
+          , H = j.exports
           , F = function() {
             var e = this
               , t = e.$createElement
@@ -9699,7 +9744,7 @@
         Object(T["a"])(Me, ke, De, !1, null, "b7fdb6c8", null))
           , $e = xe.exports;
         Ce["b"].registerPlugin(Oe["a"]);
-        var He, je = {
+        var je, He = {
             name: "TierLevels",
             components: {
                 Block: f["a"],
@@ -9773,7 +9818,7 @@
                         this.isMenuFixed = !1
                 }
             }
-        }, Fe = je, Ge = (a("2928"),
+        }, Fe = He, Ge = (a("2928"),
         Object(T["a"])(Fe, Ee, Te, !1, null, "7cb22326", null)), Ye = Ge.exports, Ve = {
             name: "HomeHow",
             components: {
@@ -9928,19 +9973,19 @@
                 components: {
                     default: it,
                     header: R,
-                    footer: j
+                    footer: H
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["LOGIN_ERROR"]), {}, {
                 components: {
                     default: st,
                     header: R,
-                    footer: j
+                    footer: H
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["GENERAL_ERROR"]), {}, {
                 components: {
                     default: ct,
                     header: R,
-                    footer: j
+                    footer: H
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["AUTHENTICATE"]), {}, {
                 component: ut
@@ -9952,33 +9997,33 @@
                 components: {
                     default: rt,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["REGISTER"]), {}, {
                 components: {
                     default: _t,
-                    footer: j
+                    footer: H
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["REGISTER_COMPLETE"]), {}, {
                 components: {
                     default: pt,
-                    footer: j
+                    footer: H
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["WELCOME"]), {}, {
                 components: {
                     default: mt,
-                    footer: j
+                    footer: H
                 },
-                meta: (He = {},
-                Object(o["a"])(He, u, !0),
-                Object(o["a"])(He, c, !0),
-                He)
+                meta: (je = {},
+                Object(o["a"])(je, u, !0),
+                Object(o["a"])(je, c, !0),
+                je)
             }), Object(n["a"])(Object(n["a"])({}, s["MY_STUFF"]), {}, {
                 components: {
                     default: ft,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -9986,7 +10031,7 @@
                 components: {
                     default: ht,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10001,7 +10046,7 @@
                 components: {
                     default: gt,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10009,7 +10054,7 @@
                 components: {
                     default: bt,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10017,7 +10062,7 @@
                 components: {
                     default: St,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10025,7 +10070,7 @@
                 components: {
                     default: yt,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10033,7 +10078,7 @@
                 components: {
                     default: vt,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10041,13 +10086,13 @@
                 components: {
                     default: Et,
                     header: R,
-                    footer: j
+                    footer: H
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["MY_STUFF_DISCORD"]), {}, {
                 components: {
                     default: Tt,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10062,7 +10107,7 @@
                 components: {
                     default: Ct,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10084,7 +10129,7 @@
                 components: {
                     default: At,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10092,7 +10137,7 @@
                 components: {
                     default: It,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10100,32 +10145,32 @@
                 components: {
                     default: wt,
                     header: R,
-                    footer: j
+                    footer: H
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["MAINTENANCE"]), {}, {
                 components: {
                     default: Rt,
                     header: R,
-                    footer: j
+                    footer: H
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["APPLICATION_STATUS"]), {}, {
                 components: {
                     default: Pt,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["CODE_OF_CONDUCT"]), {}, {
                 components: {
                     default: Lt,
-                    footer: j
+                    footer: H
                 },
                 meta: Object(o["a"])({}, u, !0)
             }), Object(n["a"])(Object(n["a"])({}, s["BOOST_PAYOUTS"]), {}, {
                 components: {
                     default: Nt,
                     header: R,
-                    footer: j,
+                    footer: H,
                     mobileMenu: Q
                 },
                 meta: Object(o["a"])({}, u, !0)
@@ -10140,13 +10185,13 @@
                 components: {
                     default: kt,
                     header: R,
-                    footer: j
+                    footer: H
                 }
             }), Object(n["a"])(Object(n["a"])({}, s["FOUR_O_FOUR"]), {}, {
                 components: {
                     default: Ot,
                     header: R,
-                    footer: j
+                    footer: H
                 }
             })],
             scrollBehavior: function(e, t, a) {
@@ -10187,10 +10232,10 @@
           , $t = function() {
             return !0 === d["a"].getters["user/isApplicationStatusAccepted"]
         }
-          , Ht = function() {
+          , jt = function() {
             return !0 === d["a"].getters["user/isApplicationStatusRejected"]
         }
-          , jt = function() {
+          , Ht = function() {
             return !1 === d["a"].getters["user/isLoggedIn"]
         }
           , Ft = function() {
@@ -10226,10 +10271,7 @@
           , Xt = !1;
         Dt.beforeEach((function(e, t, a) {
             Xt ? Qt(e, t, a) : Ft() ? (d["a"].dispatch("general/setPageLoaderVisibility", !0),
-            d["a"].dispatch("user/get").then((function(e) {
-                return d["a"].dispatch("games/get")
-            }
-            )).then((function(o) {
+            Promise.all([d["a"].dispatch("user/get"), d["a"].dispatch("games/get")]).then((function(o) {
                 d["a"].dispatch("general/setPageLoaderVisibility", !1),
                 Xt = !0,
                 Qt(e, t, a)
@@ -10277,7 +10319,7 @@
                 params: {
                     lang: d["a"].getters["locale/lang"]
                 }
-            }) : Ut(e) && jt() ? a({
+            }) : Ut(e) && Ht() ? a({
                 name: s["LOGIN"].name,
                 params: {
                     lang: d["a"].getters["locale/lang"]
@@ -10301,7 +10343,7 @@
                 params: {
                     lang: d["a"].getters["locale/lang"]
                 }
-            }) : e.name === s["REGISTER"].name && Ft() && (xt() || Ht()) ? a({
+            }) : e.name === s["REGISTER"].name && Ft() && (xt() || jt()) ? a({
                 name: s["APPLICATION_STATUS"].name,
                 params: {
                     lang: d["a"].getters["locale/lang"],
@@ -10388,6 +10430,7 @@
                         colorLegend: "legend" === e.$props.color,
                         colorWhite: "white" === e.$props.color,
                         colorGreen: "green" === e.$props.color,
+                        colorBlack: "black" === e.$props.color,
                         underlined: e.$props.underlined,
                         arrowLeft: e.$props.arrowLeft,
                         arrowRight: e.$props.arrowRight,
@@ -10395,7 +10438,7 @@
                         footer: e.$props.footer,
                         hoverUnderlined: e.$props.hoverUnderlined
                     },
-                    expression: "{\n    'small': $props.small,\n    'xSmall': $props.xSmall,\n    'big': $props.big,\n    'colorLegend': $props.color === 'legend',\n    'colorWhite': $props.color === 'white',\n    'colorGreen': $props.color === 'green',\n    'underlined': $props.underlined,\n    'arrowLeft': $props.arrowLeft,\n    'arrowRight': $props.arrowRight,\n    'uppercase': $props.uppercase,\n    'footer': $props.footer,\n    'hoverUnderlined': $props.hoverUnderlined\n  }"
+                    expression: "{\n    'small': $props.small,\n    'xSmall': $props.xSmall,\n    'big': $props.big,\n    'colorLegend': $props.color === 'legend',\n    'colorWhite': $props.color === 'white',\n    'colorGreen': $props.color === 'green',\n    'colorBlack' : $props.color === 'black',\n    'underlined': $props.underlined,\n    'arrowLeft': $props.arrowLeft,\n    'arrowRight': $props.arrowRight,\n    'uppercase': $props.uppercase,\n    'footer': $props.footer,\n    'hoverUnderlined': $props.hoverUnderlined\n  }"
                 }],
                 staticClass: "textButton"
             }, [a("BaseButton", {
@@ -10500,9 +10543,9 @@
             }
         }
           , s = i
-          , c = (a("106b"),
+          , c = (a("ae0e"),
         a("2877"))
-          , u = Object(c["a"])(s, o, n, !1, null, "31895284", null);
+          , u = Object(c["a"])(s, o, n, !1, null, "49a06154", null);
         t["a"] = u.exports
     },
     a48f: function(e, t, a) {},
@@ -10566,8 +10609,12 @@
         "use strict";
         a("6bd0")
     },
+    ae0e: function(e, t, a) {
+        "use strict";
+        a("d59c")
+    },
     aea9: function(e) {
-        e.exports = JSON.parse('{"en":{"msg_to_athemm":"Hey Athemm! Are you poking around our code again???","gen_lang_en":"English","gen_sc":"Supercell","gen_sc_cr":"Supercell Creators","gen_cb":"Creator Boost","gen_join":"Join us","gen_login":"Log in","gen_logout":"Log out","gen_port":"Portal","gen_ms":"My Stuff","gen_fe":"Start","gen_acc":"Account","gen_se":"Search","gen_boost":"Boost","gen_add1":"Supercell Oy","gen_add2":"Jätkäsaarenlaituri 1","gen_add3":"00180 Helsinki","gen_add4":"Finland","gen_search_ph":"Start typing to search","gen_fb":"https://www.facebook.com/supercell/","gen_tw":"https://twitter.com/supercell","gen_ig":"https://www.instagram.com/supercell/","gen_yt":"https://www.youtube.com/supercell","gen_li":"https://www.linkedin.com/company/supercell/","gen_gd":"https://www.glassdoor.com/Overview/Working-at-Supercell-EI_IE511675.11,20.htm","gen_apap":"https://supr.cl/appstorescgames","gen_apgl":"https://play.google.com/store/apps/dev?id=6715068722362591614&hl=en","gen_cop":"Copyright Supercell 2019","gen_fol":"Follow us on","gen_down":"Download our games from","gen_gam_bs":"Brawl Stars","gen_gam_cr":"Clash Royale","gen_gam_bb":"Boom Beach","gen_gam_cc":"Clash of Clans","gen_gam_hh":"Hay Day","gen_gam_BRAWL_STARS":"Brawl Stars","gen_gam_CLASH_ROYALE":"Clash Royale","gen_gam_BOOM_BEACH":"Boom Beach","gen_gam_CLASH_OF_CLANS":"Clash of Clans","gen_gam_HAY_DAY":"Hay Day","gen_gam_EVERDALE":"Everdale","gen_gam_CLASH_QUEST":"Clash Quest","gen_gam_CLASH_MINI":"Clash Mini","gen_gam_bs_sh":"BS","gen_gam_cr_sh":"CR","gen_gam_bb_sh":"BB","gen_gam_cc_sh":"CC","gen_gam_hh_sh":"HD","gen_gam_sh_BRAWL_STARS":"BS","gen_gam_sh_CLASH_ROYALE":"CR","gen_gam_sh_BOOM_BEACH":"BB","gen_gam_sh_CLASH_OF_CLANS":"CC","gen_gam_sh_HAY_DAY":"HD","gen_gam_sh_EVERDALE":"ED","gen_gam_sh_CLASH_QUEST":"CQ","gen_gam_sh_CLASH_MINI":"CM","gen_sc_fan_kit_cc":"Clash of Clans Fan Kit","gen_sc_fan_kit_cr":"Clash Royale Fan Kit","gen_sc_fan_kit_bb":"Boom Beach Fan Kit","gen_sc_fan_kit_hd":"Hay Day Fan Kit","gen_sc_fan_kit_bs":"Brawl Stars Fan Kit","gen_sc_vip_kit":"Supercell VIP Kit","gen_sc_tch_kit":"Supercell Tech Kit","gen_plat_yt":"Youtube","gen_plat_tw":"Twitch","gen_plat_fb":"Facebook","gen_tier_name_1":"Bolts","gen_tier_name_2":"Swords","gen_tier_name_3":"Shields","gen_tier_name_4":"-","gen_tier_name_5":"Resourcers","gen_tier_name_6":"Community manager","gen_male":"Male","gen_female":"Female","gen_pos_typ_gen":"General","gen_and":"and","gen_its":"it\'s","gen_theyre":"they\'re","gen_err_dob_year":"Enter a valid year","gen_err_dob_month":"Enter a valid month","gen_err_dob_day":"Enter a valid day","gen_err_tit":"¯\\\\_(ツ)_/¯","gen_err_bod":"Seems you can’t access Creators right this moment. Please try again shortly.","foot_tos":"Creators Terms","foot_pp":"Privacy Policy","foot_pg":"Parent\'s Guide","foot_ab":"About","foot_tos_li":"https://supercell.com/en/terms-of-service/","foot_pp_li":"https://supercell.com/en/privacy-policy/","foot_pg_li":"https://supercell.com/en/parents/\\n","lan_head_tit":"This is Supercell Creators","lan_head_subtit":"The only place to get exclusive sneak peeks, tools, and support from Supercell to help you create!","lan_head_btn_join":"Join the program","lan_head_btn_join_2":"Go to portal","lan_inf_subtit_1":"What is Supercell Creators?","lan_inf_tit_1":"A place to help you do what you do best","lan_inf_bod_1":"We truly appreciate the amazing content that you create with Supercell games. We\'re here to help you become the best creator you can be!","lan_inf_subtit_2":"What\'s in it for me?","lan_inf_tit_2":"Exclusive first looks, tools & support!","lan_inf_bod_2":"Become part of a trusted community with exclusive perks, first looks at new game content, awesome tools, and support from Supercell to help you create at your maximum potential.","lan_how_tit":"How it works","lan_how_subtit":"If you have a minimum of 5,000 followers, you can get started by applying to become a Supercell Creator. We’ll review your application and place you in a suitable Creator tier based on how many followers you have on your biggest channel. Once you’ve been accepted to the program, you’ll start getting special access, perks, and support from Supercell to help you create on a whole new level!\\n","lan_how_foll":"How many followers do you have?","lan_tier_1_btn":"5,000+","lan_tier_2_btn":"10,000+","lan_tier_3_btn":"50,000+","lan_tier_4_btn":"I\'m a superstar","lan_tier_5_btn":"I\'m a resourcer","lan_tier_1_tit":"Bolts","lan_tier_1_subtit":"5,000+ followers","lan_tier_1_desc":"Get invited to the official Supercell Creators Discord server and receive exclusive tools and support!","lan_tier_2_tit":"Swords","lan_tier_2_subtit":"10,000+ followers","lan_tier_2_desc":"Get exclusive content, early access, and first looks at updates and join our Discord server for tools and support.","lan_tier_3_tit":"Shields","lan_tier_3_subtit":"50,000+ followers","lan_tier_3_desc":"Get invited to our Slack for even more exclusive content, access dev builds to preview game updates, and receive in-game promotions.","lan_tier_4_tit":"Stars","lan_tier_4_subtit":"Too many followers","lan_tier_4_desc":"Get the highest level of access, support, and trust from Supercell to help you keep creating like the Star you are.","lan_tier_5_tit":"Resourcers","lan_tier_5_subtit":"A strong community","lan_tier_5_desc":"Become a part of the community by helping Supercell Creators stay updated and enabled to create the best content.","lan_how_disc":"*Joining Supercell Creators does not guarantee any potential perks. We will provide our Creators with the best perks and support possible, but this will be decided by Supercell on an on-going basis and may change over time.","lan_cta_tit":"Apply to become a Supercell Creator","lan_cta_bod":"Ready to get exclusive tools, content, and support to help you create? Get started by applying now!\\nYou\'ll need a Supercell ID to begin your application. If you don\'t have a Supercell ID, you can simply create one in any Supercell game.","lan_cta_btn_join":"Join the program","home_info_subtitle":"Creators is","home_info_title":"The only place to get [exclusive sneak peeks], [tools], and [support] from Supercell [to help you create!]","home_info_subtitle_1":"What is Supercell Creators?","home_info_title_1":"A place to help you do what you do best","home_info_body_1":"We truly appreciate the amazing content that you create with Supercell games. We\'re here to help you become the best creator you can be!","home_info_subtitle_2":"What\'s in it for me?","home_info_title_2":"Exclusive first looks, tools & support!","home_info_body_2":"Become part of a trusted community with exclusive perks, first looks at new game content, awesome tools, and support from Supercell to help you create at your maximum potential.","home_feat_title_a":"Features","home_feat_title_b":"you will","home_feat_select":"Select feature","home_feat_1_title":"Join the community","home_feat_1_body":"Get access to the Creators Discord channel and join a community of Creators from all over the world. Share tips, knowledge, and make some new friends. Receive exclusive content from Supercell, and get weekly drops of Creator points that you can put to use in exciting raffles.","home_feat_2_title":"Merch codes","home_feat_2_body":"Every now and then we give away some pretty cool Supercell merch. Sometimes it’s for you, and sometimes it’s for you to delight your favourite followers. ","home_feat_3_title":"Update previews","home_feat_3_body":"Let’s face it! Being first is A and O. With update previews you’ll be able to create your content and be able to press publish as soon as new features are launched.","home_feat_4_title":"Video inbox","home_feat_4_body":"We’ve added a ‘Video Inbox’ to our games, where players can watch video content directly in the game. Upload your best videos or start a livestream and reach millions of viewers.","home_feat_5_title":"Creator Boost","home_feat_5_body":"Reach millions of players by posting your videos straight into the games video inbox. This is not a default feature, but it’s pretty awesome once you get it :)","home_stats_subtitle":"Global support","home_stats_title":"Today, [CREATORS] creators from [NATIONS] nations are being supported by our [CMS] amazing community managers in [LANGUAGES] different languages.","home_super_body":"Handpicked by Supercell, SuperCreators have a solid track record of quality content, a postitive attitude, and trust from our community managers.\\n\\nBut hey, becoming a black belt takes years of improvement, and a whole lot of effort, and even so, not everyone will make it to this level. ","home_super_instructions":"Tap a creator to hear their stories","home_cta_title":"Who can join?","home_cta_body":"In order to be accepted into the program you need to meet the following requirements.  But note that they are not a guarantee for getting accepted.","home_cta_check_1":"Always act in a good manner and respect other Creators and Community Managers.","home_cta_check_2":"Be at least 18 years old.","home_cta_check_3":"Have a minimum of 5 000 followers on Youtube, or 3 000 on Twitch.","home_cta_btn":"Go to application","not_app_none_tit":"Hey there!","not_app_none_bod":"We can’t seem to find a Creators account connected to this Supercell ID. You will need to apply to join the Creators program.","not_app_none_btn":"To application","not_app_rev_tit":"We\'re on it!","not_app_rev_bod":"Thanks for applying! We\'ve received your application and will get back to you as soon as possible! ","not_app_rev_btn":"Back to home","not_app_rev_btn_2":"Got it!","not_app_rej_tit":"Well, hello again!","not_app_rej_bod":"It looks like you’re logging in from an ID that has previously been rejected. You can send in a new application in [DAYS] days.","not_app_rej_btn":"Back to home","not_app_rej_btn_2":"I shall wait!","not_app_ban_tit":"Access denied","not_app_ban_bod":"Sorry, this Supercell ID has been banned from the platform. If you\'d like to learn more on bans or report an error, feel free to contact us.","not_app_ban_btn":"Ok","not_app_alreg_tit":"You, again?","not_app_alreg_bod":"This Supercell ID is already registered. Log in below to access your Creators account.","not_app_maintenance_tit":"Maintenance!","not_app_maintenance_bod":"Hi there! We’re doing some maintenance to improve your experience of Creators. The portal will be up and running shortly. Thanks for your patience!","not_app_":"","ab_tit":"What is Supercell Creators?","ab_bod":"We truly appreciate the amazing content that you create with Supercell games. To celebrate this, we’ve launched Supercell Creators, a platform and program built to offer you - our community of amazing creators - exclusive perks, first looks at new game content, awesome tools, and support to help you create at your maximum potential.\\n\\nTo do this, we’re using OAuth permissions for different platforms to:\\n\\nA. Verify your that you are the owner of your channel/account\\nB. Pull basic stats about views, number of videos and number of subscribers to help guide us when placing you into a suitable tier\\n\\nIf you have a minimum of 5,000 followers, you can get started by applying to become a Supercell Creator. We’ll review your application and place you in a suitable Creator tier based on how many followers you have on your biggest channel. Once you’ve been accepted to the program, you’ll start getting special access, perks, and support from Supercell to help you create on a whole new level!","reg_head_scid":"Supercell ID","reg_head_pla":"Platform","reg_head_acc":"Account","reg_scid_tit":"Let\'s get started!","reg_scid_bod":"Applying to become a Supercell Creator is super easy! Let\'s get started by logging in with your Supercell ID.\\n\\nIf you don\'t have a Supercell ID, you can create one in any Supercell game.","reg_scid_btn":"[Supercell ID]","reg_scid_tit_2":"Hi there!","reg_scid_bod_2":"It looks like you\'re already signed in with a Supercell ID. That’s great! Please click next to continue filling out your application to Supercell Creators.","reg_scid_btn_2":"Next","reg_re_tit":"Great, you’re back!","reg_re_bod":"It looks like you’ve already started an application. Do you wish to continue or start a new one?","reg_re_btn_1":"Continue","reg_re_btn_2":"Create new","reg_pla_tit":"Where are you creating?","reg_pla_bod":"Connect the platform where you have the most followers so we can place you in the best tier! You must have at least 5,000 followers on YouTube or 3,000 followers on Twitch to be eligible for the program.","reg_pla_other":"I create other types of content","reg_pla_why_btn":"Why do I have to do this?","reg_pla_why_bod":"To prevent anyone else from signing up with your channel, we ask you to connect with the platform to verify that the channel is yours. This is only for verification purposes, so your information is safe with us.","reg_pla_other_bod":"Cool! We\'d love to know more about what you create! Whether it\'s managing a subreddit, creating tools, or making something totally different, please enter a URL so we can check out what you do:","reg_pla_other_ph":"https://","reg_pla_add_btn":"Add another URL","reg_pla_del_btn":"Delete","reg_pla_next_btn":"Next","reg_acc_tit":"Which games do you create for?","reg_acc_bod":"Select the games that you actively create content for so we can give you the best support possible.","reg_acc_prim_btn":"Set as primary game","reg_acc_prim_btn_alt":"Primary game","reg_acc_prim_info":"Since you are creating content for multiple games, please also specify which you consider to be your primary game.","reg_acc_bod2":"Just a few personal details to finish your application! This is only for registration purposes and will never be shared anywhere or with anyone else","reg_acc_un":"Creator name","reg_acc_un_ph":"Type your Creator name here","reg_acc_fn":"First name","reg_acc_fn_ph":"Type your first name here","reg_acc_ln":"Last name","reg_acc_ln_ph":"Type your last name here","reg_acc_add":"Email","reg_acc_add_ph":"Type your email here","reg_acc_add_info":"For information regarding your Creators account. Will not affect your SCID.","reg_acc_lan":"I create content in:","reg_acc_lan_ph":"Select your language","reg_acc_abo_co":"I\'m based in","reg_acc_abo_co_ph":"Select location","reg_acc_dob":"Date of birth","reg_acc_dob_ph":"YYYY-MM-DD","reg_acc_dob_year":"Year","reg_acc_dob_year_ph":"YYYY","reg_acc_dob_month":"Month","reg_acc_dob_month_ph":"MM","reg_acc_dob_day":"Day","reg_acc_dob_day_ph":"DD","reg_acc_nda_tit":"One last thing!","reg_acc_nda_body":"Before you start creating, you must accept the [[Creators Terms, creators-terms, _blank]] and read through Supercell’s [[Privacy Policy, https://supercell.com/en/privacy-policy, _blank]]. Below is a summary (but not a substitute for) the Terms for your convenience.","reg_acc_nda_btn1":"Expand","reg_acc_nda_btn2":"Collapse","reg_acc_nda_1":"[[Creators Terms, creators-terms, _blank]] - You are at least 13 years old and understand that Supercell reserves all rights in connection with the Service and its games. You grant Supercell the right to use your User Content.\\n","reg_acc_nda_2":"[[Privacy Policy, https://supercell.com/en/privacy-policy, _blank]] - Supercell collects data to make the Service more functional and suitable for players, show personalized advertisements, and keep the Service fair and safe. We value and protect your data and use it only in the ways listed.","reg_acc_nda_3":"[[Non-Disclosure Agreement, https://supr.cl/NDA, _blank]] - You agree to keep all Confidential Information strictly confidential and not disclose it to any third party nor use it for any other purpose than in accordance with Supercell\'s instructions.","reg_acc_nda_3_con_tit":"Double-check!","reg_acc_nda_3_con_bod":"All information strictly confidential","reg_acc_nda_3_con_btn":"Got it","reg_acc_nda_agree":"Yes, I agree","reg_acc_sign":"Sign NDA","reg_acc_sign_ph":"Your full name","reg_acc_btn":"Submit application","reg_acc_gam_err":"Select one game or more","reg_acc_pri_gam_err":"Select your primary game","reg_acc_un_err":"Creator name required","reg_acc_un_err_2":"Creator name can not include < or > characters","reg_acc_fn_err":"First name required","reg_acc_ln_err":"Last name required","reg_acc_add_err":"Email required","reg_acc_lan_err":"Select your language","reg_acc_loc_err":"Select your country","reg_acc_dab_err":"Your date of birth should be in YYYY-MM-DD format","reg_acc_dab_err_2":"You need to be at least 13 years old to apply for the Creators program","reg_acc_nda_err":"You need to confirm the NDA","reg_acc_term_err":"You need to confirm the Terms of Service","reg_acc_priv_err":"You need to confirm the Privacy Policy","reg_acc_gen":"I am a:","reg_acc_gen_mal":"Male","reg_acc_gen_fem":"Female","reg_acc_gen_not":"*We will not use your gender information, it is for Finnish Tax Administration purpose only.","reg_acc_gen_err":"You have to select one","reg_acc_sign_err":"Your signature needs to match with your first and last name","reg_acc_general_err":"Something went wrong. Please try again.","reg_comp_tit":"Thanks, [firstname]!","reg_comp_bod":"We\'ve received your application and we\'ll get back to you soon!","reg_comp_btn":"Back to Home","wel_intro":"Welcome to Supercell","wel_tit":"Hi, we\'re glad you\'re here!","wel_tit_boost":"Creator Boost","wel_subtit_boost":"A feature from","wel_bod":"Congrats on becoming a Supercell Creator! We can’t wait to help you grow and create more awesome content for your fans!","wel_bod_boost":"Hi [USERNAME]!\\n\\nYour application for Creator Boost has been approved. Now, please read through and accept our Creator code of conduct below and then we’ll set up your Boost details.","wel_inf":"Login to get started","wel_btn":"Get started","wel_vid_tit":"What you’ll get as a Creator","wel_vid_subtit":"Welcome Video","wel_vid_bod":"A short message from us about what you can expect from being in the Creator program.","wel_coc_tit":"The Creator Code of Conduct","wel_coc_bod":"As a Creator, you must follow these rules to remain within the Creator program.","wel_coc_scroll":"Scroll to continue","wel_coc_stop1_tit":"Be Friendly!","wel_coc_stop1_bod":"Your content must be family-friendly. This means your content should not contain anything relating to drugs, alcohol, explicit images, foul language, or disrespectful behavior.","wel_coc_stop1_btn":"Got it!","wel_coc_stop2_tit":"Be Honest!","wel_coc_stop2_bod":"Don’t mislead with your content. Titles, thumbnails, and descriptions should be an accurate representation of the content.","wel_coc_stop2_btn":"Of course!","wel_coc_stop3_tit":"Be Respectful!","wel_coc_stop3_bod":"You should be kind, considerate, and civil.","wel_coc_stop3_btn":"Always","wel_coc_stop4_tit":"Play Fair!","wel_coc_stop4_bod":"This means following Supercell’s [[Fair Play Policy, https://supercell.com/en/safe-and-fair-play/, _blank]], and never promote hacking, fraudulent gems/diamonds, account sharing or any other violations of Supercell’s terms of service.","wel_coc_stop4_btn":"Sounds fair!","wel_coc_stop5_tit":"Keep it secret & Safe!","wel_coc_stop5_bod":"Your content must not violate the non-disclosure agreement, follow the [[Terms of Service, https://supercell.com/en/terms-of-service/, _blank]] as well as the terms of service of the platform on which you post it.","wel_coc_stop5_btn":"Absolutely","wel_coc_stop6_tit":"Breaking the Rules?","wel_coc_stop6_bod":"Unnaceptable behaviour may result in immediate expulsion from the Creator Program without warning.","wel_coc_stop6_btn":"Understood","wel_rule_tit":"The golden rule","wel_rule_bod":"Everything within the Creator Program is private. We want to have an open atmosphere where we can share early information with all of you, and where you can share tips and learnings with your fellow Creators. In order to maintain this open atmosphere, we will rely on everything in the program to be kept private.","wel_start_tit_boost":"Great!","wel_start_bod_boost":"Now let’s get your Boost details in place.","wel_start_btn_boost":"Set up my Boost","wel_start_btn":"Get started","port_start_intro":"Welcome to Supercell","port_start_tit":"We\'re so glad you\'re here!","port_start_bod":"Congrats on becoming a Supercell Creator! We can’t wait to help you grow and create more awesome content for your fans!","port_wel_tit":"What\'s to come","port_wel_bod":"This is just the beginning! Here\'s a roadmap of what\'s in store for the program:","port_wel_vip_tit":"VIP Launch","port_wel_vip_bod":"For the initial launch, we\'re inviting VIP Creators who we already know and support to get early access to the platform and its perks.","port_wel_pub_tit":"Public Launch","port_wel_pub_bod":"After developing how to best support Supercell Creators in the VIP launch, we\'ll open up the program and allow anyone to apply to become a Creator.","port_wel_fut_tit":"Future Development","port_wel_fut_bod":"We want to support our Supercell Creators and help them grow, so we\'re looking for your feedback on how to develop this platform best!","port_wel_what_tit":"What to do now","port_wel_what_bod":"Get started now by joining one of our official Supercell Creators channels!","port_start_disc_tit":"Discord","port_start_disc_bod":"Our Discord server is where all Supercell Creators can hang out, chat, and get updates and support. Everyone\'s there so it\'s quite a busy place! Join the party!","port_start_disc_cta":"Connect with Discord","port_start_slack_tit":"Slack","port_start_slack_bod":"Our Slack is where we share first looks at new game content and other special perks with Creators in the Shields tier. Join our Slack for early access and the best support! ","port_start_slack_cta":"Connect with Slack","port_start_ha_tit":"App Center","port_start_ha_bod":"App Center is where we share dev builds with Creators in the Shields tier to get early access to game updates. Connect with App Center to play game updates before anyone else!","port_start_ha_cta":"Connect with App Center","port_start_aff_btn":"Join Creator Boost","vid_inbox_tit":"Video Inbox","vid_inbox_bod":"We\'ve added a \\"Video Inbox\\" to our games, where players can watch video content directly in the game. Submit a YouTube video now that you want to show up in the game!","vid_inbox_bod_alt":"We’ve added a “Video Inbox” to our games, where players can watch video content directly in the game.","vid_inbox_bod_2":"Each game has its own limits for the number of videos you are allowed to upload each week. If your quota is full you just have to wait until you can generate a link again.","vid_inbox_guide_tit":"Guidelines for video inbox","vid_inbox_guide_subtit":"The video inbox is the single biggest piece of trust we can share with you. This feature is giving you direct access to post your videos into the game reaching millions of players. ","vid_inbox_guide_bod":"With great power comes great responsibility. We want you to pick your very best videos that are above and beyond the rest.\\n\\nThere should be nothing even remotely close to clickbait, every second of your video should be friendly for all players, and you should review this 10x more than anything else you post. Any videos posted here that break our guidelines will be met with a zero-tolerance policy. That means you will instantly lose access to the Creators program and potentially your entire channel. Use this feature with the greatest caution. \\n\\nYou should avoid things like box opening videos, meme reviews, or other ‘light’ content. These videos should be useful/deep guides, strategy videos, esports, showcases of sneak peeks, or in-depth reviews of game features. ","vid_inbox_guide_check":"Approve the guidelines","vid_inbox_guide_btn":"open inbox","vid_inbox_in":"Your inbox:","vid_inbox_foot":"*The video inbox is available for your primary game","vid_inbox_foot_2":"You\'ve been granted access for multiple games","vid_inbox_foot_3":"Your primary game has no video inbox yet","vid_inbox_change":"Change primary game","vid_inbox_tip":"Video inbox is available for your primary game. However, we like your stuff so much we gave you some extra access. 😊 ","vid_inbox_select":"Select your inbox","vid_inbox_link_ready":"Your link is ready","vid_inbox_link_used":"This link has been opened. Generate a new one by clicking the button above.","vid_inbox_subtitle":"Submit a video","vid_inbox_subbod":"Select a game to submit a video for","vid_inbox_gen_btn":"Generate link","vid_inbox_link_bod":"The link below will take you to the Video Inbox submission page. It is valid for 15 minutes and cannot be reused.","vid_inbox_link_opn_btn":"Open link","vid_inbox_link_cpy_btn":"Copy","vid_inbox_link_cpy2_btn":"Copied","vid_inbox_link_min_lef":"{mins} mins left","vid_inbox_link_exp":"Link expired","vid_inbox_note":"*Note: Supercell Creators can generate 100 links per week. You have now created {linksCreated}, thus only have {linksLeft} left this week (that ends on {endDate}).","vid_inbox_sub_vids":"Your submitted videos","vid_inbox_lin_cre_lbl":"{count} links created","vid_inbox_quota":"Your quota is full","vid_inbox_lin_avail":"New link available in {days} days","vid_inbox_lin_avail_alt":"New link available","vid_inbox_unsupported":"Your primary game [GAME] does not have a video inbox yet","vid_inbox_find":"Can’t find your game?","vid_inbox_find_tooltip":"You do have acess to [GAMES] as well, but [PLURAL] not supported by Video inbox just yet.","port_disc_nav_btn":"Back","port_disc_tit":"Join our Discord","port_disc_bod":"[[Discord, https://discord.com, _blank]] is the open place where all Creators hang out. Everyone is there so it’s quite a busy place! We’d love to see you there too, so go check it out now!\\n\\nFollow the steps below to join. If you’re already in Discord go straight to step 2.","port_disc_btn":"Connect with discord","port_disc_con_tit":"Discord","port_disc_con_bod":"Discord is the open place where all Creators hang out. Everyone is there so it’s quite a busy place!\\n\\nYou are connected to discord! 💚","port_disc_con_subtit":"Disconnect from Discord","port_disc_con_subbod":"Here you can disconnect your Discord account. You will be able to re-connect once disconnected. ","port_disc_con_btn":"Disconnect","pot_disc_step_1_title":"Create a Discord account","pot_disc_step_1_body":"Go to [[https://discord.com/register, https://discord.com/register, _blank]] and create an account if you don’t already have one.","pot_disc_step_2_title":"Connect with Discord","pot_disc_step_2a_body":"Important","pot_disc_step_2b_body":" - In the popup you need to allow Supercell to get access.","pot_disc_step_2b_btn":"","port_disc_con_tr":"Now you just have to introduce yourself in the [[#General channel, https://discord.com/channels/547793312229097478/547850422140796963, _blank]] in order to flip your Creator progress Discord card.","port_disc_banned_tit":"Discord","port_disc_banned_bod":"You have been banned from Discord 💀","port_disc_auth_tit":"Discord verification","port_disc_auth_bod":"It seems your account is not connected to the Creators Discord channel. You will need to verify your account using the button below. This is so that we can make sure that only Creators has access.","port_disc_auth_btn":"Verify discord  account","port_disc_auth_tit_2":"Thanks!","port_disc_auth_bod_2":"Your Discord account has been verified. We hope the channel is of good use on your Creator journey :) ","port_disc_auth_btn_2":"Take me back to Discord","port_disc_auth_tit_3":"Discord","port_disc_auth_bod_3":"Your Discord account has already been connected. Thanks for checking. 💚","port_disc_auth_btn_3":"Take me back to Discord","port_slack_nav_btn":"Back","port_slack_tit":"Slack","port_slack_bod":"Join the Creators discussions on Slack. Get the latest news and game updates from your CMs and connect with fellow Tier 3 Creators. ","port_slack_subtit":"Join us on Slack","port_slack_bod_2":"Enter the email you want to use for Creators Slack. An invite will be sent to this email.","port_slack_email_ph":"email@example.com","port_slack_email":"Enter your email","port_slack_email_2":"Confirm your email","port_slack_checkbox":"This is the email address I want to use for Creators Slack, and I understand I can NOT change this.","port_slack_btn":"Send invite","port_slack_invite_tit":"You have been invited","port_slack_invite_bod":"Please check your inbox and click the link in the email to set up your Creators Slack.","port_slack_invite_goto":"Go to Creators Slack","port_slack_error_email":"This doesn\'t look like a valid email","port_slack_error_confirm_email":"Please enter the same email twice","port_slack_info":"Joining our Slack is super easy! We\'ll send you an invite link as soon as you\'ve been approved for the Shields tier.","port_slack_step_one":"1. Log in to Slack with the same email as your Supercell Creators account","port_slack_step_two":"2. Go to sc-creators.slack.com ","port_slack_join":"Download Slack here:","port_slack_join_link":"https://slack.com/downloads","port_slack_faq_tit_1":"Didn’t receive an invite?","port_slack_faq_bod_1":"If you didn’t get an invite by email you can join here: [[slack.com/signin, https://slack.com/signin, _blank]]","port_slack_faq_tit_2":"Getting Started with Slack","port_slack_faq_bod_2":"Slack is a messaging tool that we use for communication with, and between our Tier 3 Creators. If you are new to Slack, go to [[www.slack.com, https://slack.com/, _blank]] to download and register the software. They also have a great onboarding section ([[https://slack.com/help/categories/360000049043, https://slack.com/help/categories/360000049043, _blank]]) with all the information you might need.","port_slack_faq_tit_3":"What to expect from the Creators Slack","port_slack_faq_bod_3":"Slack is where our CM’s communicate news, updates and releases within the Creator program. It is also where you can communicate other tier 3 Creators to get the most out of the Creators program.","port_slack_faq_tit_4":"Creators Discord vs. Slack. What’s the difference?","port_slack_faq_bod_4":"Discord is for tiers 1 and 2. Slack is for Tier 3 only. You are welcome to join both, but official communications to Creators in your Tier happen on Slack.","port_slack_faq_tit_5":"Confidentiality","port_slack_faq_bod_5":"Remember that everything written in Slack is strictly confidential until it’s clearly expressed that you can share information. Violating this may result in expulsion from the Creator program.","port_slack_faq_tit_6":"I have lost access to Slack","port_slack_faq_bod_6":"Lost your password? Please refer to this article for help on how to restore it: [[https://slack.com/help/articles/201909068-Reset-your-password, https://slack.com/help/articles/201909068-Reset-your-password, _blank]]","port_slack_faq_tit_7":"Slack help","port_slack_faq_bod_7":"If you need any help or support regarding Slack, please look at their help section. [[https://slack.com/help, https://slack.com/help, _blank]]","port_slack_err_tit_1":"Please try again","port_slack_err_bod_1":"Seems something went wrong. Please try once more.","port_slack_err_btn_1":"Got it","port_slack_err_tit_2":"This email already joined","port_slack_err_bod_2":"It seems that the email you entered is already added to our Slack. Please reach out to your CM for support with this.","port_slack_err_btn_2":"Got it","port_ha_nav_btn":"Back","port_ha_tit":"How to connect to App Center","port_ha_tit_alt":"App Center","port_ha_bod":"App Center is where we share dev builds with Creators in the Shields tier to get early access to game updates. Connect with App Center to play game updates before anyone else!","port_ha_info":"Connecting with App Center is super easy! Just follow these easy steps:","port_ha_disabled":"Your Creators account is currently not eligible for App Center.","port_ha_step_one":"Create an App Center account","port_ha_step_one_body":"Go to [[https://appcenter.ms/create-account, https://appcenter.ms/create-account, _blank]] and create an account. Take a note of the email address used in the account, you will need it soon.\\n\\nIf you already have an App Center account, continue to step 2 but make sure you know the email address used.","port_ha_step_two":"Connect to App Center","port_ha_step_two_body":"Great, now check your email inbox to complete the setup. Didn’t get the invite? Check your spam box or resend the invite.","port_ha_join":"Find App Center here:","port_ha_join_link":"https://appcenter.ms/sign-in","port_ha_connect_tit":"Connect to App Center","port_ha_connect_btn":"Request invite","port_ha_connected_tit":"Connected email address to App Center","port_ha_retry_btn":"Try again","port_ha_reinvite_btn":"Resend invite","port_ha_connect_success_txt":"Great, now check your email inbox to complete the setup. Didn’t get the invite? Check your spam box or <a href=\\"#\\">resend the invite</a>.","port_ha_connect_success_lbl":"Invite sent!","port_ha_connect_error_default_txt":"Something went wrong. Please try again.","port_ha_connect_error_unauthorized_txt":"You are not authorized.","port_ha_connect_error_not_tier_3_txt":"You are not Tier 3.","port_ha_connect_input_ph":"your@email.com","port_ha_connect_input_tip":"Make sure to use the same email that you use on App Center.","port_ha_games_tit":"Get access to even more games","port_ha_games_txt_pending":"Once you have connected to App Center, you will automatically get access to your primary game. Have you already accepted the invite? <a href=\\"#\\">Refresh this page</a> to activate more games.","port_ha_games_txt_active":"You automatically get access to your primary game. But you can also even access more Supercell games by activating them below:","port_ha_notice_txt":"Note: Hay Day and Hay Day Pop are not currently available on App Center","port_ha_primary_game_lbl":"Primary game","port_ha_game_activate_btn":"Activate","port_ha_game_activated_lbl":"Activated","port_ha_game_requested_lbl":"Requested","port_ha_game_disabled_lbl":"Not available","port_user_tier":"Tier","port_user_edit_btn":"Edit personal information","port_user_req_upg_btn":"Request tier upgrade","port_user_sub":"Subscribers","port_user_vie":"Avg views/video","port_user_vid":"Videos","port_user_plat_tit":"Platforms","port_user_plat_bod":"Make sure you max your Creator status by connecting to your platforms. You need to connect at least one primary Youtube or Twitch channel. But feel free to add more below if you create in other places as well.","port_user_plat_pri_tit":"Primary channels","port_user_plat_con":"Connect","port_user_plat_con_2":"Connected","port_user_plat_discon":"Disconnect","port_user_plat_mod_tit":"Are you sure?","port_user_plat_mod_bod":"Do you really want to disconnect your channel?","port_user_plat_mod_btn_pri":"Disconnect","port_user_plat_mod_btn_sec":"Go back","port_user_plat_addit_tit":"Additional platforms & channels","port_user_plat_addit_bod":"Are you active on other platforms? Perhaps you have more than one channel on the same platform? Then specify them below!","port_user_plat_addit_channels":"Supported channels","port_user_plat_addit_channels_num":"+5","port_user_plat_addit_placeholder":"Enter URL","port_user_plat_addit_btn_save":"Save","port_user_plat_addit_mod_tit":"Supported channels","port_user_plat_addit_mod_bod":"Here is a list of supported platforms and channels you can add.","port_user_plat_addit_mod_btn":"Close","port_user_plat_addit_btn_add":"Add channel","port_user_plat_addit_err_unsupported":"Oh no, we don\'t support this platform!","port_user_plat_addit_err_duplicate":"Looks like you\'ve already added this one","port_user_plat_addit_err_invalid":"This doesn\'t look like a valid channel URL","port_user_gam_tit":"My games","port_user_gam_bod":"Select the games you create content for","port_user_gam_mod_tit":"Are you sure?","port_user_gam_cooldown":"You can change or deactivate your primary game on","port_user_gam_mod_bod":"You may only change your primary game once every 7 days.","port_user_gam_mod_btn_pri":"Yes, do it!","port_user_gam_mod_btn_sec":"Cancel","port_user_gam_mod_info":"You can not deselect your primary game. Please change your primary game first and try again.","port_user_gam_mod_info_alt":"Primary game can only be changed every 2 weeks. You can change again on","port_user_gam_mod_info_btn":"Got it!","port_user_aff_tit":"Creator Boost Settings","port_user_aff_hndl":"Your Creator Code:","port_user_aff_cpy":"Copy code","port_user_aff_info":"Stay tuned for Boost stats, coming 2020","port_user_aff_disc":"Disconnect","port_user_aff_disc_bod":"If you disconnect paypal, you will not receive payouts from the Creator Boost until you connect again (with same or another account).","port_user_aff_disc_conf":"Confirm disconnect","port_user_aff_disc_canc":"Cancel","port_user_aff_paypal_bod":"You have disconnected from Paypal. The revenue sharing is therefore turned off until you connect again.","port_user_log_tit":"Logged in","port_user_log_btn":"Sign out","port_tie_upg_mod_tit":"Would you like to request a tier upgrade?","port_tie_upg_mod_bod":"If your fanbase has grown since you became a Supercell Creator and you\'re no longer in the correct tier, let us know and we can see whether you should be upgraded to a higher tier!","port_tie_upg_mod_sec_btn":"Nah, I\'m fine","port_tie_upg_mod_pri_btn":"Yes, please!","port_tie_upg_not_tit":"Good luck!","port_tie_upg_not_bod":"Thanks for reaching out. We\'ll review your current stats and get back to you soon!","port_tie_upg_not_btn":"Go to Profile","tier_upg_mod_header_1":"Goblin daily press","tier_upg_mod_header_2":"Good news only","tier_upg_mod_joins":"[USERNAME] joins tier [TIER]","tier_upg_mod_title":"“We like your stuff”","tier_upg_mod_subtitle":"/Folks @ Supercell","tier_upg_mod_body":"So our content managers have had a look at your account. And yes! We liked what we saw so much, that we decided to move you up to tier 2.\\n\\nWelcome to the Swords, hope this will help you in producing even more awesome content.","tier_upg_mod_btn_close":"Close","tier_upg_mod_btn_more":"See what’s new","port_use_set_tier":"Tier","port_use_set_abo_tit":"About me","port_use_set_abo_fn":"First name","port_use_set_abo_fn_ph":"Type first name here","port_use_set_abo_ln":"Last name","port_use_set_abo_ln_ph":"Type last name here","port_use_set_abo_un":"Creator name","port_use_set_abo_un_ph":"Type Creator name here","port_use_set_abo_em":"Email","port_use_set_abo_em_ph":"Type email here","port_use_set_abo_em_info":"For information regarding your Creators account. Will not affect your SCID.","port_use_set_abo_la":"Language","port_use_set_abo_co":"I\'m based in","port_use_set_abo_co_ph":"Select location","port_use_set_abo_dob":"Date of birth","port_use_set_abo_dob_ph":"YYYY-MM-DD","port_use_set_abo_dob_year":"Year","port_use_set_abo_dob_month":"Month","port_use_set_abo_dob_day":"Day","port_use_set_abo_dob_year_ph":"YYYY","port_use_set_abo_dob_month_ph":"MM","port_use_set_abo_dob_day_ph":"DD","port_use_set_soc_tit":"Social Accounts","port_use_set_soc_bod":"Let us know your social media accounts so we can place you in the best Creator tier.","port_use_set_soc_tw":"Twitter","port_use_set_soc_tw_ph":"@username","port_use_set_soc_fb":"Facebook","port_use_set_soc_fb_ph":"Your profile URL","port_use_set_soc_in":"Instagram","port_use_set_soc_in_ph":"@username","port_use_set_un_err":"Creator name required","port_use_set_un_err_2":"Creator name can not include < or > characters","port_use_set_fn_err":"First name required","port_use_set_ln_err":"Last name required","port_use_set_add_err":"Email required","port_use_set_lan_err":"Select your language","port_use_set_loc_err":"Select your country","port_use_set_twitter_err":"Enter a valid Twitter username","port_use_set_facebook_err":"Enter a valid Facebook profile url","port_use_set_instagram_err":"Enter a valid Instagram username","port_use_set_dab_err":"Your date of birth should be in YYYY-MM-DD format","port_use_set_gen":"I am a:","port_use_set_gen_mal":"Male","port_use_set_gen_fem":"Female","port_use_set_gen_not":"*We will not use your gender information, it is for Finnish Tax Administration purpose only.","port_use_set_gen_err":"You have to select one","port_use_set_del_tit":"Not a creator anymore?","port_use_set_del_bod":"If you are no longer an active Creator and wish to delete your account, please reach out to your CM for support with this.","port_use_set_del_btn":"Delete account","port_use_set_save_btn":"Save and return","port_del_acc_tit":"Deleting your account","port_del_acc_bod":"You can delete your account anytime, but then you will lose access to all of your Supercell Creator perks, first looks, and support. But we’d really love for you to stick around and we’d be happy to hear anything we can do to improve the program.","aff_signup_tit":"Creator Boost - Sign up","aff_signup_desc":"If you join Creator Boost, you can earn money whenever your followers purchase Gems or Diamonds and enter your Creator Code.","aff_signup_paypal_tit":"PayPal","aff_signup_paypal_disc_btn":"Disconnect","aff_signup_paypal_close_btn":"Close\\n","aff_signup_paypal_con_lbl":"Connected","aff_signup_paypal_dis_btn":"Disconnect PayPal","aff_signup_handle_tit":"Select your Creator Code","aff_signup_handle_input_ph":"Type your unique Creator Code","aff_signup_handle_taken_err":"This Creator Code is already taken","aff_signup_handle_input_again_lbl":"Confirm your Creator Code","aff_signup_handle_input_again_ph":"Type your Creator Code again","aff_signup_handle_no_input_err":"Your Creator Code must not be empty","aff_signup_handle_short_input_err":"Your Creator Code must be at least 3 characters","aff_signup_handle_char_input_err":"Your Creator Code can only include \\"a-z\\", \\"A-Z\\", \\"0-9\\", \\"-\\" and \\"_\\" characters","aff_signup_handle_no_match_err":"\\"{boosthandle1}\\" does not match \\"{boosthandle2}\\"","aff_signup_handle_desc":"Your Creator Code is what your followers enter in the game\'s shop.","aff_signup_handle_tip":"Tip: make your Creator Code easy to spell and remember. And choose it carefuly - you cannot change it later!","aff_signup_next_btn":"Next","aff_signup_pers_det_tit":"Personal details","aff_signup_pers_det_pnr_lbl":"Personal number / SSN","aff_signup_pers_det_pnr_err":"Must not be empty","aff_signup_pers_det_pnr_ph":"","aff_signup_pers_det_birthdate_lbl":"Date of birth","aff_signup_pers_det_birthdate_err":"Your date of birth should be in YYYY-MM-DD format","aff_signup_pers_det_birthdate_ph":"YYYY-MM-DD","aff_signup_pers_det_gen_lbl":"Gender","aff_signup_pers_det_gen_mal":"Male","aff_signup_pers_det_gen_fem":"Female","aff_signup_confirm_txt":"Please make sure that all of the information above is correct and then type \\"CONFIRM\\" below.","aff_signup_confirm_input_ph":"Type \\"CONFIRM\\" here","aff_signup_confirm_value":"CONFIRM","aff_signup_confirm_tos":"I have read and agreed to the [[Creators Terms, creators-terms, _blank]].","aff_signup_submit_err":"Try again","aff_signup_submit_btn":"Submit request","aff_join":"Join Creator Boost","aff_pp_err_gen_tit":"Something went wrong!","aff_pp_err_gen_bod":"Stay strong! Persistence is key!","aff_pp_err_gen_btn":"Close and try again","aff_pp_err_forbid_tit":"We\'re sorry!","aff_pp_err_forbid_bod":"Unfortunately Creator Boost is not supported in your region","aff_pp_err_forbid_btn":"Got it!","aff_signup_thanks_tit":"Thank you!","aff_signup_thanks_bod":"We\'ve received your application and will get back to you as soon as possible!","aff_signup_thanks_btn_lbl":"Back to Home","aff_signup_acc_tit":"Funny seeing you here!","aff_signup_acc_bod":"It looks like you\'ve already joined the Creator Boost program. If you\'d like to adjust your details. you can do so on the Settings page.","aff_signup_acc_btn_lbl":"Go to Settings","aff_signup_rej_tit":"So we meet again...","aff_signup_rej_bod":"It looks like you\'ve already applied to the Creator Boost program and your application wasn\'t approved, so unfortunately you can\'t apply again right now. To find out more or report an error, feel free to contact us!","aff_signup_rej_btn_lbl":"Back to Home","log_title":"Hi there!","log_body":"You need to sign in to access this page. Click the button below to sign in with your Supercell ID.","log_err_tit":"Login error","log_err_bod":"An unexpected error occured. Please try logging in again.","log_err_btn":"Try again","pla_err_tit":"Something went wrong!","pla_err_bod":"Stay strong! Persistence is key!","pla_err_btn":"Close and try again","pla_err_foll_tit":"Oops!","pla_err_foll_bod":"It looks like you don’t meet our current requirements for joining Supercell Creators. From what we can see you need a few more followers. Good luck, and hope to see you again someday soon!","pla_err_foll_btn":"Close","pla_err_discord_not_in_tit":"Could not verify","pla_err_discord_not_in_bod":"The account you tried to connect with could not be found in our Discord (perhaps you have multiple Discord accounts?)\\n\\nPlease log in to [[our channel, https://discord.com/channels/547793312229097478/547850422140796963, _blank]], and then try again.","pla_err_discord_not_in_btn":"Got it!","pla_err_discord_not_connected_tit":"Already Disconnected","pla_err_discord_not_connected_bod":"It seems this account has already been disconnected. ","pla_err_discord_already_connected_tit":"Already Connected","pla_err_discord_already_connected_bod":"It seems this account has already been connected. ","pla_err_discord_banned_tit":"Well this is akward...","pla_err_discord_banned_bod":"It seems we’ve already banned your account from Discord.","pla_err_discord_btn":"Ok","404_tit":"Page not found","404_bod":"Sorry, but the page that you\'re trying to access does not exist.","404_btn":"Back to Home","cb_cta_tit":"Creator Boost","cb_cta_bod":"If you join our Creator Boost program, you can earn money whenever your followers purchase Gems or Diamonds and reference you.","cb_cta_btn":"Join Creator Boost","cb_cta_review_bod":"Your Boost application is in process and is expected to be activated shortly. Feel free to pop some confetti while waiting.","cb_cta_review_btn":"Pop some confetti","cb_cta_reject_bod":"Your Boost has been disabled by admin.","my_stu_cb_logo":"Creators Boost","my_stu_cb_no_chart":"This is your Boost panel. Once your fans start using your Creator Code, you will see the earnings here.\\n\\nShare your Creator Code!","my_stu_cb_info_tit":"Information","my_stu_cb_info_bod":"Things might move around a bit in the Boost section as we’re working on finding the best way to visualise your data. ","my_stu_cb_wel_title":"Welcome to Boost!","my_stu_cb_wel_body":"Your application has been approved! Now it’s time to start sharing your Creator Code and earn some sweet revenue for all your hard work. ","my_stu_cb_wel_btn":"Open my Boost panel","my_stu_cb_code_title":"Your Creator Code was used!","my_stu_cb_code_body":"Someone used your Creator Code! That’s worth celebrating! First only comes once. Open up some champagne and keep up the great work!","my_stu_cb_code_btn":"Close","my_stu_cb_inf_title":"Hey","my_stu_cb_inf_body_1":"This is your Boost panel where you can keep track of your earnings and payouts.","my_stu_cb_inf_body_2":"€1,000","my_stu_cb_inf_body_3":"is the miminum amount to qualify for a payout (But don’t worry, you bring your earnings to next month if you don’t reach the €1,000 minimum).","my_stu_cb_inf_btn":"Got it!","my_stu_cb_tip_title":"Please note","my_stu_cb_tip_body":"We can’t guarantee that the Boost data displayed in Supercell Creators are 100% accurate at all times. Therefore these numbers should be seen as an estimate and actual payouts may differ from what is shown on the site.","my_stu_cb_tip_btn":"Got it!","my_stu_cb_title":"Creator Boost","my_stu_cb_subtitle":"Your Creator code revenue","my_stu_cb_cpy":"Copy code","my_stu_cb_all":"All time","my_stu_cb_prev":"Previous payout","my_stu_cb_recent":"Most recent payout","my_stu_cb_cur":"Current period","my_stu_cb_est":"(estimated)","my_stu_cb_since":"Since","my_stu_cb_yet":"No payouts yet","my_stu_cb_next":"Next payout","my_stu_cb_view":"Click a date to view details","my_stu_cb_total_per":"Total Boost for this period","my_stu_cb_est_per":"Please note that current period is an estimate and payouts may differ slightly from the data shown.","my_stu_cb_daily_data":"View daily data per game","my_stu_cb_no_payout":"No payout","my_stu_cb_no_tba":"Stay tuned","my_stu_cb_daily_average":"Daily average","my_stu_cb_date":"Date","my_stu_cb_per_game":"Per game","my_stu_cb_boost":"Boost","my_stu_cb_total":"Total","my_stu_cb_earn":"Earnings:","my_stu_cb_code":"Code usage:","my_stu_cb_periodic":"Periodic","my_stu_cb_cumulative":"Cumulative","my_stu_cb_daily":"Daily","my_stu_cb_weekly":"Weekly","my_stu_cb_monthly":"Monthly","my_stu_cb_yearly":"Yearly","my_stu_cb_all_games":"All games","my_stu_cb_close":"Close","my_stu_cb_view_rev":"View revenue per game","my_stu_cb_conf":"Confirmed","my_stu_cb_prel":"Preliminary","my_stu_cb_prel_info":"Last 30 days are always preliminary since potential refunds are calculated and edited close to your payout date.","my_stu_cb_soon":"Your stats are on their way. Very soon!","my_stu_cb_closed":"So we found a few wires on the back plugged into the wrong holes!\\nThis does not affect your Boost earnings in any way but we need to sort them out before we can visualize your numbers correctly. \\n\\nWe’ll be up and running shortly!","my_stu_cb_tax":"All Boost data displayed includes tax","my_stu_cb_pay_pay":"Boost payouts","my_stu_cb_pay_trans":"transaction | transactions","my_stu_cb_pay_about":"About payouts","my_stu_cb_pay_all":"All-time payouts","my_stu_cb_pay_rec":"Most recent","my_stu_cb_pay_view":"View all payouts","my_stu_cb_pay_mod_tit":"About payouts","my_stu_cb_pay_mod_subtit_1":"When will I get paid?","my_stu_cb_pay_mod_bod_1":"Once you reach €1,000 total revenue threshold across games, you are eligible for a payment. Payments are made approximately 60-90 days after the revenue has been earned and the threshold has been reached. If you do not reach the threshold, your earnings will carry on to the next months until it is reached. ","my_stu_cb_pay_mod_subtit_2":"What does preliminary mean?","my_stu_cb_pay_mod_bod_2":"This preliminary data is an estimate and does not factor taxes, refunds, etc. You should expect the final data to differ from these preliminary numbers. ","my_stu_cb_pay_mod_subtit_3":"Do you deduct tax on my payouts?","my_stu_cb_pay_mod_bod_3":"Yes, tax is deducted from your payment based on the country in which you reside.","my_stu_cb_pay_mod_btn":"Got it!","my_stu_cb_msg_tit":"Clash Mini + Boost information","my_stu_cb_msg_bod":"Clash mini is now connected to Boost, meaning you will earn revenue when your code is used in-game. However, we are still working on implementing it on the Creators platform. Therefore, note that potential earnings through Clash mini is not displayed in your dashboard just yet. ","my_stu_cb_msg_btn":"View message","my_stu_cb_msg_btn_2":"Hide message","cb_pay_tit":"Boost payouts","cb_pay_all_time":"All-time","cb_pay_all_trans":"All transactions","cb_pay_about":"About payouts","cb_pay_date":"Date","cb_pay_game":"Game","cb_pay_pay_per":"Payment period","cb_pay_per":"Period:","cb_pay_code_use":"Code usage","cb_pay_inv":"Invoice","cb_pay_payslip":"Payslip","cb_pay_amount":"Amount","cb_pay_tot_pay":"Total payout","cb_pay_tot_pay_tax":"Revenue before taxes","cb_pay_nav_btn":"Back","cb_pay_no_pay":"No payouts have yet been issued.","my_stu_my_too_tit":"My tools","my_stu_my_too_bod":"Connect with your tools to stay updated and get the most out of Supercell Creators. Click on a tool to learn about how to connect.","my_stu_my_too_dis":"Discord","my_stu_my_too_sla":"Slack","my_stu_my_too_app":"App Center","my_stu_mer_cod_tit":"Merch Codes","my_stu_mer_cod_bod":"Here is where you will find your merch codes. Seems like you haven’t received any codes just yet, but remain calm. Good things will come.","my_stu_mer_cod_bod_alt":"Here is where you find your merch codes. An email notification will be sent out whenever new codes are available.","my_stu_mer_cod_bod_alt_2":"Here is where you find your merch codes. An email notification will be sent out whenever new codes are available. All merch codes are claimed at [[supercellredemption.com, %{URL}, _blank]].","my_stu_mer_cod_ite_lbl":"1 new code | {count} new codes","my_stu_mer_cod_unused":"1 Unused code | {count} Unused codes","my_stu_mer_cod_sort":"Sort by","my_stu_mer_cod_sort_date":"Date","my_stu_mer_cod_sort_date_alt":"Sort by date","my_stu_mer_cod_sort_status":"Status","my_stu_mer_cod_sort_status_alt":"Sort by status","my_stu_mer_cod_use_btn":"Use code","my_stu_mer_cod_code":"Code:","my_stu_mer_cod_mark":"Mark as unused","my_stu_mer_cod_dl_image":"Download image","my_stu_mer_cod_share_text":"You received [TITLE]. Claim at [URL] using code: [CODE]","my_stu_mer_cod_view_btn":"View all","my_stu_mer_cod_view_btn_alt":"Close","my_stu_mer_cod_share_btn":"Copy message","my_stu_mer_cod_claimed":"Claimed by:","my_stu_mer_cod_ite_btn_lbl":"Claim","my_stu_mer_cod_ite_exp_dat_lbl":"Claimed {date}","my_stu_mer_cod_ite_exp_ed_dat_lbl":"Expired {date}","my_stu_mer_cod_ite_lef_lbl":"({count} left)","my_stu_mer_cod_ite_exp_btn":"Expired codes","my_stu_mer_cod_ite_cla_sta_lbl":"Claiming","my_stu_mer_cod_ite_cla_dat_lbl":"Claim before {date}","my_stu_mer_cod_ite_cop_btn":"Copy","my_stu_mer_cod_ite_ied_btn":"Copied","my_stu_mer_cod_ite_act_lbl":"Not Used","my_stu_mer_cod_ite_exp_lbl":"Expired","my_stu_mer_cod_ite_ina_lbl":"Used","my_stu_sav_pos_tit":"My saved posts","my_stu_sav_pos_emp_lbl":"No posts saved","fee_pos_bac_btn_lbl":"Back","fee_pos_vid_ph":"Your video is being generated. Please check back soon","fee_pos_img_ph":"Your image is being generated. Please check back soon","fee_pos_edit":"Post edit","fee_pos_nex_btn_lbl":"Next up:","fee_pos_gui_lbl":"Guidelines","fee_pos_cal_lbl":"Timings","fee_pos_cal_discuss":"Join the discussion","fee_hea_tit":"Welcome {name}!","fee_hea_sub_tit":"Tier {tier}","fee_sta_1_lbl":"Subscribers","fee_sta_2_lbl":"Avg view/video","fee_sta_3_lbl":"Videos","fee_tit":"Create filter","fee_fil_tit":"Create your filter","fee_fil_bod":"Specify which games you\'re interested in getting updates about","fee_rea_mor_btn":"Continue reading","fee_fil_btn":"Save","fee_no_pos_lbl":"No posts found","fee_loa_mor_btn":"Load more","fee_pos_sav_lbl":"Save for later","fee_pos_rem_lbl":"Remove pin","fee_eve_tit":"Coming up","fee_eve_exp_btn":"Expand +","fee_eve_col_btn":"Collapse -","fee_eve_btn":"View full calendar","fee_eve_emp_lbl":"Stay strong, Cool stuff is coming!","fee_fee_tit":"Your feed","cal_tit":"Calendar","cal_nav_btn":"Back","gender_mod_tit":"Hi [NAME]!","gender_mod_bod":"Sorry to interrupt. We’re continuously working to improve the Creators platform. Therefore, every now and then, we may need to ask you a question or two to make sure we have the data needed to provide you with the best possible support.","gender_mod_gen":"Gender","gender_mod_birthdate_lbl":"Date of birth","gender_mod_birthdate_tool_tit":"Why do we need this info?","gender_mod_birthdate_tool_bod":"Some features in the Creators program has a minimum age requirement.","gender_mod_birthdate_err":"Your date of birth should be in YYYY-MM-DD format","gender_mod_birthdate_ph":"YYYY-MM-DD","gender_mod_pri":"My primary game is","gender_mod_btn":"Submit","coc_modal_tit":"Code of Conduct","coc_modal_bod":"The Code of Conduct contains the most important rules in the Creator Program. These rules should be read with extreme care and always abided. Breaking the Code of Conduct will result in expulsion from the Creator Program. ","coc_modal_btn":"VIEW CODE OF CONDUCT","nda_tit":"Non-disclosure agreement","nda_subtit":"By agreeing to this confidentiality undertaking, I understand that I cannot share ANY information obtained in accordance with Supercell\'s instructions.","nda_1_tit":"Scope and Definitions","nda_1_bod":"For the purposes of this Confidentiality Undertaking “Confidential Information” means all information received either directly or indirectly from Supercell Oy (“Supercell”) in connection with the aforementioned Purpose or otherwise, whether marked as confidential or not, after or prior to the signing of this Confidentiality Undertaking, including, without limitation, information relating to business operations, technology, products, know-how, plans and objectives of Supercell or its partners. This Confidentiality Undertaking applies to Confidential Information obtained in written, oral or any other form (electronic files, visual perception), including documents in different forms as well as copies and excerpts thereof.","nda_2_tit":"Obligation of Secrecy","nda_2_bod":"I shall keep Confidential Information strictly confidential and not disclose such information to any third party. I further agree not to make, issue, or release any public announcement, statement, or acknowledgement of the existence of this Confidentiality Undertaking, except as may be required by law. I shall not use the Confidential Information for any other purpose than for Purpose and in accordance with Supercell’s instructions. I shall copy Confidential Information only to the extent necessary for the Purpose. This Confidentiality Undertaking shall have no effect to the possible non-disclosure agreement entered into by and between the company I represent and Supercell.\\n\\nObligations pursuant to this Confidentiality Undertaking shall not apply to information that I can evidence to have been: (i) public at the time of its disclosure or which subsequently becomes public as a result of publication or otherwise without my act or omission; (ii) lawfully obtained by me prior to or after its disclosure from a third party who has not received it directly or indirectly from Supercell.\\n\\nNeither this Confidentiality Undertaking nor the disclosure or receipt of Confidential Information shall grant me any license under any patent, trademark, copyright, or other proprietary or intellectual property right pertaining to Confidential Information. All Confidential Information is disclosed “as is” and “as available” without any express or implied warranties.\\n\\nI shall immediately cease using and return the Confidential Information and return or, if so requested by Supercell, l destroy any copies and documents containing Confidential Information when I no longer need the Confidential Information in question for the Purpose or upon Supercell’s first request, whichever earlier.","nda_3_tit":"Validity","nda_3_bod":"The obligation of this Confidentiality Undertaking shall remain in force for three (3) years from the disclosure of the said information.","nda_4_tit":"Applicable Law and Place of Jurisdiction","nda_4_bod":"This Confidentiality Undertaking shall be governed by the laws of Finland. Any disputes arising out of or in connection with this Confidentiality Undertaking shall be settled by the court of Helsinki. However, Supercell shall have the right to apply for and enforce preliminary procedural remedies at any court of competent jurisdiction.\\n\\nI have read and understood this Confidentiality Undertaking and agree to be bound by the obligations detailed in this Confidentiality Undertaking until such time as Confidential Information becomes public knowledge through no fault on my part.","cb_intro_pres":"Supercell Creators present","cb_intro_inst":"- Press space to start -","cb_ui_your_score":"Your score:","cb_ui_hi_score":"High score:","cb_ui_slack":"Post score on slack","cb_ui_again":"- Press space to try again -","tr_title":"Your creator progress","tr_new_cards_countdown":"New card in {days}:{hours}:{minutes}:{seconds}","tr_cards_to_complete":"no cards to flip | {cardsCount} card to flip | {cardsCount} cards to flip","tr_complete":"Your progress is up to date","tr_praise":"Nice work!","tr_tap_tip":"Tap to reveal","tr_load_error":"Error loading trophy road.","tr_tier_card_label":"Tier","tr_notification_progress_label":"Creator progress","tr_notification_completed_label":"Task complete!","tr_notification_link_more":"{count} more","tr_notification_link_none":"What\'s next?","tr_welcome_card_approved_label":"Approved as creator","tr_trophy_card_tier1WelcomeVideo_label":"Welcome video","tr_trophy_card_tier1WelcomeVideo_title":"Welcome video","tr_trophy_card_tier1WelcomeVideo_body":"A message from us about what you can expect from the Creator program.","tr_trophy_card_tier1WelcomeVideo_cta":"Watch now","tr_trophy_card_tier1WelcomeVideo_replay":"Watch again","tr_trophy_card_codeOfConduct_label":"Code of conduct","tr_trophy_card_codeOfConduct_title":"Code of conduct","tr_trophy_card_codeOfConduct_body":"These are the rules and behaviour expected of you as a creator.","tr_trophy_card_codeOfConduct_cta":"Watch the code","tr_trophy_card_codeOfConduct_replay":"Watch code again","tr_trophy_card_setYourFilter_label":"Set your filters","tr_trophy_card_setYourFilter_title":"Set your filters","tr_trophy_card_setYourFilter_body":"Filter the feed to get information about the games you create for.","tr_trophy_card_setYourFilter_cta":"Let`s do it","tr_trophy_card_readAPost_label":"Read a post","tr_trophy_card_readAPost_title":"Read a post","tr_trophy_card_readAPost_body":"Easy one ;) Read a post and watch out for any dates attached.","tr_trophy_card_readAPost_cta":"Go to feed","tr_trophy_card_sayHiOnDiscord_label":"Say hi on discord","tr_trophy_card_sayHiOnDiscord_title":"Say hi on discord","tr_trophy_card_sayHiOnDiscord_body":"Introduce yourself and maybe you’ll make a new friend or two.","tr_trophy_card_sayHiOnDiscord_cta":"How to connect","tr_trophy_card_claimAMerchCode_label":"Merch codes","tr_trophy_card_claimAMerchCode_title":"Claim a merch code","tr_trophy_card_claimAMerchCode_body":"Maybe you’ve got some merch waiting.","tr_trophy_card_claimAMerchCode_cta":"Have a look","tr_trophy_card_tier2WelcomeVideo_label":"Welcome video","tr_trophy_card_tier2WelcomeVideo_title":"Tier 2 welcome video","tr_trophy_card_tier2WelcomeVideo_body":"Welcome to Tier 2. There’s a lot of new perks waiting for you. Check them out!","tr_trophy_card_tier2WelcomeVideo_cta":"Watch now","tr_trophy_card_tier2WelcomeVideo_replay":"Watch again","tr_trophy_card_updatePreviews_label":"Update previews","tr_trophy_card_updatePreviews_title":"Update previews","tr_trophy_card_updatePreviews_body":"Nice! You’ve unlocked the update previews.","tr_trophy_card_updatePreviews_cta":"Got it","tr_trophy_card_tier3WelcomeVideo_label":"Welcome video","tr_trophy_card_tier3WelcomeVideo_title":"Tier 3 welcome video","tr_trophy_card_tier3WelcomeVideo_body":"Welcome to Tier 3. There’s a lot of new perks waiting for you. Check them out!","tr_trophy_card_tier3WelcomeVideo_cta":"Watch now","tr_trophy_card_tier3WelcomeVideo_replay":"Watch again","tr_trophy_card_creatorBoost_label":"Creator boost","tr_trophy_card_creatorBoost_title":"Creator boost","tr_trophy_card_creatorBoost_body":"Set up your Creator code and start earning some revenue for all your hard work.","tr_trophy_card_creatorBoost_cta":"Get boost","tr_trophy_card_sayHiOnSlack_label":"Say hi on slack","tr_trophy_card_sayHiOnSlack_title":"Say hi on slack","tr_trophy_card_sayHiOnSlack_body":"Join the discussions on Slack. Make sure to introduce yourself :)","tr_trophy_card_sayHiOnSlack_cta":"How to connect","tr_trophy_card_appCenter_label":"App center","tr_trophy_card_appCenter_title":"App center","tr_trophy_card_appCenter_body":"Dev builds? Yep, you’ve got them. Look here to learn more.","tr_trophy_card_appCenter_cta":"How to connect","tr_trophy_card_videoInbox_label":"Video inbox","tr_trophy_card_videoInbox_title":"Video inbox","tr_trophy_card_videoInbox_body":"You can now add your videos straight into the games. That’s pretty cool.","tr_trophy_card_videoInbox_cta":"Add your first video","tr_trophy_card_enterRaffle_discord_label":"Enter raffle (discord)","tr_trophy_card_enterRaffle_discord_title":"Enter raffle (discord)","tr_trophy_card_enterRaffle_discord_body":"You can now add your videos straight into the games. That’s pretty cool.","tr_trophy_card_enterRaffle_discord_cta":"Add your first video","tr_trophy_card_enterRaffle_slack_label":"Enter raffle (slack)","tr_trophy_card_enterRaffle_slack_title":"Enter raffle (slack)","tr_trophy_card_enterRaffle_slack_body":"You can now add your videos straight into the games. That’s pretty cool.","tr_trophy_card_enterRaffle_slack_cta":"Add your first video","tr_tier_2_upgrade_card_label":"Review card","tr_tier_2_upgrade_card_title":"Review card","tr_tier_2_upgrade_card_body":"Well done! Now our Community Team will personally review your account to provide feedback and let you know if you’re eligible for an upgrade. \\nPlease provide 1-2 weeks \\u2028for review.","tr_tier_2_upgrade_card_cta":"Claim now","tr_tier_2_upgrade_card_reviewed_body":"{name} has sent you a review","tr_tier_2_upgrade_card_reviewed_cta":"Read now","tr_tier_2_upgrade_card_replay_btn":"Read your reviews","tr_tier_2_upgrade_card_approved_title":"Review card","tr_tier_2_upgrade_card_approved_body":"Well hello there! We’ve looked at your account and...","tr_tier_2_upgrade_card_approved_cta":"Claim now","tr_tier_2_upgrade_card_rejected_title":"Review card","tr_tier_2_upgrade_card_rejected_body":"Hi! We whink that right now, your current tier suits well. But keep creating, and we’ll talk soon again :)","tr_tier_2_upgrade_card_rejected_cta":"Got it!","tr_tier_3_upgrade_card_label":"Review card","tr_tier_3_upgrade_card_title":"Review card","tr_tier_3_upgrade_card_body":"Get a personal review from your CM with tips on how to grow as a Creator. Allow 1-2 weeks for your CM to review your account","tr_tier_3_upgrade_card_cta":"Claim review","tr_tier_3_upgrade_card_reviewed_body":"{name} has sent you a review","tr_tier_3_upgrade_card_reviewed_cta":"Read now","tr_tier_3_upgrade_card_replay_btn":"Read your reviews","tr_tier_upgrade_card_pending_reviews":"Review in progress","tr_tier_upgrade_card_countdown_24h":"{hours}:{minutes}:{seconds}","tr_tier_upgrade_card_countdown_days":"{days} days left","tr_tier_upgrade_modal_title":"Creators review","tr_tier_upgrade_modal_date_label":"Review date:","tr_tier_upgrade_modal_no_label":"Review no:","tr_tier_upgrade_modal_creator_label":"Creator:","tr_tier_upgrade_modal_by_label":"Reviewed by:","tr_tier_upgrade_modal_close_btn":"Close","tr_tier_upgrade_modal_expand_btn":"All reviews","tr_tier_upgrade_modal_contract_btn":"Hide older reviews","tr_tier_claim_modal_title":"Are you sure?","tr_tier_claim_modal_body":"This means someone from Supercell will have a look at your Creators account and channel to see if you’re ready for a tier upgrade. Make sure you’re content is presented in the best way possible.","tr_tier_claim_modal_sec_btn":"Cancel","tr_tier_claim_modal_pri_btn":"Yes, claim review"}}')
+        e.exports = JSON.parse('{"en":{"msg_to_athemm":"Hey Athemm! Are you poking around our code again???","gen_lang_en":"English","gen_sc":"Supercell","gen_sc_cr":"Supercell Creators","gen_cb":"Creator Boost","gen_join":"Join us","gen_login":"Log in","gen_logout":"Log out","gen_port":"Portal","gen_ms":"My Stuff","gen_fe":"Start","gen_acc":"Account","gen_se":"Search","gen_boost":"Boost","gen_add1":"Supercell Oy","gen_add2":"Jätkäsaarenlaituri 1","gen_add3":"00180 Helsinki","gen_add4":"Finland","gen_search_ph":"Start typing to search","gen_fb":"https://www.facebook.com/supercell/","gen_tw":"https://twitter.com/supercell","gen_ig":"https://www.instagram.com/supercell/","gen_yt":"https://www.youtube.com/supercell","gen_li":"https://www.linkedin.com/company/supercell/","gen_gd":"https://www.glassdoor.com/Overview/Working-at-Supercell-EI_IE511675.11,20.htm","gen_apap":"https://supr.cl/appstorescgames","gen_apgl":"https://play.google.com/store/apps/dev?id=6715068722362591614&hl=en","gen_cop":"Copyright Supercell 2019","gen_fol":"Follow us on","gen_down":"Download our games from","gen_gam_bs":"Brawl Stars","gen_gam_cr":"Clash Royale","gen_gam_bb":"Boom Beach","gen_gam_cc":"Clash of Clans","gen_gam_hh":"Hay Day","gen_gam_BRAWL_STARS":"Brawl Stars","gen_gam_CLASH_ROYALE":"Clash Royale","gen_gam_BOOM_BEACH":"Boom Beach","gen_gam_CLASH_OF_CLANS":"Clash of Clans","gen_gam_HAY_DAY":"Hay Day","gen_gam_EVERDALE":"Everdale","gen_gam_CLASH_QUEST":"Clash Quest","gen_gam_CLASH_MINI":"Clash Mini","gen_gam_bs_sh":"BS","gen_gam_cr_sh":"CR","gen_gam_bb_sh":"BB","gen_gam_cc_sh":"CC","gen_gam_hh_sh":"HD","gen_gam_sh_BRAWL_STARS":"BS","gen_gam_sh_CLASH_ROYALE":"CR","gen_gam_sh_BOOM_BEACH":"BB","gen_gam_sh_CLASH_OF_CLANS":"CC","gen_gam_sh_HAY_DAY":"HD","gen_gam_sh_EVERDALE":"ED","gen_gam_sh_CLASH_QUEST":"CQ","gen_gam_sh_CLASH_MINI":"CM","gen_sc_fan_kit_cc":"Clash of Clans Fan Kit","gen_sc_fan_kit_cr":"Clash Royale Fan Kit","gen_sc_fan_kit_bb":"Boom Beach Fan Kit","gen_sc_fan_kit_hd":"Hay Day Fan Kit","gen_sc_fan_kit_bs":"Brawl Stars Fan Kit","gen_sc_vip_kit":"Supercell VIP Kit","gen_sc_tch_kit":"Supercell Tech Kit","gen_plat_yt":"Youtube","gen_plat_tw":"Twitch","gen_plat_fb":"Facebook","gen_tier_name_1":"Bolts","gen_tier_name_2":"Swords","gen_tier_name_3":"Shields","gen_tier_name_4":"-","gen_tier_name_5":"Resourcers","gen_tier_name_6":"Community manager","gen_male":"Male","gen_female":"Female","gen_pos_typ_gen":"General","gen_and":"and","gen_its":"it\'s","gen_theyre":"they\'re","gen_err_dob_year":"Enter a valid year","gen_err_dob_month":"Enter a valid month","gen_err_dob_day":"Enter a valid day","gen_err_tit":"¯\\\\_(ツ)_/¯","gen_err_bod":"Seems you can’t access Creators right this moment. Please try again shortly.","foot_tos":"Creators Terms","foot_pp":"Privacy Policy","foot_pg":"Parent\'s Guide","foot_ab":"About","foot_tos_li":"https://supercell.com/en/terms-of-service/","foot_pp_li":"https://supercell.com/en/privacy-policy/","foot_pg_li":"https://supercell.com/en/parents/\\n","lan_head_tit":"This is Supercell Creators","lan_head_subtit":"The only place to get exclusive sneak peeks, tools, and support from Supercell to help you create!","lan_head_btn_join":"Join the program","lan_head_btn_join_2":"Go to portal","lan_inf_subtit_1":"What is Supercell Creators?","lan_inf_tit_1":"A place to help you do what you do best","lan_inf_bod_1":"We truly appreciate the amazing content that you create with Supercell games. We\'re here to help you become the best creator you can be!","lan_inf_subtit_2":"What\'s in it for me?","lan_inf_tit_2":"Exclusive first looks, tools & support!","lan_inf_bod_2":"Become part of a trusted community with exclusive perks, first looks at new game content, awesome tools, and support from Supercell to help you create at your maximum potential.","lan_how_tit":"How it works","lan_how_subtit":"If you have a minimum of 5,000 followers, you can get started by applying to become a Supercell Creator. We’ll review your application and place you in a suitable Creator tier based on how many followers you have on your biggest channel. Once you’ve been accepted to the program, you’ll start getting special access, perks, and support from Supercell to help you create on a whole new level!\\n","lan_how_foll":"How many followers do you have?","lan_tier_1_btn":"5,000+","lan_tier_2_btn":"10,000+","lan_tier_3_btn":"50,000+","lan_tier_4_btn":"I\'m a superstar","lan_tier_5_btn":"I\'m a resourcer","lan_tier_1_tit":"Bolts","lan_tier_1_subtit":"5,000+ followers","lan_tier_1_desc":"Get invited to the official Supercell Creators Discord server and receive exclusive tools and support!","lan_tier_2_tit":"Swords","lan_tier_2_subtit":"10,000+ followers","lan_tier_2_desc":"Get exclusive content, early access, and first looks at updates and join our Discord server for tools and support.","lan_tier_3_tit":"Shields","lan_tier_3_subtit":"50,000+ followers","lan_tier_3_desc":"Get invited to our Slack for even more exclusive content, access dev builds to preview game updates, and receive in-game promotions.","lan_tier_4_tit":"Stars","lan_tier_4_subtit":"Too many followers","lan_tier_4_desc":"Get the highest level of access, support, and trust from Supercell to help you keep creating like the Star you are.","lan_tier_5_tit":"Resourcers","lan_tier_5_subtit":"A strong community","lan_tier_5_desc":"Become a part of the community by helping Supercell Creators stay updated and enabled to create the best content.","lan_how_disc":"*Joining Supercell Creators does not guarantee any potential perks. We will provide our Creators with the best perks and support possible, but this will be decided by Supercell on an on-going basis and may change over time.","lan_cta_tit":"Apply to become a Supercell Creator","lan_cta_bod":"Ready to get exclusive tools, content, and support to help you create? Get started by applying now!\\nYou\'ll need a Supercell ID to begin your application. If you don\'t have a Supercell ID, you can simply create one in any Supercell game.","lan_cta_btn_join":"Join the program","home_info_subtitle":"Creators is","home_info_title":"The only place to get [exclusive sneak peeks], [tools], and [support] from Supercell [to help you create!]","home_info_subtitle_1":"What is Supercell Creators?","home_info_title_1":"A place to help you do what you do best","home_info_body_1":"We truly appreciate the amazing content that you create with Supercell games. We\'re here to help you become the best creator you can be!","home_info_subtitle_2":"What\'s in it for me?","home_info_title_2":"Exclusive first looks, tools & support!","home_info_body_2":"Become part of a trusted community with exclusive perks, first looks at new game content, awesome tools, and support from Supercell to help you create at your maximum potential.","home_feat_title_a":"Features","home_feat_title_b":"you will","home_feat_select":"Select feature","home_feat_1_title":"Join the community","home_feat_1_body":"Get access to the Creators Discord channel and join a community of Creators from all over the world. Receive exclusive content from Supercell. Share tips, knowledge, and make some new friends.","home_feat_2_title":"Merch codes","home_feat_2_body":"Every now and then we give away some pretty cool Supercell merch. Sometimes it’s for you, and sometimes it’s for you to delight your favourite followers. ","home_feat_3_title":"Update previews","home_feat_3_body":"Let’s face it! Being first is A and O. With update previews you’ll be able to create your content and be able to press publish as soon as new features are launched.","home_feat_4_title":"Video inbox","home_feat_4_body":"We’ve added a ‘Video Inbox’ to our games, where players can watch video content directly in the game. Upload your best videos or start a livestream and reach millions of viewers.","home_feat_5_title":"Creator Boost","home_feat_5_body":"Earn money whenever your followers purchase Gems or Diamonds and reference you.","home_stats_subtitle":"Global support","home_stats_title":"Today, creators from [NATIONS] nations are being supported by our amazing community managers in [LANGUAGES] different languages.","home_stats_cool_de":"Das ist ziemlich cool!","home_stats_cool_en":"That\'s pretty cool!","home_stats_cool_es":"Mola mucho!","home_stats_cool_fi":"(Se on) aika siistiä!","home_stats_cool_fr":"C\'est vraiment cool","home_stats_cool_hu":"Nagyon menö","home_stats_cool_it":"Fico!","home_stats_cool_ja":"すげー","home_stats_cool_lt":"Visai nieko","home_stats_cool_nl":"Dat is cool!","home_stats_cool_pl":"To jest całkiem niezłe!","home_stats_cool_ru":"это очень круто","home_stats_cool_sl":"To je ful kul!","home_stats_cool_se":"Ganska tufft!","home_super_subtitle":"Handpicked by Supercell","home_super_body":"SuperCreators have a solid track record of quality content, a postitive attitude, and trust from our community managers. But hey, becoming a black belt takes years of improvement. And even so, not everyone will make it to this level.","home_super_instructions":"Tap a creator to hear their stories","home_cta_title":"Who can join?","home_cta_body":"In order to be accepted into the program you need to meet the following requirements.  But note that they are not a guarantee for getting accepted.","home_cta_check_1":"Always act in a good manner and respect other Creators and Community Managers.","home_cta_check_2":"Be at least 18 years old.","home_cta_check_3":"Have a minimum of 5 000 followers on Youtube, or 3 000 on Twitch.","home_cta_btn":"Go to application","home_cta_msg":"But you knew this","home_cta_msg_b":"😉","not_app_none_tit":"Hey there!","not_app_none_bod":"We can’t seem to find a Creators account connected to this Supercell ID. You will need to apply to join the Creators program.","not_app_none_btn":"To application","not_app_rev_tit":"We\'re on it!","not_app_rev_bod":"Thanks for applying! We\'ve received your application and will get back to you as soon as possible! ","not_app_rev_btn":"Back to home","not_app_rev_btn_2":"Got it!","not_app_rej_tit":"Well, hello again!","not_app_rej_bod":"It looks like you’re logging in from an ID that has previously been rejected. You can send in a new application in [DAYS] days.","not_app_rej_btn":"Back to home","not_app_rej_btn_2":"I shall wait!","not_app_ban_tit":"Access denied","not_app_ban_bod":"Sorry, this Supercell ID has been banned from the platform. If you\'d like to learn more on bans or report an error, feel free to contact us.","not_app_ban_btn":"Ok","not_app_alreg_tit":"You, again?","not_app_alreg_bod":"This Supercell ID is already registered. Log in below to access your Creators account.","not_app_maintenance_tit":"Maintenance!","not_app_maintenance_bod":"Hi there! We’re doing some maintenance to improve your experience of Creators. The portal will be up and running shortly. Thanks for your patience!","not_app_":"","ab_tit":"What is Supercell Creators?","ab_bod":"We truly appreciate the amazing content that you create with Supercell games. To celebrate this, we’ve launched Supercell Creators, a platform and program built to offer you - our community of amazing creators - exclusive perks, first looks at new game content, awesome tools, and support to help you create at your maximum potential.\\n\\nTo do this, we’re using OAuth permissions for different platforms to:\\n\\nA. Verify your that you are the owner of your channel/account\\nB. Pull basic stats about views, number of videos and number of subscribers to help guide us when placing you into a suitable tier\\n\\nIf you have a minimum of 5,000 followers, you can get started by applying to become a Supercell Creator. We’ll review your application and place you in a suitable Creator tier based on how many followers you have on your biggest channel. Once you’ve been accepted to the program, you’ll start getting special access, perks, and support from Supercell to help you create on a whole new level!","reg_head_scid":"Supercell ID","reg_head_pla":"Platform","reg_head_acc":"Account","reg_scid_tit":"Let\'s get started!","reg_scid_bod":"Applying to become a Supercell Creator is super easy! Let\'s get started by logging in with your Supercell ID.\\n\\nIf you don\'t have a Supercell ID, you can create one in any Supercell game.","reg_scid_btn":"[Supercell ID]","reg_scid_tit_2":"Hi there!","reg_scid_bod_2":"It looks like you\'re already signed in with a Supercell ID. That’s great! Please click next to continue filling out your application to Supercell Creators.","reg_scid_btn_2":"Next","reg_re_tit":"Great, you’re back!","reg_re_bod":"It looks like you’ve already started an application. Do you wish to continue or start a new one?","reg_re_btn_1":"Continue","reg_re_btn_2":"Create new","reg_pla_tit":"Where are you creating?","reg_pla_bod":"Connect the platform where you have the most followers so we can place you in the best tier! You must have at least 5,000 followers on YouTube or 3,000 followers on Twitch to be eligible for the program.","reg_pla_other":"I create other types of content","reg_pla_why_btn":"Why do I have to do this?","reg_pla_why_bod":"To prevent anyone else from signing up with your channel, we ask you to connect with the platform to verify that the channel is yours. This is only for verification purposes, so your information is safe with us.","reg_pla_other_bod":"Cool! We\'d love to know more about what you create! Whether it\'s managing a subreddit, creating tools, or making something totally different, please enter a URL so we can check out what you do:","reg_pla_other_ph":"https://","reg_pla_add_btn":"Add another URL","reg_pla_del_btn":"Delete","reg_pla_next_btn":"Next","reg_acc_tit":"Which games do you create for?","reg_acc_bod":"Select the games that you actively create content for so we can give you the best support possible.","reg_acc_prim_btn":"Set as primary game","reg_acc_prim_btn_alt":"Primary game","reg_acc_prim_info":"Since you are creating content for multiple games, please also specify which you consider to be your primary game.","reg_acc_bod2":"Just a few personal details to finish your application! This is only for registration purposes and will never be shared anywhere or with anyone else","reg_acc_un":"Creator name","reg_acc_un_ph":"Type your Creator name here","reg_acc_fn":"First name","reg_acc_fn_ph":"Type your first name here","reg_acc_ln":"Last name","reg_acc_ln_ph":"Type your last name here","reg_acc_add":"Email","reg_acc_add_ph":"Type your email here","reg_acc_add_info":"For information regarding your Creators account. Will not affect your SCID.","reg_acc_lan":"I create content in:","reg_acc_lan_ph":"Select your language","reg_acc_abo_co":"I\'m based in","reg_acc_abo_co_ph":"Select location","reg_acc_dob":"Date of birth","reg_acc_dob_ph":"YYYY-MM-DD","reg_acc_dob_year":"Year","reg_acc_dob_year_ph":"YYYY","reg_acc_dob_month":"Month","reg_acc_dob_month_ph":"MM","reg_acc_dob_day":"Day","reg_acc_dob_day_ph":"DD","reg_acc_nda_tit":"One last thing!","reg_acc_nda_body":"Before you start creating, you must accept the [[Creators Terms, creators-terms, _blank]] and read through Supercell’s [[Privacy Policy, https://supercell.com/en/privacy-policy, _blank]]. Below is a summary (but not a substitute for) the Terms for your convenience.","reg_acc_nda_btn1":"Expand","reg_acc_nda_btn2":"Collapse","reg_acc_nda_1":"[[Creators Terms, creators-terms, _blank]] - You are at least 13 years old and understand that Supercell reserves all rights in connection with the Service and its games. You grant Supercell the right to use your User Content.\\n","reg_acc_nda_2":"[[Privacy Policy, https://supercell.com/en/privacy-policy, _blank]] - Supercell collects data to make the Service more functional and suitable for players, show personalized advertisements, and keep the Service fair and safe. We value and protect your data and use it only in the ways listed.","reg_acc_nda_3":"[[Non-Disclosure Agreement, https://supr.cl/NDA, _blank]] - You agree to keep all Confidential Information strictly confidential and not disclose it to any third party nor use it for any other purpose than in accordance with Supercell\'s instructions.","reg_acc_nda_3_con_tit":"Double-check!","reg_acc_nda_3_con_bod":"All information strictly confidential","reg_acc_nda_3_con_btn":"Got it","reg_acc_nda_agree":"Yes, I agree","reg_acc_sign":"Sign NDA","reg_acc_sign_ph":"Your full name","reg_acc_btn":"Submit application","reg_acc_gam_err":"Select one game or more","reg_acc_pri_gam_err":"Select your primary game","reg_acc_un_err":"Creator name required","reg_acc_un_err_2":"Creator name can not include < or > characters","reg_acc_fn_err":"First name required","reg_acc_ln_err":"Last name required","reg_acc_add_err":"Email required","reg_acc_lan_err":"Select your language","reg_acc_loc_err":"Select your country","reg_acc_dab_err":"Your date of birth should be in YYYY-MM-DD format","reg_acc_dab_err_2":"You need to be at least 13 years old to apply for the Creators program","reg_acc_nda_err":"You need to confirm the NDA","reg_acc_term_err":"You need to confirm the Terms of Service","reg_acc_priv_err":"You need to confirm the Privacy Policy","reg_acc_gen":"I am a:","reg_acc_gen_mal":"Male","reg_acc_gen_fem":"Female","reg_acc_gen_not":"*We will not use your gender information, it is for Finnish Tax Administration purpose only.","reg_acc_gen_err":"You have to select one","reg_acc_sign_err":"Your signature needs to match with your first and last name","reg_acc_general_err":"Something went wrong. Please try again.","reg_comp_tit":"Thanks, [firstname]!","reg_comp_bod":"We\'ve received your application and we\'ll get back to you soon!","reg_comp_btn":"Back to Home","wel_intro":"Welcome to Supercell","wel_tit":"Hi, we\'re glad you\'re here!","wel_tit_boost":"Creator Boost","wel_subtit_boost":"A feature from","wel_bod":"Congrats on becoming a Supercell Creator! We can’t wait to help you grow and create more awesome content for your fans!","wel_bod_boost":"Hi [USERNAME]!\\n\\nYour application for Creator Boost has been approved. Now, please read through and accept our Creator code of conduct below and then we’ll set up your Boost details.","wel_inf":"Login to get started","wel_btn":"Get started","wel_vid_tit":"What you’ll get as a Creator","wel_vid_subtit":"Welcome Video","wel_vid_bod":"A short message from us about what you can expect from being in the Creator program.","wel_coc_tit":"The Creator Code of Conduct","wel_coc_bod":"As a Creator, you must follow these rules to remain within the Creator program.","wel_coc_scroll":"Scroll to continue","wel_coc_stop1_tit":"Be Friendly!","wel_coc_stop1_bod":"Your content must be family-friendly. This means your content should not contain anything relating to drugs, alcohol, explicit images, foul language, or disrespectful behavior.","wel_coc_stop1_btn":"Got it!","wel_coc_stop2_tit":"Be Honest!","wel_coc_stop2_bod":"Don’t mislead with your content. Titles, thumbnails, and descriptions should be an accurate representation of the content.","wel_coc_stop2_btn":"Of course!","wel_coc_stop3_tit":"Be Respectful!","wel_coc_stop3_bod":"You should be kind, considerate, and civil.","wel_coc_stop3_btn":"Always","wel_coc_stop4_tit":"Play Fair!","wel_coc_stop4_bod":"This means following Supercell’s [[Fair Play Policy, https://supercell.com/en/safe-and-fair-play/, _blank]], and never promote hacking, fraudulent gems/diamonds, account sharing or any other violations of Supercell’s terms of service.","wel_coc_stop4_btn":"Sounds fair!","wel_coc_stop5_tit":"Keep it secret & Safe!","wel_coc_stop5_bod":"Your content must not violate the non-disclosure agreement, follow the [[Terms of Service, https://supercell.com/en/terms-of-service/, _blank]] as well as the terms of service of the platform on which you post it.","wel_coc_stop5_btn":"Absolutely","wel_coc_stop6_tit":"Breaking the Rules?","wel_coc_stop6_bod":"Unnaceptable behaviour may result in immediate expulsion from the Creator Program without warning.","wel_coc_stop6_btn":"Understood","wel_rule_tit":"The golden rule","wel_rule_bod":"Everything within the Creator Program is private. We want to have an open atmosphere where we can share early information with all of you, and where you can share tips and learnings with your fellow Creators. In order to maintain this open atmosphere, we will rely on everything in the program to be kept private.","wel_start_tit_boost":"Great!","wel_start_bod_boost":"Now let’s get your Boost details in place.","wel_start_btn_boost":"Set up my Boost","wel_start_btn":"Get started","port_start_intro":"Welcome to Supercell","port_start_tit":"We\'re so glad you\'re here!","port_start_bod":"Congrats on becoming a Supercell Creator! We can’t wait to help you grow and create more awesome content for your fans!","port_wel_tit":"What\'s to come","port_wel_bod":"This is just the beginning! Here\'s a roadmap of what\'s in store for the program:","port_wel_vip_tit":"VIP Launch","port_wel_vip_bod":"For the initial launch, we\'re inviting VIP Creators who we already know and support to get early access to the platform and its perks.","port_wel_pub_tit":"Public Launch","port_wel_pub_bod":"After developing how to best support Supercell Creators in the VIP launch, we\'ll open up the program and allow anyone to apply to become a Creator.","port_wel_fut_tit":"Future Development","port_wel_fut_bod":"We want to support our Supercell Creators and help them grow, so we\'re looking for your feedback on how to develop this platform best!","port_wel_what_tit":"What to do now","port_wel_what_bod":"Get started now by joining one of our official Supercell Creators channels!","port_start_disc_tit":"Discord","port_start_disc_bod":"Our Discord server is where all Supercell Creators can hang out, chat, and get updates and support. Everyone\'s there so it\'s quite a busy place! Join the party!","port_start_disc_cta":"Connect with Discord","port_start_slack_tit":"Slack","port_start_slack_bod":"Our Slack is where we share first looks at new game content and other special perks with Creators in the Shields tier. Join our Slack for early access and the best support! ","port_start_slack_cta":"Connect with Slack","port_start_ha_tit":"App Center","port_start_ha_bod":"App Center is where we share dev builds with Creators in the Shields tier to get early access to game updates. Connect with App Center to play game updates before anyone else!","port_start_ha_cta":"Connect with App Center","port_start_aff_btn":"Join Creator Boost","vid_inbox_tit":"Video Inbox","vid_inbox_bod":"We\'ve added a \\"Video Inbox\\" to our games, where players can watch video content directly in the game. Submit a YouTube video now that you want to show up in the game!","vid_inbox_bod_alt":"We’ve added a “Video Inbox” to our games, where players can watch video content directly in the game.","vid_inbox_bod_2":"Each game has its own limits for the number of videos you are allowed to upload each week. If your quota is full you just have to wait until you can generate a link again.","vid_inbox_guide_tit":"Guidelines for video inbox","vid_inbox_guide_subtit":"The video inbox is the single biggest piece of trust we can share with you. This feature is giving you direct access to post your videos into the game reaching millions of players. ","vid_inbox_guide_bod":"With great power comes great responsibility. We want you to pick your very best videos that are above and beyond the rest.\\n\\nThere should be nothing even remotely close to clickbait, every second of your video should be friendly for all players, and you should review this 10x more than anything else you post. Any videos posted here that break our guidelines will be met with a zero-tolerance policy. That means you will instantly lose access to the Creators program and potentially your entire channel. Use this feature with the greatest caution. \\n\\nYou should avoid things like box opening videos, meme reviews, or other ‘light’ content. These videos should be useful/deep guides, strategy videos, esports, showcases of sneak peeks, or in-depth reviews of game features. ","vid_inbox_guide_check":"Approve the guidelines","vid_inbox_guide_btn":"open inbox","vid_inbox_in":"Your inbox:","vid_inbox_foot":"*The video inbox is available for your primary game","vid_inbox_foot_2":"You\'ve been granted access for multiple games","vid_inbox_foot_3":"Your primary game has no video inbox yet","vid_inbox_change":"Change primary game","vid_inbox_tip":"Video inbox is available for your primary game. However, we like your stuff so much we gave you some extra access. 😊 ","vid_inbox_select":"Select your inbox","vid_inbox_link_ready":"Your link is ready","vid_inbox_link_used":"This link has been opened. Generate a new one by clicking the button above.","vid_inbox_subtitle":"Submit a video","vid_inbox_subbod":"Select a game to submit a video for","vid_inbox_gen_btn":"Generate link","vid_inbox_link_bod":"The link below will take you to the Video Inbox submission page. It is valid for 15 minutes and cannot be reused.","vid_inbox_link_opn_btn":"Open link","vid_inbox_link_cpy_btn":"Copy","vid_inbox_link_cpy2_btn":"Copied","vid_inbox_link_min_lef":"{mins} mins left","vid_inbox_link_exp":"Link expired","vid_inbox_note":"*Note: Supercell Creators can generate 100 links per week. You have now created {linksCreated}, thus only have {linksLeft} left this week (that ends on {endDate}).","vid_inbox_sub_vids":"Your submitted videos","vid_inbox_lin_cre_lbl":"{count} links created","vid_inbox_quota":"Your quota is full","vid_inbox_lin_avail":"New link available in {days} days","vid_inbox_lin_avail_alt":"New link available","vid_inbox_unsupported":"Your primary game [GAME] does not have a video inbox yet","vid_inbox_find":"Can’t find your game?","vid_inbox_find_tooltip":"You do have acess to [GAMES] as well, but [PLURAL] not supported by Video inbox just yet.","port_disc_nav_btn":"Back","port_disc_tit":"Join our Discord","port_disc_bod":"[[Discord, https://discord.com, _blank]] is the open place where all Creators hang out. Everyone is there so it’s quite a busy place! We’d love to see you there too, so go check it out now!\\n\\nFollow the steps below to join. If you’re already in Discord go straight to step 2.","port_disc_btn":"Connect with discord","port_disc_con_tit":"Discord","port_disc_con_bod":"Discord is the open place where all Creators hang out. Everyone is there so it’s quite a busy place!\\n\\nYou are connected to discord! 💚","port_disc_con_subtit":"Disconnect from Discord","port_disc_con_subbod":"Here you can disconnect your Discord account. You will be able to re-connect once disconnected. ","port_disc_con_btn":"Disconnect","pot_disc_step_1_title":"Create a Discord account","pot_disc_step_1_body":"Go to [[https://discord.com/register, https://discord.com/register, _blank]] and create an account if you don’t already have one.","pot_disc_step_2_title":"Connect with Discord","pot_disc_step_2a_body":"Important","pot_disc_step_2b_body":" - In the popup you need to allow Supercell to get access.","pot_disc_step_2b_btn":"","port_disc_con_tr":"Now you just have to introduce yourself in the [[#General channel, https://discord.com/channels/547793312229097478/547850422140796963, _blank]] in order to flip your Creator progress Discord card.","port_disc_banned_tit":"Discord","port_disc_banned_bod":"You have been banned from Discord 💀","port_disc_auth_tit":"Discord verification","port_disc_auth_bod":"It seems your account is not connected to the Creators Discord channel. You will need to verify your account using the button below. This is so that we can make sure that only Creators has access.","port_disc_auth_btn":"Verify discord  account","port_disc_auth_tit_2":"Thanks!","port_disc_auth_bod_2":"Your Discord account has been verified. We hope the channel is of good use on your Creator journey :) ","port_disc_auth_btn_2":"Take me back to Discord","port_disc_auth_tit_3":"Discord","port_disc_auth_bod_3":"Your Discord account has already been connected. Thanks for checking. 💚","port_disc_auth_btn_3":"Take me back to Discord","port_slack_nav_btn":"Back","port_slack_tit":"Slack","port_slack_bod":"Join the Creators discussions on Slack. Get the latest news and game updates from your CMs and connect with fellow Tier 3 Creators. ","port_slack_subtit":"Join us on Slack","port_slack_bod_2":"Enter the email you want to use for Creators Slack. An invite will be sent to this email.","port_slack_email_ph":"email@example.com","port_slack_email":"Enter your email","port_slack_email_2":"Confirm your email","port_slack_checkbox":"This is the email address I want to use for Creators Slack, and I understand I can NOT change this.","port_slack_btn":"Send invite","port_slack_invite_tit":"You have been invited","port_slack_invite_bod":"Please check your inbox and click the link in the email to set up your Creators Slack.","port_slack_invite_goto":"Go to Creators Slack","port_slack_error_email":"This doesn\'t look like a valid email","port_slack_error_confirm_email":"Please enter the same email twice","port_slack_info":"Joining our Slack is super easy! We\'ll send you an invite link as soon as you\'ve been approved for the Shields tier.","port_slack_step_one":"1. Log in to Slack with the same email as your Supercell Creators account","port_slack_step_two":"2. Go to sc-creators.slack.com ","port_slack_join":"Download Slack here:","port_slack_join_link":"https://slack.com/downloads","port_slack_faq_tit_1":"Didn’t receive an invite?","port_slack_faq_bod_1":"If you didn’t get an invite by email you can join here: [[slack.com/signin, https://slack.com/signin, _blank]]","port_slack_faq_tit_2":"Getting Started with Slack","port_slack_faq_bod_2":"Slack is a messaging tool that we use for communication with, and between our Tier 3 Creators. If you are new to Slack, go to [[www.slack.com, https://slack.com/, _blank]] to download and register the software. They also have a great onboarding section ([[https://slack.com/help/categories/360000049043, https://slack.com/help/categories/360000049043, _blank]]) with all the information you might need.","port_slack_faq_tit_3":"What to expect from the Creators Slack","port_slack_faq_bod_3":"Slack is where our CM’s communicate news, updates and releases within the Creator program. It is also where you can communicate other tier 3 Creators to get the most out of the Creators program.","port_slack_faq_tit_4":"Creators Discord vs. Slack. What’s the difference?","port_slack_faq_bod_4":"Discord is for tiers 1 and 2. Slack is for Tier 3 only. You are welcome to join both, but official communications to Creators in your Tier happen on Slack.","port_slack_faq_tit_5":"Confidentiality","port_slack_faq_bod_5":"Remember that everything written in Slack is strictly confidential until it’s clearly expressed that you can share information. Violating this may result in expulsion from the Creator program.","port_slack_faq_tit_6":"I have lost access to Slack","port_slack_faq_bod_6":"Lost your password? Please refer to this article for help on how to restore it: [[https://slack.com/help/articles/201909068-Reset-your-password, https://slack.com/help/articles/201909068-Reset-your-password, _blank]]","port_slack_faq_tit_7":"Slack help","port_slack_faq_bod_7":"If you need any help or support regarding Slack, please look at their help section. [[https://slack.com/help, https://slack.com/help, _blank]]","port_slack_err_tit_1":"Please try again","port_slack_err_bod_1":"Seems something went wrong. Please try once more.","port_slack_err_btn_1":"Got it","port_slack_err_tit_2":"This email already joined","port_slack_err_bod_2":"It seems that the email you entered is already added to our Slack. Please reach out to your CM for support with this.","port_slack_err_btn_2":"Got it","port_ha_nav_btn":"Back","port_ha_tit":"How to connect to App Center","port_ha_tit_alt":"App Center","port_ha_bod":"App Center is where we share dev builds with Creators in the Shields tier to get early access to game updates. Connect with App Center to play game updates before anyone else!","port_ha_info":"Connecting with App Center is super easy! Just follow these easy steps:","port_ha_disabled":"Your Creators account is currently not eligible for App Center.","port_ha_step_one":"Create an App Center account","port_ha_step_one_body":"Go to [[https://appcenter.ms/create-account, https://appcenter.ms/create-account, _blank]] and create an account. Take a note of the email address used in the account, you will need it soon.\\n\\nIf you already have an App Center account, continue to step 2 but make sure you know the email address used.","port_ha_step_two":"Connect to App Center","port_ha_step_two_body":"Great, now check your email inbox to complete the setup. Didn’t get the invite? Check your spam box or resend the invite.","port_ha_join":"Find App Center here:","port_ha_join_link":"https://appcenter.ms/sign-in","port_ha_connect_tit":"Connect to App Center","port_ha_connect_btn":"Request invite","port_ha_connected_tit":"Connected email address to App Center","port_ha_retry_btn":"Try again","port_ha_reinvite_btn":"Resend invite","port_ha_connect_success_txt":"Great, now check your email inbox to complete the setup. Didn’t get the invite? Check your spam box or <a href=\\"#\\">resend the invite</a>.","port_ha_connect_success_lbl":"Invite sent!","port_ha_connect_error_default_txt":"Something went wrong. Please try again.","port_ha_connect_error_unauthorized_txt":"You are not authorized.","port_ha_connect_error_not_tier_3_txt":"You are not Tier 3.","port_ha_connect_input_ph":"your@email.com","port_ha_connect_input_tip":"Make sure to use the same email that you use on App Center.","port_ha_games_tit":"Get access to even more games","port_ha_games_txt_pending":"Once you have connected to App Center, you will automatically get access to your primary game. Have you already accepted the invite? <a href=\\"#\\">Refresh this page</a> to activate more games.","port_ha_games_txt_active":"You automatically get access to your primary game. But you can also even access more Supercell games by activating them below:","port_ha_notice_txt":"Note: Hay Day and Hay Day Pop are not currently available on App Center","port_ha_primary_game_lbl":"Primary game","port_ha_game_activate_btn":"Activate","port_ha_game_activated_lbl":"Activated","port_ha_game_requested_lbl":"Requested","port_ha_game_disabled_lbl":"Not available","port_user_tier":"Tier","port_user_edit_btn":"Edit personal information","port_user_req_upg_btn":"Request tier upgrade","port_user_sub":"Subscribers","port_user_vie":"Avg views/video","port_user_vid":"Videos","port_user_plat_tit":"Platforms","port_user_plat_bod":"Make sure you max your Creator status by connecting to your platforms. You need to connect at least one primary Youtube or Twitch channel. But feel free to add more below if you create in other places as well.","port_user_plat_pri_tit":"Primary channels","port_user_plat_con":"Connect","port_user_plat_con_2":"Connected","port_user_plat_discon":"Disconnect","port_user_plat_mod_tit":"Are you sure?","port_user_plat_mod_bod":"Do you really want to disconnect your channel?","port_user_plat_mod_btn_pri":"Disconnect","port_user_plat_mod_btn_sec":"Go back","port_user_plat_addit_tit":"Additional platforms & channels","port_user_plat_addit_bod":"Are you active on other platforms? Perhaps you have more than one channel on the same platform? Then specify them below!","port_user_plat_addit_channels":"Supported channels","port_user_plat_addit_channels_num":"+5","port_user_plat_addit_placeholder":"Enter URL","port_user_plat_addit_btn_save":"Save","port_user_plat_addit_mod_tit":"Supported channels","port_user_plat_addit_mod_bod":"Here is a list of supported platforms and channels you can add.","port_user_plat_addit_mod_btn":"Close","port_user_plat_addit_btn_add":"Add channel","port_user_plat_addit_err_unsupported":"Oh no, we don\'t support this platform!","port_user_plat_addit_err_duplicate":"Looks like you\'ve already added this one","port_user_plat_addit_err_invalid":"This doesn\'t look like a valid channel URL","port_user_gam_tit":"My games","port_user_gam_bod":"Select the games you create content for","port_user_gam_mod_tit":"Are you sure?","port_user_gam_cooldown":"You can change or deactivate your primary game on","port_user_gam_mod_bod":"You may only change your primary game once every 7 days.","port_user_gam_mod_btn_pri":"Yes, do it!","port_user_gam_mod_btn_sec":"Cancel","port_user_gam_mod_info":"You can not deselect your primary game. Please change your primary game first and try again.","port_user_gam_mod_info_alt":"Primary game can only be changed every 2 weeks. You can change again on","port_user_gam_mod_info_btn":"Got it!","port_user_aff_tit":"Creator Boost Settings","port_user_aff_hndl":"Your Creator Code:","port_user_aff_cpy":"Copy code","port_user_aff_info":"Stay tuned for Boost stats, coming 2020","port_user_aff_disc":"Disconnect","port_user_aff_disc_bod":"If you disconnect paypal, you will not receive payouts from the Creator Boost until you connect again (with same or another account).","port_user_aff_disc_conf":"Confirm disconnect","port_user_aff_disc_canc":"Cancel","port_user_aff_paypal_bod":"You have disconnected from Paypal. The revenue sharing is therefore turned off until you connect again.","port_user_log_tit":"Logged in","port_user_log_btn":"Sign out","port_tie_upg_mod_tit":"Would you like to request a tier upgrade?","port_tie_upg_mod_bod":"If your fanbase has grown since you became a Supercell Creator and you\'re no longer in the correct tier, let us know and we can see whether you should be upgraded to a higher tier!","port_tie_upg_mod_sec_btn":"Nah, I\'m fine","port_tie_upg_mod_pri_btn":"Yes, please!","port_tie_upg_not_tit":"Good luck!","port_tie_upg_not_bod":"Thanks for reaching out. We\'ll review your current stats and get back to you soon!","port_tie_upg_not_btn":"Go to Profile","tier_upg_mod_header_1":"Goblin daily press","tier_upg_mod_header_2":"Good news only","tier_upg_mod_joins":"[USERNAME] joins tier [TIER]","tier_upg_mod_title":"“We like your stuff”","tier_upg_mod_subtitle":"/Folks @ Supercell","tier_upg_mod_body":"So our content managers have had a look at your account. And yes! We liked what we saw so much, that we decided to move you up to tier 2.\\n\\nWelcome to the Swords, hope this will help you in producing even more awesome content.","tier_upg_mod_btn_close":"Close","tier_upg_mod_btn_more":"See what’s new","port_use_set_tier":"Tier","port_use_set_abo_tit":"About me","port_use_set_abo_fn":"First name","port_use_set_abo_fn_ph":"Type first name here","port_use_set_abo_ln":"Last name","port_use_set_abo_ln_ph":"Type last name here","port_use_set_abo_un":"Creator name","port_use_set_abo_un_ph":"Type Creator name here","port_use_set_abo_em":"Email","port_use_set_abo_em_ph":"Type email here","port_use_set_abo_em_info":"For information regarding your Creators account. Will not affect your SCID.","port_use_set_abo_la":"Language","port_use_set_abo_co":"I\'m based in","port_use_set_abo_co_ph":"Select location","port_use_set_abo_dob":"Date of birth","port_use_set_abo_dob_ph":"YYYY-MM-DD","port_use_set_abo_dob_year":"Year","port_use_set_abo_dob_month":"Month","port_use_set_abo_dob_day":"Day","port_use_set_abo_dob_year_ph":"YYYY","port_use_set_abo_dob_month_ph":"MM","port_use_set_abo_dob_day_ph":"DD","port_use_set_soc_tit":"Social Accounts","port_use_set_soc_bod":"Let us know your social media accounts so we can place you in the best Creator tier.","port_use_set_soc_tw":"Twitter","port_use_set_soc_tw_ph":"@username","port_use_set_soc_fb":"Facebook","port_use_set_soc_fb_ph":"Your profile URL","port_use_set_soc_in":"Instagram","port_use_set_soc_in_ph":"@username","port_use_set_un_err":"Creator name required","port_use_set_un_err_2":"Creator name can not include < or > characters","port_use_set_fn_err":"First name required","port_use_set_ln_err":"Last name required","port_use_set_add_err":"Email required","port_use_set_lan_err":"Select your language","port_use_set_loc_err":"Select your country","port_use_set_twitter_err":"Enter a valid Twitter username","port_use_set_facebook_err":"Enter a valid Facebook profile url","port_use_set_instagram_err":"Enter a valid Instagram username","port_use_set_dab_err":"Your date of birth should be in YYYY-MM-DD format","port_use_set_gen":"I am a:","port_use_set_gen_mal":"Male","port_use_set_gen_fem":"Female","port_use_set_gen_not":"*We will not use your gender information, it is for Finnish Tax Administration purpose only.","port_use_set_gen_err":"You have to select one","port_use_set_del_tit":"Not a creator anymore?","port_use_set_del_bod":"If you are no longer an active Creator and wish to delete your account, please reach out to your CM for support with this.","port_use_set_del_btn":"Delete account","port_use_set_save_btn":"Save and return","port_del_acc_tit":"Deleting your account","port_del_acc_bod":"You can delete your account anytime, but then you will lose access to all of your Supercell Creator perks, first looks, and support. But we’d really love for you to stick around and we’d be happy to hear anything we can do to improve the program.","aff_signup_tit":"Creator Boost - Sign up","aff_signup_desc":"If you join Creator Boost, you can earn money whenever your followers purchase Gems or Diamonds and enter your Creator Code.","aff_signup_paypal_tit":"PayPal","aff_signup_paypal_disc_btn":"Disconnect","aff_signup_paypal_close_btn":"Close\\n","aff_signup_paypal_con_lbl":"Connected","aff_signup_paypal_dis_btn":"Disconnect PayPal","aff_signup_handle_tit":"Select your Creator Code","aff_signup_handle_input_ph":"Type your unique Creator Code","aff_signup_handle_taken_err":"This Creator Code is already taken","aff_signup_handle_input_again_lbl":"Confirm your Creator Code","aff_signup_handle_input_again_ph":"Type your Creator Code again","aff_signup_handle_no_input_err":"Your Creator Code must not be empty","aff_signup_handle_short_input_err":"Your Creator Code must be at least 3 characters","aff_signup_handle_char_input_err":"Your Creator Code can only include \\"a-z\\", \\"A-Z\\", \\"0-9\\", \\"-\\" and \\"_\\" characters","aff_signup_handle_no_match_err":"\\"{boosthandle1}\\" does not match \\"{boosthandle2}\\"","aff_signup_handle_desc":"Your Creator Code is what your followers enter in the game\'s shop.","aff_signup_handle_tip":"Tip: make your Creator Code easy to spell and remember. And choose it carefuly - you cannot change it later!","aff_signup_next_btn":"Next","aff_signup_pers_det_tit":"Personal details","aff_signup_pers_det_pnr_lbl":"Personal number / SSN","aff_signup_pers_det_pnr_err":"Must not be empty","aff_signup_pers_det_pnr_ph":"","aff_signup_pers_det_birthdate_lbl":"Date of birth","aff_signup_pers_det_birthdate_err":"Your date of birth should be in YYYY-MM-DD format","aff_signup_pers_det_birthdate_ph":"YYYY-MM-DD","aff_signup_pers_det_gen_lbl":"Gender","aff_signup_pers_det_gen_mal":"Male","aff_signup_pers_det_gen_fem":"Female","aff_signup_confirm_txt":"Please make sure that all of the information above is correct and then type \\"CONFIRM\\" below.","aff_signup_confirm_input_ph":"Type \\"CONFIRM\\" here","aff_signup_confirm_value":"CONFIRM","aff_signup_confirm_tos":"I have read and agreed to the [[Creators Terms, creators-terms, _blank]].","aff_signup_submit_err":"Try again","aff_signup_submit_btn":"Submit request","aff_join":"Join Creator Boost","aff_pp_err_gen_tit":"Something went wrong!","aff_pp_err_gen_bod":"Stay strong! Persistence is key!","aff_pp_err_gen_btn":"Close and try again","aff_pp_err_forbid_tit":"We\'re sorry!","aff_pp_err_forbid_bod":"Unfortunately Creator Boost is not supported in your region","aff_pp_err_forbid_btn":"Got it!","aff_signup_thanks_tit":"Thank you!","aff_signup_thanks_bod":"We\'ve received your application and will get back to you as soon as possible!","aff_signup_thanks_btn_lbl":"Back to Home","aff_signup_acc_tit":"Funny seeing you here!","aff_signup_acc_bod":"It looks like you\'ve already joined the Creator Boost program. If you\'d like to adjust your details. you can do so on the Settings page.","aff_signup_acc_btn_lbl":"Go to Settings","aff_signup_rej_tit":"So we meet again...","aff_signup_rej_bod":"It looks like you\'ve already applied to the Creator Boost program and your application wasn\'t approved, so unfortunately you can\'t apply again right now. To find out more or report an error, feel free to contact us!","aff_signup_rej_btn_lbl":"Back to Home","log_title":"Hi there!","log_body":"You need to sign in to access this page. Click the button below to sign in with your Supercell ID.","log_err_tit":"Login error","log_err_bod":"An unexpected error occured. Please try logging in again.","log_err_btn":"Try again","pla_err_tit":"Something went wrong!","pla_err_bod":"Stay strong! Persistence is key!","pla_err_btn":"Close and try again","pla_err_foll_tit":"Oops!","pla_err_foll_bod":"It looks like you don’t meet our current requirements for joining Supercell Creators. From what we can see you need a few more followers. Good luck, and hope to see you again someday soon!","pla_err_foll_btn":"Close","pla_err_discord_not_in_tit":"Could not verify","pla_err_discord_not_in_bod":"The account you tried to connect with could not be found in our Discord (perhaps you have multiple Discord accounts?)\\n\\nPlease log in to [[our channel, https://discord.com/channels/547793312229097478/547850422140796963, _blank]], and then try again.","pla_err_discord_not_in_btn":"Got it!","pla_err_discord_not_connected_tit":"Already Disconnected","pla_err_discord_not_connected_bod":"It seems this account has already been disconnected. ","pla_err_discord_already_connected_tit":"Already Connected","pla_err_discord_already_connected_bod":"It seems this account has already been connected. ","pla_err_discord_banned_tit":"Well this is akward...","pla_err_discord_banned_bod":"It seems we’ve already banned your account from Discord.","pla_err_discord_btn":"Ok","404_tit":"Page not found","404_bod":"Sorry, but the page that you\'re trying to access does not exist.","404_btn":"Back to Home","cb_cta_tit":"Creator Boost","cb_cta_bod":"If you join our Creator Boost program, you can earn money whenever your followers purchase Gems or Diamonds and reference you.","cb_cta_btn":"Join Creator Boost","cb_cta_review_bod":"Your Boost application is in process and is expected to be activated shortly. Feel free to pop some confetti while waiting.","cb_cta_review_btn":"Pop some confetti","cb_cta_reject_bod":"Your Boost has been disabled by admin.","my_stu_cb_logo":"Creators Boost","my_stu_cb_no_chart":"This is your Boost panel. Once your fans start using your Creator Code, you will see the earnings here.\\n\\nShare your Creator Code!","my_stu_cb_info_tit":"Information","my_stu_cb_info_bod":"Things might move around a bit in the Boost section as we’re working on finding the best way to visualise your data. ","my_stu_cb_wel_title":"Welcome to Boost!","my_stu_cb_wel_body":"Your application has been approved! Now it’s time to start sharing your Creator Code and earn some sweet revenue for all your hard work. ","my_stu_cb_wel_btn":"Open my Boost panel","my_stu_cb_code_title":"Your Creator Code was used!","my_stu_cb_code_body":"Someone used your Creator Code! That’s worth celebrating! First only comes once. Open up some champagne and keep up the great work!","my_stu_cb_code_btn":"Close","my_stu_cb_inf_title":"Hey","my_stu_cb_inf_body_1":"This is your Boost panel where you can keep track of your earnings and payouts.","my_stu_cb_inf_body_2":"€1,000","my_stu_cb_inf_body_3":"is the miminum amount to qualify for a payout (But don’t worry, you bring your earnings to next month if you don’t reach the €1,000 minimum).","my_stu_cb_inf_btn":"Got it!","my_stu_cb_tip_title":"Please note","my_stu_cb_tip_body":"We can’t guarantee that the Boost data displayed in Supercell Creators are 100% accurate at all times. Therefore these numbers should be seen as an estimate and actual payouts may differ from what is shown on the site.","my_stu_cb_tip_btn":"Got it!","my_stu_cb_title":"Creator Boost","my_stu_cb_subtitle":"Your Creator code revenue","my_stu_cb_cpy":"Copy code","my_stu_cb_all":"All time","my_stu_cb_prev":"Previous payout","my_stu_cb_recent":"Most recent payout","my_stu_cb_cur":"Current period","my_stu_cb_est":"(estimated)","my_stu_cb_since":"Since","my_stu_cb_yet":"No payouts yet","my_stu_cb_next":"Next payout","my_stu_cb_view":"Click a date to view details","my_stu_cb_total_per":"Total Boost for this period","my_stu_cb_est_per":"Please note that current period is an estimate and payouts may differ slightly from the data shown.","my_stu_cb_daily_data":"View daily data per game","my_stu_cb_no_payout":"No payout","my_stu_cb_no_tba":"Stay tuned","my_stu_cb_daily_average":"Daily average","my_stu_cb_date":"Date","my_stu_cb_per_game":"Per game","my_stu_cb_boost":"Boost","my_stu_cb_total":"Total","my_stu_cb_earn":"Earnings:","my_stu_cb_code":"Code usage:","my_stu_cb_periodic":"Periodic","my_stu_cb_cumulative":"Cumulative","my_stu_cb_daily":"Daily","my_stu_cb_weekly":"Weekly","my_stu_cb_monthly":"Monthly","my_stu_cb_yearly":"Yearly","my_stu_cb_all_games":"All games","my_stu_cb_close":"Close","my_stu_cb_view_rev":"View revenue per game","my_stu_cb_conf":"Confirmed","my_stu_cb_prel":"Preliminary","my_stu_cb_prel_info":"Last 30 days are always preliminary since potential refunds are calculated and edited close to your payout date.","my_stu_cb_soon":"Your stats are on their way. Very soon!","my_stu_cb_closed":"So we found a few wires on the back plugged into the wrong holes!\\nThis does not affect your Boost earnings in any way but we need to sort them out before we can visualize your numbers correctly. \\n\\nWe’ll be up and running shortly!","my_stu_cb_tax":"All Boost data displayed includes tax","my_stu_cb_pay_pay":"Boost payouts","my_stu_cb_pay_trans":"transaction | transactions","my_stu_cb_pay_about":"About payouts","my_stu_cb_pay_all":"All-time payouts","my_stu_cb_pay_rec":"Most recent","my_stu_cb_pay_view":"View all payouts","my_stu_cb_pay_mod_tit":"About payouts","my_stu_cb_pay_mod_subtit_1":"When will I get paid?","my_stu_cb_pay_mod_bod_1":"Once you reach €1,000 total revenue threshold across games, you are eligible for a payment. Payments are made approximately 60-90 days after the revenue has been earned and the threshold has been reached. If you do not reach the threshold, your earnings will carry on to the next months until it is reached. ","my_stu_cb_pay_mod_subtit_2":"What does preliminary mean?","my_stu_cb_pay_mod_bod_2":"This preliminary data is an estimate and does not factor taxes, refunds, etc. You should expect the final data to differ from these preliminary numbers. ","my_stu_cb_pay_mod_subtit_3":"Do you deduct tax on my payouts?","my_stu_cb_pay_mod_bod_3":"Yes, tax is deducted from your payment based on the country in which you reside.","my_stu_cb_pay_mod_btn":"Got it!","my_stu_cb_msg_tit":"Clash Mini + Boost information","my_stu_cb_msg_bod":"Clash mini is now connected to Boost, meaning you will earn revenue when your code is used in-game. However, we are still working on implementing it on the Creators platform. Therefore, note that potential earnings through Clash mini is not displayed in your dashboard just yet. ","my_stu_cb_msg_btn":"View message","my_stu_cb_msg_btn_2":"Hide message","my_stu_pay_msg_title":"Important update!","my_stu_pay_msg_body":"We are updating to a new payment provider (Tipalti), which means that all of our creators need to go through a one-time setup in which you define your payment details.\\n\\nThis includes submitting your name, email, adress - as well as payout method and your registered VAT (if applicable). Please complete your Tipalti setup before Aug 30, 2022. After that date, _|you will not receive any more payouts|_ until you’ve migrated over to Tipalti.","my_stu_pay_msg_cta":"Set up your Tipalti","my_stu_pay_msg_act":"Action required","my_stu_pay_msg_acc_tit_1":"What is Tipalti?","my_stu_pay_msg_acc_bod_1":"Tipalti is a financial software we’re using to make things on our side a bit more smooth ‘number-crunching-wise’. That way we can spend some more time with you, the Creators :) \\n\\nIf you want to learn more about Tipalti, you can always head over to their website www.tipalti.com","my_stu_pay_msg_acc_tit_2":"Can I still get paid through PayPal?","my_stu_pay_msg_acc_bod_2":"YES! Tipalti gives you more options in how to receive your revenue, and Paypal is one of them.","cb_pay_tit":"Boost payouts","cb_pay_all_time":"All-time","cb_pay_all_trans":"All transactions","cb_pay_about":"About payouts","cb_pay_date":"Date","cb_pay_game":"Game","cb_pay_pay_per":"Payment period","cb_pay_per":"Period:","cb_pay_code_use":"Code usage","cb_pay_inv":"Invoice","cb_pay_payslip":"Payslip","cb_pay_amount":"Amount","cb_pay_tot_pay":"Total payout","cb_pay_tot_pay_tax":"Revenue before taxes","cb_pay_nav_btn":"Back","cb_pay_no_pay":"No payouts have yet been issued.","cb_pay_btn_set":"Payment settings","cb_payments_note":"Please note.","cb_payments_note_b":"Desktop is recommended to complete this form since it might not work on some mobile browsers.","my_stu_my_too_tit":"My tools","my_stu_my_too_bod":"Connect with your tools to stay updated and get the most out of Supercell Creators. Click on a tool to learn about how to connect.","my_stu_my_too_dis":"Discord","my_stu_my_too_sla":"Slack","my_stu_my_too_app":"App Center","my_stu_mer_cod_tit":"Merch Codes","my_stu_mer_cod_bod":"Here is where you will find your merch codes. Seems like you haven’t received any codes just yet, but remain calm. Good things will come.","my_stu_mer_cod_bod_alt":"Here is where you find your merch codes. An email notification will be sent out whenever new codes are available.","my_stu_mer_cod_bod_alt_2":"Here is where you find your merch codes. An email notification will be sent out whenever new codes are available. All merch codes are claimed at [[supercellredemption.com, %{URL}, _blank]].","my_stu_mer_cod_ite_lbl":"1 new code | {count} new codes","my_stu_mer_cod_unused":"1 Unused code | {count} Unused codes","my_stu_mer_cod_sort":"Sort by","my_stu_mer_cod_sort_date":"Date","my_stu_mer_cod_sort_date_alt":"Sort by date","my_stu_mer_cod_sort_status":"Status","my_stu_mer_cod_sort_status_alt":"Sort by status","my_stu_mer_cod_use_btn":"Use code","my_stu_mer_cod_code":"Code:","my_stu_mer_cod_mark":"Mark as unused","my_stu_mer_cod_dl_image":"Download image","my_stu_mer_cod_share_text":"You received [TITLE]. Claim at [URL] using code: [CODE]","my_stu_mer_cod_view_btn":"View all","my_stu_mer_cod_view_btn_alt":"Close","my_stu_mer_cod_share_btn":"Copy message","my_stu_mer_cod_claimed":"Claimed by:","my_stu_mer_cod_ite_btn_lbl":"Claim","my_stu_mer_cod_ite_exp_dat_lbl":"Claimed {date}","my_stu_mer_cod_ite_exp_ed_dat_lbl":"Expired {date}","my_stu_mer_cod_ite_lef_lbl":"({count} left)","my_stu_mer_cod_ite_exp_btn":"Expired codes","my_stu_mer_cod_ite_cla_sta_lbl":"Claiming","my_stu_mer_cod_ite_cla_dat_lbl":"Claim before {date}","my_stu_mer_cod_ite_cop_btn":"Copy","my_stu_mer_cod_ite_ied_btn":"Copied","my_stu_mer_cod_ite_act_lbl":"Not Used","my_stu_mer_cod_ite_exp_lbl":"Expired","my_stu_mer_cod_ite_ina_lbl":"Used","my_stu_sav_pos_tit":"My saved posts","my_stu_sav_pos_emp_lbl":"No posts saved","fee_pos_bac_btn_lbl":"Back","fee_pos_vid_ph":"Your video is being generated. Please check back soon","fee_pos_img_ph":"Your image is being generated. Please check back soon","fee_pos_edit":"Post edit","fee_pos_nex_btn_lbl":"Next up:","fee_pos_gui_lbl":"Guidelines","fee_pos_cal_lbl":"Timings","fee_pos_cal_discuss":"Join the discussion","fee_hea_tit":"Welcome {name}!","fee_hea_sub_tit":"Tier {tier}","fee_sta_1_lbl":"Subscribers","fee_sta_2_lbl":"Avg view/video","fee_sta_3_lbl":"Videos","fee_tit":"Create filter","fee_fil_tit":"Create your filter","fee_fil_bod":"Specify which games you\'re interested in getting updates about","fee_rea_mor_btn":"Continue reading","fee_fil_btn":"Save","fee_no_pos_lbl":"No posts found","fee_loa_mor_btn":"Load more","fee_pos_sav_lbl":"Save for later","fee_pos_rem_lbl":"Remove pin","fee_eve_tit":"Coming up","fee_eve_exp_btn":"Expand +","fee_eve_col_btn":"Collapse -","fee_eve_btn":"View full calendar","fee_eve_emp_lbl":"Stay strong, Cool stuff is coming!","fee_fee_tit":"Your feed","cal_tit":"Calendar","cal_nav_btn":"Back","gender_mod_tit":"Hi [NAME]!","gender_mod_bod":"Sorry to interrupt. We’re continuously working to improve the Creators platform. Therefore, every now and then, we may need to ask you a question or two to make sure we have the data needed to provide you with the best possible support.","gender_mod_gen":"Gender","gender_mod_birthdate_lbl":"Date of birth","gender_mod_birthdate_tool_tit":"Why do we need this info?","gender_mod_birthdate_tool_bod":"Some features in the Creators program has a minimum age requirement.","gender_mod_birthdate_err":"Your date of birth should be in YYYY-MM-DD format","gender_mod_birthdate_ph":"YYYY-MM-DD","gender_mod_pri":"My primary game is","gender_mod_btn":"Submit","coc_modal_tit":"Code of Conduct","coc_modal_bod":"The Code of Conduct contains the most important rules in the Creator Program. These rules should be read with extreme care and always abided. Breaking the Code of Conduct will result in expulsion from the Creator Program. ","coc_modal_btn":"VIEW CODE OF CONDUCT","nda_tit":"Non-disclosure agreement","nda_subtit":"By agreeing to this confidentiality undertaking, I understand that I cannot share ANY information obtained in accordance with Supercell\'s instructions.","nda_1_tit":"Scope and Definitions","nda_1_bod":"For the purposes of this Confidentiality Undertaking “Confidential Information” means all information received either directly or indirectly from Supercell Oy (“Supercell”) in connection with the aforementioned Purpose or otherwise, whether marked as confidential or not, after or prior to the signing of this Confidentiality Undertaking, including, without limitation, information relating to business operations, technology, products, know-how, plans and objectives of Supercell or its partners. This Confidentiality Undertaking applies to Confidential Information obtained in written, oral or any other form (electronic files, visual perception), including documents in different forms as well as copies and excerpts thereof.","nda_2_tit":"Obligation of Secrecy","nda_2_bod":"I shall keep Confidential Information strictly confidential and not disclose such information to any third party. I further agree not to make, issue, or release any public announcement, statement, or acknowledgement of the existence of this Confidentiality Undertaking, except as may be required by law. I shall not use the Confidential Information for any other purpose than for Purpose and in accordance with Supercell’s instructions. I shall copy Confidential Information only to the extent necessary for the Purpose. This Confidentiality Undertaking shall have no effect to the possible non-disclosure agreement entered into by and between the company I represent and Supercell.\\n\\nObligations pursuant to this Confidentiality Undertaking shall not apply to information that I can evidence to have been: (i) public at the time of its disclosure or which subsequently becomes public as a result of publication or otherwise without my act or omission; (ii) lawfully obtained by me prior to or after its disclosure from a third party who has not received it directly or indirectly from Supercell.\\n\\nNeither this Confidentiality Undertaking nor the disclosure or receipt of Confidential Information shall grant me any license under any patent, trademark, copyright, or other proprietary or intellectual property right pertaining to Confidential Information. All Confidential Information is disclosed “as is” and “as available” without any express or implied warranties.\\n\\nI shall immediately cease using and return the Confidential Information and return or, if so requested by Supercell, l destroy any copies and documents containing Confidential Information when I no longer need the Confidential Information in question for the Purpose or upon Supercell’s first request, whichever earlier.","nda_3_tit":"Validity","nda_3_bod":"The obligation of this Confidentiality Undertaking shall remain in force for three (3) years from the disclosure of the said information.","nda_4_tit":"Applicable Law and Place of Jurisdiction","nda_4_bod":"This Confidentiality Undertaking shall be governed by the laws of Finland. Any disputes arising out of or in connection with this Confidentiality Undertaking shall be settled by the court of Helsinki. However, Supercell shall have the right to apply for and enforce preliminary procedural remedies at any court of competent jurisdiction.\\n\\nI have read and understood this Confidentiality Undertaking and agree to be bound by the obligations detailed in this Confidentiality Undertaking until such time as Confidential Information becomes public knowledge through no fault on my part.","cb_intro_pres":"Supercell Creators present","cb_intro_inst":"- Press space to start -","cb_ui_your_score":"Your score:","cb_ui_hi_score":"High score:","cb_ui_slack":"Post score on slack","cb_ui_again":"- Press space to try again -","tr_title":"Your creator progress","tr_new_cards_countdown":"New card in {days}:{hours}:{minutes}:{seconds}","tr_cards_to_complete":"no cards to flip | {cardsCount} card to flip | {cardsCount} cards to flip","tr_complete":"Your progress is up to date","tr_praise":"Nice work!","tr_tap_tip":"Tap to reveal","tr_load_error":"Error loading trophy road.","tr_tier_card_label":"Tier","tr_notification_progress_label":"Creator progress","tr_notification_completed_label":"Task complete!","tr_notification_link_more":"{count} more","tr_notification_link_none":"What\'s next?","tr_welcome_card_approved_label":"Approved as creator","tr_trophy_card_tier1WelcomeVideo_label":"Welcome video","tr_trophy_card_tier1WelcomeVideo_title":"Welcome video","tr_trophy_card_tier1WelcomeVideo_body":"A message from us about what you can expect from the Creator program.","tr_trophy_card_tier1WelcomeVideo_cta":"Watch now","tr_trophy_card_tier1WelcomeVideo_replay":"Watch again","tr_trophy_card_codeOfConduct_label":"Code of conduct","tr_trophy_card_codeOfConduct_title":"Code of conduct","tr_trophy_card_codeOfConduct_body":"These are the rules and behaviour expected of you as a creator.","tr_trophy_card_codeOfConduct_cta":"Watch the code","tr_trophy_card_codeOfConduct_replay":"Watch code again","tr_trophy_card_setYourFilter_label":"Set your filters","tr_trophy_card_setYourFilter_title":"Set your filters","tr_trophy_card_setYourFilter_body":"Filter the feed to get information about the games you create for.","tr_trophy_card_setYourFilter_cta":"Let`s do it","tr_trophy_card_readAPost_label":"Read a post","tr_trophy_card_readAPost_title":"Read a post","tr_trophy_card_readAPost_body":"Easy one ;) Read a post and watch out for any dates attached.","tr_trophy_card_readAPost_cta":"Go to feed","tr_trophy_card_sayHiOnDiscord_label":"Say hi on discord","tr_trophy_card_sayHiOnDiscord_title":"Say hi on discord","tr_trophy_card_sayHiOnDiscord_body":"Introduce yourself and maybe you’ll make a new friend or two.","tr_trophy_card_sayHiOnDiscord_cta":"How to connect","tr_trophy_card_claimAMerchCode_label":"Merch codes","tr_trophy_card_claimAMerchCode_title":"Claim a merch code","tr_trophy_card_claimAMerchCode_body":"Maybe you’ve got some merch waiting.","tr_trophy_card_claimAMerchCode_cta":"Have a look","tr_trophy_card_tier2WelcomeVideo_label":"Welcome video","tr_trophy_card_tier2WelcomeVideo_title":"Tier 2 welcome video","tr_trophy_card_tier2WelcomeVideo_body":"Welcome to Tier 2. There’s a lot of new perks waiting for you. Check them out!","tr_trophy_card_tier2WelcomeVideo_cta":"Watch now","tr_trophy_card_tier2WelcomeVideo_replay":"Watch again","tr_trophy_card_updatePreviews_label":"Update previews","tr_trophy_card_updatePreviews_title":"Update previews","tr_trophy_card_updatePreviews_body":"Nice! You’ve unlocked the update previews.","tr_trophy_card_updatePreviews_cta":"Got it","tr_trophy_card_tier3WelcomeVideo_label":"Welcome video","tr_trophy_card_tier3WelcomeVideo_title":"Tier 3 welcome video","tr_trophy_card_tier3WelcomeVideo_body":"Welcome to Tier 3. There’s a lot of new perks waiting for you. Check them out!","tr_trophy_card_tier3WelcomeVideo_cta":"Watch now","tr_trophy_card_tier3WelcomeVideo_replay":"Watch again","tr_trophy_card_creatorBoost_label":"Creator boost","tr_trophy_card_creatorBoost_title":"Creator boost","tr_trophy_card_creatorBoost_body":"Set up your Creator code and start earning some revenue for all your hard work.","tr_trophy_card_creatorBoost_cta":"Get boost","tr_trophy_card_sayHiOnSlack_label":"Say hi on slack","tr_trophy_card_sayHiOnSlack_title":"Say hi on slack","tr_trophy_card_sayHiOnSlack_body":"Join the discussions on Slack. Make sure to introduce yourself :)","tr_trophy_card_sayHiOnSlack_cta":"How to connect","tr_trophy_card_appCenter_label":"App center","tr_trophy_card_appCenter_title":"App center","tr_trophy_card_appCenter_body":"Dev builds? Yep, you’ve got them. Look here to learn more.","tr_trophy_card_appCenter_cta":"How to connect","tr_trophy_card_videoInbox_label":"Video inbox","tr_trophy_card_videoInbox_title":"Video inbox","tr_trophy_card_videoInbox_body":"You can now add your videos straight into the games. That’s pretty cool.","tr_trophy_card_videoInbox_cta":"Add your first video","tr_trophy_card_enterRaffle_discord_label":"Enter raffle (discord)","tr_trophy_card_enterRaffle_discord_title":"Enter raffle (discord)","tr_trophy_card_enterRaffle_discord_body":"You can now add your videos straight into the games. That’s pretty cool.","tr_trophy_card_enterRaffle_discord_cta":"Add your first video","tr_trophy_card_enterRaffle_slack_label":"Enter raffle (slack)","tr_trophy_card_enterRaffle_slack_title":"Enter raffle (slack)","tr_trophy_card_enterRaffle_slack_body":"You can now add your videos straight into the games. That’s pretty cool.","tr_trophy_card_enterRaffle_slack_cta":"Add your first video","tr_tier_2_upgrade_card_label":"Review card","tr_tier_2_upgrade_card_title":"Review card","tr_tier_2_upgrade_card_body":"Well done! Now our Community Team will personally review your account to provide feedback and let you know if you’re eligible for an upgrade. \\nPlease provide 1-2 weeks \\u2028for review.","tr_tier_2_upgrade_card_cta":"Claim now","tr_tier_2_upgrade_card_reviewed_body":"{name} has sent you a review","tr_tier_2_upgrade_card_reviewed_cta":"Read now","tr_tier_2_upgrade_card_replay_btn":"Read your reviews","tr_tier_2_upgrade_card_approved_title":"Review card","tr_tier_2_upgrade_card_approved_body":"Well hello there! We’ve looked at your account and...","tr_tier_2_upgrade_card_approved_cta":"Claim now","tr_tier_2_upgrade_card_rejected_title":"Review card","tr_tier_2_upgrade_card_rejected_body":"Hi! We whink that right now, your current tier suits well. But keep creating, and we’ll talk soon again :)","tr_tier_2_upgrade_card_rejected_cta":"Got it!","tr_tier_3_upgrade_card_label":"Review card","tr_tier_3_upgrade_card_title":"Review card","tr_tier_3_upgrade_card_body":"Get a personal review from your CM with tips on how to grow as a Creator. Allow 1-2 weeks for your CM to review your account","tr_tier_3_upgrade_card_cta":"Claim review","tr_tier_3_upgrade_card_reviewed_body":"{name} has sent you a review","tr_tier_3_upgrade_card_reviewed_cta":"Read now","tr_tier_3_upgrade_card_replay_btn":"Read your reviews","tr_tier_upgrade_card_pending_reviews":"Review in progress","tr_tier_upgrade_card_countdown_24h":"{hours}:{minutes}:{seconds}","tr_tier_upgrade_card_countdown_days":"{days} days left","tr_tier_upgrade_modal_title":"Creators review","tr_tier_upgrade_modal_date_label":"Review date:","tr_tier_upgrade_modal_no_label":"Review no:","tr_tier_upgrade_modal_creator_label":"Creator:","tr_tier_upgrade_modal_by_label":"Reviewed by:","tr_tier_upgrade_modal_close_btn":"Close","tr_tier_upgrade_modal_expand_btn":"All reviews","tr_tier_upgrade_modal_contract_btn":"Hide older reviews","tr_tier_claim_modal_title":"Are you sure?","tr_tier_claim_modal_body":"This means someone from Supercell will have a look at your Creators account and channel to see if you’re ready for a tier upgrade. Make sure you’re content is presented in the best way possible.","tr_tier_claim_modal_sec_btn":"Cancel","tr_tier_claim_modal_pri_btn":"Yes, claim review"}}')
     },
     b13e: function(e, t, a) {
         e.exports = a.p + "img/icon-tier1.13ac3ed9.svg"
@@ -11318,6 +11365,7 @@
           , c = Object(s["a"])(i, o, n, !1, null, "571e0294", null);
         t["a"] = c.exports
     },
+    d59c: function(e, t, a) {},
     dc90: function(e, t, a) {
         e.exports = a.p + "img/video-inbox-hero-mobile-EVERDALE.84b79fcc.jpg"
     },
@@ -13131,7 +13179,6 @@
           , c = Object(s["a"])(i, o, n, !1, null, "567136aa", null);
         t["a"] = c.exports
     },
-    fe22: function(e, t, a) {},
     fe6b: function(e, t, a) {
         e.exports = a.p + "img/character-bowler.1e8753b8.png"
     },
