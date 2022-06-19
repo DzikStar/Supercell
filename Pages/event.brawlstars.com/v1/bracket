@@ -1472,7 +1472,7 @@
                         "teams": [
                             {
                                 "id": 42,
-                                "score": 0
+                                "score": 2
                             },
                             {
                                 "id": 34,
@@ -1480,37 +1480,40 @@
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 0
                     },
                     {
                         "id": 2,
                         "teams": [
                             {
                                 "id": 31,
-                                "score": 0
+                                "score": 1
                             },
                             {
                                 "id": 5,
-                                "score": 0
+                                "score": 2
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 3,
                         "teams": [
                             {
                                 "id": 7,
-                                "score": 0
+                                "score": 2
                             },
                             {
                                 "id": 21,
-                                "score": 0
+                                "score": 1
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 0
                     },
                     {
                         "id": 4,
@@ -1521,29 +1524,60 @@
                             },
                             {
                                 "id": 33,
-                                "score": 0
+                                "score": 2
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 5,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 42,
+                                "score": 3
+                            },
+                            {
+                                "id": 5,
+                                "score": 1
+                            }
+                        ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 0
                     },
                     {
                         "id": 6,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 7,
+                                "score": 2
+                            },
+                            {
+                                "id": 33,
+                                "score": 3
+                            }
+                        ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 7,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 42,
+                                "score": 3
+                            },
+                            {
+                                "id": 33,
+                                "score": 2
+                            }
+                        ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 0
                     }
                 ]
             }
