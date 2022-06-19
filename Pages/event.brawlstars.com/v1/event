@@ -1,18 +1,187 @@
 [
     {
         "eventId": "4jApkFdMbvKUiHpAUhBoik",
-        "previewVideo": "G1ZurYR_rf8",
-        "teams": 8,
         "days": 1,
         "teaserVideo": "G1ZurYR_rf8",
-        "status": "published",
+        "status": "finished",
+        "name": "BSC 2022 - MSI",
+        "previewVideo": "G1ZurYR_rf8",
+        "teams": 8,
         "region": "global",
         "dayStartTimes": [
             1655562600000
         ],
-        "name": "BSC 2022 - MSI",
         "type": "global",
-        "streams": []
+        "streams": [
+            {
+                "followLink": "www.twitch.tv/ferre",
+                "streamId": 1655556166350,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "Ferre",
+                "locale": "it",
+                "region": "",
+                "title": "Ferre",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/tv_brocast",
+                "streamId": 1655556238311,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "TV_BroCast",
+                "locale": "de",
+                "region": "",
+                "title": "TV_BroCast",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.youtube.com/c/BrawlStarsZH",
+                "streamId": 1655556538762,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "f6uO0OsqAlc",
+                "locale": "zh-tc",
+                "region": "",
+                "title": "Brawl Stars 荒野亂鬥",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "https://www.youtube.com/c/ClashRoyaleUsTa",
+                "streamId": 1655556602203,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "6MSmtTrxmCA",
+                "locale": "tr",
+                "region": "",
+                "title": "Oyunların Ustası",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "https://www.twitch.tv/pioupioulover",
+                "streamId": 1655556663452,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "PioupiouLover",
+                "locale": "fr",
+                "region": "",
+                "title": "PioupiouLover",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/nearz_z",
+                "streamId": 1655556773117,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "nearz_z",
+                "locale": "es",
+                "region": "",
+                "title": "NearZ",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/rebolagamer",
+                "streamId": 1655556858828,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "rebolagamer",
+                "locale": "pt",
+                "region": "",
+                "title": "RebolaGamer",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.youtube.com/c/brawlstarsjapan",
+                "streamId": 1655557138534,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "xRc3MuZQXt4",
+                "locale": "jp",
+                "region": "",
+                "title": "ブロスタ公式",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "https://www.twitch.tv/veni_gaming",
+                "streamId": 1655557190465,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "veni_gaming",
+                "locale": "pl",
+                "region": "",
+                "title": "Veni Gaming",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.youtube.com/channel/UCjfg2My3EGjrY_TcmONUFMg",
+                "streamId": 1655557323138,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "76eoHVUxtrQ",
+                "locale": "kr",
+                "region": "",
+                "title": "시로Siro",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "https://www.youtube.com/channel/UCoH2pCzAr6zWDG-LtUiLWRw",
+                "streamId": 1655557415958,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "CtX1US1gSRw",
+                "locale": "kr",
+                "region": "",
+                "title": "홀릿 Youtube Holit",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "https://twitch.tv/brawlstars",
+                "streamId": 1655557575876,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "brawlstars",
+                "locale": "en",
+                "region": "",
+                "title": "Brawl Stars",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/thealvaro845",
+                "streamId": 1655563586700,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "thealvaro845",
+                "locale": "es",
+                "region": "",
+                "title": "Alvaro845",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/spiukbs",
+                "streamId": 1655563614810,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "spiukbs",
+                "locale": "es",
+                "region": "",
+                "title": "Spiuk",
+                "day": 1,
+                "platform": "Twitch"
+            }
+        ]
     },
     {
         "eventId": "6ojKzndZWPn0zCcRTnFMa0",
