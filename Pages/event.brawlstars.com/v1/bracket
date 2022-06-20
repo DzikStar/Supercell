@@ -1960,78 +1960,112 @@
                         "teams": [
                             {
                                 "id": 7,
-                                "score": 0
+                                "score": 1
                             },
                             {
                                 "id": 31,
-                                "score": 0
+                                "score": 2
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 2,
                         "teams": [
                             {
                                 "id": 42,
-                                "score": 0
+                                "score": 1
                             },
                             {
                                 "id": 33,
-                                "score": 0
+                                "score": 2
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 3,
                         "teams": [
                             {
                                 "id": 14,
-                                "score": 0
+                                "score": 2
                             },
                             {
                                 "id": 5,
-                                "score": 0
+                                "score": 1
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 0
                     },
                     {
                         "id": 4,
                         "teams": [
                             {
                                 "id": 34,
-                                "score": 0
+                                "score": 1
                             },
                             {
                                 "id": 21,
-                                "score": 0
+                                "score": 2
                             }
                         ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 5,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 31,
+                                "score": 1
+                            },
+                            {
+                                "id": 33,
+                                "score": 2
+                            }
+                        ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 6,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 14,
+                                "score": 1
+                            },
+                            {
+                                "id": 21,
+                                "score": 2
+                            }
+                        ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 1
                     },
                     {
                         "id": 7,
-                        "teams": [],
+                        "teams": [
+                            {
+                                "id": 33,
+                                "score": 2
+                            },
+                            {
+                                "id": 21,
+                                "score": 1
+                            }
+                        ],
                         "time": 0,
-                        "completed": false
+                        "completed": true,
+                        "winner": 0
                     }
                 ]
             }
