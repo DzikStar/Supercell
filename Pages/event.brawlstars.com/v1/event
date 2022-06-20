@@ -185,17 +185,174 @@
     },
     {
         "eventId": "6ojKzndZWPn0zCcRTnFMa0",
-        "previewVideo": "G1ZurYR_rf8",
-        "teams": 8,
         "days": 1,
         "teaserVideo": "G1ZurYR_rf8",
-        "status": "published",
+        "status": "finished",
+        "name": "Chaos Cup 2022",
+        "previewVideo": "G1ZurYR_rf8",
+        "teams": 8,
         "region": "global",
         "dayStartTimes": [
             1655649000000
         ],
-        "name": "Chaos Cup 2022",
         "type": "global",
-        "streams": []
+        "streams": [
+            {
+                "followLink": "https://twitch.tv/brawlstars",
+                "streamId": 1655649269398,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "brawlstars",
+                "locale": "en",
+                "region": "",
+                "title": "Brawl Stars",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "www.twitch.tv/psplayerd",
+                "streamId": 1655649411509,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "psplayerd",
+                "locale": "it",
+                "region": "",
+                "title": "psPlayerD",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "",
+                "streamId": 1655649486516,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "Nxl88KQoeg0",
+                "locale": "tr",
+                "region": "",
+                "title": "Oyunların Ustası",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "ws",
+                "streamId": 1655649585072,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "wuaNMseiLVU",
+                "locale": "zh-sc",
+                "region": "",
+                "title": "Brawl Stars 荒野亂鬥",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "https://www.twitch.tv/godsavethefish",
+                "streamId": 1655649633516,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "godsavethefish",
+                "locale": "fr",
+                "region": "",
+                "title": "JS GodSaveTheFish",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/thealvaro845",
+                "streamId": 1655649677737,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "thealvaro845",
+                "locale": "es",
+                "region": "",
+                "title": "Alvaro845",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/spiukbs",
+                "streamId": 1655649711351,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "spiukbs",
+                "locale": "es",
+                "region": "",
+                "title": "Spiuk",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/nearz_z",
+                "streamId": 1655649742167,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "nearz_z",
+                "locale": "es",
+                "region": "",
+                "title": "Nearz",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/brunoclash",
+                "streamId": 1655649771807,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "brunoclash",
+                "locale": "pt",
+                "region": "",
+                "title": "Bruno Clash",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.twitch.tv/psplayerd",
+                "streamId": 1655649810479,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "psplayerd",
+                "locale": "it",
+                "region": "",
+                "title": "PlayerD",
+                "day": 1,
+                "platform": "Twitch"
+            },
+            {
+                "followLink": "https://www.youtube.com/watch?v=Y5D3OeAIy20",
+                "streamId": 1655649849786,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "Y5D3OeAIy20",
+                "locale": "jp",
+                "region": "",
+                "title": "ブロスタ公式",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "https://www.youtube.com/watch?v=MmAuHSNl8KI",
+                "streamId": 1655649884373,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "MmAuHSNl8KI",
+                "locale": "pl",
+                "region": "",
+                "title": "Champion",
+                "day": 1,
+                "platform": "Youtube"
+            },
+            {
+                "followLink": "https://www.twitch.tv/tv_brocast",
+                "streamId": 1655649919741,
+                "vodId": "",
+                "vodOffset": 0,
+                "videoId": "tv_brocast",
+                "locale": "de",
+                "region": "",
+                "title": "BroCast",
+                "day": 1,
+                "platform": "Twitch"
+            }
+        ]
     }
 ]
