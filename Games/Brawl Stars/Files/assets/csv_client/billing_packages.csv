@@ -237,3 +237,4 @@
 "com.supercell.laser_cn.newstarterpack8","TID_STARTER_PACK_8",,2,"TRUE","FALSE","FALSE","TRUE","TRUE","TRUE","TRUE",250,1499,0,9800,"GD2021081116286540077144",,,8,8,125,5,,,1,0,,5000,1478
 "com.supercell.laser.seasonpass999","TID_SHOP_SPECIAL_OFFER",7,,"TRUE",,,,"TRUE",,,0,999,0,,,,,,,,,,,,,,,169
 "com.supercell.laser_cn.seasonpass999","TID_SHOP_SPECIAL_OFFER",,7,"TRUE",,,,"TRUE",,,0,999,0,6800,,,,,,,,,,,,,,169
+"com.supercell.laser.gempack0_yt","TID_PROMOCODE_PACK",4,,,"FALSE","TRUE","FALSE","TRUE",,,30,199,9,,,,,,,,,,,,,"TRUE",0,0
