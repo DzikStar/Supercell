@@ -52,7 +52,7 @@ TID_PURCHASE_BRAWL_PASS_PROGRESS_INFO,Buy <NUM> Tokens and advance to the next T
 TID_PURCHASE_BRAWL_PASS_TITLE,GET BRAWL PASS!
 TID_PURCHASE_BRAWL_PASS_TITLE_PLAIN,BRAWL PASS
 TID_PURCHASE_BRAWL_PASS_TITLE_BUNDLE,BRAWL PASS BUNDLE
-TID_PURCHASE_BRAWL_PASS_INFO_PLAIN,"Unlock Brawl Pass rewards, extra Quests and +2 Quest rerolls per week"
+TID_PURCHASE_BRAWL_PASS_INFO_PLAIN,"Unlock Brawl Pass rewards, extra Quests and <NUM> Quest rerolls per week"
 TID_PURCHASE_BRAWL_PASS_INFO_BUNDLE,BRAWL PASS + <NUM> TIERS
 TID_BRAWL_PASS_CANNOT_PURCHASE_BRAWL_PASS_FOR_PAST_SEASON,Past Brawl Pass seasons cannot be purchased
 TID_BRAWL_PASS_CANNOT_PURCHASE_NO_SEASON_FOUND,"Current Brawl Pass season cannot be found, please try again later."
@@ -69,7 +69,7 @@ TID_LFG_POPUP_INFO_TEAM,Look for a player to join your current team
 TID_LFG_POPUP_EVENT_LABEL_MEMBER,Event criteria (tap to change)
 TID_LFG_POPUP_EVENT_LABEL_TEAM,I want to play (tap to change)
 TID_LFG_POPUP_START_SEARCH,GO!
-TID_LFG_NO_ROOM_FOR_PLAYERS,This gamemode does not support any more players
+TID_LFG_NO_ROOM_FOR_PLAYERS,This game mode does not support any more players
 TID_LOOKING_FOR_A_TEAM,LOOKING FOR A TEAM
 TID_LOOKING_FOR_A_MEMBER,LOOKING FOR A MEMBER
 TID_CC_TEASER_TITLE,Coming Soon!
@@ -274,7 +274,7 @@ TID_LONG_RANGE_SHOTGUN_DESC,"Shelly's boomstick fires a wide spread of pellets t
 TID_MEGA_BLASH_ULTI,SUPER SHELL
 TID_MEGA_BLASH_ULTI_DESC,Shelly's Super Shell obliterates both cover and enemies. Any survivors get knocked back.
 TID_GUNSLINGER,COLT
-TID_GUNSLINGER_DESC,Colt fires an accurate burst of bullets from his dual revolvers. His Super shreds cover and extends the bullet barrage!
+TID_GUNSLINGER_DESC,An unlikely hero that often finds himself in the wrong place at the right time. He's not one to shy away from a mirror and is simply brimming with confidence!
 TID_RAPID_FIRE,SIX-SHOOTERS
 TID_RAPID_FIRE_DESC,Colt shoots six straight long-range shots out of his revolvers.
 TID_RAPID_FIRE_ULTI,BULLET STORM
@@ -286,13 +286,13 @@ TID_SHOTGUN_BLAST_DESC,"Bull's double-barreled shotgun deals heavy damage. It ha
 TID_CHARGE,BULLDOZER
 TID_CHARGE_DESC,Bull puts his head down and bulldozes through opponents and obstacles. He's always been headstrong!
 TID_ROCKET_GIRL,BROCK
-TID_ROCKET_GIRL_DESC,"Brock fires a long-range, explosive rocket at enemies. His Super is a ballistic rocket barrage that destroys cover!"
+TID_ROCKET_GIRL_DESC,"When Brock's not lighting up the battle with rockets, he's lighting up the dance floor with his smooth moves."
 TID_FIREWORKS_WEAPON,ROCKIN' ROCKET
 TID_FIREWORKS_WEAPON_DESC,Brock lets fly with a single Rockin' Rocket that really goes the distance.
 TID_FIREWORKS_ULTI,ROCKET RAIN
 TID_FIREWORKS_ULTI_DESC,Brock fires a rocket barrage that takes out enemies and obstacles. He only wants to see you bathing in the Rocket Rain!
 TID_TNT_DUDE,DYNAMIKE
-TID_TNT_DUDE_DESC,Dynamike lobs two explosive sticks of dynamite. His Super attack is a whole barrel full of dynamite that blows up cover!
+TID_TNT_DUDE_DESC,Long thought lost deep down a mine. Mad Dynamike is back - and he's still itching to blow everything to smithereens!
 TID_MORTAR,SHORT FUSE
 TID_MORTAR_DESC,"Mike tosses two sticks of dynamite, passing over any obstacles in the way. The fuses are cut as short as Mike's explosive temper!"
 TID_MORTAR_ULTI,BIG BARREL O' BOOM
@@ -316,7 +316,7 @@ TID_CACTUS_WEAPON_DESC,"Spike fires off a small cactus that explodes, shooting s
 TID_CACTUS_ULTI,STICK AROUND!
 TID_CACTUS_ULTI_DESC,Spike lobs a thorny grenade. Enemies caught in the blast area take damage and are slowed down.
 TID_BARKEEP,BARLEY
-TID_BARKEEP_DESC,"Barley attacks by lobbing bottles at enemies, doing splash damage. His Super is a huge barrage of burning bottles!"
+TID_BARKEEP_DESC,Barley readily serves up the finest beverages in Starr Park. Dirty his bar though and steam comes out and bottles start flying!
 TID_BARKEEP_WEAPON,UNDILUTED
 TID_BARKEEP_WEAPON_DESC,"Barley lobs a bottle, breaking it on the ground. Enemies take damage from the splash, and more damage over time if they stay in the puddle."
 TID_BARKEEP_ULTI,LAST CALL
@@ -340,7 +340,7 @@ TID_UNDERTAKER_WEAPON_DESC,"Mortis dashes forward with a sharp swing of his shov
 TID_UNDERTAKER_ULTI,LIFE BLOOD
 TID_UNDERTAKER_ULTI_DESC,Mortis calls forth a swarm of vampire bats that drain the health of enemy brawlers while restoring his. Creepy!
 TID_CROW,CROW
-TID_CROW_DESC,"Crow fires a trio of poisoned daggers. As a Super move he leaps, firing daggers both on jump and on landing!"
+TID_CROW_DESC,This enigmatic creature just appeared in town one day. Nobody dares to ruffle his feathers - not anymore.
 TID_CROW_WEAPON,SWITCHBLADE
 TID_CROW_WEAPON_DESC,Crow throws a triple threat of daggers. Enemies hit by the poisoned blades will take damage over time and have all healing effects reduced for the duration.
 TID_CROW_ULTI,SWOOP
@@ -376,7 +376,7 @@ TID_BONE_THROWER_WEAPON_DESC,The Minigunner makes wielding this massive machine 
 TID_BONE_THROWER_ULTI,BANDAGE DISPENSER
 TID_BONE_THROWER_ULTI_DESC,Sometimes you get scratches and flesh wounds in a high-intensity firefight. The Bandage Dispenser helps keep your whole team in fighting shape!
 TID_BLACK_HOLE,TARA
-TID_BLACK_HOLE_DESC,"Tara's triple tarot card attack pierces through enemies. Her Super is a black hole that sucks in all nearby enemies, causing damage!"
+TID_BLACK_HOLE_DESC,What's in the cards for you? This mystic from a far land has come to read your fortune. It says simply: DEFEAT!
 TID_BLACK_HOLE_WEAPON,TRIPLE TAROT
 TID_BLACK_HOLE_WEAPON_DESC,"Tara flicks her wrist, snapping off three tarot cards that pierce through enemies. Quite a trick!"
 TID_BLACK_HOLE_ULTI,GRAVITY
@@ -670,11 +670,11 @@ TID_HERO_INFO_ABILITY_DESC,<c<COLOR>><CAPTION></c>\n<BODY>
 TID_HERO_INFO_DYNAMIC_RARITY_INFO,"The chance to get a CHROMATIC Brawler increases with each Brawl Pass Season. Chances start at LEGENDARY, then increases to MYTHIC and finally becomes EPIC.\n\nThis Season the chance to unlock <BRAWLER> is <RARITY>."
 TID_HERO_INFO_DYNAMIC_RARITY_INFO_TIER,"The chance to get a CHROMATIC Brawler increases with each Brawl Pass Season. Chances start at LEGENDARY, then increases to MYTHIC and finally becomes EPIC.\n\nYou must reach Tier <TIER> of Season <SEASON> to make <BRAWLER> available in boxes."
 TID_HERO_INFO_DYNAMIC_RARITY_INFO_TEASER,"The chance to get a CHROMATIC Brawler increases with each Brawl Pass Season. Chances start at LEGENDARY, then increases to MYTHIC and finally becomes EPIC.\n\n<BRAWLER> arrives in Season <SEASON>."
-TID_MATCHMAKE_FAILED_5,Matchmake failed: event has expired
-TID_MATCHMAKE_FAILED_7,Matchmake failed: team member was disconnected
-TID_MATCHMAKE_FAILED_9,Matchmake failed: maintanance is starting
-TID_MATCHMAKE_FAILED_11,Matchmake failed: team member left matchmaking
-TID_MATCHMAKE_FAILED_12,Matchmake failed: you have already defeated the last boss
+TID_MATCHMAKE_FAILED_5,Matchmaking failed: event has expired
+TID_MATCHMAKE_FAILED_7,Matchmaking failed: team member was disconnected
+TID_MATCHMAKE_FAILED_9,Matchmaking failed: maintanance is starting
+TID_MATCHMAKE_FAILED_11,Matchmaking failed: team member left matchmaking
+TID_MATCHMAKE_FAILED_12,Matchmaking failed: you have already defeated the last boss
 TID_MATCHMAKE_FAILED_14,POWER PLAY can be played only with Brawlers that have a Star Power
 TID_MATCHMAKE_FAILED_15,You have run out of POWER PLAY games today
 TID_MATCHMAKE_FAILED_19,The selected Brawler is excluded from POWER PLAY and in Challenges this season
@@ -711,13 +711,13 @@ TID_SKIN_REWARD_TITLE_2,SKIN REWARD
 TID_SKIN_REWARD_INFO_2,You have unlocked a new skin as reward for connecting your account to Supercell ID
 TID_SKIN_REWARD_OK,CLAIM
 TID_HERO_REWARD_TITLE_1,MESSAGE FROM SUPPORT
-TID_HERO_REWARD_INFO_1,Brawl Stars support has donated a new Brawler to you.
+TID_HERO_REWARD_INFO_1,Brawl Stars Support has donated a new Brawler to you.
 TID_SKIN_REWARD_TITLE_0,MESSAGE FROM SUPPORT
-TID_SKIN_REWARD_INFO_0,Brawl Stars support has donated a new Skin to you.
+TID_SKIN_REWARD_INFO_0,Brawl Stars Support has donated a new Skin to you.
 TID_SKIN_REWARD_TITLE_3,MESSAGE FROM SUPPORT
-TID_SKIN_REWARD_INFO_3,Brawl Stars support has donated a new Skin to you.
+TID_SKIN_REWARD_INFO_3,Brawl Stars Support has donated a new Skin to you.
 TID_REWARD_TITLE,MESSAGE FROM SUPPORT
-TID_REWARD_INFO,You have a pending donation from Brawl Stars support
+TID_REWARD_INFO,You have a pending donation from Brawl Stars Support
 TID_REWARD_INFO_RESOURCE_FIRSTWINS,<AMOUNT> Star Tokens claimed
 TID_REWARD_INFO_RESOURCE_GOLD,<AMOUNT> Tokens claimed
 TID_REWARD_INFO_RESOURCE_LEGENDARYTROPHIES,<AMOUNT> Star Points claimed
@@ -890,7 +890,7 @@ TID_FRIEND_STATUS_BATTLE,<cffffff>battling</c> for <TIME>
 TID_FRIEND_STATUS_BATTLE_END_SCREEN,<cffffff>match end screen</c>
 TID_FRIEND_STATUS_SPECTATING,<cffffff>spectating</c>
 TID_FRIEND_STATUS_PRACTICING,<cffffff>practicing</c>
-TID_FRIEND_STATUS_MATCHMAKE,<cffffff>in matchmaking</c>
+TID_FRIEND_STATUS_MATCHMAKE,<cffffff>matchmaking</c>
 TID_FRIEND_STATUS_HOME_AD_FULL,<cffffff>in team</c>
 TID_FRIEND_STATUS_HOME_WITH_AD,<cffffff>in team</c>
 TID_FRIEND_STATUS_HOME_IN_GAMEROOM,<cffffff>in team</c>
@@ -912,7 +912,7 @@ TID_CLAN_MEMBER_ONLINE_STATUS_OFFLINE_LONG,Last online: <cf7f7f7>> 1 month ago</
 TID_CLAN_MEMBER_ONLINE_STATUS_1,<cff1e00>BATTLING</c>
 TID_CLAN_MEMBER_ONLINE_STATUS_2,<cffffff>IN MENUS</c>
 TID_CLAN_MEMBER_ONLINE_STATUS_3,<cffffff>IN MENUS</c>
-TID_CLAN_MEMBER_ONLINE_STATUS_4,<cff1e00>MATCHMAKE</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_4,<cff1e00>IN MATCHMAKING</c>
 TID_CLAN_MEMBER_ONLINE_STATUS_5,<cffffff>IN MENUS</c>
 TID_CLAN_MEMBER_ONLINE_STATUS_7,<cff1e00>SPECTATING</c>
 TID_CLAN_MEMBER_ONLINE_STATUS_8,<cff1e00>PRACTICING</c>
@@ -1115,7 +1115,7 @@ TID_TEAM_MEMBER_STATUS_0,<c999999>OFFLINE</c>
 TID_TEAM_MEMBER_STATUS_1,<cff1e00>BATTLING</c>
 TID_TEAM_MEMBER_STATUS_2,<c006cff>AWAY</c>
 TID_TEAM_MEMBER_STATUS_3,<c999999>NOT READY</c>
-TID_TEAM_MEMBER_STATUS_4,<cff1e00>MATCHMAKE</c>
+TID_TEAM_MEMBER_STATUS_4,<cff1e00>IN MATCHMAKING</c>
 TID_TEAM_MEMBER_STATUS_5,<cff1e00>END SCREEN</c>
 TID_TEAM_MEMBER_STATUS_6,<c999999>OFFLINE</c>
 TID_TEAM_MEMBER_STATUS_7,<cff1e00>SPECTATING</c>
@@ -1146,8 +1146,8 @@ TID_STREAM_EVENT_101,Team created by <sender>
 TID_STREAM_EVENT_102,Player <sender> joined
 TID_STREAM_EVENT_103,Player <sender> left
 TID_STREAM_EVENT_104,Bye! <sender> kicked <target>
-TID_STREAM_EVENT_105,matchmake started
-TID_STREAM_EVENT_106,matchmake cancelled
+TID_STREAM_EVENT_105,matchmaking started
+TID_STREAM_EVENT_106,matchmaking cancelled
 TID_STREAM_EVENT_107,battle started
 TID_STREAM_EVENT_108,battle won
 TID_STREAM_EVENT_109,battle lost
@@ -1422,7 +1422,7 @@ TID_ERROR_POP_UP_UNLOCK_UNAVAILABLE,Account unlock is unavailable at the moment.
 TID_ERROR_POP_UP_UNLOCK_UNAVAILABLE_BUTTON,Try again
 TID_ACCOUNT_LOCKED_INVALID_CODE,Invalid unlock code!
 TID_ACCOUNT_LOCKED_TITLE,Account Locked
-TID_ACCONT_LOCKED_TEXT,Your account has been locked for security reasons. Contact support to recover your account.
+TID_ACCONT_LOCKED_TEXT,Your account has been locked for security reasons. Contact Support to recover your account.
 TID_ACCOUNT_LOCKED_TEXT2,Enter unlock code here:
 TID_HERO_LIST_CONFIRM_GEM_GATCHA,Tap to confirm
 TID_NOT_ENOUGH_GEMS_TITLE,Not enough Gems
@@ -1625,11 +1625,11 @@ TID_BARREL_BOT_WEAPON_DESC,Darryl's double barrel shotguns fire two staggered bl
 TID_BARREL_BOT_ULTI,BARREL ROLL
 TID_BARREL_BOT_ULTI_DESC,"Darryl rolls forward inside his barrel, knocking back enemies, reducing incoming damage and bouncing off walls. His Super recharges over time!"
 TID_ARTILLERY_DUDE,PENNY
-TID_ARTILLERY_DUDE_DESC,"Penny shoots bags of coins, damaging the target and anyone standing behind. Her Super is a mortar-style cannon turret!"
+TID_ARTILLERY_DUDE_DESC,"A rebel without a cause, mischievous Penny rules the \qhigh seas\q. She's a bonafide menace on the lookout for adventure and will stop at nothing for plunder."
 TID_ARTILLERY_DUDE_WEAPON,PLUNDERBUSS
 TID_ARTILLERY_DUDE_WEAPON_DESC,"Shoots out a pouch of fool's gold. If the pouch hits an enemy, it bursts and coins pepper targets behind the first enemy."
 TID_ARTILLERY_DUDE_ULTI,OLD LOBBER
-TID_ARTILLERY_DUDE_ULTI_DESC,"Penny sets up her cannon! It can shoot at enemies at a long range, even if they are behind cover."
+TID_ARTILLERY_DUDE_ULTI_DESC,"Penny sets up her cannon! It can shoot at enemies at a long range, over cover and setting the ground on fire."
 TID_ITEM_NAME_SPECIAL,STAR POWER
 TID_HERO_INFO_ITEM_LOCKED,You can find this after level <LEVEL>
 TID_HERO_INFO_LOCKED_INFO,Unlock Brawler from Brawl Boxes
@@ -2166,7 +2166,7 @@ TID_TEAM_MEMBER_STATUS_NEW_0,<c999999>OFFLINE</c>
 TID_TEAM_MEMBER_STATUS_NEW_1,BATTLING
 TID_TEAM_MEMBER_STATUS_NEW_2,AWAY
 TID_TEAM_MEMBER_STATUS_NEW_3,<EMPTY>
-TID_TEAM_MEMBER_STATUS_NEW_4,MATCHMAKE
+TID_TEAM_MEMBER_STATUS_NEW_4,MATCHMAKING
 TID_TEAM_MEMBER_STATUS_NEW_5,END SCREEN
 TID_TEAM_MEMBER_STATUS_NEW_6,<c999999>OFFLINE</c>
 TID_TEAM_MEMBER_STATUS_NEW_7,SPECTATING
@@ -2532,8 +2532,8 @@ TID_CONTENT_UPDATE,Downloading Content...
 TID_BATTLE_ROYALE_28,Flying Fantasies
 TID_SHAMAN_SHIBA_SKIN,SHIBA NITA
 TID_PENNY_BUNNY_SKIN,BUNNY PENNY
-TID_SHAMAN_SHIBA_SKIN_SHOP,SHIBA NITA
-TID_PENNY_BUNNY_SKIN_SHOP,BUNNY PENNY
+TID_SHAMAN_SHIBA_SKIN_SHOP,SHIBA\nNITA
+TID_PENNY_BUNNY_SKIN_SHOP,BUNNY\nPENNY
 TID_PURCHASE_POPUP_CONFIRM_OFFER,BUY OFFER?
 TID_PURCHASE_POPUP_CONFIRM_SKIN,BUY SKIN?
 TID_PURCHASE_POPUP_CONFIRM_HERO,BUY BRAWLER?
@@ -3150,7 +3150,7 @@ TID_POCO_PIRATE_SKIN_SHOP,PIRATE\nPOCO
 TID_BEA_LADYBUG_SKIN,LADYBUG BEA
 TID_BEA_LADYBUG_SKIN_SHOP,LADYBUG\nBEA
 TID_MAX_BLUE_SKIN,GT MAX
-TID_MAX_BLUE_SKIN_SHOP,GT\nMAX
+TID_MAX_BLUE_SKIN_SHOP,GT MAX
 TID_CTF_3,Precious Presents
 TID_CTF_4,Holiday Heist
 TID_CTF_5,Cheery Getaway
@@ -3344,6 +3344,8 @@ TID_ACCESSORY_BLOCKED_SUPER_REQUIRED,Super charge required!
 TID_ACCESSORY_BLOCKED_REQUIRES_MECHA,MECHA form required!
 TID_ACCESSORY_BLOCKED_REQUIRES_DUPLICATE,Lola's Ego required!
 TID_ACCESSORY_BLOCKED_DUPLICATE_TOO_FAR,Lola's Ego is too far away!
+TID_ACCESSORY_BLOCKED_SILENCED,Silenced!
+TID_ACCESSORY_BLOCKED_RANGE_TO_TURRET,No enemies within range!
 TID_WALLY_SHORT_DESC,SUPPORT
 TID_WALLY_DESC,"Sprout was built to plant life, launching bouncy Seed Bombs with reckless love. Its Super creates a plant-based obstacle!"
 TID_WALLY_WEAPON,SEED BOMB
@@ -3780,7 +3782,7 @@ TID_BRAWLPASS_POPUP_UNLOCKED,BRAWL PASS UNLOCKED!
 TID_BRAWL_PASS_SEASON_1,SUMMER OF MONSTERS
 TID_BRAWL_PASS_INFO_TEXT_1,"Earn tons of extra rewards, including:\n\nSURGE- the new Chromatic rarity Brawler!\n\nEXCLUSIVE SKIN: <SKIN_1>!\n\nEXCLUSIVE SKIN: <SKIN_2>!\n\nEXCLUSIVE and COOL PINS for SURGE\n\n<NUM> MEGA BOXES!\n\nEXTRA COINS and POWER POINTS!\n\n\nEXTRA QUESTS to complete your Brawl Pass faster!\n\nEXCLUSIVE CHROMATIC NAME for the duration of the season!"
 TID_EMOTE_EQUIP_NOT_OWNED,Find this Pin inside Pin Packs!
-TID_RAID_BOSS_TOWN_CRUSHER_INTRO_TEXT,DEFEAT THE MEGA MONSTER!
+TID_RAID_BOSS_TOWN_CRUSHER_INTRO_TEXT,Defeat the Mega Monster!
 TID_EMOTE_CATEGORY_1,SLOT 1
 TID_EMOTE_CATEGORY_2,SLOT 2
 TID_EMOTE_CATEGORY_3,SLOT 3
@@ -3874,13 +3876,13 @@ TID_KING_OF_HILL_28,Control Grande
 TID_EMOTE_EQUIP_NOT_OWNED_SPECIAL,Collector's Pin! This Pin is not commonly available!
 TID_LOGIN_WITH_FACEBOOK,Login with Facebook
 TID_TERMS_OF_SERVICE_BUTTON_TENCENT,Tencent Game License and Service Agreement
-TID_PRIVACY_POLICY_BUTTON_TENCENT,Tencent Game Privacy Protection Guidelines
+TID_PRIVACY_POLICY_BUTTON_TENCENT,荒野乱斗隐私保护指引
 TID_PARENTS_GUIDE_BUTTON_TENCENT,Tencent Game Children Privacy Protection Guidelines
 TID_TENCENT_LOGIN_AGREEMENTS,"I have carefully read and agree with <TOS>, <PP>, <CHILDREN> and <THIRDPARTY>."
 TID_THIRD_PARTY_SHARING_BUTTON_TENCENT,Third Party Info Sharing List
 TID_TENCENT_THIRDPARTY_INFO,Third Party Info Sharing List
 TID_TENCENT_LOGIN_TOS,Tencent Game License and Service Agreement
-TID_TENCENT_LOGIN_PP,Tencent Game Privacy Protection Guidelines
+TID_TENCENT_LOGIN_PP,荒野乱斗隐私保护指引
 TID_TENCENT_LOGIN_CHILDREN,Tencent Game Children Privacy Protection Guidelines
 TID_TENCENT_LOGIN_AGREEMENT_NOTE,"You need to carefully read and agree with\n<TOS>,\n<PP>,\n<CHILDREN> and\n<THIRDPARTY>\nbefore accessing the game."
 TID_KING_OF_HILL_29,Power Surge
@@ -4001,12 +4003,19 @@ TID_TENCENT_LOGIN_AGREEMENT_POPUP_2_TITLE,Important notice
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_2,"Please note that you need to carefully read and agree with\n<TOS>,\n<PP>,\n<CHILDREN> and\n<THIRDPARTY>\nbefore accessing the game."
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_BACK,Back
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_NO,No
+TID_TENCENT_LOGIN_BS_PP,荒野乱斗隐私保护指引
+TID_TENCENT_LOGIN_SPECIAL_TOS,《腾讯游戏许可及服务协议》
+TID_TENCENT_LOGIN_SPECIAL_OLD_PP,《腾讯游戏隐私保护指引》
+TID_TENCENT_LOGIN_SPECIAL_BS_PP,《荒野乱斗隐私保护指引》
+TID_TENCENT_LOGIN_AGREEMENT_POPUP_OLD_ACCT_1_TITLE,更新提示
+TID_TENCENT_LOGIN_AGREEMENT_POPUP_OLD_ACCT_1,尊敬的腾讯游戏用户：\n为充分保障您的权利及个人信息安全，我们根据法律法规要求，\n对<OLDPP>进行了更新。我们结合本产品和业务实际，更详细、具体地向您说明我们收集和使用您个人信息的业务场景及目的，具体可参见<PP>内更新提示。\n您也可以阅读完整版\n<PP>和<TOS>\n了解详尽的个人信息处理规则和用户权利义务。如您已详细阅读并同意\n<TOS>和<PP>，\n请点击\q同意\q继续使用我们的服务。
+TID_TENCENT_LOGIN_AGREEMENT_POPUP_OLD_ACCT_2,尊敬的用户，您需要详细阅读并同意\n<TOS>、<PP>、\n<CHILDREN>和<THIRDPARTY>，\n才可进入游戏哦。
 TID_BRAWL_PASS_SEASON_2,WELCOME TO STARR PARK!
 TID_BRAWL_PASS_INFO_TEXT_2,"Earn tons of extra rewards, including:\n\n<BRAWLER>- the new Chromatic rarity Brawler!\n\nEXCLUSIVE SKIN: <SKIN_1>!\n\nEXCLUSIVE SKIN: <SKIN_2>!\n\nEXCLUSIVE and COOL PINS for <BRAWLER>\n\n<NUM> MEGA BOXES!\n\nEXTRA COINS and POWER POINTS!\n\n\nEXTRA QUESTS to complete your Brawl Pass faster!\n\nEXCLUSIVE CHROMATIC NAME for the duration of the season!"
 TID_BRAWL_PASS_SEASON_3,HOLIDAY GETAWAY
 TID_BRAWL_PASS_INFO_TEXT_3,"Earn tons of extra rewards, including:\n\n<BRAWLER>- the new Chromatic rarity Brawler!\n\nEXCLUSIVE SKIN: <SKIN_1>!\n\nEXCLUSIVE SKIN: <SKIN_2>!\n\nEXCLUSIVE and COOL PINS for <BRAWLER>\n\n<NUM> MEGA BOXES!\n\nEXTRA COINS and POWER POINTS!\n\n\nEXTRA QUESTS to complete your Brawl Pass faster!\n\nEXCLUSIVE CHROMATIC NAME for the duration of the season!"
 TID_BRAWL_PASS_SEASON_4,THE STARR FORCE!
-TID_BRAWL_PASS_INFO_TEXT_GENERIC,"Earn tons of extra rewards, including:\n\n<BRAWLER>- the new Chromatic Brawler!\n\nTIMED EXCLUSIVE SKIN: <SKIN_1>!\n\nTIMED EXCLUSIVE SKIN: <SKIN_2>!\n\nTIMED EXCLUSIVE and COOL PINS for <BRAWLER>\n\nTIMED EXCLUSIVE SPRAYS\n\n<NUM> MEGA BOXES!\n\nEXTRA COINS and POWER POINTS!\n\n\nEXTRA QUESTS to complete your Brawl Pass faster!\n\n<NUM> EXTRA QUEST REROLLS PER WEEK\n\nEXCLUSIVE CHROMATIC NAME for the duration of the season!"
+TID_BRAWL_PASS_INFO_TEXT_GENERIC,"Earn tons of extra rewards, including:\n\n<BRAWLER>- the new Chromatic Brawler!\n\nTIMED EXCLUSIVE SKIN: <SKIN_1>!\n\nTIMED EXCLUSIVE SKIN: <SKIN_2>!\n\nTIMED EXCLUSIVE and COOL PINS for <BRAWLER>\n\nTIMED EXCLUSIVE SPRAYS\n\n<NUM_BOX> MEGA BOXES!\n\nEXTRA COINS and POWER POINTS!\n\nEXTRA QUESTS to complete your Brawl Pass faster!\n\n<NUM_REROLL> EXTRA QUEST REROLLS PER WEEK\n\nEXCLUSIVE CHROMATIC NAME for the duration of the season!"
 TID_QUESTS_MORE,Show All Quests
 TID_QUESTS_MORE_NEXT_SEASON,You have completed all the Quests for Season <THIS_SEASON>. New Quests will be available when Season <NEXT_SEASON> starts.
 TID_BRAWL_PASS_AUTOCOLLECT_TITLE,Season <NUM> Rewards
@@ -4482,7 +4491,7 @@ TID_EMOTE_BUNDLE_BRALWMAS_PACK,BRAWLIDAYS PINS
 TID_MAP_EDITOR_LEGAL_WARNING_TITLE,Important notice
 TID_MAP_EDITOR_LEGAL_WARNING_DESC,"Thanks for using Map Maker. Please abide by the Tencent Game License and Service Agreement and other related regulations when using Map Maker. Do not make or spread inappropriate content that is erotic, obscene, or endangers national unity, sovereignty, and territorial integrity, or violates laws and other regulations."
 TID_MAP_EDITOR_LEGAL_WARNING_DESC_YOOZOO,"Thanks for using Map Maker. Please abide by the User Agreement and other related regulations when using Map Maker. Do not make or spread inappropriate content that is erotic, obscene, or endangers national unity, sovereignty, and territorial integrity, or violates laws and other regulations."
-TID_RUFFS,COLONEL RUFFS
+TID_RUFFS,COLONEL\nRUFFS
 TID_RUFFS_SHORT_DESC,SUPPORT
 TID_RUFFS_DESC,Ruffs fires twin shots of lasers that bounce off walls. His Super is a supply drop that can damage opponents in the drop zone and leaves a power up for your team to use.
 TID_RUFFS_WEAPON,DOUBLE-BARREL LASER
@@ -4656,7 +4665,7 @@ TID_RANKED_CLUB_LEAGUE_EVENT_LOCATION_INFO,Random Game Mode and Map
 TID_RANKED_CLUB_LEAGUE_EVENT_DESC_1,Compete in 3vs3 battles in a Team or with other players at a similar skill level to your own.
 TID_RANKED_CLUB_LEAGUE_EVENT_DESC_2,The first team to win two battles wins the match.
 TID_RANKED_CLUB_LEAGUE_EVENT_DESC_3,"Game modes and maps rotate randomly and frequently, be ready!"
-TID_RANKED_CLUB_LEAGUE_EVENT_DESC_4,"When the season ends, you get rewards based on how many Tickets you played and how your Club ranked in the season."
+TID_RANKED_CLUB_LEAGUE_EVENT_DESC_4,"When the week ends, you get rewards based on how many Tickets you played and how your Club ranked in the season."
 TID_RANKED_EVENT_SEASON_REWARDS_BUTTON,SEASON REWARDS
 TID_RANKED_EVENT_SOLO,POWER LEAGUE
 TID_RANKED_EVENT_TEAMS,POWER LEAGUE
@@ -4750,6 +4759,7 @@ TID_RANKED_PICK_ERROR_BRAWLER_BANNED,"This Brawler has been banned, pick another
 TID_RANKED_PICK_ERROR_BRAWLER_PICKED,"This Brawler has been already picked, pick another one!"
 TID_RANKED_PICK_ERROR_BRAWLER_UNRELEASED,"This Brawler is not yet available in Power League, pick another one!"
 TID_RANKED_PICK_ERROR_BRAWLER_UNRELEASED_CLUB_LEAGUE,This Brawler isn't available yet in Power Matches. Select another Brawler!
+TID_RANKED_ERROR_BRAWLER_BLACKLISTED,This brawler has been disabled by the tournament organizer
 TID_RANKED_HERO_POWER,POWER <NUM>
 TID_RANKED_REWARD_POPUP_SEASON,SEASON <SEASON>
 TID_RANKED_REWARDS_TOOL_TIP,"POWER LEAGUE has two 3v3 modes:\n\n- Solo mode, where you join two random players of similar league level to yours.\n\n- Team mode, where you first create a team of three to start a match.\n\nYour POWER LEAGUE rewards will be based on the highest rank reached during the season in either mode."
@@ -4797,6 +4807,8 @@ TID_RANKED_MATCH_TERMINATED_REASON_1,Match terminated: <NAME> disconnected
 TID_RANKED_MATCH_TERMINATED_REASON_2,Match terminated: <NAME> not responding
 TID_RANKED_MATCH_TERMINATED_REASON_3,Match terminated: season ended
 TID_RANKED_MATCH_TERMINATED_REASON_4,Match terminated (<CODE>). Please try again.
+TID_RANKED_MATCH_TERMINATED_REASON_5,Match terminated: Match too long.
+TID_RANKED_MATCH_TERMINATED_REASON_6,Match terminated: Battle too long.
 TID_RANKED_GOAL_REWARD_PURCHASE_OPTION_SKIN,EXCLUSIVE SKIN PURCHASE OPTION
 TID_RANKED_MATCH_TERMINATED_NAME_PLAYER,a player
 TID_RANKED2_CONFIRM_PICKED,PICKED
@@ -5367,17 +5379,17 @@ TID_CLUB_LEAGUES_BUTTON_EVENT_DAY,Event Day <DAY>
 TID_CLUB_LEAGUES_BUTTON_DAY_NEW,NEW DAY!
 TID_CLUB_LEAGUES_BUTTON_NEXT_EVENTS,NEXT EVENTS
 TID_CLUB_LEAGUES_BUTTON_RACE_COOLDOWN_DESC,Next Event Day in:
-TID_CLUB_LEAGUES_BUTTON_SEASON_COOLDOWN_DESC,Next Season starts in:
-TID_CLUB_LEAGUES_BUTTON_SEASON_RANK,Season rank: <RANK>
-TID_CLUB_LEAGUES_BUTTON_SEASON_RANK_NOT_RANKED,Not ranked in Season
+TID_CLUB_LEAGUES_BUTTON_SEASON_COOLDOWN_DESC,Next week starts in:
+TID_CLUB_LEAGUES_BUTTON_SEASON_RANK,This week's rank: <RANK>
+TID_CLUB_LEAGUES_BUTTON_SEASON_RANK_NOT_RANKED,Not ranked in this week
 TID_CLUB_LEAGUES_BUTTON_JOIN_CLUB_DESC,Join a Club to play
 TID_CLUB_LEAGUES_BUTTON_REGISTRATION_CLOSED,Registration closed
 TID_CLUB_LEAGUE_EVENT_TIME_LEFT,<TIME> left
 TID_CLUB_LEAGUE_EVENT_RACE_COOLDOWN_DESC,Next Event Day Starts in:
 TID_CLUB_LEAGUE_EVENT_RACE_COOLDOWN_TIME,<TIME>
-TID_CLUB_LEAGUE_EVENT_SEASON_COOLDOWN_TIME,Season starts in: <TIME>
+TID_CLUB_LEAGUE_EVENT_SEASON_COOLDOWN_TIME,Next week starts in: <TIME>
 TID_CLUB_LEAGUE_EVENT_SEASON_COOLDOWN_TITLE,CLUB LEAGUE
-TID_CLUB_LEAGUE_EVENT_SEASON_NEXT_EVENTS,Next season events:
+TID_CLUB_LEAGUE_EVENT_SEASON_NEXT_EVENTS,Next week's events:
 TID_CLUB_LEAGUE_TICKETS_PER_PLAY,<NUM><cA4B7E0>/PLAY</c>
 TID_CLUB_LEAGUE_TROPHIES_MAX_PER_WIN,Max/Win
 TID_CLUB_LEAGUE_EVENT_TROPHY_WIN_DESC,Win with Club team:
@@ -5417,17 +5429,17 @@ TID_CLUB_LEAGUE_MASTERS,MASTERS
 TID_CLUB_LEAGUE_TIER_1,I
 TID_CLUB_LEAGUE_TIER_2,II
 TID_CLUB_LEAGUE_TIER_3,III
-TID_CLUB_LEAGUE_SEASON_PROGRESS,SEASON PROGRESS
+TID_CLUB_LEAGUE_SEASON_PROGRESS,WEEK PROGRESS
 TID_CLUB_LEAGUE_SEASON_ENDS_IN,Ends in:
 TID_CLUB_LEAGUE_WAITING_FINAL_RESULTS,Waiting for final results
-TID_CLUB_LEAGUE_WAITING_FINAL_SEASON_RESULTS,Waiting for Season results
-TID_CLUB_LEAGUE_WAITING_FINAL_SEASON_RESULTS_DESC,Season results are being processed. Come back later for final results!
+TID_CLUB_LEAGUE_WAITING_FINAL_SEASON_RESULTS,Waiting for this week's results
+TID_CLUB_LEAGUE_WAITING_FINAL_SEASON_RESULTS_DESC,Week's results are being processed. Come back later for final results!
 TID_CLUB_LEAGUE_RESULTS_TITLE,Results:
-TID_CLUB_LEAGUE_SEASON_OVER,SEASON OVER!
-TID_CLUB_LEAGUE_SEASON_OVER_2,SEASON OVER
+TID_CLUB_LEAGUE_SEASON_OVER,WEEK OVER!
+TID_CLUB_LEAGUE_SEASON_OVER_2,WEEK OVER
 TID_CLUB_LEAGUE_MAX_TROPHIES_AVAILABLE,Max trophies available
-TID_CLUB_LEAGUE_SEASON_PROGRESS_TITLE,SEASON PROGRESS
-TID_CLUB_LEAGUE_SEASON_RESULTS_TITLE,SEASON RESULTS
+TID_CLUB_LEAGUE_SEASON_PROGRESS_TITLE,WEEK PROGRESS
+TID_CLUB_LEAGUE_SEASON_RESULTS_TITLE,WEEK RESULTS
 TID_CLUB_LEAGUE_ITEM_PROMOTING,PROMOTING
 TID_CLUB_LEAGUE_ITEM_PROMOTING_MULTIPLE,PROMOTING X<NUM>
 TID_CLUB_LEAGUE_ITEM_DEMOTING,DEMOTING
@@ -5439,15 +5451,15 @@ TID_CLUB_LEAGUE_COLUMN_MAX_REWARD,MAX REWARD
 TID_CLUB_LEAGUE_SHOP_DESC,Boost your progress & buy exclusive skins!
 TID_CLUB_LEAGUE_SHOP_BUTTON_DESC,BOOST YOUR PROGRESS & BUY EXCLUSIVE SKINS:
 TID_CLUB_LEAGUE_BUTTON_VISIT_CLUB_SHOP,VISIT CLUB SHOP
-TID_CLUB_LEAGUE_SEASON_END_REWARD_DESC,YOUR END OF SEASON REWARD
+TID_CLUB_LEAGUE_SEASON_END_REWARD_DESC,YOUR END OF WEEK REWARD
 TID_CLUB_LEAGUE_SEASON_END_REWARD_CLAIMED,CLAIMED
 TID_CLUB_LEAGUE_NOT_YET_RANKED,NOT YET RANKED
-TID_CLUB_LEAGUE_SEASON_REGISTRATION_CLOSED,SEASON REGISTRATION CLOSED
-TID_CLUB_LEAGUE_SPECTATE_THIS_SEASON,SPECTATE THIS SEASON
-TID_CLUB_LEAGUE_WAIT_NEXT_SEASON,Wait for the next season to play!
-TID_CLUB_LEAGUE_NEXT_SEASONS_EVENTS,Next season's events:
-TID_CLUB_LEAGUE_NEXT_SEASON_STARTS_TIME,Next season starts in <TIME>
-TID_CLUB_LEAGUE_SEASON_TICKETS_REWARD_DESC,Play all Tickets in a season to receive your individual max reward!
+TID_CLUB_LEAGUE_SEASON_REGISTRATION_CLOSED,WEEK REGISTRATION CLOSED
+TID_CLUB_LEAGUE_SPECTATE_THIS_SEASON,SPECTATE THIS WEEK
+TID_CLUB_LEAGUE_WAIT_NEXT_SEASON,Wait for the next week to play!
+TID_CLUB_LEAGUE_NEXT_SEASONS_EVENTS,Next week's events:
+TID_CLUB_LEAGUE_NEXT_SEASON_STARTS_TIME,Next week starts in <TIME>
+TID_CLUB_LEAGUE_SEASON_TICKETS_REWARD_DESC,Play all Tickets in a week to receive your individual max reward!
 TID_CLUB_LEAGUE_SEASON_TICKETS_PLAYED_TITLE,TICKETS PLAYED:
 TID_CLUB_LEAGUE_SEASON_TICKETS_PLAYED,<NUM>/<MAX>
 TID_CLUB_LEAGUE_SEASON_CLUB_COIN_REWARD,<NUM>/<MAX>
@@ -5458,7 +5470,7 @@ TID_CLUB_LEAGUE_NEED_MORE_GOLDEN_TICKETS,You need <NUM> more Golden Tickets to p
 TID_CLUB_LEAGUE_NOT_ENOUGH_GOLDEN_TICKETS_AVAILABLE_TO_PURCHASE,Not enough Golden Tickets available to purchase
 TID_CLUB_LEAGUE_FEATURE_UNAVAILABLE,This feature is currently unavailable
 TID_CLUB_LEAGUE_NOT_IN_LEAGUE,Club is not currently in league
-TID_CLUB_LEAGUE_NO_CURRENT_LEAGUE_SEASON,Club is not in current league season!
+TID_CLUB_LEAGUE_NO_CURRENT_LEAGUE_SEASON,Club is not in current league week!
 TID_DUPLICATOR,LOLA
 TID_DUPLICATOR_SHORT_DESC,DAMAGE DEALER
 TID_DUPLICATOR_DESC,"Part guide and part actress and full diva, Lola is THE leading lady of Brawlywood.\n\nShe attacks with her scarf and her Super is a channeled manifestation of her Ego."
@@ -5476,7 +5488,7 @@ TID_CLUB_UNLOCK_TITLE_CLUBS,CLUBS
 TID_CLUB_UNLOCK_TITLE_UNLOCKED,Unlocked!
 TID_CLUB_UNLOCK_SEARCHING_FOR_CLUB,Searching for the best Club for you...
 TID_CLUB_UNLOCK_CLUB_LEAGUE_TITLE,CLUB LEAGUE
-TID_CLUB_UNLOCK_JOIN_NEXT_SEASON,Join next season to win exclusive rewards!
+TID_CLUB_UNLOCK_JOIN_NEXT_SEASON,Join next week to win exclusive rewards!
 TID_CLUB_UNLOCK_CLUB_FOUND,CLUB FOUND!
 TID_CLUB_UNLOCK_WELCOME_TO_CLUB,WELCOME TO THE CLUB!
 TID_CLUB_UNLOCK_LETS_GO,LET'S GO
@@ -5489,8 +5501,8 @@ TID_CLUB_UNLOCK_STAT_TYPE,Type
 TID_SHOP_BRAWLOWEEN_TITLE,BRAWL-O-WEEN
 TID_SHOP_BRAWLOWEEN_INFO,Skin set
 TID_SKIN_INFO_BRAWLOWEEN,Brawl-o-ween skins
-TID_CLUB_LEAGUE_FLOW_NEW_SEASON,New Season!
-TID_CLUB_LEAGUE_FLOW_SEASON_ENDED,Season has ended
+TID_CLUB_LEAGUE_FLOW_NEW_SEASON,New Week!
+TID_CLUB_LEAGUE_FLOW_SEASON_ENDED,Week has ended
 TID_CLUB_LEAGUE_FLOW_CLUB_LEAGUE,CLUB LEAGUE
 TID_CLUB_LEAGUE_FLOW_DAY_NEW,NEW!
 TID_CLUB_LEAGUE_FLOW_EVENT_DAY_STARTED,EVENT DAY <NUM> STARTED!
@@ -5501,8 +5513,8 @@ TID_CLUB_LEAGUE_FLOW_BUTTON_GO_SEASON_END,ACCEPT
 TID_CLUB_LEAGUE_FLOW_BUTTON_GO_DAY_START,LET'S GO
 TID_CLUB_LEAGUE_FLOW_BUTTON_GO_DAY_END,ACCEPT
 TID_CLUB_LEAGUE_FLOW_BUTTON_GO_LEAGUE_PROMOTION,ACCEPT
-TID_CLUB_LEAGUE_FLOW_SEASON_RANK,Season Rank
-TID_CLUB_LEAGUE_FLOW_END_OF_SEASON_REWARD,YOUR SEASON END REWARD
+TID_CLUB_LEAGUE_FLOW_SEASON_RANK,Week Rank
+TID_CLUB_LEAGUE_FLOW_END_OF_SEASON_REWARD,YOUR END OF WEEK REWARD
 TID_CLUB_LEAGUE_FLOW_TICKETS_PLAYED_TITLE,Tickets played
 TID_CLUB_LEAGUE_FLOW_TICKETS_PLAYED,<NUM><cA4B7E0>/<MAX></c>
 TID_CLUB_LEAGUE_FLOW_CLUB_COIN_REWARD,<NUM>/<MAX>
@@ -5513,7 +5525,7 @@ TID_CLUB_LEAGUE_BUY_GOLD_TICKETS_ERROR_1,Purchase failed
 TID_CLUB_LEAGUE_BUY_GOLD_TICKETS_ERROR_NOT_ENOUGH_COINS,Not enough coins!
 TID_CLUB_LEAGUE_BUY_GOLD_TICKETS_ERROR_NOT_ENOUGH_GEMS,Not enough gems!
 TID_CLUB_LEAGUE_BUY_GOLD_TICKETS_ERROR_3,No tickets available for purchase!
-TID_CLUB_LEAGUE_SEASON_ENDS_IN_TIME,Season ends in <TIME>
+TID_CLUB_LEAGUE_SEASON_ENDS_IN_TIME,Week ends in <TIME>
 TID_CLUB_LEAGUE_TICKET_SHOP_TITLE,GOLDEN TICKETS
 TID_CLUB_LEAGUE_TICKET_SHOP_INFO,You can play up to <cFEA305><NUM> Golden Tickets</c> during a Club League season. Use them to play extra matches and earn more Club Trophies. Golden Tickets can improve your Club's daily rank for the Event Day they're used.\n\nAny Golden Tickets remaining at season end will be automatically transferred to the next season.\n\nGolden Tickets are not considered when calculating season end rewards.
 TID_CLUB_LEAGUE_TICKETS_GET_MORE,Get more...
@@ -5536,18 +5548,18 @@ TID_CLUB_LEAGUE_EVENTS_TITLE,EVENTS
 TID_CLUB_LEAGUE_EVENT_UNLOCKS_AT,Unlocks at
 TID_CLUB_LEAGUE_SHOW_TICKETS_TOGGLE,Show <cFFDA14>max</c> Club trophies available to collect
 TID_CLUB_LEAGUE_INFO_TITLE,CLUB LEAGUE INFO
-TID_CLUB_LEAGUE_INFO_PAGE_1_MARKER,Seasons & Event Days
-TID_CLUB_LEAGUE_INFO_PAGE_1_TITLE,<cFCBC22>SEASONS & EVENT DAYS</c>
-TID_CLUB_LEAGUE_INFO_PAGE_1_DESC,During each weekly season your Club will compete against 7 other Clubs in your League.\n\nPlay Club League events over 3 separate Event Days and win daily Club trophies for your Club. The Clubs with the most trophies at the end of each day will earn the most points for the season leaderboard.\n\nClub Trophies RESET at the end of each Event Day.\n\n<cFCBC22>TIP: Team up with other Club members to earn bonus Club trophies!</c>
-TID_CLUB_LEAGUE_INFO_PAGE_2_MARKER,Tickets
-TID_CLUB_LEAGUE_INFO_PAGE_2_TITLE,<cFCBC22>TICKETS</c>
-TID_CLUB_LEAGUE_INFO_PAGE_2_DESC,"Playing Club League events requires Tickets. Every Club member will have Tickets to play each Event Day.\n\nPlay all your tickets to maximize your season reward, and get as many club trophies for your club as you can!"
-TID_CLUB_LEAGUE_INFO_PAGE_3_MARKER,Leagues
-TID_CLUB_LEAGUE_INFO_PAGE_3_TITLE,<cFCBC22>LEAGUES</c>
-TID_CLUB_LEAGUE_INFO_PAGE_3_DESC,The Clubs with the most season points at the end of the week will be promoted to the next league while the bottom performing Clubs will be demoted. Climb to the highest league for higher challenge and rewards.
+TID_CLUB_LEAGUE_INFO_PAGE_1_MARKER,Welcome
+TID_CLUB_LEAGUE_INFO_PAGE_1_TITLE,<cFCBC22>WELCOME TO CLUB GAMES</c>
+TID_CLUB_LEAGUE_INFO_PAGE_1_DESC,"Play with your Club and earn <cFCBC22>Club Shop</c> rewards every week!\n\n1 Club Game will be active each week:\n<cFCBC22>CLUB LEAGUE WEEK</c> - Compete against other clubs in Club League to earn the highest ranking reward and climb the leagues.\n<cFCBC22>CLUB QUESTS WEEK</c> - Complete your 3 club quests to earn points for your club. The more quests your whole club completes during the week, the higher everyone´s reward will be."
+TID_CLUB_LEAGUE_INFO_PAGE_2_MARKER,Club League
+TID_CLUB_LEAGUE_INFO_PAGE_2_TITLE,<cFCBC22>CLUB LEAGUE WEEK</c>
+TID_CLUB_LEAGUE_INFO_PAGE_2_DESC,During a Club League week compete against 7 clubs in your League. Play the Club League events on <cFCBC22>3 separate days</c> and compete for the highest <cFCBC22>club trophy</c> rank. Playing Club League matches cost <cFCBC22>tickets</c>.\n\nThe best performing club across the week will earn the highest rewards. <cFCBC22>Promotions</c> and <cFCBC22>demotions</c> will take place at the end of the week.\n\nBonus: Play with other club mates to earn <cFCBC22>extra club trophies</c> from your matches.
+TID_CLUB_LEAGUE_INFO_PAGE_3_MARKER,Club Quests
+TID_CLUB_LEAGUE_INFO_PAGE_3_TITLE,<cFCBC22>CLUB QUESTS WEEK</c>
+TID_CLUB_LEAGUE_INFO_PAGE_3_DESC,"During a Club Quests Week you will have <cFCBC22>3 quests</c> to complete.\n\nCompleting Club Quests will contribute <cFCBC22>points</c> to the club. The more points the club earns by the end of the week, the higher the everyone´s reward will be. Complete at least 1 Club Quest to collect your reward.\n\nBonus: Play with any club mate to <cFCBC22>double your quest progress</c>."
 TID_CLUB_LEAGUE_INFO_PAGE_4_MARKER,Club Shop
-TID_CLUB_LEAGUE_INFO_PAGE_4_TITLE,<cFCBC22>CLUB SHOP</c>
-TID_CLUB_LEAGUE_INFO_PAGE_4_DESC,"Participating in Club League earns you Club Coins. The higher your League and season ranking the more Club Coins you can win. Play all your tickets in a season to collect all your Club Coin rewards.\n\nSpend your Club Coins in the Club Shop! You can find exclusive Skins, stock up on additional Power Points, Coins and Gear items. Check it out!"
+TID_CLUB_LEAGUE_INFO_PAGE_4_TITLE,<cFCBC22>WHAT IS THE CLUB SHOP</c>
+TID_CLUB_LEAGUE_INFO_PAGE_4_DESC,Play Club League & Club Quests to earn <cFCBC22>Club Coins</c>. Spend your Club Coins in the Club Shop!\n\nIn the Club Shop you can <cFCBC22>boost your progress</c> by up to 50% and find <cFCBC22>exclusive skins</c>!
 TID_CLUB_LEAGUE_INFO_PAGE_1_IMAGE_1,COMPETE AGAINST 7 CLUBS
 TID_CLUB_LEAGUE_INFO_PAGE_1_IMAGE_2,3 EVENT DAYS
 TID_CLUB_LEAGUE_INFO_PAGE_1_IMAGE_3,PLAY EVENTS FOR CLUB TROPHIES
@@ -5588,17 +5600,17 @@ TID_CLUB_SHOP_BUTTON,CLUB SHOP
 TID_CLUB_SHOP_DESC,Boost your progress and buy exclusive skins!
 TID_CLUB_SHOP_SKIN_BRAWLER_LOCKED,Brawler locked
 TID_CLUB_SHOP_SKIN_BRAWLER_LOCKED_DESC,Unlock Brawler to buy this Skin!
-TID_CLUB_LEAGUE_SEASON_END_NOTIFICATION,"CLUB LEAGUE SEASON END: Your Club achieved RANK <RANKING>, and as a reward you gained <COINS> <cEE1B39>Club Coins</c>!"
-TID_CLUB_LEAGUE_SEASON_END_NOTIFICATION_NO_REWARD,"CLUB LEAGUE SEASON END: Your Club achieved RANK <RANKING>, but you didn't compete this season. Participate in the next season to earn Club Coins!"
-TID_CLUB_LEAGUE_SEASON_REWARD_TABLE_TITLE,END OF SEASON MAXIMUM REWARDS
-TID_CLUB_LEAGUE_SEASON_REWARD_TABLE_SUBTITLE,Play all your Tickets in a season to receive your max reward!
+TID_CLUB_LEAGUE_SEASON_END_NOTIFICATION,"CLUB LEAGUE END OF WEEK: Your Club achieved RANK <RANKING>, and as a reward you gained <COINS> <cEE1B39>Club Coins</c>!"
+TID_CLUB_LEAGUE_SEASON_END_NOTIFICATION_NO_REWARD,"CLUB LEAGUE END OF WEEK: Your Club achieved RANK <RANKING>, but you didn't compete this week. Participate in the next week to earn Club Coins!"
+TID_CLUB_LEAGUE_SEASON_REWARD_TABLE_TITLE,END OF WEEK MAXIMUM REWARDS
+TID_CLUB_LEAGUE_SEASON_REWARD_TABLE_SUBTITLE,Play all your Tickets in a week to receive your max reward!
 TID_CLUB_LEAGUE_SEASON_REWARD_MAX,MAX
 TID_CLUB_LEAGUE_SEASON_PROMOTING_DESC,Promoting to higher League
 TID_CLUB_LEAGUE_SEASON_DEMOTING_DESC,Demoting to lower League
 TID_CLUB_LEAGUE_LOOKING_FOR_TEAM,Looking for a Team:
 TID_CLUB_LEAGUE_LOOKING_FOR_PLAYERS,Looking for Players:
 TID_CLUB_INFO_TAB_PLAYER_RANKS,PLAYER RANKS
-TID_CLUB_INFO_TAB_LEAGUE_SEASON,CLUB LEAGUE SEASON
+TID_CLUB_INFO_TAB_LEAGUE_SEASON,CLUB LEAGUE WEEK
 TID_CLUB_INFO_TAB_LEAGUE_EVENT_DAY,EVENT DAY <NUM>
 TID_CLUB_INFO_TAB_LEAGUE_EVENT_DAY_NONE,EVENT DAY
 TID_CLUB_MEMBER_LEAGUE_TICKETS,<NUM>/<MAX>
@@ -5633,20 +5645,24 @@ TID_CLUB_EVENT_INFO_CLUB_TROPHY_REWARDS,CLUB TROPHY REWARDS
 TID_REWARD_DESC_GEAR_TOKENS,GEAR TOKENS
 TID_REWARD_DESC_GEAR_TOKEN_SINGLE,GEAR TOKEN
 TID_REWARD_DESC_GEAR_SCRAP,GEAR SCRAP
-TID_CLUB_LEAGUE_REGISTRATION_CLOSED_RACE_MESSAGE,Hey! Looks like you're too late to play in this season.\n\nFeel free to still look around & spectate your Club before the next season starts!
+TID_CLUB_LEAGUE_REGISTRATION_CLOSED_RACE_MESSAGE,Hey! Looks like you're too late to play this week.\n\nFeel free to still look around & spectate your Club before the next week starts!
 TID_CLUB_LEAGUE_REGISTRATION_CLOSED_SHOP_MESSAGE,Come check out what's in the Club Shop!
 TID_CLUB_LEAGUE_FLOW_END_OF_SEASON_LEADERBOARD_TITLE,Final Results:
 TID_CLUB_LEAGUE_TEASER_TITLE,CLUB LEAGUE
 TID_CLUB_LEAGUE_TEASER_JOIN_CLUB,JOIN A CLUB
 TID_CLUB_LEAGUE_TEASER_MESSAGE,Compete with your Club to boost your progress & earn exclusive skins!
 TID_CLUB_LEAGUE_TEASER_REACH_TROPHIES_TO_UNLOCK,Reach <NUM> trophies to unlock Clubs
-TID_CLUB_LEAGUE_TEASER_JOIN_A_CLUB,Join a Club to compete next season
+TID_CLUB_LEAGUE_TEASER_JOIN_A_CLUB,Join a Club to play!
 TID_CLUB_LEAGUE_TEASER_FIND_OUT_MORE,FIND OUT MORE
-TID_CLUB_LEAGUE_EVENTS_DAYS_CURRENT_SEASON,Current Season Schedule:
-TID_CLUB_LEAGUE_EVENTS_DAYS_NEXT_SEASON,Next Season Schedule:
+TID_CLUB_LEAGUE_EVENTS_DAYS_CURRENT_SEASON,Current Week's Schedule:
+TID_CLUB_LEAGUE_EVENTS_DAYS_NEXT_SEASON,Next Week's Schedule:
 TID_CLUB_LEAGUE_EVENTS_DAY_STARTS_IN,Starts in: <TIME>
 TID_CLUB_LEAGUE_EVENTS_DAY_ENDS_IN,Ends in: <TIME>
 TID_CLUB_LEAGUE_EVENTS_INFO_BUTTON,WHAT IS CLUB LEAGUE?
+TID_CLUB_LEAGUE_EVENT_SCHEDULE_BUTTON_CURRENT_SEASON,CURRENT WEEK
+TID_CLUB_LEAGUE_EVENT_SCHEDULE_BUTTON_ENDS_IN,Ends in <TIME>
+TID_CLUB_LEAGUE_EVENT_SCHEDULE_BUTTON_NEXT_SEASON,NEXT WEEK
+TID_CLUB_LEAGUE_EVENT_SCHEDULE_BUTTON_STARTS_IN,Starts in <TIME>
 TID_CLUBS_MEMBERS_CLUB_TROPHIES,Club Trophies
 TID_CLUBS_MEMBERS_TICKETS_USED,Tickets Used
 TID_CLUBS_MEMBERS_POWER_LEAGUE_RANK,Power League Rank
@@ -5677,7 +5693,7 @@ TID_HEADLESS_RIDER_STU_SKIN,HEADLESS RIDER STU
 TID_COUNT_PENGULA_MRP_SKIN,COUNT PENGULA
 TID_SWAMP_GENE_SKIN,SWAMP GENE
 TID_GHOST_SQUEAK_SKIN_SHOP,GHOST\nSQUEAK
-TID_SURGE KONG_SKIN_SHOP,SURGE KONG
+TID_SURGE KONG_SKIN_SHOP,SURGE\nKONG
 TID_HEADLESS_RIDER_STU_SKIN_SHOP,HEADLESS RIDER\nSTU
 TID_COUNT_PENGULA_MRP_SKIN_SHOP,COUNT\nPENGULA
 TID_SWAMP_GENE_SKIN_SHOP,SWAMP\nGENE
@@ -5711,7 +5727,7 @@ TID_TRUE_GOLD_DYNAMIKE_SKIN,TRUE GOLD DYNAMIKE
 TID_TRUE_GOLD_DYNAMIKE_SKIN_SHOP,TRUE GOLD\nDYNAMIKE
 TID_TRUE_SILVER_DYNAMIKE_SKIN,TRUE SILVER DYNAMIKE
 TID_TRUE_SILVER_DYNAMIKE_SKIN_SHOP,TRUE SILVER\nDYNAMIKE
-TID_MATCHMAKE_FAILED_8,Matchmake failed: Event is unavailable
+TID_MATCHMAKE_FAILED_8,Matchmaking failed: Event is unavailable
 TID_TEAM_ERROR_51,Team join request failed: Event is unavailable
 TID_TEAM_ERROR_52,Cannot join team: Event is unavailable
 TID_TEAM_ERROR_53,Team requires more members
@@ -5767,7 +5783,7 @@ TID_LOOKING_TOGGLE_LOOKING_FOR_A_TEAM,You are now shown as LOOKING FOR A TEAM to
 TID_LOOKING_TOGGLE_LOOKING_FOR_PLAYERS,Your Team is now shown as LOOKING FOR PLAYERS to others online
 TID_CLUB_JOIN_FAIL_FEATURE_LOCKED,Cannot join club. Clubs unlock at <NUM> trophies.
 TID_CLUB_LEAGUE_LEAGUES_POPUP_CURRENT_LEAGUE,CURRENT LEAGUE
-TID_CLUB_LEAGUE_LEAGUES_POPUP_MESSAGE,Promotion & demotions at the end of each Club League season!\nClimb the leagues to increase your Club Coin rewards.
+TID_CLUB_LEAGUE_LEAGUES_POPUP_MESSAGE,Promotion & demotions at the end of each Club League week!\nClimb the leagues to increase your Club Coin rewards.
 TID_CLUB_LEAGUE_LEAGUES_POPUP_BUTTON,OK
 TID_CLUB_LEAGUE_LEAGUES_POPUP_TITLE,LEAGUES
 TID_IMPORTANT_MESSAGE_TITLE,IMPORTANT NOTICE
@@ -5844,8 +5860,8 @@ TID_FURIOUS_FANG_SKIN,FURIOUS FANG
 TID_FURIOUS_FANG_SKIN_SHOP,FURIOUS\nFANG
 TID_CLASSIC MIKE_SKIN,CLASSIC DYNAMIKE
 TID_CLASSIC MIKE_SKIN_SHOP,CLASSIC\nDYNAMIKE
-TID_EL_PRIMO_VALENTINES,El CORAZÓN
-TID_EL_PRIMO_VALENTINES_SHOP,El\nCORAZÓN
+TID_EL_PRIMO_VALENTINES,EL CORAZÓN
+TID_EL_PRIMO_VALENTINES_SHOP,EL\nCORAZÓN
 TID_GRIFF_SLEIGH_SKIN,SLEIGHER GRIFF
 TID_GRIFF_SLEIGH_SKIN_SHOP,SLEIGHER\nGRIFF
 TID_SANTA_BO_SKIN,HO HO HO BO
@@ -5932,10 +5948,10 @@ TID_CLAIM_VOUCHER_POPUP_TITLE,Claim Reward
 TID_CLAIM_VOUCHER_BUTTON_CLAIM,Claim
 TID_CLAIM_VOUCHER_BUTTON_CANCEL,Cancel
 TID_SPELL_FACTORY_CLAIM_FAILED_TITLE,Error claiming reward
-TID_SPELL_FACTORY_CLAIM_FAILED_REASON_UNKNOWN,Unable to claim reward for <c267F00><CODE></c>
-TID_SPELL_FACTORY_CLAIM_FAILED_REASON_ALREADY_CLAIMED,Unable to claim.\n\n<c267F00><CODE></c> reward has already been claimed
-TID_SPELL_FACTORY_CLAIM_FAILED_REASON_INVALID_CODE,INVALID CODE\n\n<c7F0000><CODE></c>
-TID_SPELL_FACTORY_CLAIM_FAILED_REASON_EXPIRED,Unable to claim reward.\n\n<c267F00><CODE></c> reward has expired.
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_UNKNOWN,Unable to claim the reward.
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_ALREADY_CLAIMED,Unable to claim. The reward has already been claimed.
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_INVALID_CODE,Unable to claim. The code is invalid.
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_EXPIRED,Unable to claim. The reward has expired.
 TID_RANKED_FRIENDLY_BEST_OF_TOGGLE_TITLE,BEST OF
 TID_FLEA,EVE
 TID_FLEA_SHORT_DESC,DAMAGE DEALER
@@ -5947,7 +5963,7 @@ TID_FLEA_ULTI_DESC,"Eve releases a big egg, which incubates a group of hatchling
 TID_SPEC_ABI_FLEA_1,UNNATURAL ORDER
 TID_SPEC_ABI_FLEA_1_DESC,Reverses the order of the eggs shot by her Egg Shooter.
 TID_SPEC_ABI_FLEA_2,HAPPY SURPRISE
-TID_SPEC_ABI_FLEA_2_DESC,"Upon hitting an enemy brawler, the largest egg of her Egg Shooter will spawn a hatchling."
+TID_SPEC_ABI_FLEA_2_DESC,"Every <c00cc00><VALUE1></c> seconds, the next largest egg hitting an enemy of her Egg Shooter will spawn a hatchling."
 TID_ACCESSORY_FLEA_JUMP,GOTTA GO!
 TID_ACCESSORY_FLEA_JUMP_DESC,Eve jumps away and leaves behind a hatchling.
 TID_ACCESSORY_FLEA_SYMBIOSIS,MOTHERLY LOVE
@@ -5959,7 +5975,7 @@ TID_HATCHLING_HEALTH,Hatchling Health
 TID_HATCHLING_DAMAGE,Hatchling Damage
 TID_HATCHLING_COUNT,Hatchling Count
 TID_ACCESSORY_DUPLICATOR_SWAP,STUNT DOUBLE
-TID_ACCESSORY_DUPLICATOR_SWAP_DESC,Lola and her Ego switch locations and recover <c00cc00><VALUE1></c> health.
+TID_ACCESSORY_DUPLICATOR_SWAP_DESC,Lola and her Ego switch locations. She recovers <c00cc00><VALUE1></c> health.
 TID_ACCESSORY_BLOCKED_EGO_TOO_FAR,Ego is too far!
 TID_ACCESSORY_BLOCKED_MISSING_EGO,Can't activate without Ego!
 TID_GAME_MODE_25,WIPEOUT
@@ -5976,13 +5992,13 @@ TID_ACCESSORY_BASEBALL_STICKY,EXTRA STICKY
 TID_ACCESSORY_BASEBALL_STICKY_DESC,Bibi's next Spitball slows down enemies on hit for <c00cc00><VALUE1></c> seconds!
 TID_ACCESSORY_MUMMY_ACID,ACID SPRAY
 TID_ACCESSORY_MUMMY_ACID_DESC,"Emz's next blast of hair spray can pass through walls, but deals <ccc0000><VALUE1>%</c> less damage."
-TID_FIRST_BLOOD,<name> FIRST TAKEDOWN!
-TID_KILL_NUMBER_OWN,FOUR TAKEDOWNS LEFT!
-TID_KILL_NUMBER_OPPONENT,FOUR TAKEDOWNS LEFT FOR YOUR ENEMIES!
-TID_ONE_POINT_FROM_VICTORY,ONE TAKEDOWN FROM VICTORY!
-TID_OPPONENT_ONE_POINT_FROM_VICTORY,ONE TAKEDOWN FROM DEFEAT!
-TID_VICTORY_MATCH_OVER,VICTORY!
-TID_LOSS_MATCH_OVER,DEFEAT!
+TID_FIRST_BLOOD,<name> First Takedown!
+TID_KILL_NUMBER_OWN,4 Takedowns left!
+TID_KILL_NUMBER_OPPONENT,4 Takedowns left for your enemies!
+TID_ONE_POINT_FROM_VICTORY,1 Takedown from victory!
+TID_OPPONENT_ONE_POINT_FROM_VICTORY,1 Takedown from defeat!
+TID_VICTORY_MATCH_OVER,VICTORY!\nMatch over
+TID_LOSS_MATCH_OVER,DEFEAT!\nMatch over
 TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2022,Lunar Brawl 2022 skin
 TID_LOGIN_CALENDAR_LEFT_TITLE,DAILY GIFT STREAK
 TID_LOGIN_CALENDAR_LEFT_SUBTITLE,<cfffc11>LOGIN EVERYDAY FOR 15 DAYS</c> to claim your <cfffc11>FREE GIFTS</c>! <cfffc11>DON'T MISS A DAY</c> or the streak will be gone!
@@ -6075,25 +6091,25 @@ TID_LOGIN_CALENDAR_REWARD_DESC_BRAWLER,Unlock <HERONAME>
 TID_DOCTOR_EDGAR_SKIN,DOCTOR EDGAR
 TID_DOCTOR_EDGAR_SKIN_SHOP,DOCTOR\nEDGAR
 TID_FIREFLY_RICO_SKIN,FIREFLY RICO
-TID_FIREFLY_RICO_SKIN_SHOP,FIREFLY RICO
+TID_FIREFLY_RICO_SKIN_SHOP,FIREFLY\nRICO
 TID_STAG_BEETLE_MEG_SKIN,BEETLE MEG
-TID_STAG_BEETLE_MEG_SKIN_SHOP,BEETLE MEG
+TID_STAG_BEETLE_MEG_SKIN_SHOP,BEETLE\nMEG
 TID_SAVAGE_BULL_SKIN,LION BULL
-TID_SAVAGE_BULL_SKIN_SHOP,LION BULL
+TID_SAVAGE_BULL_SKIN_SHOP,LION\nBULL
 TID_WASP_BO_SKIN,WASP BO
-TID_WASP_BO_SKIN_SHOP,WASP BO
+TID_WASP_BO_SKIN_SHOP,WASP\nBO
 TID_MR_FLY_SKIN,MR. FLY
 TID_MR_FLY_SKIN_SHOP,MR. FLY
 TID_BUNNY_GROM_SKIN,BUNNY GROM
-TID_BUNNY_GROM_SKIN_SHOP,BUNNY GROM
+TID_BUNNY_GROM_SKIN_SHOP,BUNNY\nGROM
 TID_MANTIS_ROSA_SKIN,MANTIS ROSA
-TID_MANTIS_ROSA_SKIN_SHOP,MANTIS ROSA
+TID_MANTIS_ROSA_SKIN_SHOP,MANTIS\nROSA
 TID_SPIKY_EVE_SKIN,SPIKY EVE
-TID_SPIKY_EVE_SKIN_SHOP,SPIKY EVE
+TID_SPIKY_EVE_SKIN_SHOP,SPIKY\nEVE
 TID_CORRUPTED_SPROUT_SKIN,CORRUPTED SPROUT
 TID_CORRUPTED_SPROUT_SKIN_SHOP,CORRUPTED\nSPROUT
 TID_IVY_BELLE_SKIN,IVY BELLE
-TID_IVY_BELLE_SKIN_SHOP,IVY BELLE
+TID_IVY_BELLE_SKIN_SHOP,IVY\nBELLE
 TID_TRUE_GOLD_SPROUT_SKIN,TRUE GOLD SPROUT
 TID_TRUE_GOLD_SPROUT_SKIN_SHOP,TRUE GOLD\nSPROUT
 TID_TRUE_GOLD_SURGE_SKIN,TRUE GOLD SURGE
@@ -6311,9 +6327,9 @@ TID_TRUE_SILVER_LOLA_SKIN_SHOP,TRUE SILVER\nLOLA
 TID_CRASH_TEST_DARRYL_SKIN,CRASH TEST DARRYL
 TID_CRASH_TEST_DARRYL_SKIN_SHOP,CRASH TEST\nDARRYL
 TID_BIKER_CARL_SKIN,BIKER CARL
-TID_BIKER_CARL_SKIN_SHOP,BIKER CARL
+TID_BIKER_CARL_SKIN_SHOP,BIKER\nCARL
 TID_PYRO_SPIKE_SKIN,PYRO SPIKE
-TID_PYRO_SPIKE_SKIN_SHOP,PYRO SPIKE
+TID_PYRO_SPIKE_SKIN_SHOP,PYRO\nSPIKE
 TID_MONSTER_TRUCK_MEG_SKIN,MONSTER TRUCK MEG
 TID_MONSTER_TRUCK_MEG_SKIN_SHOP,MONSTER TRUCK\nMEG
 TID_OVERLORD_BYRON_SKIN,OVERLORD BYRON
@@ -6370,6 +6386,66 @@ TID_LOGIN_CALENDAR_LOYALTY_PROGRAM,LOYALTY PROGRAM
 TID_LOGIN_CALENDAR_TITLE,STARR PARK LOYALTY PROGRAM
 TID_REWARD_DESC_PLAYER_ICON_REGULAR,PLAYER ICON
 TID_CLUB_LEAGUE_CLUB_COINS_HOW_TO_GET,Earn Club Coins by competing in Club League
+TID_CLUB_EVENTS_TITLE,CLUB GAMES
+TID_CLUB_EVENTS_LEAGUE_TAB_DAY,EVENT DAY
+TID_CLUB_EVENTS_LEAGUE_TAB_EVENT_DAY,EVENT DAY <NUM>
+TID_CLUB_EVENTS_LEAGUE_TAB_EVENT_DAY_COMPLETE,COMPLETE
+TID_CLUB_EVENTS_LEAGUE_TAB_SEASON,WEEK
+TID_CLUB_EVENTS_TAB_LEAGUE,LEAGUE
+TID_CLUB_EVENTS_TAB_QUESTS,QUESTS
+TID_CLUB_EVENTS_BUTTON_CLUB_SHOP,CLUB SHOP
+TID_CLUB_LEAGUE_MEMBER_RANKINGS_NUM_DESC_IS_TOP,Only the top <TOP> results of each club are counted. You are in position <NUM>.
+TID_CLUB_LEAGUE_MEMBER_RANKINGS_NUM_DESC_NOT_TOP,Only the top <TOP> results of each club are counted. You are in position <cF76263><NUM></c>.
+TID_CLUB_LEAGUE_MEMBER_RANKINGS_NUM_DESC_NOT_RANKED,Only the top <TOP> results of each club are counted. <cF76263>You haven't participated yet.</c>
+TID_CLUB_INFO_TOP_EVENT_DAY_PLAYER_DIVIDER,Only the top <TOP> participant results of the club are counted
+TID_CLUB_QUESTS_PLAYER_REWARD_DESC,YOUR END OF WEEK REWARD
+TID_CLUB_QUESTS_LOCKED_REWARD_DESC,COMPLETE ANY CLUB QUEST TO UNLOCK
+TID_CLUB_QUESTS_REWARD_TRACK_OVERLAY,Reach <POINTS> points with your club to get this as the End of Week Reward!
+TID_CLUB_QUESTS_REWARD_TRACK_OVERLAY_CURRENT,This is the current Club Quest End of Week Reward.
+TID_CLUB_QUESTS_REWARD_TRACK_OVERLAY_LOCKED,This is the current Club Quest End of Week Reward. Complete a Club Quest to receive it at the end of week!
+TID_CLUB_QUESTS_LEAGUES_BUTTON,LEAGUES
+TID_CLUB_QUESTS_LEAGUES_DESC,Promote to a higher Club League to increase your MAX REWARD.
+TID_CLUB_QUESTS_RANKS_CURRENT_LEAGUE,CURRENT LEAGUE
+TID_CLUB_QUESTS_RANKS_MAX_REWARD,MAX REWARD
+TID_CLUB_QUESTS_RANKS_MESSAGE,Your Club League rank determines the maximum rewards for the Club Quest week. Climb the leagues to increase your Club Coin rewards!
+TID_CLUB_QUESTS_RANKS_TITLE,LEAGUES
+TID_CLUB_QUESTS_FLOW_NEW_SEASON,New Week!
+TID_CLUB_QUESTS_FLOW_SEASON_ENDED,Week has ended
+TID_CLUB_QUESTS_FLOW_CLUB_QUESTS,CLUB QUESTS
+TID_CLUB_QUESTS_FLOW_MAX_REWARD,MAX REWARD
+TID_CLUB_QUESTS_FLOW_BUTTON_GO,ACCEPT
+TID_CLUB_QUESTS_FLOW_BUTTON_GO_SEASON_START,LET'S GO
+TID_CLUB_QUESTS_FLOW_BUTTON_GO_SEASON_END,OK
+TID_CLUB_QUESTS_FLOW_SEASON_RANK,Week Rank
+TID_CLUB_QUESTS_FLOW_END_OF_SEASON_REWARD,YOUR END OF WEEK REWARD
+TID_CLUB_QUESTS_FLOW_CLUB_COIN_REWARD,<NUM>/<MAX>
+TID_CLUB_QUESTS_DOUBLE_PROGRESS_BADGE,<cFCF044>x2</c>
+TID_CLUB_QUESTS_DOUBLE_PROGRESS_DESC,Play with at least 1 Club Member to <cFCF044>DOUBLE</c> your Club Quest Progress
+TID_CLUB_QUESTS_ALL_COMPLETED_DESC,All Club Quests completed this week!
+TID_CLUB_QUEST_ALREADY_COMPLETED,This Club Quest has been already completed!
+TID_CLUB_QUESTS_SEASON_ENDS_IN_TIME,Week ends in:
+TID_CLUB_QUESTS_REWARD_LOCKED_DESC,1st quest unlocks reward!
+TID_CLUB_QUESTS_COMPLETED_NUM,Quests completed: <NUM>/<MAX>
+TID_CLUB_QUESTS_TITLE,CLUB QUESTS
+TID_CLUB_QUESTS_NEW_SEASON,NEW WEEK!
+TID_CLUB_QUESTS_SEASON_END_NOTIFICATION,"CLUB QUESTS END OF WEEK: As a reward from the week, you gained <COINS> <cEE1B39>Club Coins</c>!"
+TID_CLUB_QUESTS_CONTRIBUTIONS_TITLE,THIS WEEK'S CONTRIBUTIONS
+TID_CLUB_QUESTS_CONTRIBUTIONS_MEMBERS,Club members: <NUM>
+TID_CLUB_QUESTS_CLUB_TEAM_BONUS,x2 CLUB TEAM BONUS
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_TITLE,TEAM UP BONUS!
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_DESC,Play with at least 1 Club Member to <cFCF044>DOUBLE</c> your Club Quest Progress!
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_PROGRESS,Club Quest Progress
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_X2,x2
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_PLAY_SOLO,PLAY SOLO
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_ONLINE,<NUM> Online
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_TEAM_UP,TEAM UP!
+TID_CLUB_QUESTS_WARNING_NOT_AVAILABLE,You can only contribute to the club in which you started this week.\n\nWait until the next week to contribute to this Club!
+TID_CLUB_QUESTS_SEASON_END_REWARD_CLAIMED,CLAIMED
+TID_CLUB_LEAGUE_WARNING_NOT_AVAILABLE,Hey! Looks like your Club is not yet participating in a Club League week. You can compete with other clubs when the next Club League week starts.
+TID_CLUB_EVENT_TIME_LEFT,<TIME> left
+TID_SHOP_CLUB_SHOP_SEE_OFFERS,SEE OFFERS
+TID_SHOP_CLUB_SHOP_TITLE,CLUB SHOP
+TID_SHOP_CLUB_SHOP_DESC,BOOST YOUR PROGRESS
 TID_SHOP_OFFER_INFO_25,A new Player Icon!
 TID_LOGIN_CALENDAR_TUTORIAL_COME_BACK,<cFFB820>COME BACK TOMORROW</c> to CLAIM this gift or the streak will be gone!
 TID_BRAWLBALL_49,Extra Bouncy
@@ -6377,3 +6453,163 @@ TID_BRAWLBALL_50,Full Tilt
 TID_BRAWLBALL_51,High Score
 TID_BRAWLBALL_52,Ping Pong
 TID_INBOX_CAPTION_72_68,DONATION: SPRAY
+TID_SILENCER,OTIS
+TID_SILENCER_SHORT_DESC,DAMAGE DEALER
+TID_SILENCER_DESC,Otis is a street artist who chills in the deep with his starfish pal Cil. Together they throw up graffiti pieces all over Starr Park.
+TID_SILENCER_WEAPON,INKY ART
+TID_SILENCER_WEAPON_DESC,Otis squirts a burst of ink drops from his spray gun arm.
+TID_SILENCER_ULTI,SILENT SEABED
+TID_SILENCER_ULTI_DESC,Otis flings Cil who grabs onto the first enemy hit and prevents them from attacking for a short while.
+TID_SPEC_ABI_SILENCER_1,STENCIL GLUE
+TID_SPEC_ABI_SILENCER_1_DESC,Cil mightily squeezes the enemy with all his might. Preventing them from attacking for <c00cc00><VALUE1>%</c> longer.
+TID_SPEC_ABI_SILENCER_2,INK REFILLS
+TID_SPEC_ABI_SILENCER_2_DESC,Otis now shoots <c00cc00><VALUE1>%</c> more ink drops.
+TID_ACCESSORY_SILENCER_GADGET_1,DORMANT STAR
+TID_ACCESSORY_SILENCER_GADGET_1_DESC,"The next starfish will stay on the ground if an enemy is not hit, laying dormant until an enemy gets close."
+TID_ACCESSORY_SILENCER_GADGET_2,PHAT SPLATTER
+TID_ACCESSORY_SILENCER_GADGET_2_DESC,"Otis's next attack shoots a giant ink ball that leaves a puddle, dealing <c00cc00><VALUE1></c> damage over time for <c00cc00><VALUE2></c> seconds."
+TID_RANDOM_GAME_MODE,MYSTERY
+TID_NOTIFICATION_RANDOM,A new MYSTERY map is available! Time to win new Rewards!
+TID_SKIN_INFO_DEEPSEA,Deep Sea Brawl skin
+TID_EMOTE_BUNDLE_DEEPSEA_PACK,Deep Sea Brawl Skin Pins
+TID_SUGGEST,SUGGEST
+TID_SUGGEST_CANCEL,CANCEL
+TID_PURCHASE_BRAWL_PASS_INFO_SHOP,UNLOCK BRAWL PASS REWARDS + EXTRA QUESTS & REROLLS!
+TID_SUGGESTED_BY,Suggested by
+TID_SHOP_DEEPSEA_SKINS,Deep Sea Brawl skin
+TID_SHOP_DEEPSEA_TITLE,DEEP SEA BRAWL
+TID_SHOP_DEEPSEA_INFO,Skin set
+TID_SKIN_INFO_BT21,BT21 skin
+TID_CLUB_EVENTS_ONBOARDING_TITLE,CLUB GAMES
+TID_CLUB_EVENTS_ONBOARDING_SUBTITLE,Boost your progress & earn exclusive skins!
+TID_CLUB_EVENTS_ONBOARDING_PAGE_1_TITLE,Welcome to weekly\nCLUB GAMES!
+TID_CLUB_EVENTS_ONBOARDING_NEW_GAME,New Club Game!
+TID_CLUB_EVENTS_ONBOARDING_PAGE_2_TITLE,CLUB LEAGUE
+TID_CLUB_EVENTS_ONBOARDING_PAGE_2_DESCRIPTION,Compete against other clubs!\nClimb the Leagues!
+TID_CLUB_EVENTS_ONBOARDING_PAGE_3_TITLE,CLUB QUESTS
+TID_CLUB_EVENTS_ONBOARDING_PAGE_3_DESCRIPTION,Complete quests with your club!
+TID_CLUB_EVENTS_ONBOARDING_PAGE_4_1,Play with your club! 1 Club Game per week.
+TID_CLUB_EVENTS_ONBOARDING_PAGE_4_2,Earn Club Coins!
+TID_CLUB_EVENTS_ONBOARDING_PAGE_4_3,Boost your progress in the Club Shop!
+TID_SUGGEST_TITLE,Suggest Brawler
+TID_CLUB_LEAGUE_TOP_24_REWARDS,All players are eligible to collect their end of week rewards
+TID_CLUB_LEAGUE_STARTS_IN,Club League starts in:
+TID_CLUB_QUESTS_STARTS_IN,Club Quests starts in:
+TID_SHOWDOWN_71,Jump Park
+TID_SHOWDOWN_72,Brawler Speedway
+TID_SHOWDOWN_73,Teleport Tag
+TID_CLUB_QUESTS_NOT_AVAILABLE,Club Quests are not currently available
+TID_CLUB_LEAGUE_NOT_AVAILABLE,Club League is not currently available
+TID_CLUB_QUESTS_WEEK_ACTIVE,QUESTS WEEK Active for:
+TID_CLUB_LEAGUE_WEEK_ACTIVE,LEAGUE WEEK Active for:
+TID_CLUB_EVENTS_ACTIVE,Active
+TID_CLUB_EVENTS_STARTING,Starting soon
+TID_CLUB_EVENTS_WAITING,Waiting
+TID_CLUB_LEAGUE_PREVIOUS_WEEK,PREVIOUS WEEK
+TID_CLUB_LEAGUE_RESULTS,Results:
+TID_CLUB_LEAGUE_WEEK_STARTS_IN_SHORT,LEAGUE WEEK Starts in:
+TID_CLUB_QUESTS_WEEK_STARTS_IN_SHORT,QUESTS WEEK Starts in:
+TID_CLUB_LEAGUE_WEEK_STARTS_IN,Next Club League week starts in: <TIME>
+TID_CLUB_QUESTS_WEEK_STARTS_IN,Next Club Quests week starts in: <TIME>
+TID_CLUB_LEAGUE_WEEK_SCHEDULE,SCHEDULE
+TID_CLUB_QUESTS_PREVIOUS_WEEK_REWARD,PREVIOUS WEEK REWARD
+TID_CLUB_LEAGUE_WEEK_STARTS_IN_TEXT,Next Club League week
+TID_CLUB_LEAGUE_WEEK_STARTS_IN_TIME,Starts in: <TIME>
+TID_CLUB_EVENTS_PREVIOUS_WEEK,WEEK OVER!
+TID_BT21_SANDY_SKIN,SANDY KOYA
+TID_BT21_SANDY_SKIN_SHOP,SANDY\nKOYA
+TID_BT21_EDGAR_SKIN,EDGAR TATA
+TID_BT21_EDGAR_SKIN_SHOP,EDGAR\nTATA
+TID_BT21_RUFFS_SKIN,RUFFS CHIMMY
+TID_BT21_RUFFS_SKIN_SHOP,RUFFS\nCHIMMY
+TID_BT21_BULL_SKIN,BULL MANG
+TID_BT21_BULL_SKIN_SHOP,BULL\nMANG
+TID_BT21_BIBI_SKIN,BIBI RJ
+TID_BT21_BIBI_SKIN_SHOP,BIBI\nRJ
+TID_BT21_JACKY_SKIN,JACKY COOKY
+TID_BT21_JACKY_SKIN_SHOP,JACKY\nCOOKY
+TID_BT21_TICK_SKIN,TICK SHOOKY
+TID_BT21_TICK_SKIN_SHOP,TICK\nSHOOKY
+TID_POSTAL_BROCK_SKIN,POSTAL BROCK
+TID_POSTAL_BROCK_SKIN_SHOP,POSTAL\nBROCK
+TID_MAKE_EMZ_SKIN,DJ 3.M.Z
+TID_MAKE_EMZ_SKIN_SHOP,DJ 3.M.Z
+TID_SHARK_JAW_COLT_SKIN,SHARKTOOTH COLT
+TID_SHARK_JAW_COLT_SKIN_SHOP,SHARKTOOTH\nCOLT
+TID_OCTO_FANG_SKIN,OCTO FANG
+TID_OCTO_FANG_SKIN_SHOP,OCTO\nFANG
+TID_CORAL_BELLE_SKIN,CORAL BELLE
+TID_CORAL_BELLE_SKIN_SHOP,CORAL\nBELLE
+TID_PHARA_OTIS_SKIN,PHARAOTIS
+TID_PHARA_OTIS_SKIN_SHOP,PHARAOTIS
+TID_RANKED_SUGGESTING_BRAWLER,Suggesting Brawler for <NAME>
+TID_RANKED_BRAWLER_SUGGESTED,BRAWLER SUGGESTED
+TID_RANKED_SUGGESTION,<NAME> suggested <BRAWLER>
+TID_CLUB_EVENTS_STARTS_IN,Starts in:
+TID_CLUB_EVENTS_ACTIVE_FOR,Active for:
+TID_GAME_MODE_28,HUNTERS
+TID_GAME_MODE_28_DESC,It's hunting season!\n\nCollect points by hunting down and defeating enemies. The FIRST player to reach <MAX_SCORE> points wins the match!
+TID_DEATHMATCH_FFA_INTRO_TEXT,Defeat opponents!
+TID_NOTIFICATION_DEATHMATCH_FFA,A new HUNTERS map is available! Time to win new Rewards!
+TID_DEATHMATCH_FFA_1,Trials and Tribulations
+TID_DEATHMATCH_FFA_2,Hunting Season
+TID_DEATHMATCH_FFA_3,The Prey
+TID_DEATHMATCH_FFA_4,Quick and Restless
+TID_DEATHMATCH_FFA_5,Deliverance
+TID_DEATHMATCH_FFA_6,True Trail
+TID_DEATHMATCH_FFA_7,Omega
+TID_CLUB_EVENTS_CHANGED_CLUB,You can only contribute to the club in which you started this week in.\n\nWait until the next week to contribute to this Club!\n\nNext week starts in: <TIME>
+TID_CLUB_QUESTS_CURRENT_CLUB_POINTS,Total points collected by your club this week
+TID_CLUB_QUESTS_THIS_WEEKS_QUESTS,THIS WEEK'S CLUB QUESTS
+TID_SPEC_ABI_ARTILLERY_DUDE_1,HEAVY COFFERS
+TID_SPEC_ABI_ARTILLERY_DUDE_1_DESC,Penny's gold pouches burst with a <c00cc00><VALUE1>%</c> wider cone after each hit.
+TID_SPEC_ABI_ARTILLERY_DUDE_2,MASTER BLASTER
+TID_SPEC_ABI_ARTILLERY_DUDE_2_DESC,Penny's cannon deals <c00cc00><VALUE1></c> damage and knocks back nearby enemies on landing.
+TID_ACCESSORY_ARTILLERY_DUDE_GADGET_1,SALTY BARREL
+TID_ACCESSORY_ARTILLERY_DUDE_GADGET_1_DESC,Penny drops a barrel of salt that blocks enemy projectiles. She can also use it to burst her own gold pouches with it.
+TID_ACCESSORY_ARTILLERY_DUDE_GADGET_2,TRUSTY SPYGLASS
+TID_ACCESSORY_ARTILLERY_DUDE_GADGET_2_DESC,Penny's cannon blasts at every visible enemy position within range.
+TID_RANDOM_GAME_MODE_DESC,"Play a match from a randomized pool of different game modes, maps and modifiers. What you'll get is a mystery!"
+TID_CLUB_QUESTS_EXPIRED,QUEST EXPIRED
+TID_CLUB_LEAGUE_ACTIVE,LEAGUE WEEK active
+TID_CLUB_QUESTS_TUTORIAL,Complete your 3 club quests this week to earn points for your club
+TID_CLUB_QUESTS_YOUR_QUESTS,YOUR CLUB QUESTS THIS WEEK
+TID_CLUB_QUESTS_NEW_QUESTS,NEW CLUB QUESTS
+TID_CLUB_QUESTS_REWARDS_INCREASED,Your max rewards have increased for Club League and Club Quests
+TID_BRAWLBALL_441,Double Jeopardy
+TID_BRAWLBALL_442,Make it Bounce
+TID_KNOCKOUT_441,Hidden Enemy
+TID_KNOCKOUT_442,Out in the Open
+TID_BANKHEIST_441,River Banks
+TID_BANKHEIST_442,Treefecta
+TID_GEMGRAB_441,Glass Half Full
+TID_GEMGRAB_442,Duality
+TID_BOUNTY_441,Don't turn around
+TID_BOUNTY_442,Side by Side
+TID_HOTZONE_441,Trident
+TID_HOTZONE_442,Imbalance
+TID_SHOWDOWN_441,Boxed In
+TID_SHOWDOWN_442,Zoomed Out
+TID_TRUE_GOLD_FANG_SKIN,TRUE GOLD FANG
+TID_TRUE_GOLD_FANG_SKIN_SHOP,TRUE GOLD\nFANG
+TID_TRUE_SILVER_FANG_SKIN,TRUE SILVER FANG
+TID_TRUE_SILVER_FANG_SKIN_SHOP,TRUE SILVER\nFANG
+TID_TRUE_GOLD_BONNIE_SKIN,TRUE GOLD BONNIE
+TID_TRUE_GOLD_BONNIE_SKIN_SHOP,TRUE GOLD\nBONNIE
+TID_TRUE_SILVER_BONNIE_SKIN,TRUE SILVER BONNIE
+TID_TRUE_SILVER_BONNIE_SKIN_SHOP,TRUE SILVER\nBONNIE
+TID_TRUE_GOLD_JANET_SKIN,TRUE GOLD JANET
+TID_TRUE_GOLD_JANET_SKIN_SHOP,TRUE GOLD\nJANET
+TID_TRUE_SILVER_JANET_SKIN,TRUE SILVER JANET
+TID_TRUE_SILVER_JANET_SKIN_SHOP,TRUE SILVER\nJANET
+TID_TRUE_GOLD_GROM_SKIN,TRUE GOLD GROM
+TID_TRUE_GOLD_GROM_SKIN_SHOP,TRUE GOLD\nGROM
+TID_TRUE_SILVER_GROM_SKIN,TRUE SILVER GROM
+TID_TRUE_SILVER_GROM_SKIN_SHOP,TRUE SILVER\nGROM
+TID_TRUE_GOLD_EVE_SKIN,TRUE GOLD EVE
+TID_TRUE_GOLD_EVE_SKIN_SHOP,TRUE GOLD\nEVE
+TID_TRUE_SILVER_EVE_SKIN,TRUE SILVER EVE
+TID_TRUE_SILVER_EVE_SKIN_SHOP,TRUE SILVER\nEVE
+TID_BRAWL_PASS_SEASON_12,DEEP SEA BRAWL
+TID_TRIPLE_TAKEDOWN,TRIPLE TAKEDOWN!
+TID_QUAD_TAKEDOWN,QUAD TAKEDOWN!
