@@ -63,6 +63,20 @@
     amber_ulti_throw_02.ogg
     amber_ulti_vo_01.ogg
     amber_ulti_vo_02.ogg
+    announcer_vo_10percentleft_01.ogg
+    announcer_vo_10secsleft_01.ogg
+    announcer_vo_1minremaining_01.ogg
+    announcer_vo_3playersleft_01.ogg
+    announcer_vo_3teamsleft_01.ogg
+    announcer_vo_50percentleft_01.ogg
+    announcer_vo_5playersleft_01.ogg
+    announcer_vo_goal_01.ogg
+    announcer_vo_overtime_01.ogg
+    announcer_vo_quadtakedown_01.ogg
+    announcer_vo_respawned_01.ogg
+    announcer_vo_showdown_01.ogg
+    announcer_vo_trippletakedown_01.ogg
+    announcer_vo_zonecaptured_01.ogg
     ash_atk_01.ogg
     ash_die_vo_01.ogg
     ash_die_vo_02.ogg
@@ -316,6 +330,7 @@
     brawl_teammode_rank_up_01.ogg
     brawl_teleport_start_01.ogg
     brawl_teleport_use_01.ogg
+    brawl_underwater_load_01.ogg
     brawl_unlock_01.ogg
     brawl_unlock_02.ogg
     brawl_volley_hit_01.ogg
@@ -1178,6 +1193,36 @@
     nita_ulti_vo_02.ogg
     nita_whale_call_01.ogg
     orb_glow_03.ogg
+    otis_atk_01.ogg
+    otis_atk_hit_01.ogg
+    otis_die_vo_01.ogg
+    otis_die_vo_02.ogg
+    otis_die_vo_03.ogg
+    otis_die_vo_04.ogg
+    otis_hurt_vo_01.ogg
+    otis_hurt_vo_02.ogg
+    otis_hurt_vo_03.ogg
+    otis_hurt_vo_04.ogg
+    otis_hurt_vo_05.ogg
+    otis_kill_vo_01.ogg
+    otis_kill_vo_02.ogg
+    otis_kill_vo_03.ogg
+    otis_kill_vo_04.ogg
+    otis_lead_vo_01.ogg
+    otis_lead_vo_02.ogg
+    otis_lead_vo_03.ogg
+    otis_lead_vo_04.ogg
+    otis_lead_vo_05.ogg
+    otis_no_ammo_01.ogg
+    otis_reload_01.ogg
+    otis_start_vo_01.ogg
+    otis_start_vo_02.ogg
+    otis_start_vo_03.ogg
+    otis_start_vo_04.ogg
+    otis_start_vo_05.ogg
+    otis_start_vo_06.ogg
+    otis_start_vo_07.ogg
+    otis_ulti_01.ogg
     overtime_02.ogg
     pam_die_vo_01.ogg
     pam_die_vo_02.ogg
