@@ -52,7 +52,7 @@ TID_PURCHASE_BRAWL_PASS_PROGRESS_INFO,Kupić <NUM> żetonów i przejść do wyż
 TID_PURCHASE_BRAWL_PASS_TITLE,ZDOBĄDŹ KARNET ZADYMIARSKI!
 TID_PURCHASE_BRAWL_PASS_TITLE_PLAIN,KARNET ZADYMIARSKI
 TID_PURCHASE_BRAWL_PASS_TITLE_BUNDLE,PAKIET Z KARNETEM ZADYMIARSKIM
-TID_PURCHASE_BRAWL_PASS_INFO_PLAIN,"Odblokuj nagrody Karnetu Zadymiarskiego, dodatkowe misje i +2 dodatkowe odświeżenia misji na tydzień"
+TID_PURCHASE_BRAWL_PASS_INFO_PLAIN,"Odblokuj nagrody Karnetu Zadymiarskiego, dodatkowe misje i <NUM> odświeżenia misji na tydzień"
 TID_PURCHASE_BRAWL_PASS_INFO_BUNDLE,KARNET ZADYMIARSKI Z <NUM> KLASAMI
 TID_BRAWL_PASS_CANNOT_PURCHASE_BRAWL_PASS_FOR_PAST_SEASON,Nie można kupić minionego sezonu Karnetu Zadymiarskiego
 TID_BRAWL_PASS_CANNOT_PURCHASE_NO_SEASON_FOUND,"Nie można znaleźć bieżącego sezonu Karnetu Zadymiarskiego, spróbuj ponownie później."
@@ -274,7 +274,7 @@ TID_LONG_RANGE_SHOTGUN_DESC,"Śrutówka Shelly ma średni zasięg i razi wrogów
 TID_MEGA_BLASH_ULTI,SUPERPOCISK
 TID_MEGA_BLASH_ULTI_DESC,"Superpocisk Shelly niszczy i osłony, i wrogów. Każdy, kto przeżyje, zostaje odrzucony."
 TID_GUNSLINGER,COLT
-TID_GUNSLINGER_DESC,Colt zasypuje przeciwników starannie wymierzonym gradem kul ze swoich rewolwerów. Jego superatak niszczy osłony i wzmacnia siłę ognia.
+TID_GUNSLINGER_DESC,"Niecodzienny bohater, który trafia w niewłaściwe miejsce o właściwej porze. Nie stroni od lustra i wprost tryska pewnością siebie!"
 TID_RAPID_FIRE,SZEŚCIOSTRZAŁOWCE
 TID_RAPID_FIRE_DESC,Colt oddaje ze swoich rewolwerów sześć dalekosiężnych strzałów.
 TID_RAPID_FIRE_ULTI,GRAD KUL
@@ -286,13 +286,13 @@ TID_SHOTGUN_BLAST_DESC,"Dubeltówka zadaje duże obrażenia, lecz ma bardzo kró
 TID_CHARGE,BULDOŻER
 TID_CHARGE_DESC,Bull pochyla się i niczym buldożer uderza w przeciwników oraz przeszkody. Widać ma mocną głowę!
 TID_ROCKET_GIRL,BROCK
-TID_ROCKET_GIRL_DESC,"Brock wystrzeliwuje we wrogów długodystansową, wybuchową rakietę. Jego superatak to seria rakiet balistycznych, która niszczy osłony."
+TID_ROCKET_GIRL_DESC,"Gdy Brock nie ostrzeliwuje wrogów rakietami, szaleje na parkiecie, pokazując swoje mistrzowskie ruchy."
 TID_FIREWORKS_WEAPON,BROCKOWA RAKIETA
 TID_FIREWORKS_WEAPON_DESC,Brock częstuje wrogów jedną Brockową Rakietą o naprawdę dużym zasięgu.
 TID_FIREWORKS_ULTI,DESZCZ RAKIET
 TID_FIREWORKS_ULTI_DESC,"Brock atakuje serią rakiet, która zmiata z powierzchni ziemi wrogów oraz przeszkody. Przygotuj się na nadciągający kataklizm!"
 TID_TNT_DUDE,DYNAMIKE
-TID_TNT_DUDE_DESC,"Mike rzuca dwoma wybuchowymi laskami dynamitu. Jego superatak to beczka wypełniona dynamitem, która niszczy osłony."
+TID_TNT_DUDE_DESC,Przez długi czas uważany za zaginionego w kopalni. Szalony Dynamike wraca i wciąż chce wysadzić wszystko w powietrze!
 TID_MORTAR,KRÓTKI LONT
 TID_MORTAR_DESC,"Mike rzuca dwoma laskami dynamitu, które mijają wszystkie napotkane na drodze przeszkody. Ich lonty są bardzo krótkie - zupełnie jak cierpliwość wybuchowego Mike´a!"
 TID_MORTAR_ULTI,WYBUCHOWA BECZKA
@@ -316,7 +316,7 @@ TID_CACTUS_WEAPON_DESC,"Spike rzuca niewielkim kaktusem, który po wybuchu rozrz
 TID_CACTUS_ULTI,KOLCZASTE POLE
 TID_CACTUS_ULTI_DESC,Spike rzuca kolczastym granatem. Znajdujący się w zasięgu wybuchu wrogowie zostają spowolnieni i otrzymują obrażenia.
 TID_BARKEEP,BARLEY
-TID_BARKEEP_DESC,"Ataki Barleya polegają na ciskaniu we wrogów butelkami, których zawartość powoduje obrażenia. Jego superatak to potężna seria płonących butelek."
+TID_BARKEEP_DESC,"Barley serwuje najlepsze napoje w Parku Starr. Jeśli pobrudzisz jego bar, zacznie buchać parą i rzucać butelkami!"
 TID_BARKEEP_WEAPON,WYSOKIE STĘŻENIE
 TID_BARKEEP_WEAPON_DESC,"Barley rzuca butelką i rozbija ją na ziemi. Wrogowie otrzymują obrażenia od rozprysku, a z czasem tracą punkty zdrowia, jeśli nie wyjdą z kałuży powstałej po rozbiciu."
 TID_BARKEEP_ULTI,OSTATNIA SZANSA
@@ -340,7 +340,7 @@ TID_UNDERTAKER_WEAPON_DESC,"Mortis błyskawicznie przesuwa się do przodu z każ
 TID_UNDERTAKER_ULTI,ŻYCIODAJNA KREW
 TID_UNDERTAKER_ULTI_DESC,"Mortis przyzywa stado wampirycznych nietoperzy, które wysysają życie z Zadymiarzy przeciwnika i leczą swojego pana. Przerażające!"
 TID_CROW,KRUK
-TID_CROW_DESC,"Kruk wystrzeliwuje trzy zatrute sztylety. Jego superatakiem jest skok, podczas którego rzuca sztyletami zarówno w trakcie lotu, jak i w chwili lądowania."
+TID_CROW_DESC,Ten enigmatyczny stwór pojawił się pewnego dnia w mieście. Nikt nie waży się z nim zadzierać - a przynajmniej już nie.
 TID_CROW_WEAPON,NÓŻ SPRĘŻYNOWY
 TID_CROW_WEAPON_DESC,"Kruk miota trzema sztyletami. Przez określony czas wrogowie trafieni zatrutymi ostrzami będą otrzymywali obrażenia, a działające na nich efekty leczenia zostaną osłabione."
 TID_CROW_ULTI,NALOT
@@ -376,7 +376,7 @@ TID_BONE_THROWER_WEAPON_DESC,"Minigunner świetnie sobie radzi z tym ogromnym ka
 TID_BONE_THROWER_ULTI,DOZOWNIK BANDAŻY
 TID_BONE_THROWER_ULTI_DESC,"Czasami w trakcie intensywnej strzelaniny mogą ci się przytrafić zadrapania albo rany. Dozownik bandaży sprawi, że cała drużyna będzie w dobrej formie podczas walki!"
 TID_BLACK_HOLE,TARA
-TID_BLACK_HOLE_DESC,"Potrójny atak kartami tarota przebija wrogów na wylot. Superatak Tary to czarna otchłań, która wciąga najbliżej położonych wrogów, zadając im obrażenia."
+TID_BLACK_HOLE_DESC,"Co kryją karty? Ta mistyczka przybyła z daleka, aby przepowiedzieć ci przyszłość. Na odwróconej karcie widnieje jedno słowo: PORAŻKA!"
 TID_BLACK_HOLE_WEAPON,TRZY KARTY TAROTA
 TID_BLACK_HOLE_WEAPON_DESC,"Zręcznym ruchem ręki Tara ciska trzy karty tarota we wrogów, przebijając ich na wylot. Niezła sztuczka!"
 TID_BLACK_HOLE_ULTI,GRAWITACJA
@@ -890,7 +890,7 @@ TID_FRIEND_STATUS_BATTLE,<cffffff>walczy</c> przez <TIME>
 TID_FRIEND_STATUS_BATTLE_END_SCREEN,<cffffff>ekran końcowy rozgrywki</c>
 TID_FRIEND_STATUS_SPECTATING,<cffffff>ogląda</c>
 TID_FRIEND_STATUS_PRACTICING,<cffffff>ćwiczy</c>
-TID_FRIEND_STATUS_MATCHMAKE,<cffffff>w trybie łączenia</c>
+TID_FRIEND_STATUS_MATCHMAKE,<cffffff>tryb łączenia graczy</c>
 TID_FRIEND_STATUS_HOME_AD_FULL,<cffffff>w drużynie</c>
 TID_FRIEND_STATUS_HOME_WITH_AD,<cffffff>w drużynie</c>
 TID_FRIEND_STATUS_HOME_IN_GAMEROOM,<cffffff>w drużynie</c>
@@ -912,7 +912,7 @@ TID_CLAN_MEMBER_ONLINE_STATUS_OFFLINE_LONG,Online: <cf7f7f7> > 1 miesiąc temu</
 TID_CLAN_MEMBER_ONLINE_STATUS_1,<cff1e00>W BITWIE</c>
 TID_CLAN_MEMBER_ONLINE_STATUS_2,<cffffff>W MENU</c>
 TID_CLAN_MEMBER_ONLINE_STATUS_3,<cffffff>W MENU</c>
-TID_CLAN_MEMBER_ONLINE_STATUS_4,<cff1e00>WYBÓR PRZECIWNIKÓW</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_4,<cff1e00>W TRYBIE ŁĄCZENIA GRACZY</c>
 TID_CLAN_MEMBER_ONLINE_STATUS_5,<cffffff>W MENU</c>
 TID_CLAN_MEMBER_ONLINE_STATUS_7,<cff1e00>OGLĄDA</c>
 TID_CLAN_MEMBER_ONLINE_STATUS_8,<cff1e00>ĆWICZY</c>
@@ -1115,7 +1115,7 @@ TID_TEAM_MEMBER_STATUS_0,<c999999>OFFLINE</c>
 TID_TEAM_MEMBER_STATUS_1,<cff1e00>W BITWIE</c>
 TID_TEAM_MEMBER_STATUS_2,<c006cff>NIEOBECNY</c>
 TID_TEAM_MEMBER_STATUS_3,<c999999>NIE GOTOWY</c>
-TID_TEAM_MEMBER_STATUS_4,<cff1e00>WYBÓR PRZECIWNIKÓW</c>
+TID_TEAM_MEMBER_STATUS_4,<cff1e00>W TRYBIE ŁĄCZENIA GRACZY</c>
 TID_TEAM_MEMBER_STATUS_5,<cff1e00>EKRAN KOŃCOWY</c>
 TID_TEAM_MEMBER_STATUS_6,<c999999>OFFLINE</c>
 TID_TEAM_MEMBER_STATUS_7,<cff1e00>OGLĄDA</c>
@@ -1146,8 +1146,8 @@ TID_STREAM_EVENT_101,Drużyna utworzona przez gracza <sender>
 TID_STREAM_EVENT_102,Dołączył gracz <sender>
 TID_STREAM_EVENT_103,Odszedł gracz <sender>
 TID_STREAM_EVENT_104,Pa! Gracz <sender> wyrzucił gracza <target>
-TID_STREAM_EVENT_105,łączenie graczy rozpoczęte
-TID_STREAM_EVENT_106,łączenie graczy anulowane
+TID_STREAM_EVENT_105,rozpoczęto łączenie graczy
+TID_STREAM_EVENT_106,anulowano łączenie graczy
 TID_STREAM_EVENT_107,bitwa rozpoczęta
 TID_STREAM_EVENT_108,bitwa wygrana
 TID_STREAM_EVENT_109,bitwa przegrana
@@ -1625,11 +1625,11 @@ TID_BARREL_BOT_WEAPON_DESC,Podwójne strzały z dubeltówek Darryla powodują ba
 TID_BARREL_BOT_ULTI,BECZKA STRACHU
 TID_BARREL_BOT_ULTI_DESC,"Darryl toczy się w swojej beczce, odrzucając wrogów, redukując otrzymywane obrażenia i odbijając się od ścian. W miarę upływu czasu moc jego superataku ponownie się ładuje!"
 TID_ARTILLERY_DUDE,PENNY
-TID_ARTILLERY_DUDE_DESC,"Penny strzela workami monet, uszkadzając cel i wszystkich, którzy się za nim znajdują. Jej superatak to działko w stylu moździerza."
+TID_ARTILLERY_DUDE_DESC,"Buntowniczka bez powodu, psotna Penny włada na \qmorzu\q. Jest nieustraszoną awanturniczką. Nie poprzestanie na niczym w poszukiwaniu skarbów."
 TID_ARTILLERY_DUDE_WEAPON,DESZCZ MONET
 TID_ARTILLERY_DUDE_WEAPON_DESC,"Strzela workiem monet ze sztucznego złota. Jeśli woreczek trafi we wroga, pęka i obsypuje monetami stojące za nim cele."
 TID_ARTILLERY_DUDE_ULTI,DALEKI STRZAŁ
-TID_ARTILLERY_DUDE_ULTI_DESC,"Penny rozstawia swoje dalekosiężne działko, które trafia nawet wrogów znajdujących się za osłonami."
+TID_ARTILLERY_DUDE_ULTI_DESC,"Penny rozstawia swoje dalekosiężne działko, które trafia nawet wrogów znajdujących się za osłonami i podpala ziemię."
 TID_ITEM_NAME_SPECIAL,GWIEZDNA MOC
 TID_HERO_INFO_ITEM_LOCKED,Dostępne po osiągnięciu <LEVEL>. poziomu
 TID_HERO_INFO_LOCKED_INFO,Odblokuj Zadymiarza ze skrzynek
@@ -2166,7 +2166,7 @@ TID_TEAM_MEMBER_STATUS_NEW_0,<c999999>OFFLINE</c>
 TID_TEAM_MEMBER_STATUS_NEW_1,W BITWIE
 TID_TEAM_MEMBER_STATUS_NEW_2,NIEOBECNY
 TID_TEAM_MEMBER_STATUS_NEW_3,<EMPTY>
-TID_TEAM_MEMBER_STATUS_NEW_4,WYBÓR PRZECIWNIKÓW
+TID_TEAM_MEMBER_STATUS_NEW_4,ŁĄCZENIE GRACZY
 TID_TEAM_MEMBER_STATUS_NEW_5,EKRAN KOŃCOWY
 TID_TEAM_MEMBER_STATUS_NEW_6,<c999999>OFFLINE</c>
 TID_TEAM_MEMBER_STATUS_NEW_7,OGLĄDA
@@ -2532,8 +2532,8 @@ TID_CONTENT_UPDATE,Pobieranie treści...
 TID_BATTLE_ROYALE_28,Powietrzne fantazje
 TID_SHAMAN_SHIBA_SKIN,SHIBA NITA
 TID_PENNY_BUNNY_SKIN,PENNY KRÓLICZEK
-TID_SHAMAN_SHIBA_SKIN_SHOP,SHIBA NITA
-TID_PENNY_BUNNY_SKIN_SHOP,PENNY KRÓLICZEK
+TID_SHAMAN_SHIBA_SKIN_SHOP,SHIBA\nNITA
+TID_PENNY_BUNNY_SKIN_SHOP,PENNY\nKRÓLICZEK
 TID_PURCHASE_POPUP_CONFIRM_OFFER,KUPIĆ TĘ OFERTĘ?
 TID_PURCHASE_POPUP_CONFIRM_SKIN,KUPIĆ PRZEBRANIE?
 TID_PURCHASE_POPUP_CONFIRM_HERO,KUPIĆ ZADYMIARZA?
@@ -3145,7 +3145,7 @@ TID_POCO_PIRATE_SKIN_SHOP,PIRAT\nPOCO
 TID_BEA_LADYBUG_SKIN,BIEDRONKA BEA
 TID_BEA_LADYBUG_SKIN_SHOP,BIEDRONKA\nBEA
 TID_MAX_BLUE_SKIN,GT MAKS
-TID_MAX_BLUE_SKIN_SHOP,GT\nMAKS
+TID_MAX_BLUE_SKIN_SHOP,GT MAKS
 TID_CTF_3,Cenne prezenty
 TID_CTF_4,Świąteczny napad
 TID_CTF_5,Radosna ucieczka
@@ -3338,6 +3338,8 @@ TID_ACCESSORY_BLOCKED_SUPER_REQUIRED,Potrzebujesz superdoładowania!
 TID_ACCESSORY_BLOCKED_REQUIRES_MECHA,Wymagana forma MECHA!
 TID_ACCESSORY_BLOCKED_REQUIRES_DUPLICATE,Wymagane jest ego Loli!
 TID_ACCESSORY_BLOCKED_DUPLICATE_TOO_FAR,Ego Loli jest za daleko!
+TID_ACCESSORY_BLOCKED_SILENCED,Uciszono!
+TID_ACCESSORY_BLOCKED_RANGE_TO_TURRET,Brak przeciwników w zasięgu.
 TID_WALLY_SHORT_DESC,WSPARCIE
 TID_WALLY_DESC,"Kiełek to zaawansowany robot rolniczy, z zapałem rozrzucający wokół siebie skaczące Bomby Siewne. Jego superatak tworzy roślinną osłonę!"
 TID_WALLY_WEAPON,BOMBA SIEWNA
@@ -3774,7 +3776,7 @@ TID_BRAWLPASS_POPUP_UNLOCKED,ODBLOKOWANO KARNET ZADYMIARSKI!
 TID_BRAWL_PASS_SEASON_1,LATO POTWORÓW
 TID_BRAWL_PASS_INFO_TEXT_1,"Zdobądź mnóstwo nagród, w tym:\n\nSURGE - nowy rzadki Zadymiarz chromatyczny!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_1>!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_2>!\n\nWYJĄTKOWE i CZADOWE ODZNAKI dla SURGE\n\n<NUM>x MEGA SKRZYNKI!\n\nDODATKOWE MONETY i PUNKTY MOCY!\n\n\nSzybsze wypełnienie Karnetu Zadymiarskiego dzięki DODATKOWYM MISJOM!\n\nWYJĄTKOWY CHROMATYCZNY KOLOR IMIENIA na czas trwania sezonu!"
 TID_EMOTE_EQUIP_NOT_OWNED,Tę odznakę można znaleźć w pakiecie odznak!
-TID_RAID_BOSS_TOWN_CRUSHER_INTRO_TEXT,POKONAJ MEGA POTWORA!
+TID_RAID_BOSS_TOWN_CRUSHER_INTRO_TEXT,Pokonaj Megapotwora!
 TID_EMOTE_CATEGORY_1,MIEJSCE 1
 TID_EMOTE_CATEGORY_2,MIEJSCE 2
 TID_EMOTE_CATEGORY_3,MIEJSCE 3
@@ -3868,13 +3870,13 @@ TID_KING_OF_HILL_28,Kontrola gniotów
 TID_EMOTE_EQUIP_NOT_OWNED_SPECIAL,Odznaka kolekcjonerska! Ta odznaka nie jest powszechnie dostępna!
 TID_LOGIN_WITH_FACEBOOK,Zaloguj się przez Facebooka
 TID_TERMS_OF_SERVICE_BUTTON_TENCENT,Umowa licencyjna i serwisowa Tencent Games
-TID_PRIVACY_POLICY_BUTTON_TENCENT,Wytyczne na temat ochrony prywatności Tencent Games
+TID_PRIVACY_POLICY_BUTTON_TENCENT,荒野乱斗隐私保护指引
 TID_PARENTS_GUIDE_BUTTON_TENCENT,Wytyczne na temat ochrony prywatności nieletnich Tencent Games
 TID_TENCENT_LOGIN_AGREEMENTS,"Oświadczam, że znam i akceptuję treść dokumentów: <TOS>, <PP>, <CHILDREN> i <THIRDPARTY>."
 TID_THIRD_PARTY_SHARING_BUTTON_TENCENT,"Lista osób trzecich, którym udostępniamy dane"
 TID_TENCENT_THIRDPARTY_INFO,"Lista osób trzecich, którym udostępniamy dane"
 TID_TENCENT_LOGIN_TOS,Umowa licencyjna i serwisowa Tencent Games
-TID_TENCENT_LOGIN_PP,Wytyczne na temat ochrony prywatności Tencent Games
+TID_TENCENT_LOGIN_PP,荒野乱斗隐私保护指引
 TID_TENCENT_LOGIN_CHILDREN,Wytyczne na temat ochrony prywatności nieletnich Tencent Games
 TID_TENCENT_LOGIN_AGREEMENT_NOTE,"Zanim zaczniesz korzystać z gry, musisz dokładnie przeczytać i zaakceptować dokumenty:\n<TOS>,\n<PP>,\n<CHILDREN> i\n<THIRDPARTY>\n."
 TID_KING_OF_HILL_29,Potęga mocy
@@ -3995,12 +3997,19 @@ TID_TENCENT_LOGIN_AGREEMENT_POPUP_2_TITLE,Ważny komunikat
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_2,"Zanim zaczniesz korzystać z gry, musisz dokładnie przeczytać i zaakceptować dokumenty:\n<TOS>,\n<PP>,\n<CHILDREN> i\n<THIRDPARTY>\n."
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_BACK,Powrót
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_NO,Nie
+TID_TENCENT_LOGIN_BS_PP,荒野乱斗隐私保护指引
+TID_TENCENT_LOGIN_SPECIAL_TOS,《腾讯游戏许可及服务协议》
+TID_TENCENT_LOGIN_SPECIAL_OLD_PP,《腾讯游戏隐私保护指引》
+TID_TENCENT_LOGIN_SPECIAL_BS_PP,《荒野乱斗隐私保护指引》
+TID_TENCENT_LOGIN_AGREEMENT_POPUP_OLD_ACCT_1_TITLE,更新提示
+TID_TENCENT_LOGIN_AGREEMENT_POPUP_OLD_ACCT_1,尊敬的腾讯游戏用户：\n为充分保障您的权利及个人信息安全，我们根据法律法规要求，\n对<OLDPP>进行了更新。我们结合本产品和业务实际，更详细、具体地向您说明我们收集和使用您个人信息的业务场景及目的，具体可参见<PP>内更新提示。\n您也可以阅读完整版\n<PP>和<TOS>\n了解详尽的个人信息处理规则和用户权利义务。如您已详细阅读并同意\n<TOS>和<PP>，\n请点击\q同意\q继续使用我们的服务。
+TID_TENCENT_LOGIN_AGREEMENT_POPUP_OLD_ACCT_2,尊敬的用户，您需要详细阅读并同意\n<TOS>、<PP>、\n<CHILDREN>和<THIRDPARTY>，\n才可进入游戏哦。
 TID_BRAWL_PASS_SEASON_2,WITAMY W PARKU STARR!
 TID_BRAWL_PASS_INFO_TEXT_2,"Zdobądź mnóstwo dodatkowych nagród, takich jak:\n\n<BRAWLER> - Nowy Zadymiarz chromatyczny!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_1>!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_2>!\n\nWYJĄTKOWE i CZADOWE ODZNAKI <BRAWLER>\n\n<NUM>x MEGASKRZYNKI!\n\nDODATKOWE MONETY i PUNKTY MOCY!\n\n\nDODATKOWE MISJE, które pomogą szybciej wypełnić Karnet Zadymiarski!\n\nWYJĄTKOWY CHROMATYCZNY KOLOR IMIENIA na czas trwania sezonu!"
 TID_BRAWL_PASS_SEASON_3,ŚWIĄTECZNA UCIECZKA
 TID_BRAWL_PASS_INFO_TEXT_3,"Zdobądź mnóstwo dodatkowych nagród, takich jak:\n\n<BRAWLER> - Nowy Zadymiarz chromatyczny!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_1>!\n\nWYJĄTKOWE PRZEBRANIE: <SKIN_2>!\n\nWYJĄTKOWE i CZADOWE ODZNAKI <BRAWLER>\n\n<NUM>x MEGASKRZYNKI!\n\nDODATKOWE MONETY i PUNKTY MOCY!\n\n\nDODATKOWE MISJE, które pomogą szybciej wypełnić Karnet Zadymiarski!\n\nWYJĄTKOWY CHROMATYCZNY KOLOR IMIENIA na czas trwania sezonu!"
 TID_BRAWL_PASS_SEASON_4,MOC STARR!
-TID_BRAWL_PASS_INFO_TEXT_GENERIC,"Zdobądź mnóstwo dodatkowych nagród takich jak:\n\n<BRAWLER>- Nowy Zadymiarz chromatyczny!\n\nOGRANICZONE CZASOWO WYJĄTKOWE PRZEBRANIE: <SKIN_1>!\n\nOGRANICZONE CZASOWO WYJĄTKOWE PRZEBRANIE: <SKIN_2>!\n\nOGRANICZONE CZASOWO WYJĄTKOWE i CZADOWE ODZNAKI <BRAWLER>\n\nOGRANICZONE CZASOWO WYJĄTKOWE SPREJE\n\n<NUM> MEGASKRZYNKI!\n\nDODATKOWE MONETY i PUNKTY MOCY!\n\n\nDODATKOWE MISJE, które pomogą szybciej wypełnić Karnet Zadymiarski!\n\n<NUM> DODATKOWE ODŚWIEŻENIA MISJI NA TYDZIEŃ\n\nWYJĄTKOWY CHROMATYCZNY KOLOR IMIENIA na czas trwania sezonu!"
+TID_BRAWL_PASS_INFO_TEXT_GENERIC,"Zdobądź mnóstwo dodatkowych nagród takich jak:\n\n<BRAWLER>- Nowy Zadymiarz chromatyczny!\n\nOGRANICZONE CZASOWO WYJĄTKOWE PRZEBRANIE: <SKIN_1>!\n\nOGRANICZONE CZASOWO WYJĄTKOWE PRZEBRANIE: <SKIN_2>!\n\nOGRANICZONE CZASOWO WYJĄTKOWE i CZADOWE ODZNAKI <BRAWLER>\n\nOGRANICZONE CZASOWO WYJĄTKOWE SPREJE\n\n<NUM_BOX> MEGASKRZYNKI!\n\nDODATKOWE MONETY i PUNKTY MOCY!\n\nDODATKOWE MISJE, które pomogą szybciej wypełnić Karnet Zadymiarski!\n\n<NUM_REROLL>DODATKOWE ODŚWIEŻENIA MISJI NA TYDZIEŃ\n\nWYJĄTKOWY CHROMATYCZNY KOLOR IMIENIA na czas trwania sezonu!"
 TID_QUESTS_MORE,Wyświetl wszystkie misje
 TID_QUESTS_MORE_NEXT_SEASON,Wszystkie misje sezonu <THIS_SEASON> zostały ukończone. Nowe misje zostaną udostępnione po rozpoczęciu sezonu <NEXT_SEASON>.
 TID_BRAWL_PASS_AUTOCOLLECT_TITLE,Nagrody sezonu <NUM>
@@ -4475,9 +4484,9 @@ TID_EMOTE_BUNDLE_BRALWMAS_PACK,ODZNAKI NA ŚWIĘTA Z BRAWL STARS
 TID_MAP_EDITOR_LEGAL_WARNING_TITLE,Ważny komunikat
 TID_MAP_EDITOR_LEGAL_WARNING_DESC,"Dziękujemy za korzystanie z edytora map. Podczas korzystania z edytora map prosimy o przestrzeganie umowy licencyjnej i serwisowej Tencent Games oraz wszelkich powiązanych warunków. Zabrania się tworzenia lub rozpowszechniania niestosownych treści, tj. treści o charakterze erotycznym lub obscenicznym, zagrażających jedności narodowej, niepodległości lub integralności terytorialnej oraz naruszających przepisy i inne obowiązujące zasady."
 TID_MAP_EDITOR_LEGAL_WARNING_DESC_YOOZOO,"Dziękujemy za korzystanie z edytora map. Podczas korzystania z edytora map prosimy o przestrzeganie umowy z użytkownikiem oraz wszelkich powiązanych warunków. Zabrania się tworzenia lub rozpowszechniania niestosownych treści, tj. treści o charakterze erotycznym lub obscenicznym, zagrażających jedności narodowej, niepodległości lub integralności terytorialnej oraz naruszających przepisy i inne obowiązujące zasady."
-TID_RUFFS,PUŁKOWNIK RUFFS
+TID_RUFFS,PUŁKOWNIK\nRUFFS
 TID_RUFFS_SHORT_DESC,WSPARCIE
-TID_RUFFS_DESC,"Ruffs wykonuje laserem dwa strzały, które odbijają się od ścian. Jego superatak to zrzut zaopatrzenia, które może zadać obszarowe obrażenia przeciwnikom, a sojusznicy mogą je zebrać jako wzmocnienie."
+TID_RUFFS_DESC,"Ruffs wykonuje dwa laserowe strzały, które odbijają się od ścian. Jego superatak to zrzut zaopatrzenia, które może zadać obszarowe obrażenia przeciwnikom, a sojusznicy mogą je zebrać jako wzmocnienie."
 TID_RUFFS_WEAPON,LASEROWA DUBELTÓWKA
 TID_RUFFS_WEAPON_DESC,Podwójny laser Ruffsa odbija się wielokrotnie od ścian i może trafić przeciwników schowanych za osłoną.
 TID_RUFFS_ULTI,ZRZUT ZAOPATRZENIA
@@ -4649,7 +4658,7 @@ TID_RANKED_CLUB_LEAGUE_EVENT_LOCATION_INFO,Losowy tryb gry i losowa mapa
 TID_RANKED_CLUB_LEAGUE_EVENT_DESC_1,Rywalizuj w bitwach 3 na 3 wraz ze swoją drużyną lub innymi graczami na podobnym poziomie.
 TID_RANKED_CLUB_LEAGUE_EVENT_DESC_2,"Mecz zwycięży pierwsza drużyna, która wygra dwie bitwy."
 TID_RANKED_CLUB_LEAGUE_EVENT_DESC_3,Tryby gry i mapy zmieniają się często w losowy sposób - przygotuj się!
-TID_RANKED_CLUB_LEAGUE_EVENT_DESC_4,"Na koniec sezonu otrzymasz nagrody uzależnione od liczby rozegranych biletów i miejsca, jakie Twój klub zajął w sezonie."
+TID_RANKED_CLUB_LEAGUE_EVENT_DESC_4,"Na koniec tygodnia otrzymasz nagrody uzależnione od liczby rozegranych biletów i miejsca, jakie Twój klub zajął w sezonie."
 TID_RANKED_EVENT_SEASON_REWARDS_BUTTON,NAGRODY SEZONU
 TID_RANKED_EVENT_SOLO,LIGA MOCY
 TID_RANKED_EVENT_TEAMS,LIGA MOCY
@@ -4742,6 +4751,7 @@ TID_RANKED_PICK_ERROR_BRAWLER_BANNED,"Ten Zadymiarz został zablokowany, wybierz
 TID_RANKED_PICK_ERROR_BRAWLER_PICKED,"Ten Zadymiarz został już wybrany, wybierz innego!"
 TID_RANKED_PICK_ERROR_BRAWLER_UNRELEASED,"Ten zadymiarz nie jest jeszcze dostępny w Lidze Mocy, wybierz innego!"
 TID_RANKED_PICK_ERROR_BRAWLER_UNRELEASED_CLUB_LEAGUE,Ten Zadymiarz nie jest jeszcze dostępny w Meczach Mocy. Wybierz innego Zadymiarza!
+TID_RANKED_ERROR_BRAWLER_BLACKLISTED,Ten zadymiarz został wyłączony przez organizatora turnieju
 TID_RANKED_HERO_POWER,MOC <NUM>
 TID_RANKED_REWARD_POPUP_SEASON,SEZON <SEASON>
 TID_RANKED_REWARDS_TOOL_TIP,"W LIDZE MOCY są dwa tryby 3 na 3:\n\n- Tryb solowy, w którym dołączasz do dwóch losowych graczy na podobnym poziomie.\n\n- Tryb drużynowy, w którym najpierw musisz utworzyć drużynę złożoną z 3 graczy, aby rozpocząć mecz.\n\nW LIDZE MOCY otrzymujesz nagrody za najwyższą pozycję osiągniętą podczas sezonu w dowolnym trybie."
@@ -4789,6 +4799,8 @@ TID_RANKED_MATCH_TERMINATED_REASON_1,Mecz przerwany: gracz <NAME> został rozł�
 TID_RANKED_MATCH_TERMINATED_REASON_2,Mecz przerwany: <NAME> nie odpowiada
 TID_RANKED_MATCH_TERMINATED_REASON_3,Mecz przerwany: sezon zakończył się
 TID_RANKED_MATCH_TERMINATED_REASON_4,Mecz przerwany (<CODE>). Spróbuj ponownie później.
+TID_RANKED_MATCH_TERMINATED_REASON_5,Mecz przerwany: mecz trwał za długo.
+TID_RANKED_MATCH_TERMINATED_REASON_6,Mecz przerwany: bitwa trwała za długo.
 TID_RANKED_GOAL_REWARD_PURCHASE_OPTION_SKIN,OPCJA ZAKUPU WYJĄTKOWEGO PRZEBRANIA
 TID_RANKED_MATCH_TERMINATED_NAME_PLAYER,gracz
 TID_RANKED2_CONFIRM_PICKED,WYBRANO
@@ -5358,17 +5370,17 @@ TID_CLUB_LEAGUES_BUTTON_EVENT_DAY,Dzień wydarzenia <DAY>
 TID_CLUB_LEAGUES_BUTTON_DAY_NEW,NOWY DZIEŃ!
 TID_CLUB_LEAGUES_BUTTON_NEXT_EVENTS,KOLEJNE WYDARZENIA
 TID_CLUB_LEAGUES_BUTTON_RACE_COOLDOWN_DESC,Kolejny dzień za:
-TID_CLUB_LEAGUES_BUTTON_SEASON_COOLDOWN_DESC,Kolejny sezon za:
-TID_CLUB_LEAGUES_BUTTON_SEASON_RANK,Miejsce w rankingu sezonu: <RANK>
-TID_CLUB_LEAGUES_BUTTON_SEASON_RANK_NOT_RANKED,Brak pozycji w sezonie
+TID_CLUB_LEAGUES_BUTTON_SEASON_COOLDOWN_DESC,Następny tydzień zaczyna się za:
+TID_CLUB_LEAGUES_BUTTON_SEASON_RANK,Pozycja w tym tygodniu: <RANK>
+TID_CLUB_LEAGUES_BUTTON_SEASON_RANK_NOT_RANKED,Brak pozycji w tym tygodniu
 TID_CLUB_LEAGUES_BUTTON_JOIN_CLUB_DESC,"Dołącz do klubu, aby grać"
 TID_CLUB_LEAGUES_BUTTON_REGISTRATION_CLOSED,Rejestracja zakończona
 TID_CLUB_LEAGUE_EVENT_TIME_LEFT,Pozostało <TIME>
 TID_CLUB_LEAGUE_EVENT_RACE_COOLDOWN_DESC,Kolejny dzień wydarzenia za:
 TID_CLUB_LEAGUE_EVENT_RACE_COOLDOWN_TIME,<TIME>
-TID_CLUB_LEAGUE_EVENT_SEASON_COOLDOWN_TIME,Sezon zaczyna się za: <TIME>
+TID_CLUB_LEAGUE_EVENT_SEASON_COOLDOWN_TIME,Następny tydzień zaczyna się za: <TIME>
 TID_CLUB_LEAGUE_EVENT_SEASON_COOLDOWN_TITLE,LIGA KLUBOWA
-TID_CLUB_LEAGUE_EVENT_SEASON_NEXT_EVENTS,Następne wydarzenia sezonu:
+TID_CLUB_LEAGUE_EVENT_SEASON_NEXT_EVENTS,Wydarzenia następnego tygodnia:
 TID_CLUB_LEAGUE_TICKETS_PER_PLAY,<NUM><cA4B7E0>/GRAJ</c>
 TID_CLUB_LEAGUE_TROPHIES_MAX_PER_WIN,Maks./wygrana
 TID_CLUB_LEAGUE_EVENT_TROPHY_WIN_DESC,Wygraj z drużyną klubową:
@@ -5408,17 +5420,17 @@ TID_CLUB_LEAGUE_MASTERS,MISTRZOWIE
 TID_CLUB_LEAGUE_TIER_1,I
 TID_CLUB_LEAGUE_TIER_2,II
 TID_CLUB_LEAGUE_TIER_3,III
-TID_CLUB_LEAGUE_SEASON_PROGRESS,POSTĘPY W SEZONIE
+TID_CLUB_LEAGUE_SEASON_PROGRESS,POSTĘP W TYGODNIU
 TID_CLUB_LEAGUE_SEASON_ENDS_IN,Koniec za:
 TID_CLUB_LEAGUE_WAITING_FINAL_RESULTS,Oczekiwanie na końcowe wyniki
-TID_CLUB_LEAGUE_WAITING_FINAL_SEASON_RESULTS,Oczekiwanie na wyniki sezonu
-TID_CLUB_LEAGUE_WAITING_FINAL_SEASON_RESULTS_DESC,"Wyniki sezonu są przetwarzane. Wróć później, by poznać wyniki końcowe!"
+TID_CLUB_LEAGUE_WAITING_FINAL_SEASON_RESULTS,Oczekiwanie na wyniki za ten tydzień
+TID_CLUB_LEAGUE_WAITING_FINAL_SEASON_RESULTS_DESC,"Wyniki tygodnia są przetwarzane. Wróć później, by poznać wyniki końcowe!"
 TID_CLUB_LEAGUE_RESULTS_TITLE,Wyniki:
-TID_CLUB_LEAGUE_SEASON_OVER,SEZON DOBIEGŁ KOŃCA!
-TID_CLUB_LEAGUE_SEASON_OVER_2,SEZON DOBIEGŁ KOŃCA
+TID_CLUB_LEAGUE_SEASON_OVER,KONIEC TYGODNIA!
+TID_CLUB_LEAGUE_SEASON_OVER_2,KONIEC TYGODNIA
 TID_CLUB_LEAGUE_MAX_TROPHIES_AVAILABLE,Maks. liczba dostępnych pucharów
-TID_CLUB_LEAGUE_SEASON_PROGRESS_TITLE,POSTĘPY W SEZONIE
-TID_CLUB_LEAGUE_SEASON_RESULTS_TITLE,WYNIKI SEZONU
+TID_CLUB_LEAGUE_SEASON_PROGRESS_TITLE,POSTĘP W TYGODNIU
+TID_CLUB_LEAGUE_SEASON_RESULTS_TITLE,WYNIKI TYGODNIA
 TID_CLUB_LEAGUE_ITEM_PROMOTING,AWANSOWANIE
 TID_CLUB_LEAGUE_ITEM_PROMOTING_MULTIPLE,AWANSOWANIE X <NUM>
 TID_CLUB_LEAGUE_ITEM_DEMOTING,DEGRADACJA
@@ -5430,15 +5442,15 @@ TID_CLUB_LEAGUE_COLUMN_MAX_REWARD,MAKS. NAGRODA
 TID_CLUB_LEAGUE_SHOP_DESC,Przyspiesz postępy i kup wyjątkowe przebrania!
 TID_CLUB_LEAGUE_SHOP_BUTTON_DESC,Przyspiesz postępy i kup wyjątkowe przebrania!
 TID_CLUB_LEAGUE_BUTTON_VISIT_CLUB_SHOP,SKLEP KLUBU
-TID_CLUB_LEAGUE_SEASON_END_REWARD_DESC,TWOJA NAGRODA NA KONIEC SEZONU
+TID_CLUB_LEAGUE_SEASON_END_REWARD_DESC,NAGRODA NA KONIEC TYGODNIA
 TID_CLUB_LEAGUE_SEASON_END_REWARD_CLAIMED,ODEBRANO
 TID_CLUB_LEAGUE_NOT_YET_RANKED,BRAK POZYCJI W RANKINGU
-TID_CLUB_LEAGUE_SEASON_REGISTRATION_CLOSED,REJESTRACJA DO SEZONU DOBIEGŁA KOŃCA
-TID_CLUB_LEAGUE_SPECTATE_THIS_SEASON,OGLĄDAJ TEN SEZON
-TID_CLUB_LEAGUE_WAIT_NEXT_SEASON,"Poczekaj na następny sezon, aby grać!"
-TID_CLUB_LEAGUE_NEXT_SEASONS_EVENTS,Wydarzenia następnego sezonu:
-TID_CLUB_LEAGUE_NEXT_SEASON_STARTS_TIME,Następny sezon zaczyna się za <TIME>
-TID_CLUB_LEAGUE_SEASON_TICKETS_REWARD_DESC,"Rozegraj wszystkie bilety w sezonie, aby otrzymać maksymalną nagrodę indywidualną!"
+TID_CLUB_LEAGUE_SEASON_REGISTRATION_CLOSED,REJESTRACJA DO TYGODNIA DOBIEGŁA KOŃCA
+TID_CLUB_LEAGUE_SPECTATE_THIS_SEASON,OGLĄDAJ TEN TYDZIEŃ
+TID_CLUB_LEAGUE_WAIT_NEXT_SEASON,"Poczekaj na następny tydzień, aby grać!"
+TID_CLUB_LEAGUE_NEXT_SEASONS_EVENTS,Wydarzenia następnego tygodnia:
+TID_CLUB_LEAGUE_NEXT_SEASON_STARTS_TIME,Następny tydzień zaczyna się za <TIME>
+TID_CLUB_LEAGUE_SEASON_TICKETS_REWARD_DESC,"Rozegraj wszystkie bilety w tygodniu, aby otrzymać maksymalną nagrodę indywidualną!"
 TID_CLUB_LEAGUE_SEASON_TICKETS_PLAYED_TITLE,ROZEGRANE BILETY:
 TID_CLUB_LEAGUE_SEASON_TICKETS_PLAYED,<NUM>/<MAX>
 TID_CLUB_LEAGUE_SEASON_CLUB_COIN_REWARD,<NUM>/<MAX>
@@ -5449,7 +5461,7 @@ TID_CLUB_LEAGUE_NEED_MORE_GOLDEN_TICKETS,"Potrzebujesz więcej złotych biletów
 TID_CLUB_LEAGUE_NOT_ENOUGH_GOLDEN_TICKETS_AVAILABLE_TO_PURCHASE,Za mało złotych biletów dostępnych do zakupu
 TID_CLUB_LEAGUE_FEATURE_UNAVAILABLE,Ta funkcja jest obecnie niedostępna
 TID_CLUB_LEAGUE_NOT_IN_LEAGUE,Klub nie znajduje się obecnie w lidze
-TID_CLUB_LEAGUE_NO_CURRENT_LEAGUE_SEASON,Klub nie znajduje się w sezonie bieżącej ligi!
+TID_CLUB_LEAGUE_NO_CURRENT_LEAGUE_SEASON,Klub nie znajduje się w bieżącym tygodniu ligi!
 TID_DUPLICATOR,LOLA
 TID_DUPLICATOR_SHORT_DESC,MASZYNA ZNISZCZENIA
 TID_DUPLICATOR_DESC,"Lola - po części przewodniczka, po części aktorka - to prawdziwa diva i gwiazda Brawlywoodu. Atakuje szalem i ma superatak będący skoncentrowaną emanacją jej ego."
@@ -5467,7 +5479,7 @@ TID_CLUB_UNLOCK_TITLE_CLUBS,KLUBY
 TID_CLUB_UNLOCK_TITLE_UNLOCKED,Odblokowano!
 TID_CLUB_UNLOCK_SEARCHING_FOR_CLUB,Szukanie najlepszego klubu dla Ciebie...
 TID_CLUB_UNLOCK_CLUB_LEAGUE_TITLE,LIGA KLUBOWA
-TID_CLUB_UNLOCK_JOIN_NEXT_SEASON,"Dołącz do następnego sezonu, aby wygrać wyjątkowe nagrody!"
+TID_CLUB_UNLOCK_JOIN_NEXT_SEASON,"Dołącz w następnym tygodniu, aby wygrać wyjątkowe nagrody!"
 TID_CLUB_UNLOCK_CLUB_FOUND,ZNALEZIONO KLUB!
 TID_CLUB_UNLOCK_WELCOME_TO_CLUB,WITAJ W KLUBIE!
 TID_CLUB_UNLOCK_LETS_GO,DO DZIEŁA
@@ -5480,8 +5492,8 @@ TID_CLUB_UNLOCK_STAT_TYPE,Typ
 TID_SHOP_BRAWLOWEEN_TITLE,BRAWL-O-WEEN
 TID_SHOP_BRAWLOWEEN_INFO,Zestaw przebrań
 TID_SKIN_INFO_BRAWLOWEEN,Przebranie na Brawl-o-ween
-TID_CLUB_LEAGUE_FLOW_NEW_SEASON,Nowy sezon!
-TID_CLUB_LEAGUE_FLOW_SEASON_ENDED,Koniec sezonu
+TID_CLUB_LEAGUE_FLOW_NEW_SEASON,Nowy tydzień!
+TID_CLUB_LEAGUE_FLOW_SEASON_ENDED,Koniec tygodnia
 TID_CLUB_LEAGUE_FLOW_CLUB_LEAGUE,LIGA KLUBOWA
 TID_CLUB_LEAGUE_FLOW_DAY_NEW,NOWOŚĆ!
 TID_CLUB_LEAGUE_FLOW_EVENT_DAY_STARTED,<NUM>. DZIEŃ WYDARZENIA ROZPOCZĄŁ SIĘ!
@@ -5492,8 +5504,8 @@ TID_CLUB_LEAGUE_FLOW_BUTTON_GO_SEASON_END,ZAAKCEPTUJ
 TID_CLUB_LEAGUE_FLOW_BUTTON_GO_DAY_START,DO DZIEŁA
 TID_CLUB_LEAGUE_FLOW_BUTTON_GO_DAY_END,ZAAKCEPTUJ
 TID_CLUB_LEAGUE_FLOW_BUTTON_GO_LEAGUE_PROMOTION,ZAAKCEPTUJ
-TID_CLUB_LEAGUE_FLOW_SEASON_RANK,Ranking sezonu
-TID_CLUB_LEAGUE_FLOW_END_OF_SEASON_REWARD,TWOJA NAGRODA NA KONEIC SEZONU
+TID_CLUB_LEAGUE_FLOW_SEASON_RANK,Pozycja w tygodniu
+TID_CLUB_LEAGUE_FLOW_END_OF_SEASON_REWARD,NAGRODA NA KONIEC TYGODNIA
 TID_CLUB_LEAGUE_FLOW_TICKETS_PLAYED_TITLE,Rozegrane bilety
 TID_CLUB_LEAGUE_FLOW_TICKETS_PLAYED,<NUM><cA4B7E0>/<MAX></c>
 TID_CLUB_LEAGUE_FLOW_CLUB_COIN_REWARD,<NUM>/<MAX>
@@ -5504,7 +5516,7 @@ TID_CLUB_LEAGUE_BUY_GOLD_TICKETS_ERROR_1,Zakup nie powiódł się
 TID_CLUB_LEAGUE_BUY_GOLD_TICKETS_ERROR_NOT_ENOUGH_COINS,Masz za mało monet!
 TID_CLUB_LEAGUE_BUY_GOLD_TICKETS_ERROR_NOT_ENOUGH_GEMS,Masz za mało klejnotów!
 TID_CLUB_LEAGUE_BUY_GOLD_TICKETS_ERROR_3,Brak biletów dostępnych do zakupu!
-TID_CLUB_LEAGUE_SEASON_ENDS_IN_TIME,Koniec sezonu za: <TIME>
+TID_CLUB_LEAGUE_SEASON_ENDS_IN_TIME,Tydzień kończy się za <TIME>
 TID_CLUB_LEAGUE_TICKET_SHOP_TITLE,ZŁOTE BILETY
 TID_CLUB_LEAGUE_TICKET_SHOP_INFO,"W sezonie Ligi Klubowej możesz zagrać do <cFEA305><NUM> złotych biletów</c>. Używaj ich, by rozgrywać dodatkowe mecze i zdobywać puchary klubowe. Dzięki złotym biletom możesz poprawić miejsce swojego klubu w codziennym rankingu w dniu wydarzenia.\n\nZłote bilety, których nie wykorzystasz do końca sezonu, zostaną przeniesione do następnego sezonu.\n\nZłote bilety nie są brane pod uwagę podczas obliczania nagród na koniec sezonu."
 TID_CLUB_LEAGUE_TICKETS_GET_MORE,Zdobądź więcej...
@@ -5527,18 +5539,18 @@ TID_CLUB_LEAGUE_EVENTS_TITLE,WYDARZENIA
 TID_CLUB_LEAGUE_EVENT_UNLOCKS_AT,Odblokowanie przy
 TID_CLUB_LEAGUE_SHOW_TICKETS_TOGGLE,Pokaż <cFFDA14>maks.</c> liczbę pucharów klubowych do zdobycia
 TID_CLUB_LEAGUE_INFO_TITLE,INFORMACJE O LIDZE KLUBOWEJ
-TID_CLUB_LEAGUE_INFO_PAGE_1_MARKER,Sezony i dni wydarzeń
-TID_CLUB_LEAGUE_INFO_PAGE_1_TITLE,<cFCBC22>SEZONY I DNI WYDARZEŃ</c>
-TID_CLUB_LEAGUE_INFO_PAGE_1_DESC,"Podczas każdego tygodniowego sezonu Twój klub będzie rywalizował z 7 innymi klubami w swojej lidze.\n\nRozgrywaj wydarzenia Ligi Klubowej na przestrzeni 3 osobnych dni wydarzenia i zdobywaj puchary dla klubu. Kluby z największą liczbą trofeów na koniec dnia zdobędą najwięcej punktów w rankingu sezonu.\n\nPuchaty klubowe resetują się na koniec każdego dnia wydarzenia.\n\n<cFCBC22>PORADA: Połącz siły z innymi członkami klubu, aby zdobyć bonusowe puchary klubowe!</c>"
-TID_CLUB_LEAGUE_INFO_PAGE_2_MARKER,Bilety
-TID_CLUB_LEAGUE_INFO_PAGE_2_TITLE,<cFCBC22>BILETY</c>
-TID_CLUB_LEAGUE_INFO_PAGE_2_DESC,"Udział w wydarzeniach Ligi Klubowej wymaga biletów. Każdy członek klubu musi mieć bilety, aby grać w danym dniu wydarzenia.\n\nRozegraj wszystkie bilety, aby zmaksymalizować nagrodę sezonową i zdobyć jak najwięcej pucharów klubowych dla swojego klubu!"
-TID_CLUB_LEAGUE_INFO_PAGE_3_MARKER,Ligi
-TID_CLUB_LEAGUE_INFO_PAGE_3_TITLE,<cFCBC22>LIGI</c>
-TID_CLUB_LEAGUE_INFO_PAGE_3_DESC,"Kluby z największa liczbą punktów sezonowych na koniec tygodnia zostaną awansowane do następnej ligi, a te z najgorszym wynikiem zostaną zdegradowane. Wejdź do najwyższej ligi, aby uzyskać dostęp do największych wyzwań i nagród."
+TID_CLUB_LEAGUE_INFO_PAGE_1_MARKER,Witaj
+TID_CLUB_LEAGUE_INFO_PAGE_1_TITLE,<cFCBC22>WITAJ w ROZGRYWKACH KLUBOWYCH</c>
+TID_CLUB_LEAGUE_INFO_PAGE_1_DESC,"Graj z klubem i zdobywaj co tydzień nagrody <cFCBC22>sklepu klubu</c>!\n\nW każdym tygodniu będzie aktywna 1 rozgrywka klubowa:\n<cFCBC22>TYDZIEŃ LIGI KLUBOWEJ</c> - Rywalizuj z innymi klubami w Lidze Klubowej, aby zdobyć największą nagrodę i awansować w ligach.\n<cFCBC22>TYDZIEŃ MISJI KLUBOWYCH</c> - Wykonaj 3 misje klubowe, aby zdobyć punkty dla swojego klubu. Im więcej misji Twój klub wykona, tym większa nagroda dla wszystkich."
+TID_CLUB_LEAGUE_INFO_PAGE_2_MARKER,Liga Klubowa
+TID_CLUB_LEAGUE_INFO_PAGE_2_TITLE,<cFCBC22>TYDZIEŃ LIGI KLUBOWEJ</c>
+TID_CLUB_LEAGUE_INFO_PAGE_2_DESC,"Podczas tygodnia Ligi Klubowej możesz rywalizować z 7 klubami Twojej ligi. Bierz udział w wydarzeniach Ligi Klubowej w <cFCBC22>3 osobne dni</c> i walcz o najwyższą rangę <cFCBC22>pucharu klubowego</c>. Rozgrywanie meczy Ligi Klubowej kosztuje <cFCBC22>bilety</c>.\n\nKlub, który osiągnie najlepszy wynik w danym tygodniu, otrzyma najlepsze nagrody. Na koniec tygodnia kluby zostaną <cFCBC22>awansowane</c> lub <cFCBC22>zdegradowane</c>.\n\nBonus: graj z członkami klubu, aby zdobyć <cFCBC22>dodatkowe puchary klubowe</c> w meczach."
+TID_CLUB_LEAGUE_INFO_PAGE_3_MARKER,Misje klubowe
+TID_CLUB_LEAGUE_INFO_PAGE_3_TITLE,<cFCBC22>TYDZIEŃ MISJI KLUBOWYCH</c>
+TID_CLUB_LEAGUE_INFO_PAGE_3_DESC,"Podczas tygodnia misji klubowych będziesz mieć <cFCBC22>3 misje</c> do wykonania.\n\nWykonując misje klubowe, będziesz zdobywać <cFCBC22>punkty</c> dla klubu. Im więcej punktów będzie mieć klub na koniec tygodnia, tym lepsza nagroda dla wszystkich. Wykonaj przynajmniej 1 misję klubową, aby odebrać nagrodę.\n\nBonus: graj z członkiem klubu, aby <cFCBC22>podwoić swoje postępy w misjach</c>."
 TID_CLUB_LEAGUE_INFO_PAGE_4_MARKER,Sklep klubu
-TID_CLUB_LEAGUE_INFO_PAGE_4_TITLE,<cFCBC22>SKLEP KLUBU</c>
-TID_CLUB_LEAGUE_INFO_PAGE_4_DESC,"Za udział w Lidze Klubowej otrzymujesz monety klubowe. Im wyższa jest Twoja liga i pozycja w rankingu sezonu, tym więcej monet klubowych możesz wygrać. Rozegraj wszystkie bilety w sezonie, aby zgarnąć wszystkie nagrody w postaci monet klubowych.\n\nMonety klubowe można wydać w sklepie klubu! Znajdziesz w nim wyjątkowe przebrania. Możesz też kupić dodatkowe punkty mocy, monety i wyposażenie. Zobacz ofertę!"
+TID_CLUB_LEAGUE_INFO_PAGE_4_TITLE,<cFCBC22>CZYM JEST SKLEP KLUBU</c>
+TID_CLUB_LEAGUE_INFO_PAGE_4_DESC,"Graj w Lidze Klubowej i wykonuj misje klubowe, aby zdobywać <cFCBC22>monety klubowe</c>, które można wydać w sklepie klubu!\n\nW sklepie klubu możesz <cFCBC22>przyśpieszyć swoje postępy</c> nawet o 50%, a także znaleźć <cFCBC22>wyjątkowe przebrania</c>!"
 TID_CLUB_LEAGUE_INFO_PAGE_1_IMAGE_1,RYWALIZUJ Z 7 KLUBAMI
 TID_CLUB_LEAGUE_INFO_PAGE_1_IMAGE_2,3 DNI WYDARZENIA
 TID_CLUB_LEAGUE_INFO_PAGE_1_IMAGE_3,"ROZGRYWAJ WYDARZENIA, ABY ZDOBYWAĆ PUCHARY KLUBOWE"
@@ -5579,17 +5591,17 @@ TID_CLUB_SHOP_BUTTON,SKLEP KLUBU
 TID_CLUB_SHOP_DESC,Przyspiesz postępy i kup wyjątkowe przebrania!
 TID_CLUB_SHOP_SKIN_BRAWLER_LOCKED,Zablokowany
 TID_CLUB_SHOP_SKIN_BRAWLER_LOCKED_DESC,"Żeby kupić to przebranie, musisz odblokować zadymiarza!"
-TID_CLUB_LEAGUE_SEASON_END_NOTIFICATION,KONIEC SEZONU LIGI KLUBOWEJ: Twój klub zdobył POZYCJĘ <RANKING>. W nagrodę otrzymujesz <COINS> <cEE1B39>szt. monet klubowych</c>!
-TID_CLUB_LEAGUE_SEASON_END_NOTIFICATION_NO_REWARD,"KONIEC SEZONU LIGI KLUBOWEJ: Twój klub zdobył POZYCJĘ <RANKING>, ale nie rywalizowałeś(-aś) w tym sezonie. Dołącz do następnego sezonu, aby zdobyć monety klubowe!"
-TID_CLUB_LEAGUE_SEASON_REWARD_TABLE_TITLE,MAKSYMALNE NAGRODY NA KONIEC SEZONU LIGI KLUBOWEJ
-TID_CLUB_LEAGUE_SEASON_REWARD_TABLE_SUBTITLE,"Rozegraj wszystkie bilety w sezonie, aby otrzymać maksymalną liczbę nagród!"
+TID_CLUB_LEAGUE_SEASON_END_NOTIFICATION,KONIEC TYGODNIA LIGI KLUBOWEJ: Twój klub zdobył POZYCJĘ <RANKING>. W nagrodę otrzymujesz <COINS> <cEE1B39>szt. monet klubowych</c>!
+TID_CLUB_LEAGUE_SEASON_END_NOTIFICATION_NO_REWARD,"KONIEC TYGODNIA LIGI KLUBOWEJ: Twój klub zdobył POZYCJĘ <RANKING>, ale nie rywalizowałeś(-aś) w tym tygodniu. Dołącz w następnym tygodniu, aby zdobyć monety klubowe!"
+TID_CLUB_LEAGUE_SEASON_REWARD_TABLE_TITLE,MAKSYMALNE NAGRODY NA KONIEC TYGODNIA LIGI KLUBOWEJ
+TID_CLUB_LEAGUE_SEASON_REWARD_TABLE_SUBTITLE,"Rozegraj wszystkie bilety w tygodniu, aby otrzymać maksymalną liczbę nagród!"
 TID_CLUB_LEAGUE_SEASON_REWARD_MAX,MAKS
 TID_CLUB_LEAGUE_SEASON_PROMOTING_DESC,Awans do wyższej ligi
 TID_CLUB_LEAGUE_SEASON_DEMOTING_DESC,Degradacja do niższej ligi
 TID_CLUB_LEAGUE_LOOKING_FOR_TEAM,Szukanie drużyny:
 TID_CLUB_LEAGUE_LOOKING_FOR_PLAYERS,Szukanie graczy:
 TID_CLUB_INFO_TAB_PLAYER_RANKS,POZYCJE GRACZY
-TID_CLUB_INFO_TAB_LEAGUE_SEASON,SEZON LIGI KLUBOWEJ
+TID_CLUB_INFO_TAB_LEAGUE_SEASON,TYDZIEŃ LIGI KLUBOWEJ
 TID_CLUB_INFO_TAB_LEAGUE_EVENT_DAY,DZIEŃ WYDARZENIA <NUM>
 TID_CLUB_INFO_TAB_LEAGUE_EVENT_DAY_NONE,DZIEŃ WYDARZENIA
 TID_CLUB_MEMBER_LEAGUE_TICKETS,<NUM>/<MAX>
@@ -5624,20 +5636,24 @@ TID_CLUB_EVENT_INFO_CLUB_TROPHY_REWARDS,NAGRODY ZA PUCHARY KLUBOWE
 TID_REWARD_DESC_GEAR_TOKENS,ŻETONY WYPOSAŻENIA
 TID_REWARD_DESC_GEAR_TOKEN_SINGLE,ŻETON WYPOSAŻENIA
 TID_REWARD_DESC_GEAR_SCRAP,ZŁOM WYPOSAŻENIA
-TID_CLUB_LEAGUE_REGISTRATION_CLOSED_RACE_MESSAGE,"Hej! Jest już za późno, aby zagrać w tym sezonie.\n\nRozejrzyj się i obejrzyj rozgrywki Twojego klubu przed rozpoczęciem następnego sezonu!"
+TID_CLUB_LEAGUE_REGISTRATION_CLOSED_RACE_MESSAGE,"Hej! Jest już za późno, aby zagrać w tym tygodniu.\n\nRozejrzyj się i obejrzyj rozgrywki Twojego klubu przed rozpoczęciem następnego tygodnia!"
 TID_CLUB_LEAGUE_REGISTRATION_CLOSED_SHOP_MESSAGE,Zobacz ofertę sklepu klubu!
 TID_CLUB_LEAGUE_FLOW_END_OF_SEASON_LEADERBOARD_TITLE,Końcowe wyniki:
 TID_CLUB_LEAGUE_TEASER_TITLE,LIGA KLUBOWA
 TID_CLUB_LEAGUE_TEASER_JOIN_CLUB,DOŁĄCZ DO KLUBU
 TID_CLUB_LEAGUE_TEASER_MESSAGE,"Rywalizuj z członkami swojego klubu, aby przyspieszyć postępy i zdobyć wyjątkowe przebrania!"
 TID_CLUB_LEAGUE_TEASER_REACH_TROPHIES_TO_UNLOCK,"Zdobądź <NUM> pucharów, aby odblokować misje"
-TID_CLUB_LEAGUE_TEASER_JOIN_A_CLUB,"Dołącz do klubu, aby rywalizować w następnym sezonie"
+TID_CLUB_LEAGUE_TEASER_JOIN_A_CLUB,"Dołącz do klubu, aby grać!"
 TID_CLUB_LEAGUE_TEASER_FIND_OUT_MORE,DOWIEDZ SIĘ WIĘCEJ
-TID_CLUB_LEAGUE_EVENTS_DAYS_CURRENT_SEASON,Harmonogram bieżącego sezonu:
-TID_CLUB_LEAGUE_EVENTS_DAYS_NEXT_SEASON,Harmonogram następnego sezonu:
+TID_CLUB_LEAGUE_EVENTS_DAYS_CURRENT_SEASON,Harmonogram bieżącego tygodnia:
+TID_CLUB_LEAGUE_EVENTS_DAYS_NEXT_SEASON,Harmonogram przyszłego tygodnia:
 TID_CLUB_LEAGUE_EVENTS_DAY_STARTS_IN,Początek za: <TIME>
 TID_CLUB_LEAGUE_EVENTS_DAY_ENDS_IN,Koniec za: <TIME>
 TID_CLUB_LEAGUE_EVENTS_INFO_BUTTON,CZYM JEST LIGA KLUBOWA?
+TID_CLUB_LEAGUE_EVENT_SCHEDULE_BUTTON_CURRENT_SEASON,BIEŻĄCY TYDZIEŃ
+TID_CLUB_LEAGUE_EVENT_SCHEDULE_BUTTON_ENDS_IN,Koniec za <TIME>
+TID_CLUB_LEAGUE_EVENT_SCHEDULE_BUTTON_NEXT_SEASON,NASTĘPNY TYDZIEŃ
+TID_CLUB_LEAGUE_EVENT_SCHEDULE_BUTTON_STARTS_IN,Początek za <TIME>
 TID_CLUBS_MEMBERS_CLUB_TROPHIES,Puchary klubowe
 TID_CLUBS_MEMBERS_TICKETS_USED,Użyte bilety
 TID_CLUBS_MEMBERS_POWER_LEAGUE_RANK,Miejsce w Lidze Mocy
@@ -5668,7 +5684,7 @@ TID_HEADLESS_RIDER_STU_SKIN,BEZGŁOWY JEŹDZIEC STU
 TID_COUNT_PENGULA_MRP_SKIN,HRABIA PENGULA
 TID_SWAMP_GENE_SKIN,BAGNISTY GENE
 TID_GHOST_SQUEAK_SKIN_SHOP,SQUEAK\nDUCH
-TID_SURGE KONG_SKIN_SHOP,SURGE KONG
+TID_SURGE KONG_SKIN_SHOP,SURGE\nKONG
 TID_HEADLESS_RIDER_STU_SKIN_SHOP,BEZGŁOWY JEŹDZIEC\nSTU
 TID_COUNT_PENGULA_MRP_SKIN_SHOP,HRABIA\nPENGULA
 TID_SWAMP_GENE_SKIN_SHOP,BAGNISTY\nGENE
@@ -5736,7 +5752,7 @@ TID_FIRST_GEAR_TUTORIAL_BUTTON_COLLECT,ZBIERAJ!
 TID_FIRST_GEAR_TUTORIAL_UNLOCK_POWER,MOC
 TID_FIRST_GEAR_TUTORIAL_UNLOCK_POWER_AMOUNT,10
 TID_SETTINGS_HAPTICS,SPRZĘŻENIE ZWROTNE
-TID_HERO_INFO_GEAR_BLOCKED,Wzmocnij postać <HERONAME> wyposażeniem! To miejsce na wyposażenie jest dostępne po osiągnięciu <LEVEL>. poziomu mocy.
+TID_HERO_INFO_GEAR_BLOCKED,Wzmocnij postać <HERONAME> wyposażeniem! To miejsce na wyposażenie jest dostępne po osiągnięciu <LEVEL> poziomu mocy.
 TID_BRAWL_PASS_SEASON_8,BRAWLYWOOD
 TID_CHOLLA_SKIN,LOLA REBELIANTKA
 TID_CHOLLA_SKIN_SHOP,LOLA\nREBELIANTKA
@@ -5758,7 +5774,7 @@ TID_LOOKING_TOGGLE_LOOKING_FOR_A_TEAM,"Inni gracze online widzą teraz, że SZUK
 TID_LOOKING_TOGGLE_LOOKING_FOR_PLAYERS,"Inni gracze online widzą teraz, że Twoja drużyna SZUKA GRACZY"
 TID_CLUB_JOIN_FAIL_FEATURE_LOCKED,Nie można dołączyć do klubu. Kluby są odblokowywane po zdobyciu <NUM> pucharów.
 TID_CLUB_LEAGUE_LEAGUES_POPUP_CURRENT_LEAGUE,BIEŻĄCA LIGA
-TID_CLUB_LEAGUE_LEAGUES_POPUP_MESSAGE,"Na koniec każdego sezonu Ligi Klubowej klub może zostać awansowany lub zdegradowany!\nWspinaj się na szczyty rankingów, aby zwiększyć limit monet klubowych do wygrania."
+TID_CLUB_LEAGUE_LEAGUES_POPUP_MESSAGE,"Na koniec każdego tygodnia Ligi Klubowej klub może zostać awansowany lub zdegradowany!\nWspinaj się na szczyty rankingów, aby zwiększyć limit monet klubowych do wygrania."
 TID_CLUB_LEAGUE_LEAGUES_POPUP_BUTTON,OK
 TID_CLUB_LEAGUE_LEAGUES_POPUP_TITLE,LIGI
 TID_IMPORTANT_MESSAGE_TITLE,WAŻNY KOMUNIKAT
@@ -5835,8 +5851,8 @@ TID_FURIOUS_FANG_SKIN,WŚCIEKŁY KIEŁ
 TID_FURIOUS_FANG_SKIN_SHOP,WŚCIEKŁY\nKIEŁ
 TID_CLASSIC MIKE_SKIN,KLASYCZNY DYNAMIKE
 TID_CLASSIC MIKE_SKIN_SHOP,KLASYCZNY\nDYNAMIKE
-TID_EL_PRIMO_VALENTINES,El CORAZÓN
-TID_EL_PRIMO_VALENTINES_SHOP,El\nCORAZÓN
+TID_EL_PRIMO_VALENTINES,EL CORAZÓN
+TID_EL_PRIMO_VALENTINES_SHOP,EL\nCORAZÓN
 TID_GRIFF_SLEIGH_SKIN,SANECZKARZ GRIFF
 TID_GRIFF_SLEIGH_SKIN_SHOP,SANECZKARZ\nGRIFF
 TID_SANTA_BO_SKIN,HO HO HO BO
@@ -5923,10 +5939,10 @@ TID_CLAIM_VOUCHER_POPUP_TITLE,Odbierz nagrodę
 TID_CLAIM_VOUCHER_BUTTON_CLAIM,Odbierz
 TID_CLAIM_VOUCHER_BUTTON_CANCEL,Anuluj
 TID_SPELL_FACTORY_CLAIM_FAILED_TITLE,Błąd podczas odbierania nagrody
-TID_SPELL_FACTORY_CLAIM_FAILED_REASON_UNKNOWN,Nie można odebrać nagrody za: <c267F00><CODE></c>
-TID_SPELL_FACTORY_CLAIM_FAILED_REASON_ALREADY_CLAIMED,Nie można odebrać.\n\n<c267F00><CODE></c> - nagroda została już odebrana
-TID_SPELL_FACTORY_CLAIM_FAILED_REASON_INVALID_CODE,NIEPRAWIDŁOWY KOD\n\n<c7F0000><CODE></c>
-TID_SPELL_FACTORY_CLAIM_FAILED_REASON_EXPIRED,Nie można odebrać nagrody.\n\n<c267F00><CODE></c> - nagroda wygasła.
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_UNKNOWN,Nie można odebrać nagrody.
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_ALREADY_CLAIMED,Nie można odebrać. Nagroda została już odebrana.
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_INVALID_CODE,Nie można odebrać. Kod jest nieprawidłowy.
+TID_SPELL_FACTORY_CLAIM_FAILED_REASON_EXPIRED,Nie można odebrać. Nagroda wygasła.
 TID_RANKED_FRIENDLY_BEST_OF_TOGGLE_TITLE,NAJLEPSZY Z
 TID_FLEA,EVE
 TID_FLEA_SHORT_DESC,MASZYNA ZNISZCZENIA
@@ -5938,7 +5954,7 @@ TID_FLEA_ULTI_DESC,"Eve wypuszcza wielkie jajo, z którego wykluwa się grupa m
 TID_SPEC_ABI_FLEA_1,NIENATURALNY PORZĄDEK
 TID_SPEC_ABI_FLEA_1_DESC,"Odwraca kolejność, w jakiej jajeczna armata wystrzeliwuje jaja."
 TID_SPEC_ABI_FLEA_2,SZCZĘŚLIWA NIESPODZIANKA
-TID_SPEC_ABI_FLEA_2_DESC,"Po trafieniu wrogiego zadymiarza, z największego jaja z jajecznej armaty wykluwa się młode."
+TID_SPEC_ABI_FLEA_2_DESC,Co <c00cc00><VALUE1></c> s po trafieniu wrogiego zadymiarza z największego jaja z jajecznej armaty wykluwa się młode.
 TID_ACCESSORY_FLEA_JUMP,W NOGI!
 TID_ACCESSORY_FLEA_JUMP_DESC,Eve odskakuje i zostawia po sobie młode.
 TID_ACCESSORY_FLEA_SYMBIOSIS,MATCZYNA MIŁOŚĆ
@@ -5950,7 +5966,7 @@ TID_HATCHLING_HEALTH,Zdrowie młodego
 TID_HATCHLING_DAMAGE,Obrażenia młodego
 TID_HATCHLING_COUNT,Liczba młodych
 TID_ACCESSORY_DUPLICATOR_SWAP,SOBOWTÓR
-TID_ACCESSORY_DUPLICATOR_SWAP_DESC,Lola i jej ego zamieniają się miejscami i odzyskują <c00cc00><VALUE1></c> zdrowia.
+TID_ACCESSORY_DUPLICATOR_SWAP_DESC,Lola i jej ego zamieniają się miejscami. Lola odzyskuje <c00cc00><VALUE1></c> zdrowia.
 TID_ACCESSORY_BLOCKED_EGO_TOO_FAR,Ego jest za daleko!
 TID_ACCESSORY_BLOCKED_MISSING_EGO,Nie możesz aktywować bez ego!
 TID_GAME_MODE_25,BATALIA
@@ -5967,13 +5983,13 @@ TID_ACCESSORY_BASEBALL_STICKY,SUPERLEPKIE
 TID_ACCESSORY_BASEBALL_STICKY_DESC,Następna żujka Bibi spowalnia trafionych wrogów\nna <c00cc00><VALUE1></c> s!
 TID_ACCESSORY_MUMMY_ACID,KWASOWY SPREJ
 TID_ACCESSORY_MUMMY_ACID_DESC,"Następna chmura spreju do włosów Emz może przechodzić przez ściany, ale zadaje <ccc0000><VALUE1>%</c> mniej obrażeń."
-TID_FIRST_BLOOD,<name> PIERWSZA ELIMINACJA!
-TID_KILL_NUMBER_OWN,ZOSTAŁY CZTERY ELIMINACJE!
-TID_KILL_NUMBER_OPPONENT,TWOIM WROGOM ZOSTAŁY CZTERY ELIMINACJI!
-TID_ONE_POINT_FROM_VICTORY,OD ZWYCIĘSTWA DZIELI CIĘ JEDNA ELIMINACJA!
-TID_OPPONENT_ONE_POINT_FROM_VICTORY,OD PORAŻKI DZIELI CIĘ JEDNA ELIMINACJA!
-TID_VICTORY_MATCH_OVER,ZWYCIĘSTWO!
-TID_LOSS_MATCH_OVER,PORAŻKA!
+TID_FIRST_BLOOD,<name> - pierwsza eliminacja!
+TID_KILL_NUMBER_OWN,Zostały 4 eliminacje!
+TID_KILL_NUMBER_OPPONENT,Twoim wrogom zostały 4 eliminacje!
+TID_ONE_POINT_FROM_VICTORY,Od zwycięstwa dzieli cię jedna eliminacja!
+TID_OPPONENT_ONE_POINT_FROM_VICTORY,Od porażki dzieli cię jedna eliminacja!
+TID_VICTORY_MATCH_OVER,ZWYCIĘSTWO!\nKoniec rozgrywki
+TID_LOSS_MATCH_OVER,PORAŻKA!\nKoniec rozgrywki
 TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2022,Przebranie z okazji Chińskiego Nowego Roku 2022
 TID_LOGIN_CALENDAR_LEFT_TITLE,PASSA PREZENTÓW ZA CODZIENNE LOGOWANIE
 TID_LOGIN_CALENDAR_LEFT_SUBTITLE,"<cfffc11>LOGUJ SIĘ CODZIENNIE PRZEZ 15 DNI</c>, aby otrzymać <cfffc11>DARMOWE PREZENTY</c>! <cfffc11>NIE PRZEGAP ŻADNEGO DNIA</c>, inaczej twoja passa zostanie przerwana!"
@@ -6068,11 +6084,11 @@ TID_DOCTOR_EDGAR_SKIN_SHOP,DOKTOR\nEDGAR
 TID_FIREFLY_RICO_SKIN,ŚWIETLIK RICO
 TID_FIREFLY_RICO_SKIN_SHOP,ŚWIETLIK\nRICO
 TID_STAG_BEETLE_MEG_SKIN,ŻUK MEG
-TID_STAG_BEETLE_MEG_SKIN_SHOP,ŻUK MEG
+TID_STAG_BEETLE_MEG_SKIN_SHOP,ŻUK\nMEG
 TID_SAVAGE_BULL_SKIN,LEW BULL
-TID_SAVAGE_BULL_SKIN_SHOP,LEW BULL
+TID_SAVAGE_BULL_SKIN_SHOP,LEW\nBULL
 TID_WASP_BO_SKIN,OSA BO
-TID_WASP_BO_SKIN_SHOP,OSA BO
+TID_WASP_BO_SKIN_SHOP,OSA\nBO
 TID_MR_FLY_SKIN,PAN MUCHA
 TID_MR_FLY_SKIN_SHOP,PAN MUCHA
 TID_BUNNY_GROM_SKIN,KRÓLIK GROM
@@ -6302,9 +6318,9 @@ TID_TRUE_SILVER_LOLA_SKIN_SHOP,SREBRNA\nLOLA
 TID_CRASH_TEST_DARRYL_SKIN,KASKADER DARRYL
 TID_CRASH_TEST_DARRYL_SKIN_SHOP,KASKADER\nDARRYL
 TID_BIKER_CARL_SKIN,MOTOCYKLISTA CARL
-TID_BIKER_CARL_SKIN_SHOP,MOTOCYKLISTA CARL
+TID_BIKER_CARL_SKIN_SHOP,MOTOCYKLISTA\nCARL
 TID_PYRO_SPIKE_SKIN,OGNISTY SPIKE
-TID_PYRO_SPIKE_SKIN_SHOP,OGNISTY SPIKE
+TID_PYRO_SPIKE_SKIN_SHOP,OGNISTY\nSPIKE
 TID_MONSTER_TRUCK_MEG_SKIN,MONSTER TRUCKOWA MEG
 TID_MONSTER_TRUCK_MEG_SKIN_SHOP,MONSTER TRUCKOWA\nMEG
 TID_OVERLORD_BYRON_SKIN,WŁADCA BYRON
@@ -6361,12 +6377,231 @@ TID_LOGIN_CALENDAR_LOYALTY_PROGRAM,PROGRAM LOJALNOŚCIOWY
 TID_LOGIN_CALENDAR_TITLE,PROGRAM LOJALNOŚCIOWY PARKU STARR
 TID_REWARD_DESC_PLAYER_ICON_REGULAR,IKONA GRACZA
 TID_CLUB_LEAGUE_CLUB_COINS_HOW_TO_GET,"Zdobywaj monety klubowe, rywalizując w Lidze Klubowej"
+TID_CLUB_EVENTS_TITLE,ROZGRYWKI KLUBOWE
+TID_CLUB_EVENTS_LEAGUE_TAB_DAY,DZIEŃ WYDARZENIA
+TID_CLUB_EVENTS_LEAGUE_TAB_EVENT_DAY,DZIEŃ WYDARZENIA <NUM>
+TID_CLUB_EVENTS_LEAGUE_TAB_EVENT_DAY_COMPLETE,UKOŃCZONO
+TID_CLUB_EVENTS_LEAGUE_TAB_SEASON,TYDZIEŃ
+TID_CLUB_EVENTS_TAB_LEAGUE,LIGA
+TID_CLUB_EVENTS_TAB_QUESTS,MISJE
+TID_CLUB_EVENTS_BUTTON_CLUB_SHOP,SKLEP KLUBU
+TID_CLUB_LEAGUE_MEMBER_RANKINGS_NUM_DESC_IS_TOP,"Liczone są ,,<TOP>\q najlepsze wyniki każdego klubu. Zajmujesz <NUM> miejsce."
+TID_CLUB_LEAGUE_MEMBER_RANKINGS_NUM_DESC_NOT_TOP,"Liczona jest tylko czołowa ,,<TOP>\q wyników każdego klubu. Zajmujesz <cF76263><NUM></c>. miejsce."
+TID_CLUB_LEAGUE_MEMBER_RANKINGS_NUM_DESC_NOT_RANKED,"Liczone są ,,<TOP>\q najlepsze wyniki każdego klubu. Nie brano jeszcze udziału.</c>"
+TID_CLUB_INFO_TOP_EVENT_DAY_PLAYER_DIVIDER,"Liczone są ,,<TOP>\q najlepsze wyniki uczestników z klubu."
+TID_CLUB_QUESTS_PLAYER_REWARD_DESC,NAGRODA NA KONIEC TYGODNIA
+TID_CLUB_QUESTS_LOCKED_REWARD_DESC,"WYKONAJ DOWOLNĄ MISJĘ KLUBOWĄ, ABY ODBLOKOWAĆ"
+TID_CLUB_QUESTS_REWARD_TRACK_OVERLAY,"Zdobądź <POINTS> pkt z klubem, aby otrzymać tę nagrodę na koniec tygodnia!"
+TID_CLUB_QUESTS_REWARD_TRACK_OVERLAY_CURRENT,To jest obecna nagroda na koniec tygodnia misji klubowych.
+TID_CLUB_QUESTS_REWARD_TRACK_OVERLAY_LOCKED,"To jest obecna nagroda na koniec tygodnia misji klubowych. Wykonaj misję klubową, aby otrzymać, gdy tydzień dobiegnie końca!"
+TID_CLUB_QUESTS_LEAGUES_BUTTON,LIGI
+TID_CLUB_QUESTS_LEAGUES_DESC,"Awansuj do wyższej Ligi Klubowej, aby zwiększyć swoją MAKS. NAGRODĘ."
+TID_CLUB_QUESTS_RANKS_CURRENT_LEAGUE,BIEŻĄCA LIGA
+TID_CLUB_QUESTS_RANKS_MAX_REWARD,MAKS. NAGRODA
+TID_CLUB_QUESTS_RANKS_MESSAGE,"Twoja ranga w Lidze Klubowej określa maksymalne nagrody w tygodniu misji klubowych. Awansuj w ligach, aby zwiększyć swoje nagrody w postaci monet klubowych!"
+TID_CLUB_QUESTS_RANKS_TITLE,LIGI
+TID_CLUB_QUESTS_FLOW_NEW_SEASON,Nowy tydzień!
+TID_CLUB_QUESTS_FLOW_SEASON_ENDED,Koniec tygodnia
+TID_CLUB_QUESTS_FLOW_CLUB_QUESTS,MISJE KLUBOWE
+TID_CLUB_QUESTS_FLOW_MAX_REWARD,MAKS. NAGRODA
+TID_CLUB_QUESTS_FLOW_BUTTON_GO,ZAAKCEPTUJ
+TID_CLUB_QUESTS_FLOW_BUTTON_GO_SEASON_START,DO DZIEŁA
+TID_CLUB_QUESTS_FLOW_BUTTON_GO_SEASON_END,OK
+TID_CLUB_QUESTS_FLOW_SEASON_RANK,Pozycja w tygodniu
+TID_CLUB_QUESTS_FLOW_END_OF_SEASON_REWARD,NAGRODA NA KONIEC TYGODNIA
+TID_CLUB_QUESTS_FLOW_CLUB_COIN_REWARD,<NUM>/<MAX>
+TID_CLUB_QUESTS_DOUBLE_PROGRESS_BADGE,<cFCF044>x2</c>
+TID_CLUB_QUESTS_DOUBLE_PROGRESS_DESC,"GGraj z przynajmniej 1 członkiem klubu, aby <cFCF044>PODWOIĆ</c> postępy w misji klubowej."
+TID_CLUB_QUESTS_ALL_COMPLETED_DESC,Wykonano wszystkie misje klubowe na ten tydzień!
+TID_CLUB_QUEST_ALREADY_COMPLETED,Ta misja klubowa została już wykonana!
+TID_CLUB_QUESTS_SEASON_ENDS_IN_TIME,Tydzień kończy się za:
+TID_CLUB_QUESTS_REWARD_LOCKED_DESC,1. misja odblokowuje nagrodę!
+TID_CLUB_QUESTS_COMPLETED_NUM,Wykonane misje: <NUM>/<MAX>
+TID_CLUB_QUESTS_TITLE,MISJE KLUBOWE
+TID_CLUB_QUESTS_NEW_SEASON,NOWY TYDZIEŃ!
+TID_CLUB_QUESTS_SEASON_END_NOTIFICATION,KONIEC TYGODNIA MISJI KLUBOWYCH: Otrzymujesz <COINS> szt. <cEE1B39>monet klubowych</c> w nagrodę za wysiłki w tym tygodniu!
+TID_CLUB_QUESTS_CONTRIBUTIONS_TITLE,WKŁAD W TYM TYGODNIU
+TID_CLUB_QUESTS_CONTRIBUTIONS_MEMBERS,Członkowie klubu: <NUM>
+TID_CLUB_QUESTS_CLUB_TEAM_BONUS,BONUS DRUŻYNY KLUBOWEJ x2
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_TITLE,BONUS ZA DRUŻYNOWĄ WALKĘ!
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_DESC,"Graj z przynajmniej 1 członkiem klubu, aby <cFCF044>PODWOIĆ</c> postępy w misji klubowej!"
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_PROGRESS,Postępy w misji klubowej
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_X2,x2
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_PLAY_SOLO,GRAJ SOLO
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_ONLINE,<NUM> online
+TID_CLUB_QUESTS_TEAM_BONUS_POPUP_TEAM_UP,WALCZ DRUŻYNOWO!
+TID_CLUB_QUESTS_WARNING_NOT_AVAILABLE,"Można wnieść wkład tylko w klub, w którym zaczęto ten tydzień.\n\nPoczekaj do następnego tygodnia, aby wnieść wkład w ten klub!"
+TID_CLUB_QUESTS_SEASON_END_REWARD_CLAIMED,ODEBRANO
+TID_CLUB_LEAGUE_WARNING_NOT_AVAILABLE,"Hej! Wygląda na to, że Twój klub nie uczestniczy jeszcze w tygodniu Ligi Klubowej. Możesz rywalizować z innymi klubami, gdy rozpocznie się następny tydzień Ligi Klubowej."
+TID_CLUB_EVENT_TIME_LEFT,Pozostało <TIME>
+TID_SHOP_CLUB_SHOP_SEE_OFFERS,ZOBACZ OFERTY
+TID_SHOP_CLUB_SHOP_TITLE,SKLEP KLUBU
+TID_SHOP_CLUB_SHOP_DESC,PRZYŚPIESZ SWOJE POSTĘPY
 TID_SHOP_OFFER_INFO_25,Nowa ikona gracza!
 TID_LOGIN_CALENDAR_TUTORIAL_COME_BACK,"<cFFB820>WRÓĆ JUTRO</c>, aby ODEBRAĆ ten prezent, inaczej passa zostanie przerwana!"
 TID_BRAWLBALL_49,Super sprężystość
 TID_BRAWLBALL_50,Pełne przechylenie
 TID_BRAWLBALL_51,Najwyższy wynik
 TID_BRAWLBALL_52,Pingpong
+TID_INBOX_CAPTION_72_68,PREZENT: SPREJ
+TID_SILENCER,OTIS
+TID_SILENCER_SHORT_DESC,MASZYNA ZNISZCZENIA
+TID_SILENCER_DESC,"Otis to artysta uliczny, który żyje w głębinach z kumpelą, rozgwiazdą Cil. Wspólnie malują graffiti w całym Parku Starr."
+TID_SILENCER_WEAPON,ATRAMENTOWA SZTUKA
+TID_SILENCER_WEAPON_DESC,Otis tryska atramentem z pistoletu natryskowego.
+TID_SILENCER_ULTI,CICHE DNO MORSKIE
+TID_SILENCER_ULTI_DESC,"Otis rzuca rozgwiazdą Cil, która łapie pierwszego trafionego wroga, uniemożliwiając mu przez chwilę atakowanie."
+TID_SPEC_ABI_SILENCER_1,SZABLONOWY KLEJ
+TID_SPEC_ABI_SILENCER_1_DESC,"Rozgwiazda Cil przyciska wroga z całą siłą, wydłużając o <c00cc00><VALUE1>%</c> czas, przez który nie może on atakować."
+TID_SPEC_ABI_SILENCER_2,WKŁADY ATRAMENTOWE
+TID_SPEC_ABI_SILENCER_2_DESC,Otis wystrzeliwuje teraz <c00cc00><VALUE1>%</c> więcej kropli atramentu.
+TID_ACCESSORY_SILENCER_GADGET_1,ŚPIĄCA GWIAZDA
+TID_ACCESSORY_SILENCER_GADGET_1_DESC,"Następna rozgwiazda pozostanie na ziemi, jeśli nie trafi wroga, czekając w bezruchu, aż zbliży się do niej wróg."
+TID_ACCESSORY_SILENCER_GADGET_2,ATRAMENTOWA KAŁUŻA
+TID_ACCESSORY_SILENCER_GADGET_2_DESC,"Przy następnym ataku Otis wystrzeliwuje ogromną atramentową kulę, która tworzy kałużę, zadając <c00cc00><VALUE1></c> pkt. obrażeń przez <c00cc00><VALUE2></c> s."
+TID_RANDOM_GAME_MODE,TAJEMNICA
+TID_NOTIFICATION_RANDOM,Dostępna jest nowa mapa TAJEMNICA! Czas zdobyć nowe nagrody!
+TID_SKIN_INFO_DEEPSEA,Przebranie Głębinowa zadyma
+TID_EMOTE_BUNDLE_DEEPSEA_PACK,Odznaki Głębinowa zadyma
+TID_SUGGEST,ZASUGERUJ
+TID_SUGGEST_CANCEL,ANULUJ
+TID_PURCHASE_BRAWL_PASS_INFO_SHOP,ODBLOKUJ NAGRODY KARNETU ZADYMIARSKIEGO + DODATKOWE MISJE I ODŚWIEŻENIA!
+TID_SUGGESTED_BY,Autor sugestii
+TID_SHOP_DEEPSEA_SKINS,Przebranie Głębinowa zadyma
+TID_SHOP_DEEPSEA_TITLE,GŁĘBINOWA ZADYMA
+TID_SHOP_DEEPSEA_INFO,Zestaw przebrań
+TID_SKIN_INFO_BT21,Przebranie BT21
+TID_CLUB_EVENTS_ONBOARDING_TITLE,ROZGRYWKI KLUBOWE
+TID_CLUB_EVENTS_ONBOARDING_SUBTITLE,Przyśpiesz swoje postępy i zdobądź wyjątkowe przebrania!
+TID_CLUB_EVENTS_ONBOARDING_PAGE_1_TITLE,Witaj w cotygodniowych\nROZGRYWKACH KLUBOWYCH!
+TID_CLUB_EVENTS_ONBOARDING_NEW_GAME,Nowa rozgrywka klubowa!
+TID_CLUB_EVENTS_ONBOARDING_PAGE_2_TITLE,LIGA KLUBOWA
+TID_CLUB_EVENTS_ONBOARDING_PAGE_2_DESCRIPTION,Rywalizuj z innymi klubami!\nAwansuj w ligach!
+TID_CLUB_EVENTS_ONBOARDING_PAGE_3_TITLE,MISJE KLUBOWE
+TID_CLUB_EVENTS_ONBOARDING_PAGE_3_DESCRIPTION,Wykonuj misje z klubem!
+TID_CLUB_EVENTS_ONBOARDING_PAGE_4_1,Graj ze swoim klubem! 1 rozgrywka klubowa na tydzień.
+TID_CLUB_EVENTS_ONBOARDING_PAGE_4_2,Zdobywaj monety klubowe!
+TID_CLUB_EVENTS_ONBOARDING_PAGE_4_3,Przyśpiesz swoje postępy w sklepie klubu!
+TID_SUGGEST_TITLE,Zasugeruj zadymiarza
+TID_CLUB_LEAGUE_TOP_24_REWARDS,Wszyscy gracze mogą odebrać nagrody na koniec tygodnia.
+TID_CLUB_LEAGUE_STARTS_IN,Liga Klubowa zaczyna się za:
+TID_CLUB_QUESTS_STARTS_IN,Misje klubowe zaczynają się za:
+TID_SHOWDOWN_71,Park skoków
+TID_SHOWDOWN_72,Tor żużlowy zadymiarzy
+TID_SHOWDOWN_73,Znacznik teleportu
+TID_CLUB_QUESTS_NOT_AVAILABLE,Misje klubowe nie są obecnie dostępne
+TID_CLUB_LEAGUE_NOT_AVAILABLE,Liga Klubowa nie jest obecnie dostępna
+TID_CLUB_QUESTS_WEEK_ACTIVE,TYDZIEŃ MISJI aktywny przez:
+TID_CLUB_LEAGUE_WEEK_ACTIVE,TYDZIEŃ LIGI aktywny przez:
+TID_CLUB_EVENTS_ACTIVE,Aktywne
+TID_CLUB_EVENTS_STARTING,Początek za chwilę
+TID_CLUB_EVENTS_WAITING,Oczekiwanie
+TID_CLUB_LEAGUE_PREVIOUS_WEEK,POPRZ. TYDZIEŃ
+TID_CLUB_LEAGUE_RESULTS,Wyniki:
+TID_CLUB_LEAGUE_WEEK_STARTS_IN_SHORT,TYDZIEŃ LIGI zaczyna się za:
+TID_CLUB_QUESTS_WEEK_STARTS_IN_SHORT,TYDZIEŃ MISJI zaczyna się za:
+TID_CLUB_LEAGUE_WEEK_STARTS_IN,Następny tydzień Ligi Klubowej zaczyna się za: <TIME>
+TID_CLUB_QUESTS_WEEK_STARTS_IN,Następny tydzień misji klubowych zaczyna się za: <TIME>
+TID_CLUB_LEAGUE_WEEK_SCHEDULE,HARMONOGRAM
+TID_CLUB_QUESTS_PREVIOUS_WEEK_REWARD,NAGRODA ZA POPRZEDNI TYDZIEŃ
+TID_CLUB_LEAGUE_WEEK_STARTS_IN_TEXT,Następny tydzień Ligi Klubowej
+TID_CLUB_LEAGUE_WEEK_STARTS_IN_TIME,Początek za: <TIME>
+TID_CLUB_EVENTS_PREVIOUS_WEEK,KONIEC TYGODNIA!
+TID_BT21_SANDY_SKIN,SANDY KOYA
+TID_BT21_SANDY_SKIN_SHOP,SANDY\nKOYA
+TID_BT21_EDGAR_SKIN,EDGAR TATA
+TID_BT21_EDGAR_SKIN_SHOP,EDGAR\nTATA
+TID_BT21_RUFFS_SKIN,RUFFS CHIMMY
+TID_BT21_RUFFS_SKIN_SHOP,RUFFS\nCHIMMY
+TID_BT21_BULL_SKIN,BULL MANG
+TID_BT21_BULL_SKIN_SHOP,BULL\nMANG
+TID_BT21_BIBI_SKIN,BIBI RJ
+TID_BT21_BIBI_SKIN_SHOP,BIBI\nRJ
+TID_BT21_JACKY_SKIN,JACKY COOKY
+TID_BT21_JACKY_SKIN_SHOP,JACKY\nCOOKY
+TID_BT21_TICK_SKIN,TICK SHOOKY
+TID_BT21_TICK_SKIN_SHOP,TICK\nSHOOKY
+TID_POSTAL_BROCK_SKIN,LISTONOSZ BROCK
+TID_POSTAL_BROCK_SKIN_SHOP,LISTONOSZ\nBROCK
+TID_MAKE_EMZ_SKIN,DJ 3.M.Z
+TID_MAKE_EMZ_SKIN_SHOP,DJ 3.M.Z
+TID_SHARK_JAW_COLT_SKIN,REKINI COLT
+TID_SHARK_JAW_COLT_SKIN_SHOP,REKINI\nCOLT
+TID_OCTO_FANG_SKIN,OŚMIORNICA KIEŁ
+TID_OCTO_FANG_SKIN_SHOP,OŚMIORNICA\nKIEŁ
+TID_CORAL_BELLE_SKIN,KORALOWA BELLE
+TID_CORAL_BELLE_SKIN_SHOP,KORALOWA\nBELLE
+TID_PHARA_OTIS_SKIN,FARAOTIS
+TID_PHARA_OTIS_SKIN_SHOP,FARAOTIS
+TID_RANKED_SUGGESTING_BRAWLER,Sugerowanie zadymiarzy dla: <NAME>
+TID_RANKED_BRAWLER_SUGGESTED,ZASUGEROWANO ZADYMIARZA
+TID_RANKED_SUGGESTION,<NAME> sugeruje: <BRAWLER>
+TID_CLUB_EVENTS_STARTS_IN,Początek za:
+TID_CLUB_EVENTS_ACTIVE_FOR,Aktywny przez:
+TID_GAME_MODE_28,ŁOWCY
+TID_GAME_MODE_28_DESC,"Nadszedł sezon łowiecki!\n\nZbieraj punkty, polując na wrogów i pokonując ich. PIERWSZY gracz, który zdobędzie <MAX_SCORE> pkt, wygrywa mecz!"
+TID_DEATHMATCH_FFA_INTRO_TEXT,Pokonuj przeciwników!
+TID_NOTIFICATION_DEATHMATCH_FFA,Dostępna jest nowa mapa ŁOWCY! Czas zdobyć nowe nagrody!
+TID_DEATHMATCH_FFA_1,Próby i wyzwania
+TID_DEATHMATCH_FFA_2,Sezon łowiecki
+TID_DEATHMATCH_FFA_3,Ofiara
+TID_DEATHMATCH_FFA_4,Szybcy i niestrudzeni
+TID_DEATHMATCH_FFA_5,Zbawienie
+TID_DEATHMATCH_FFA_6,Prawdziwy szlak
+TID_DEATHMATCH_FFA_7,Omega
+TID_CLUB_EVENTS_CHANGED_CLUB,"Można wnieść wkład tylko w klub, w którym zaczęto ten tydzień.\n\nPoczekaj do następnego tygodnia, aby wnieść wkład w ten klub!\n\nNastępny tydzień zaczyna się za: <TIME>"
+TID_CLUB_QUESTS_CURRENT_CLUB_POINTS,Suma punktów zebranych przez Twój klub w tym tygodniu
+TID_CLUB_QUESTS_THIS_WEEKS_QUESTS,MISJE KLUBOWE TEGO TYGODNIA
+TID_SPEC_ABI_ARTILLERY_DUDE_1,FORTUNA
+TID_SPEC_ABI_ARTILLERY_DUDE_1_DESC,Sakwy złota Penny pękają na <c00cc00><VALUE1>%</c> szerszym obszarze stożka po każdym trafieniu.
+TID_SPEC_ABI_ARTILLERY_DUDE_2,MISTRZOWSKI BLASTER
+TID_SPEC_ABI_ARTILLERY_DUDE_2_DESC,Działo Penny zadaje <c00cc00><VALUE1></c> obrażeń i odrzuca pobliskich wrogów po trafieniu.
+TID_ACCESSORY_ARTILLERY_DUDE_GADGET_1,SŁONA BECZKA
+TID_ACCESSORY_ARTILLERY_DUDE_GADGET_1_DESC,"Penny zrzuca beczkę soli, która blokuje pociski wroga. Może też użyć beczki, aby wysadzić własne sakwy złota."
+TID_ACCESSORY_ARTILLERY_DUDE_GADGET_2,NIEZAWODNA LUNETA
+TID_ACCESSORY_ARTILLERY_DUDE_GADGET_2_DESC,Działo Penny ostrzeliwuje każdego widocznego wroga w zasięgu.
+TID_RANDOM_GAME_MODE_DESC,"Rozegraj mecz z losową pulą różnych trybów gry, map i modyfikatorów. Nigdy nie wiesz, na co trafisz!"
+TID_CLUB_QUESTS_EXPIRED,MISJA WYGASŁA
+TID_CLUB_LEAGUE_ACTIVE,TYDZIEŃ LIGI aktywny
+TID_CLUB_QUESTS_TUTORIAL,"Wykonaj 3 misje klubowe w tym tygodniu, aby zdobyć punkty dla swojego klubu"
+TID_CLUB_QUESTS_YOUR_QUESTS,MISJE KLUBOWE TEGO TYGODNIA
+TID_CLUB_QUESTS_NEW_QUESTS,NOWE MISJE KLUBOWE
+TID_CLUB_QUESTS_REWARDS_INCREASED,Maksymalne nagrody wzrosły dla Ligi Klubowej i misji klubowych
+TID_BRAWLBALL_441,Podwójne niebezpieczeństwo
+TID_BRAWLBALL_442,Niech się odbija
+TID_KNOCKOUT_441,Ukryty wróg
+TID_KNOCKOUT_442,Na otwartym polu
+TID_BANKHEIST_441,Brzeg rzeki
+TID_BANKHEIST_442,Leśna akcja
+TID_GEMGRAB_441,Szklanka w połowie pełna
+TID_GEMGRAB_442,Podwójność
+TID_BOUNTY_441,Nie obracaj się
+TID_BOUNTY_442,Obok siebie
+TID_HOTZONE_441,Trójząb
+TID_HOTZONE_442,Nierównowaga
+TID_SHOWDOWN_441,Otoczeni
+TID_SHOWDOWN_442,Z daleka
+TID_TRUE_GOLD_FANG_SKIN,ZŁOTY KIEŁ
+TID_TRUE_GOLD_FANG_SKIN_SHOP,ZŁOTY\nKIEŁ
+TID_TRUE_SILVER_FANG_SKIN,SREBRNY KIEŁ
+TID_TRUE_SILVER_FANG_SKIN_SHOP,SREBRNY\nKIEŁ
+TID_TRUE_GOLD_BONNIE_SKIN,ZŁOTA BONNIE
+TID_TRUE_GOLD_BONNIE_SKIN_SHOP,ZŁOTA\nBONNIE
+TID_TRUE_SILVER_BONNIE_SKIN,SREBRNA BONNIE
+TID_TRUE_SILVER_BONNIE_SKIN_SHOP,SREBRNA\nBONNIE
+TID_TRUE_GOLD_JANET_SKIN,ZŁOTA JANET
+TID_TRUE_GOLD_JANET_SKIN_SHOP,ZŁOTA\nJANET
+TID_TRUE_SILVER_JANET_SKIN,SREBRNA JANET
+TID_TRUE_SILVER_JANET_SKIN_SHOP,SREBRNA\nJANET
+TID_TRUE_GOLD_GROM_SKIN,ZŁOTY GROM
+TID_TRUE_GOLD_GROM_SKIN_SHOP,ZŁOTY\nGROM
+TID_TRUE_SILVER_GROM_SKIN,SREBRNY GROM
+TID_TRUE_SILVER_GROM_SKIN_SHOP,SREBRNY\nGROM
+TID_TRUE_GOLD_EVE_SKIN,ZŁOTA EVE
+TID_TRUE_GOLD_EVE_SKIN_SHOP,ZŁOTA\nEVE
+TID_TRUE_SILVER_EVE_SKIN,SREBRNA EVE
+TID_TRUE_SILVER_EVE_SKIN_SHOP,SREBRNA\nEVE
+TID_BRAWL_PASS_SEASON_12,GŁĘBINOWA ZADYMA
 TID_REGION_CUSTOM1,
 TID_REGION_CUSTOM2,
 TID_REGION_CUSTOM3,
