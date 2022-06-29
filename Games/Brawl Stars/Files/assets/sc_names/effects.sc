@@ -513,6 +513,10 @@ projectile_shotgun_red
 projectile_small_blue
 projectile_small_purple
 projectile_small_red
+prt_anemone_debris1
+prt_anemone_debris2
+prt_anemone_debris3
+prt_anemone_debris4
 prt_arena_debris_1
 prt_arena_debris_2
 prt_balloon
@@ -525,12 +529,18 @@ prt_castle_trash_4
 prt_chain_link_1
 prt_chain_link_2
 prt_chain_link_3
+prt_deepsea_barrel_splash
+prt_deepsea_bubble
 prt_fish
 prt_hay
 prt_hay_2
 prt_hay_3
 prt_hay_horse
 prt_honey
+prt_jellyfish_debris
+prt_jellyfish_debris2
+prt_jellyfish_mush
+prt_jellyfish_mush2
 prt_sewer_mist
 prt_slime_droplet
 prt_smoke
@@ -547,6 +557,8 @@ prt_teleport_flash
 prt_tree_leaf
 prt_tree_leaf_2
 prt_tree_leaf_3
+prt_uni_debris1
+prt_uni_debris2
 prt_voxel_particle_1_brown
 prt_voxel_particle_1_crate
 prt_voxel_particle_1_grass
@@ -720,6 +732,7 @@ stone_1_biodome
 stone_1_brawlywood
 stone_1_dark
 stone_1_darryls
+stone_1_deepsea
 stone_1_mine
 stone_1_pocos_green
 stone_1_pocos_pink
@@ -733,6 +746,7 @@ stone_2_biodome
 stone_2_brawlywood
 stone_2_dark
 stone_2_darryls
+stone_2_deepsea
 stone_2_mine
 stone_2_pocos_green
 stone_2_pocos_pink
@@ -746,6 +760,7 @@ stone_3_biodome
 stone_3_brawlywood
 stone_3_dark
 stone_3_darryls
+stone_3_deepsea
 stone_3_mine
 stone_3_pocos_green
 stone_3_pocos_pink
@@ -800,8 +815,17 @@ tex_circuit_board_glow_2
 tex_circuit_board_glow_3
 tex_computer_screens
 tex_conveyor_belt
+tex_crab_eye
 tex_crystal_1
 tex_crystal_1_xmas
+tex_deepsea_coral_glow_gradient
+tex_deepsea_exit_gradient
+tex_deepsea_fog
+tex_deepsea_ground_gradient
+tex_deepsea_ink_splatter_1
+tex_deepsea_jellyfish_glow_gradient
+tex_deepsea_otis_graffiti_1
+tex_deepsea_otis_graffiti_2
 tex_emz_screen
 tex_fighting_game_glow_gradient
 tex_flag_glow_blue
@@ -815,6 +839,7 @@ tex_glowing_eyes
 tex_gulp_sign
 tex_healing_tile_glow
 tex_horse_eye
+tex_lantern_fish_eye
 tex_light_gradient_1
 tex_light_gradient_2
 tex_light_gradient_3
@@ -846,6 +871,7 @@ tex_poison_fog_2
 tex_poison_fog_2_CN
 tex_poison_fog_CN
 tex_red_blink
+tex_rnd_deepsea_starfish
 tex_screen_glow_1
 tex_screen_glow_blue
 tex_sea_water_a
