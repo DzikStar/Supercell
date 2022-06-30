@@ -39,7 +39,7 @@ Blower_Trampoline,spawn,3,100,gadget_activate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GaleS
 Controller_Explode,kill_projectile,,100,gadget_activate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ArcadeTeleport,,,,,,,TID_ACCESSORY_BLOCKED_MISSING_GUIDED_PROJECTILE,,,,
 PowerLeveler_Blink,teleport_forward,,100,gadget_activate,,,,,5,,true,,,,,,,,true,,,,,,,,,,,,,,,ArcadeTeleport,1000,,,,,,,,,,
 Crow_PoisonTrigger,poison_trigger,,100,gadget_activate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,350,100,,,,,,,,,
-ArtilleryDude_Barrage,turret_barrage,,100,gadget_activate,,,,,100,,,,,,,,,,,,,14,,40,,,,,,,,,,,5,500,,,,,TID_ACCESSORY_BLOCKED_MISSING_TURRET,TID_ACCESSORY_BLOCKED_TURRET_TOO_FAR,,,TID_ACCESSORY_BLOCKED_RANGE_TO_TURRET
+ArtilleryDude_Barrage,turret_barrage,,100,gadget_activate,,,,,100,,,,,,,,,,,,,14,,40,,,true,,,,,,,,5,500,,,,,TID_ACCESSORY_BLOCKED_MISSING_TURRET,TID_ACCESSORY_BLOCKED_TURRET_TOO_FAR,,,TID_ACCESSORY_BLOCKED_RANGE_TO_TURRET
 ShotgunGirl_Focus,next_attack_change,1,100,gadget_activate,,gadget_on_loop,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,20,10,1200,,,,,,TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE,,
 BowDude_MineTrigger,mine_trigger,,100,gadget_activate,,,bo_002_ulti_trail,,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TID_ACCESSORY_BLOCKED_MISSING_MINES,,TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE,,
 Undertaker_Reload,reload_speed,,100,gadget_activate,,,,,80,,,,,,,,,,,,,,,,,,,,,,,,1,,80,100,,,,,,,,,
