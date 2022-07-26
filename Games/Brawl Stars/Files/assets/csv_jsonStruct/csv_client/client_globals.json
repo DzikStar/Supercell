@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "String",
+    "NumberValue": "int",
+    "BooleanValue": "boolean",
+    "TextValue": "string",
+    "NumberArray": "int",
+    "StringArray": "String",
+    "AltStringArray": "String"
+  }
+]
