@@ -1,0 +1,33 @@
+[
+  {
+    "Name": "String",
+    "TID": "String",
+    "Type": "int",
+    "TypeCN": "int",
+    "Disabled": "boolean",
+    "ExistsApple": "boolean",
+    "ExistsAndroid": "boolean",
+    "ExistsCN": "boolean",
+    "DisabledCN": "boolean",
+    "ExistsAppleCN": "boolean",
+    "ExistsAndroidCN": "boolean",
+    "Diamonds": "int",
+    "USD": "int",
+    "Order": "int",
+    "RMB": "int",
+    "TencentID": "string",
+    "IconExportName": "string",
+    "FrameNumber": "int",
+    "StarterPackNumber": "int",
+    "BigBoxCount": "int",
+    "XpLevelReq": "int",
+    "ValueFactor": "int",
+    "LabelTID": "String",
+    "LabelValue": "int",
+    "Bg": "int",
+    "Decor": "int",
+    "IsPromotion": "boolean",
+    "Coins": "int",
+    "RefundGemValue": "int"
+  }
+]
