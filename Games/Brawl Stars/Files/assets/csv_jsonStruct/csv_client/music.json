@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "String",
+    "Disabled": "boolean",
+    "FileName": "String",
+    "BackgroundFile": "boolean",
+    "FallBackMusic": "String",
+    "Volume": "int",
+    "Loop": "boolean",
+    "PlayCount": "int",
+    "FadeOutTimeSec": "int",
+    "DurationSec": "int",
+    "MovieClipFrameLabel": "String"
+  }
+]
