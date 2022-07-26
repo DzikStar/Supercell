@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "String",
+    "RewardTID": "String",
+    "RewardDescTID": "String",
+    "RewardTypes": "int",
+    "FileName": "String",
+    "PanelAsset": "String",
+    "HudAsset": "String",
+    "ChooseRewardAsset": "String",
+    "FeaturedAsset": "String",
+    "RewardPanelFrame": "String",
+    "FeaturedContainerFrame": "String"
+  }
+]
