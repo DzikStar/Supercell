@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "String",
+    "FileName": "String",
+    "PlayerExportNameTop": "String",
+    "PlayerExportNameBot": "String",
+    "EnemyExportNameTop": "String",
+    "EnemyExportNameBot": "String",
+    "YourTeamExportNameTop": "String",
+    "YourTeamExportNameBot": "String"
+  }
+]
