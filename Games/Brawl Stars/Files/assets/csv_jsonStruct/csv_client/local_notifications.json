@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "String",
+    "Priority": "int",
+    "NotificationText": "String",
+    "IsRegularEventRefresh": "boolean",
+    "DontCompare": "boolean",
+    "AutoAdd": "boolean",
+    "TimeOffsetMins": "int",
+    "MaxRandomTimeOffsetMins": "int",
+    "CheckRangeMins": "int"
+  }
+]
