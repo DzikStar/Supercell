@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "string",
+    "FileName": "string",
+    "StartFrame": "int",
+    "EndFrame": "int",
+    "FaceFreezeFrame": "int",
+    "Speed": "int",
+    "TransitionInMs": "int",
+    "TransitionOutMs": "int",
+    "AutoFadeMs": "int",
+    "Looping": "boolean",
+    "Priority": "string"
+  }
+]
