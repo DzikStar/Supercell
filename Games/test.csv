@@ -4,3 +4,4 @@ export3,sc/ui.sc,attack_icon,brawler_code,true,,,2,,skill,ShotgunGirlWeapon,,,,c
 export4,sc/ui.sc,ulti_icon,brawler_code,true,,,3,,skill,ShotgunGirlUlti,,,,common,TID_MEGA_BLASH_ULTI,TID_STAT_DAMAGE_PER_SHELL,,,,genicon_damage,,,,
 export5,sc/ui.sc,,brawler_code,true,true,,4,,petrol_reload,,7,40,,common,TID_SPEC_SUPER_RANGE,,,,,genicon_health,,,,
 export6,sc/ui.sc,,brawler_code,true,true,,4,,petrol_reload,,7,40,,common,TID_SPEC_SUPER_RANGE,,,,,genicon_health,,,,
+export7,sc/ui.sc,icon_item_shelly_2,brawler_code,true,,,5,,accessory,ShotgunGirl_Focus,20,,,common,TID_ACCESSORY_SHELLY_FOCUS,,,,,genicon_health,,,,
