@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "string",
+    "Season": "int",
+    "HeroArea1": "String",
+    "HeroArea2": "String",
+    "HeroArea3": "String",
+    "FrameName": "String"
+  }
+]
