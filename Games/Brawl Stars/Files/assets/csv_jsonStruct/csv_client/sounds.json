@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "string",
+    "FileNames": "string",
+    "BackgroundFile": "boolean",
+    "MinVolume": "int",
+    "MaxVolume": "int",
+    "MinPitch": "int",
+    "MaxPitch": "int",
+    "Priority": "int",
+    "MaximumByType": "int",
+    "MaxRepeatMs": "int",
+    "Loop": "boolean",
+    "PlayVariationsInSequence": "boolean",
+    "PlayVariationsInSequenceManualReset": "boolean",
+    "StartDelayMinMs": "int",
+    "StartDelayMaxMs": "int",
+    "PlayOnlyWhenInView": "boolean",
+    "MaxVolumeScaleLimit": "int",
+    "NoSoundScaleLimit": "int",
+    "PadEmpyToEndMs": "int",
+    "MovieClipFrameLabel": "String"
+  }
+]
