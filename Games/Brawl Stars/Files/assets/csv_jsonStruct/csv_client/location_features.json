@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "string",
+    "Mode": "string",
+    "LocationTheme": "string",
+    "MeshNames": "string",
+    "Character": "string",
+    "FrameDelay": "int"
+  }
+]
