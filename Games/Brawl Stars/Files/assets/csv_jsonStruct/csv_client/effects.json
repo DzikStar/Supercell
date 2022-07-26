@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "string",
+    "Loop": "boolean",
+    "FollowParent": "boolean",
+    "FollowParentAngle": "boolean",
+    "FollowBone": "string",
+    "OwnScreenShake": "int",
+    "OthersScreenShake": "int",
+    "OwnHapticLevel": "int",
+    "OthersHapticLevel": "int",
+    "Time": "int",
+    "Sound": "string",
+    "Type": "string",
+    "FileName": "string",
+    "ExportName": "string",
+    "ParticleEmitterName": "string",
+    "Effect": "string",
+    "Layer": "string",
+    "GroundBasis": "boolean",
+    "FlashColor": "int",
+    "Scale": "int",
+    "FlashDuration": "int",
+    "TextInstanceName": "string",
+    "TextParentInstanceName": "string",
+    "EnemyVersion": "string",
+    "ChinaReplacement": "string",
+    "FlashWidth": "int",
+    "EffectZ": "int"
+  }
+]
