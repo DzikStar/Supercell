@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "String",
+    "TID": "String",
+    "MinXPLevel": "int",
+    "MaxXPLevel": "int",
+    "FileName": "String",
+    "ExportName": "String",
+    "Character": "String",
+    "ReferringSCID": "boolean"
+  }
+]
