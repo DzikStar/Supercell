@@ -1,0 +1,8 @@
+[
+  {
+    "Name": "String",
+    "Colors": "String",
+    "Speed": "int",
+    "Scale": "int"
+  }
+]
