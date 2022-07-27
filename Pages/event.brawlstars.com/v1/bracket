@@ -122,6 +122,250 @@
         ]
     },
     {
+        "eventId": "5qWB6HbZ8AWZJMoJTMGNNw",
+        "days": [
+            {
+                "day": 1,
+                "matches": [
+                    {
+                        "id": 1,
+                        "teams": [
+                            {
+                                "id": 4,
+                                "score": 2
+                            },
+                            {
+                                "id": 66,
+                                "score": 1
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 2,
+                        "teams": [
+                            {
+                                "id": 2,
+                                "score": 1
+                            },
+                            {
+                                "id": 8,
+                                "score": 2
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 3,
+                        "teams": [
+                            {
+                                "id": 5,
+                                "score": 1
+                            },
+                            {
+                                "id": 6,
+                                "score": 2
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 4,
+                        "teams": [
+                            {
+                                "id": 7,
+                                "score": 2
+                            },
+                            {
+                                "id": 27,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 5,
+                        "teams": [
+                            {
+                                "id": 4,
+                                "score": 3
+                            },
+                            {
+                                "id": 2,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 6,
+                        "teams": [
+                            {
+                                "id": 6,
+                                "score": 2
+                            },
+                            {
+                                "id": 7,
+                                "score": 3
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 7,
+                        "teams": [
+                            {
+                                "id": 4,
+                                "score": 1
+                            },
+                            {
+                                "id": 7,
+                                "score": 3
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "eventId": "5iyUtkMRH0DZwc3cUkktQO",
+        "days": [
+            {
+                "day": 1,
+                "matches": [
+                    {
+                        "id": 1,
+                        "teams": [
+                            {
+                                "id": 17,
+                                "score": 2
+                            },
+                            {
+                                "id": 60,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 2,
+                        "teams": [
+                            {
+                                "id": 49,
+                                "score": 1
+                            },
+                            {
+                                "id": 20,
+                                "score": 2
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 3,
+                        "teams": [
+                            {
+                                "id": 18,
+                                "score": 2
+                            },
+                            {
+                                "id": 22,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 4,
+                        "teams": [
+                            {
+                                "id": 21,
+                                "score": 2
+                            },
+                            {
+                                "id": 61,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 5,
+                        "teams": [
+                            {
+                                "id": 17,
+                                "score": 1
+                            },
+                            {
+                                "id": 20,
+                                "score": 3
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 6,
+                        "teams": [
+                            {
+                                "id": 18,
+                                "score": 2
+                            },
+                            {
+                                "id": 21,
+                                "score": 3
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 7,
+                        "teams": [
+                            {
+                                "id": 20,
+                                "score": 0
+                            },
+                            {
+                                "id": 21,
+                                "score": 3
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "eventId": "2xra27OvKSSAqz4BdSJlbu",
         "days": [
             {
@@ -482,6 +726,126 @@
                         "time": 0,
                         "completed": true,
                         "winner": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "eventId": "6FaUmrr7lMc8g46dzGwB8C",
+        "days": [
+            {
+                "day": 1,
+                "matches": [
+                    {
+                        "id": 1,
+                        "teams": [
+                            {
+                                "id": 57,
+                                "score": 2
+                            },
+                            {
+                                "id": 56,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 2,
+                        "teams": [
+                            {
+                                "id": 24,
+                                "score": 2
+                            },
+                            {
+                                "id": 46,
+                                "score": 1
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 3,
+                        "teams": [
+                            {
+                                "id": 14,
+                                "score": 2
+                            },
+                            {
+                                "id": 59,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 4,
+                        "teams": [
+                            {
+                                "id": 58,
+                                "score": 2
+                            },
+                            {
+                                "id": 12,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 5,
+                        "teams": [
+                            {
+                                "id": 57,
+                                "score": 3
+                            },
+                            {
+                                "id": 24,
+                                "score": 1
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 6,
+                        "teams": [
+                            {
+                                "id": 14,
+                                "score": 0
+                            },
+                            {
+                                "id": 58,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": false
+                    },
+                    {
+                        "id": 7,
+                        "teams": [
+                            {
+                                "id": 57,
+                                "score": 0
+                            },
+                            {
+                                "id": 14,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": false
                     }
                 ]
             }
@@ -1462,6 +1826,128 @@
         ]
     },
     {
+        "eventId": "3tHIRS4Hb7MioCOYh6aBuz",
+        "days": [
+            {
+                "day": 1,
+                "matches": [
+                    {
+                        "id": 1,
+                        "teams": [
+                            {
+                                "id": 53,
+                                "score": 2
+                            },
+                            {
+                                "id": 35,
+                                "score": 1
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 2,
+                        "teams": [
+                            {
+                                "id": 64,
+                                "score": 0
+                            },
+                            {
+                                "id": 31,
+                                "score": 2
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 3,
+                        "teams": [
+                            {
+                                "id": 33,
+                                "score": 2
+                            },
+                            {
+                                "id": 34,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 4,
+                        "teams": [
+                            {
+                                "id": 30,
+                                "score": 2
+                            },
+                            {
+                                "id": 65,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 5,
+                        "teams": [
+                            {
+                                "id": 53,
+                                "score": 2
+                            },
+                            {
+                                "id": 31,
+                                "score": 3
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 6,
+                        "teams": [
+                            {
+                                "id": 33,
+                                "score": 1
+                            },
+                            {
+                                "id": 30,
+                                "score": 3
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 7,
+                        "teams": [
+                            {
+                                "id": 31,
+                                "score": 1
+                            },
+                            {
+                                "id": 30,
+                                "score": 3
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "eventId": "4jApkFdMbvKUiHpAUhBoik",
         "days": [
             {
@@ -2061,6 +2547,128 @@
                             {
                                 "id": 21,
                                 "score": 1
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "eventId": "6fGEvWmERMrsKnasFUi3KD",
+        "days": [
+            {
+                "day": 1,
+                "matches": [
+                    {
+                        "id": 1,
+                        "teams": [
+                            {
+                                "id": 38,
+                                "score": 2
+                            },
+                            {
+                                "id": 51,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 2,
+                        "teams": [
+                            {
+                                "id": 42,
+                                "score": 2
+                            },
+                            {
+                                "id": 62,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 3,
+                        "teams": [
+                            {
+                                "id": 37,
+                                "score": 0
+                            },
+                            {
+                                "id": 41,
+                                "score": 2
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 4,
+                        "teams": [
+                            {
+                                "id": 50,
+                                "score": 2
+                            },
+                            {
+                                "id": 63,
+                                "score": 0
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 5,
+                        "teams": [
+                            {
+                                "id": 38,
+                                "score": 3
+                            },
+                            {
+                                "id": 42,
+                                "score": 2
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 0
+                    },
+                    {
+                        "id": 6,
+                        "teams": [
+                            {
+                                "id": 41,
+                                "score": 1
+                            },
+                            {
+                                "id": 50,
+                                "score": 3
+                            }
+                        ],
+                        "time": 0,
+                        "completed": true,
+                        "winner": 1
+                    },
+                    {
+                        "id": 7,
+                        "teams": [
+                            {
+                                "id": 38,
+                                "score": 3
+                            },
+                            {
+                                "id": 50,
+                                "score": 0
                             }
                         ],
                         "time": 0,
