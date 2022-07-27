@@ -11,7 +11,7 @@
         "name": "Chasmac Gaming NA",
         "shortName": "CMG",
         "region": "nalatamn",
-        "logo": "/team-logos/nalatamn/chasmacgaming.png"
+        "logo": "/team-logos/nalatamn/chasmacgamingna.png"
     },
     {
         "teamNr": 3,
@@ -39,7 +39,7 @@
         "name": "Vatra Gaming",
         "shortName": "VTR",
         "region": "nalatamn",
-        "logo": "/team-logos/nalatamn/image0122.png"
+        "logo": "/team-logos/nalatamn/vatragaming.png"
     },
     {
         "teamNr": 7,
@@ -228,7 +228,7 @@
         "name": "SK Gaming",
         "shortName": "SK",
         "region": "emea",
-        "logo": "/team-logos/emea/skgaming.png"
+        "logo": "/team-logos/emea/skgaming (1).png"
     },
     {
         "teamNr": 34,
@@ -263,7 +263,7 @@
         "name": "ZETA DIVISION ZERO",
         "shortName": "Z0",
         "region": "eastasia",
-        "logo": "/team-logos/eastasia/zetadivisionzero.png"
+        "logo": "/team-logos/eastasia/zetadivisionzero (1).png"
     },
     {
         "teamNr": 39,
@@ -291,7 +291,7 @@
         "name": "ZETA DIVISION ONE",
         "shortName": "Z1",
         "region": "eastasia",
-        "logo": "/team-logos/eastasia/zetadivisionone-black.png"
+        "logo": "/team-logos/eastasia/zetadivisionone (1).png"
     },
     {
         "teamNr": 43,
@@ -383,5 +383,82 @@
         "shortName": "NLV",
         "region": "nalatamn",
         "logo": "/team-logos/nalatamn/nandolovers.png"
+    },
+    {
+        "teamNr": 56,
+        "name": "Serinity",
+        "shortName": "SRN",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/serinityesports.png"
+    },
+    {
+        "teamNr": 57,
+        "name": "F/A Team Wood",
+        "shortName": "TW",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/teamwood.png"
+    },
+    {
+        "teamNr": 58,
+        "name": "grassmuddoppin",
+        "shortName": "GMD",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/grassmuddoppin.png"
+    },
+    {
+        "teamNr": 59,
+        "name": "MONARCHY",
+        "shortName": "MNR",
+        "region": "sesaanz",
+        "logo": "/team-logos/sesaanz/monarchy.png"
+    },
+    {
+        "teamNr": 60,
+        "name": "FDOABC",
+        "shortName": "ABC",
+        "region": "latams",
+        "logo": "/team-logos/latams/fdoabc.png"
+    },
+    {
+        "teamNr": 61,
+        "name": "Portuguesa Esports",
+        "shortName": "LUSA",
+        "region": "latams",
+        "logo": "/team-logos/latams/portuguesaesports.png"
+    },
+    {
+        "teamNr": 62,
+        "name": "Sunny TIN",
+        "shortName": "ST",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/sunnytin.png"
+    },
+    {
+        "teamNr": 63,
+        "name": "NewFace",
+        "shortName": "NF",
+        "region": "eastasia",
+        "logo": "/team-logos/eastasia/newface.png"
+    },
+    {
+        "teamNr": 64,
+        "name": "Dogster Lobster",
+        "shortName": "DL",
+        "region": "emea",
+        "logo": "/team-logos/emea/dogsterlobster.png"
+    },
+    {
+        "teamNr": 65,
+        "name": "NaVi",
+        "shortName": "NaVi",
+        "region": "emea",
+        "logo": "/team-logos/emea/navi.png"
+    },
+    {
+        "teamNr": 66,
+        "name": "Reconic Esports NA",
+        "shortName": "RCN",
+        "region": "nalatamn",
+        "logo": "/team-logos/nalatamn/reconicesportsna.png"
     }
 ]
